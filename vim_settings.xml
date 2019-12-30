@@ -3,6 +3,9 @@
     <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -43,9 +46,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
