@@ -4,6 +4,7 @@
       <blacklist language="C/C++" />
     </blacklists>
     <disabledLanguages>
+      <language id="JAVA" />
       <language id="ObjectiveC" />
     </disabledLanguages>
   </component>
