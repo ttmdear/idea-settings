@@ -1,7 +1,12 @@
 <application>
   <component name="Arduino Support Settings">
     <option name="baudRate" value="9600" />
-    <option name="programmerId" value="avrisp" />
-    <option name="programmerName" value="AVR ISP" />
+    <option name="port" value="/dev/ttyACM0" />
+    <option name="portHistory">
+      <option value="/dev/ttyACM0" />
+    </option>
+    <option name="programmerId" value="avrispmkii" />
+    <option name="programmerName" value="AVRISP mkII" />
+    <option name="verbose" value="true" />
   </component>
 </application>
