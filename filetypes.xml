@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pde" type="ObjectiveC" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="pde" type="ObjectiveC" />
     </extensionMap>
   </component>
 </application>
