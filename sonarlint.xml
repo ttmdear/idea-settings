@@ -1,6 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="excludedRules">
+      <set>
+        <option value="squid:S1451" />
+      </set>
+    </option>
     <option name="includedRules">
       <set>
         <option value="Web:AvoidHtmlCommentCheck" />
@@ -79,7 +84,6 @@
         <option value="squid:S138" />
         <option value="squid:S1448" />
         <option value="squid:S1449" />
-        <option value="squid:S1451" />
         <option value="squid:S1609" />
         <option value="squid:S1641" />
         <option value="squid:S1694" />
