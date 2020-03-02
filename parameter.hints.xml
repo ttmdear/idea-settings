@@ -1,11 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="C/C++" />
-    </blacklists>
     <disabledLanguages>
-      <language id="JAVA" />
-      <language id="ObjectiveC" />
+      <language id="PHP" />
     </disabledLanguages>
   </component>
 </application>

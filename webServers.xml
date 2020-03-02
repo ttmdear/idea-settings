@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14b13235-f6a4-4090-98b7-53c84880767b" name="ewp-usosweb-remote" url="https://usosadm.ut.edu.pl">
+        <fileTransfer host="172.18.109.203" port="22" rootFolder="/srv/usosweb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c58f48bf-12e3-4329-a550-a8b642c81537" name="192.168.140.2" url="http://usosweb.ut.edu.pl">
+        <fileTransfer host="192.168.140.2" port="22" rootFolder="/srv/usosweb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
