@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="die_dump" value="die(print_r($variable$));" toReformat="false" toShortenFQNames="true">
+  <template name="die_dump" value="die(print_r($variable$));" description="" toReformat="false" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
 </templateSet>
