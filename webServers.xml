@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="291eb8e8-f1e1-4585-a7ad-fd034af9c1a1" name="192.168.140.2 - USOSWeb" url="https://usosweb.ut.edu.pl/">
+        <fileTransfer host="192.168.140.2" port="22" rootFolder="/srv/usosweb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
