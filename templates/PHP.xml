@@ -2,7 +2,7 @@
   <template name="die_dump" value="die(print_r($variable$));" description="" toReformat="false" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
   </template>
-  <template name="db" value="die(print_r(array($value$), 1));" toReformat="false" toShortenFQNames="true">
+  <template name="db" value="die(print_r(array($value$), 1));" description="" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
