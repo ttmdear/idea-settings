@@ -4,6 +4,7 @@
       <mapping pattern="FactoryProcessor" type="CLASS" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="aas" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="pde" type="ObjectiveC" />
     </extensionMap>
