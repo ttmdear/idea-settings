@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a47cca39-6215-41c8-98d1-bb1269bf3f2d" name="root@10.0.1.27" url="http://10.0.1.27">
+        <fileTransfer host="10.0.1.27" port="22" rootFolder="/srv/usosweb_pc" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
