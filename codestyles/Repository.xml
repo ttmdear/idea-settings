@@ -33,7 +33,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -44,9 +43,9 @@
                 <FINAL>true</FINAL>
                 <PROTECTED>true</PROTECTED>
                 <STATIC>true</STATIC>
+                <visibility />
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -59,7 +58,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -72,7 +70,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -84,7 +81,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -96,7 +92,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -108,7 +103,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -120,7 +114,6 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -143,7 +136,6 @@
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -155,7 +147,6 @@
                 <PROTECTED>true</PROTECTED>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -167,7 +158,6 @@
                 <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -179,7 +169,6 @@
                 <PRIVATE>true</PRIVATE>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -190,7 +179,6 @@
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -201,7 +189,6 @@
                 <PROTECTED>true</PROTECTED>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -212,7 +199,6 @@
                 <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -223,7 +209,6 @@
                 <PRIVATE>true</PRIVATE>
               </AND>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -231,7 +216,6 @@
             <match>
               <FIELD>true</FIELD>
             </match>
-            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
