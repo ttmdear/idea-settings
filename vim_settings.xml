@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>h2</entry>
-        <entry encoding="base64">XDxhcnRpZmFjdElkXD4=</entry>
-        <entry encoding="base64">XDxNb2NrSHR0cFNlcnZsZXRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsUHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxUaW1lem9uZVw+</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
@@ -22,12 +19,14 @@
         <entry>H2</entry>
         <entry>events</entry>
         <entry>bis</entry>
-        <entry>lombok</entry>
         <entry>loom</entry>
+        <entry>lombok</entry>
+        <entry>mapS</entry>
+        <entry>maps</entry>
         <entry>lom</entry>
+        <entry encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FuYWx5emUvcXVvdGVzL2c=</entry>
         <entry>%s/period/interval/g</entry>
         <entry encoding="base64">JzwsJz5zL2xldmVscy9zaWduYWxzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NpZ25hbHMvbGV2ZWxzL2c=</entry>
@@ -41,11 +40,12 @@
         <entry>W</entry>
         <entry>43</entry>
         <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>%s/events/bis/g</entry>
         <entry>%s/bis/user/g</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>30</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -149,16 +149,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repository/java/spring-restapi/pom.xml" timestamp="1603041271484">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/ControllerAdvice.java" timestamp="1602540363722">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="56" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="56" />
+      <file name="$USER_HOME$/repository/java/spring-restapi/pom.xml" timestamp="1603042438906">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" timestamp="1602540644662">
         <mark key="'" line="94" column="8" />
@@ -173,10 +168,11 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/events/Event.java" timestamp="1603040474038">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/events/Event.java" timestamp="1603042300015">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1603039850080">
         <mark key="[" line="0" column="0" />
@@ -199,10 +195,12 @@
         <mark key="." line="41" column="75" />
         <mark key="^" line="41" column="75" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/EventControllerTest.java" timestamp="1603040860049">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/EventControllerTest.java" timestamp="1603042720327">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="34" />
+        <mark key="^" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/BaseController.java" timestamp="1602540446529">
         <mark key="[" line="16" column="0" />
@@ -222,6 +220,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1603042028670">
+        <mark key="'" line="118" column="19" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="21" />
+      </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/BisDataSourceConfiguration.java" timestamp="1603011004525">
         <mark key="'" line="12" column="29" />
         <mark key="[" line="20" column="0" />
@@ -240,12 +243,11 @@
         <mark key="." line="27" column="43" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/bootstrap/Bootstrap.java" timestamp="1603040003404">
+      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/bootstrap/Bootstrap.java" timestamp="1603041998229">
         <mark key="'" line="20" column="44" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="75" column="42" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/Application.java" timestamp="1603013887827">
         <mark key="[" line="6" column="0" />
@@ -263,11 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteService.java" />
-      <jump line="16" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.3.4.RELEASE/spring-data-jpa-2.3.4.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class" />
-      <jump line="8" column="18" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadService.java" />
-      <jump line="3" column="17" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/WriteService.java" />
-      <jump line="36" column="4" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
       <jump line="8" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
       <jump line="16" column="14" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
       <jump line="15" column="12" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
@@ -340,7 +337,6 @@
       <jump line="45" column="8" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/UsersController.java" />
       <jump line="1" column="3" filename="$USER_HOME$/repository/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/repository/.gitignore" />
-      <jump line="50" column="31" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
       <jump line="12" column="10" filename="$USER_HOME$/repository/java/java-validation/src/main/java/repo/java/validation/validators/UserValidator.java" />
       <jump line="8" column="13" filename="$USER_HOME$/repository/java/java-validation/src/main/java/repo/java/validation/validators/constraints/UserConstraint.java" />
       <jump line="25" column="20" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
@@ -363,6 +359,12 @@
       <jump line="21" column="42" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/bootstrap/Bootstrap.java" />
       <jump line="86" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/bootstrap/Bootstrap.java" />
       <jump line="20" column="44" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/bootstrap/Bootstrap.java" />
+      <jump line="21" column="18" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/events/Event.java" />
+      <jump line="118" column="19" filename="$USER_HOME$/workspace/lvl/lvl/pom.xml" />
+      <jump line="50" column="19" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
+      <jump line="98" column="24" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
+      <jump line="45" column="0" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
+      <jump line="29" column="21" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/EventControllerTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -370,26 +372,26 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xNC4xNjwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>StandardResponse.class</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
       </register>
-      <register name="+" type="4">
-        <text>HibernateJpaVendorAdapter</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xOC4xMjwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>provided</text>
+        <text>StandardResponse.class</text>
       </register>
       <register name="/" type="4">
-        <text>lom</text>
+        <text encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBzdGF0aWMgU3RyaW5nIFVTRVJfSk9ITl9JRCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xOC4xMjwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xNC4xNjwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBvdGhlciBhbm5vdGF0aW9uIHByb2Nlc3NvcnMgLS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -407,28 +409,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnByb2plY3Rsb21ib2s8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4xNC4xNjwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcucHJvamVjdGxvbWJvazwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmxvbWJvazwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMTguMTI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcGF0aD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnQuYnVpbGRlcigpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5tYXBzdHJ1Y3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXBzdHJ1Y3QtcHJvY2Vzc29yPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtvcmcubWFwc3RydWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNldHRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gQFNldHRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">Ly8gQEdldHRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">Ly8gQEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,9 +439,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lom</last-search>
+      <last-search encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</last-search>
       <last-offset />
-      <last-pattern>lom</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
