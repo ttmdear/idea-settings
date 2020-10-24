@@ -217,6 +217,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/UserDataSourceConfiguration.java" timestamp="1603569798696">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/UserRepository.java" timestamp="1603048854164">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="32" />
@@ -365,7 +370,7 @@
         <text>validation.user.error</text>
       </register>
       <register name="&quot;" type="2">
-        <text>[JAVA-SPRING5-RESTAPI] Extended implementation of RestApi using Spring5</text>
+        <text encoding="base64">ICAgIC8vIEBCZWFuCiAgICAvLyBwdWJsaWMgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4gcHJvZHVjdEVudGl0eU1hbmFnZXIoKSB7CiAgICAvLyAgICAgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4gZW0KICAgIC8vICAgICAgICAgPSBuZXcgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4oKTsKICAgIC8vICAgICBlbS5zZXREYXRhU291cmNlKHByb2R1Y3REYXRhU291cmNlKCkpOwogICAgLy8gICAgIGVtLnNldFBhY2thZ2VzVG9TY2FuKAogICAgLy8gICAgICAgICBuZXcgU3RyaW5nW10geyAiY29tLmJhZWxkdW5nLm11bHRpcGxlZGIubW9kZWwucHJvZHVjdCIgfSk7CgogICAgLy8gICAgIEhpYmVybmF0ZUpwYVZlbmRvckFkYXB0ZXIgdmVuZG9yQWRhcHRlciA9IG5ldyBIaWJlcm5hdGVKcGFWZW5kb3JBZGFwdGVyKCk7CiAgICAvLyAgICAgZW0uc2V0SnBhVmVuZG9yQWRhcHRlcih2ZW5kb3JBZGFwdGVyKTsKICAgIC8vICAgICBIYXNoTWFwPFN0cmluZywgT2JqZWN0PiBwcm9wZXJ0aWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgLy8gICAgIHByb3BlcnRpZXMucHV0KCJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIiwKICAgIC8vICAgICAgICAgZW52LmdldFByb3BlcnR5KCJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIikpOwogICAgLy8gICAgIHByb3BlcnRpZXMucHV0KCJoaWJlcm5hdGUuZGlhbGVjdCIsCiAgICAvLyAgICAgICAgIGVudi5nZXRQcm9wZXJ0eSgiaGliZXJuYXRlLmRpYWxlY3QiKSk7CiAgICAvLyAgICAgZW0uc2V0SnBhUHJvcGVydHlNYXAocHJvcGVydGllcyk7CgogICAgLy8gICAgIHJldHVybiBlbTsKICAgIC8vIH0KCg==</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
@@ -383,7 +388,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLm1hcChNb25vOjpqdXN0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text>[JAVA-SPRING5-RESTAPI] Extended implementation of RestApi using Spring5</text>
+        <text encoding="base64">ICAgIC8vIEBCZWFuCiAgICAvLyBwdWJsaWMgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4gcHJvZHVjdEVudGl0eU1hbmFnZXIoKSB7CiAgICAvLyAgICAgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4gZW0KICAgIC8vICAgICAgICAgPSBuZXcgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4oKTsKICAgIC8vICAgICBlbS5zZXREYXRhU291cmNlKHByb2R1Y3REYXRhU291cmNlKCkpOwogICAgLy8gICAgIGVtLnNldFBhY2thZ2VzVG9TY2FuKAogICAgLy8gICAgICAgICBuZXcgU3RyaW5nW10geyAiY29tLmJhZWxkdW5nLm11bHRpcGxlZGIubW9kZWwucHJvZHVjdCIgfSk7CgogICAgLy8gICAgIEhpYmVybmF0ZUpwYVZlbmRvckFkYXB0ZXIgdmVuZG9yQWRhcHRlciA9IG5ldyBIaWJlcm5hdGVKcGFWZW5kb3JBZGFwdGVyKCk7CiAgICAvLyAgICAgZW0uc2V0SnBhVmVuZG9yQWRhcHRlcih2ZW5kb3JBZGFwdGVyKTsKICAgIC8vICAgICBIYXNoTWFwPFN0cmluZywgT2JqZWN0PiBwcm9wZXJ0aWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgLy8gICAgIHByb3BlcnRpZXMucHV0KCJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIiwKICAgIC8vICAgICAgICAgZW52LmdldFByb3BlcnR5KCJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIikpOwogICAgLy8gICAgIHByb3BlcnRpZXMucHV0KCJoaWJlcm5hdGUuZGlhbGVjdCIsCiAgICAvLyAgICAgICAgIGVudi5nZXRQcm9wZXJ0eSgiaGliZXJuYXRlLmRpYWxlY3QiKSk7CiAgICAvLyAgICAgZW0uc2V0SnBhUHJvcGVydHlNYXAocHJvcGVydGllcyk7CgogICAgLy8gICAgIHJldHVybiBlbTsKICAgIC8vIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -401,28 +406,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text>[JAVA-VALIDATION] Analysis of the JSR 303 specification</text>
+        <text>[JAVA-SPRING5-RESTAPI] Extended implementation of RestApi using Spring5</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4K</text>
+        <text>[JAVA-VALIDATION] Analysis of the JSR 303 specification</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Lm1hcChNb25vOjpqdXN0KS5vckVsc2VHZXQoTW9ubzo6ZW1wdHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Lm1hcChNb25vOjpqdXN0KS5vckVsc2VHZXQoTW9ubzo6ZW1wdHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5qdXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5qdXN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
