@@ -161,6 +161,10 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603621217596">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/pom.xml" timestamp="1603048793433">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -192,11 +196,6 @@
       </file>
       <file name="/a.dummy" timestamp="1603039850080">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/repositories/events/EventRepository.java" timestamp="1603015939067">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/controllers/UserController.java" timestamp="1603049901590">
         <mark key="[" line="24" column="24" />
@@ -239,6 +238,10 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="22" />
+      </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/EventController.java" timestamp="1603040020018">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="43" />
@@ -253,12 +256,6 @@
       </file>
       <file name="/fragment.java" timestamp="1603048856888">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/EventsDataSourceConfiguration.java" timestamp="1603015771263">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="74" />
-        <mark key="." line="6" column="74" />
-        <mark key="^" line="6" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -370,13 +367,13 @@
         <text>validation.user.error</text>
       </register>
       <register name="&quot;" type="4">
-        <text>springrestapi.api</text>
+        <text>spring5-app</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
       </register>
       <register name="+" type="4">
-        <text>springrestapi.api</text>
+        <text>spring5-app</text>
       </register>
       <register name="-" type="4">
         <text>#/components/schemas/User</text>
