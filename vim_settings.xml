@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRpdGlvbmFsUHJvcGVydGllc1w+</entry>
-        <entry encoding="base64">XDxUaW1lem9uZVw+</entry>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxpbml0RGF0YVw+</entry>
@@ -20,11 +17,14 @@
         <entry>events</entry>
         <entry>bis</entry>
         <entry>loom</entry>
-        <entry>lombok</entry>
         <entry>mapS</entry>
         <entry>maps</entry>
         <entry>lom</entry>
         <entry encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</entry>
+        <entry>lombok</entry>
+        <entry>h2</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry>mongo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/period/interval/g</entry>
@@ -149,51 +149,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repository/java/spring-restapi/pom.xml" timestamp="1603482692041">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/domain/User.java" timestamp="1603048842416">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603622276963">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/pom.xml" timestamp="1603048793433">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1603050819024">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="71" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repository/java/spring-restapi/pom.xml" timestamp="1603623875545">
+        <mark key="'" line="29" column="49" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/resources/api-users.yaml" timestamp="1603576938337">
         <mark key="[" line="53" column="22" />
         <mark key="]" line="53" column="24" />
         <mark key="." line="53" column="23" />
         <mark key="^" line="53" column="24" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/events/Event.java" timestamp="1603042300015">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/repositories/UserRepository.java" timestamp="1603049208309">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/controllers/UserController.java" timestamp="1603049901590">
         <mark key="[" line="24" column="24" />
@@ -219,22 +185,70 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1603042028670">
+        <mark key="'" line="118" column="19" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="21" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/domain/User.java" timestamp="1603048842416">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603623821762">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-webflux/pom.xml" timestamp="1603048793433">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1603050819024">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="71" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/events/Event.java" timestamp="1603042300015">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/repositories/UserRepository.java" timestamp="1603049208309">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-events/pom.xml" timestamp="1603623894564">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" timestamp="1603622490887">
+        <mark key="'" line="66" column="36" />
+      </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/UserRepository.java" timestamp="1603048854164">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-users/pom.xml" timestamp="1603622194401">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
+      <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-users/pom.xml" timestamp="1603622366511">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="47" column="21" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1603042028670">
-        <mark key="'" line="118" column="19" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/StandardResponse.java" timestamp="1603620868645">
         <mark key="[" line="0" column="8" />
@@ -242,37 +256,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/EventController.java" timestamp="1603040020018">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/bootstrap/Bootstrap.java" timestamp="1603041998229">
-        <mark key="'" line="20" column="44" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1603048856888">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
-      <jump line="27" column="42" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="96" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/spring-test/5.2.9.RELEASE/spring-test-5.2.9.RELEASE.jar!/org/springframework/test/web/servlet/result/MockMvcResultMatchers.class" />
-      <jump line="22" column="20" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
-      <jump line="74" column="13" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
-      <jump line="12" column="32" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Coordinates.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Coordinates.java" />
       <jump line="30" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Coordinates.java" />
       <jump line="16" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Location.java" />
       <jump line="5" column="13" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Name.java" />
@@ -363,6 +351,16 @@
       <jump line="9" column="0" filename="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/controllers/UserController.java" />
       <jump line="11" column="10" filename="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/repositories/impl/UserRepositoryImpl.java" />
       <jump line="39" column="10" filename="$USER_HOME$/repository/java/spring5-app/pom.xml" />
+      <jump line="246" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="1605" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="1738" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="1739" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="2369" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="2374" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="65" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="66" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
+      <jump line="13" column="32" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
+      <jump line="29" column="49" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -376,17 +374,17 @@
       <register name="c" type="4">
         <text>wbb</text>
       </register>
-      <register name="+" type="4">
-        <text>spring5-app</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+ZGUuZmxhcGRvb2RsZS5lbWJlZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZGUuZmxhcGRvb2RsZS5lbWJlZC5tb25nbzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>spring-boot-starter-parent</text>
+        <text>spring5-app-api-users</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</text>
+        <text>mongo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8amF2YS52ZXJzaW9uPjExPC9qYXZhLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnNwcmluZzUtYXBwLWFwaS11c2VyczwvbW9kdWxlPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -407,28 +405,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcjwvYXJ0aWZhY3RJZD4KCQkJPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxwcm9wZXJ0aWVzPgoJCTxqYXZhLnZlcnNpb24+MTE8L2phdmEudmVyc2lvbj4KCTwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8cGx1Z2luTWFuYWdlbWVudD48IS0tIGxvY2sgZG93biBwbHVnaW5zIHZlcnNpb25zIHRvIGF2b2lkIHVzaW5nIE1hdmVuIGRlZmF1bHRzIChtYXkgYmUgbW92ZWQgdG8gcGFyZW50IHBvbSkgLS0+CiAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jbGVhbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4xLjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tcmVzb3VyY2VzLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My44LjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc3VyZWZpcmUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMjIuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1qYXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWluc3RhbGwtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNS4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGxveS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDwhLS0gc2l0ZSBsaWZlY3ljbGUsIHNlZSBodHRwczovL21hdmVuLmFwYWNoZS5vcmcvcmVmL2N1cnJlbnQvbWF2ZW4tY29yZS9saWZlY3ljbGVzLmh0bWwjc2l0ZV9MaWZlY3ljbGUgLS0+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXNpdGUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuNy4xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXByb2plY3QtaW5mby1yZXBvcnRzLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgPC9wbHVnaW5NYW5hZ2VtZW50PgogICAgPC9idWlsZD4K</text>
+        <text encoding="base64">CTxwYXJlbnQ+CgkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgoJCTx2ZXJzaW9uPjIuMy40LlJFTEVBU0U8L3ZlcnNpb24+CgkJPHJlbGF0aXZlUGF0aC8+IDwhLS0gbG9va3VwIHBhcmVudCBmcm9tIHJlcG9zaXRvcnkgLS0+Cgk8L3BhcmVudD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gZGVmYXVsdCBsaWZlY3ljbGUsIGphciBwYWNrYWdpbmc6IHNlZSBodHRwczovL21hdmVuLmFwYWNoZS5vcmcvcmVmL2N1cnJlbnQvbWF2ZW4tY29yZS9kZWZhdWx0LWJpbmRpbmdzLmh0bWwjUGx1Z2luX2JpbmRpbmdzX2Zvcl9qYXJfcGFja2FnaW5nIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gY2xlYW4gbGlmZWN5Y2xlLCBzZWUgaHR0cHM6Ly9tYXZlbi5hcGFjaGUub3JnL3JlZi9jdXJyZW50L21hdmVuLWNvcmUvbGlmZWN5Y2xlcy5odG1sI2NsZWFuX0xpZmVjeWNsZSAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcjwvYXJ0aWZhY3RJZD4KCQkJPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,9 +435,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</last-search>
+      <last-search>mongo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</last-pattern>
+      <last-pattern>mongo</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
