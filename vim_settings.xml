@@ -161,9 +161,10 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603621217596">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="26" />
+      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603622276963">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/pom.xml" timestamp="1603048793433">
         <mark key="[" line="46" column="0" />
@@ -194,9 +195,6 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1603039850080">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/controllers/UserController.java" timestamp="1603049901590">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="84" />
@@ -226,6 +224,12 @@
         <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-users/pom.xml" timestamp="1603622194401">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1603042028670">
         <mark key="'" line="118" column="19" />
@@ -259,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="12" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
       <jump line="31" column="6" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
       <jump line="9" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
       <jump line="27" column="42" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
@@ -359,6 +362,7 @@
       <jump line="29" column="21" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/EventControllerTest.java" />
       <jump line="9" column="0" filename="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/controllers/UserController.java" />
       <jump line="11" column="10" filename="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/repositories/impl/UserRepositoryImpl.java" />
+      <jump line="39" column="10" filename="$USER_HOME$/repository/java/spring5-app/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -366,8 +370,8 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>spring5-app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
@@ -376,16 +380,16 @@
         <text>spring5-app</text>
       </register>
       <register name="-" type="4">
-        <text>#/components/schemas/User</text>
+        <text>spring-boot-starter-parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChNb25vOjpqdXN0KQo=</text>
+        <text encoding="base64">CQk8amF2YS52ZXJzaW9uPjExPC9qYXZhLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEBCZWFuCiAgICAvLyBwdWJsaWMgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4gcHJvZHVjdEVudGl0eU1hbmFnZXIoKSB7CiAgICAvLyAgICAgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4gZW0KICAgIC8vICAgICAgICAgPSBuZXcgTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4oKTsKICAgIC8vICAgICBlbS5zZXREYXRhU291cmNlKHByb2R1Y3REYXRhU291cmNlKCkpOwogICAgLy8gICAgIGVtLnNldFBhY2thZ2VzVG9TY2FuKAogICAgLy8gICAgICAgICBuZXcgU3RyaW5nW10geyAiY29tLmJhZWxkdW5nLm11bHRpcGxlZGIubW9kZWwucHJvZHVjdCIgfSk7CgogICAgLy8gICAgIEhpYmVybmF0ZUpwYVZlbmRvckFkYXB0ZXIgdmVuZG9yQWRhcHRlciA9IG5ldyBIaWJlcm5hdGVKcGFWZW5kb3JBZGFwdGVyKCk7CiAgICAvLyAgICAgZW0uc2V0SnBhVmVuZG9yQWRhcHRlcih2ZW5kb3JBZGFwdGVyKTsKICAgIC8vICAgICBIYXNoTWFwPFN0cmluZywgT2JqZWN0PiBwcm9wZXJ0aWVzID0gbmV3IEhhc2hNYXA8PigpOwogICAgLy8gICAgIHByb3BlcnRpZXMucHV0KCJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIiwKICAgIC8vICAgICAgICAgZW52LmdldFByb3BlcnR5KCJoaWJlcm5hdGUuaGJtMmRkbC5hdXRvIikpOwogICAgLy8gICAgIHByb3BlcnRpZXMucHV0KCJoaWJlcm5hdGUuZGlhbGVjdCIsCiAgICAvLyAgICAgICAgIGVudi5nZXRQcm9wZXJ0eSgiaGliZXJuYXRlLmRpYWxlY3QiKSk7CiAgICAvLyAgICAgZW0uc2V0SnBhUHJvcGVydHlNYXAocHJvcGVydGllcyk7CgogICAgLy8gICAgIHJldHVybiBlbTsKICAgIC8vIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,28 +407,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text>[JAVA-SPRING5-RESTAPI] Extended implementation of RestApi using Spring5</text>
-      </register>
-      <register name="3" type="2">
-        <text>[JAVA-VALIDATION] Analysis of the JSR 303 specification</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcjwvYXJ0aWZhY3RJZD4KCQkJPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgoJCTwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8cGx1Z2luTWFuYWdlbWVudD48IS0tIGxvY2sgZG93biBwbHVnaW5zIHZlcnNpb25zIHRvIGF2b2lkIHVzaW5nIE1hdmVuIGRlZmF1bHRzIChtYXkgYmUgbW92ZWQgdG8gcGFyZW50IHBvbSkgLS0+CiAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jbGVhbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4xLjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tcmVzb3VyY2VzLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My44LjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc3VyZWZpcmUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMjIuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1qYXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWluc3RhbGwtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNS4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWRlcGxveS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+Mi44LjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDwhLS0gc2l0ZSBsaWZlY3ljbGUsIHNlZSBodHRwczovL21hdmVuLmFwYWNoZS5vcmcvcmVmL2N1cnJlbnQvbWF2ZW4tY29yZS9saWZlY3ljbGVzLmh0bWwjc2l0ZV9MaWZlY3ljbGUgLS0+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXNpdGUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuNy4xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXByb2plY3QtaW5mby1yZXBvcnRzLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgPC9wbHVnaW5NYW5hZ2VtZW50PgogICAgPC9idWlsZD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Lm1hcChNb25vOjpqdXN0KS5vckVsc2VHZXQoTW9ubzo6ZW1wdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gZGVmYXVsdCBsaWZlY3ljbGUsIGphciBwYWNrYWdpbmc6IHNlZSBodHRwczovL21hdmVuLmFwYWNoZS5vcmcvcmVmL2N1cnJlbnQvbWF2ZW4tY29yZS9kZWZhdWx0LWJpbmRpbmdzLmh0bWwjUGx1Z2luX2JpbmRpbmdzX2Zvcl9qYXJfcGFja2FnaW5nIC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gY2xlYW4gbGlmZWN5Y2xlLCBzZWUgaHR0cHM6Ly9tYXZlbi5hcGFjaGUub3JnL3JlZi9jdXJyZW50L21hdmVuLWNvcmUvbGlmZWN5Y2xlcy5odG1sI2NsZWFuX0xpZmVjeWNsZSAtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uby5qdXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
