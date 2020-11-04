@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry encoding="base64">XDxpbml0RGF0YVw+</entry>
-        <entry encoding="base64">XDxWYWxpZGF0aW9uRXhjZXB0aW9uXD4=</entry>
-        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
         <entry>id</entry>
         <entry>valida</entry>
         <entry encoding="base64">XDxtdmNcPg==</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry>mongo</entry>
         <entry encoding="base64">XDxoYXNOb3RMZXZlbDBcPg==</entry>
+        <entry encoding="base64">XDxpbnNpZGVDcmVhdGVkXD4=</entry>
+        <entry encoding="base64">XDxpc0RlY3JlYXNpbmdcPg==</entry>
+        <entry encoding="base64">XDxpc0luY3JlYXNpbmdcPg==</entry>
+        <entry encoding="base64">XDxpbnNpZGVBbmFseXplclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/period/interval/g</entry>
@@ -43,9 +43,9 @@
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>%s/events/bis/g</entry>
         <entry>%s/bis/user/g</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>30</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -155,12 +155,6 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/domain/User.java" timestamp="1603048842416">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603623821762">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="38" />
@@ -230,9 +224,16 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604525767499">
-        <mark key="[" line="75" column="53" />
-        <mark key="]" line="75" column="53" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1604528072543">
+        <mark key="'" line="36" column="42" />
+        <mark key="[" line="98" column="24" />
+        <mark key="]" line="98" column="23" />
+        <mark key="^" line="98" column="23" />
+        <mark key="." line="98" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604528640364">
+        <mark key="[" line="74" column="45" />
+        <mark key="]" line="74" column="54" />
         <mark key="^" line="75" column="53" />
         <mark key="." line="75" column="52" />
       </file>
@@ -251,29 +252,18 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604526943910">
-        <mark key="'" line="246" column="27" />
-        <mark key="[" line="132" column="55" />
-        <mark key="]" line="133" column="8" />
-        <mark key="." line="133" column="7" />
-        <mark key="^" line="133" column="8" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604528192308">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="129" column="8" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1603048856888">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="21" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Picture.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Picture.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Timezone.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Timezone.java" />
-      <jump line="30" column="26" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
-      <jump line="39" column="11" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Location.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Location.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Location.java" />
-      <jump line="17" column="21" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Location.java" />
-      <jump line="17" column="4" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Login.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
       <jump line="41" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/User.java" />
       <jump line="11" column="15" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/Picture.java" />
       <jump line="9" column="12" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/Login.java" />
@@ -363,6 +353,17 @@
       <jump line="636" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
       <jump line="198" column="27" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
       <jump line="245" column="27" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
+      <jump line="63" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="107" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="108" column="29" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="27" column="34" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="28" column="35" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="37" column="35" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="112" column="29" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="111" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="36" column="42" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="88" column="11" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
+      <jump line="125" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -370,26 +371,26 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>2020.10.26</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+ZGUuZmxhcGRvb2RsZS5lbWJlZDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZGUuZmxhcGRvb2RsZS5lbWJlZC5tb25nbzwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="+" type="4">
+        <text>2020.10.26</text>
       </register>
       <register name="-" type="4">
-        <text>this.getAnalyzeCandle();</text>
+        <text>NonNull</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNOb3RMZXZlbDBcPg==</text>
+        <text encoding="base64">XDxpbnNpZGVBbmFseXplclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnNldEZyb21EYXRlKERhdGVVdGlsLnBhcnNlKCIyMDIwLjEwLjE5IDAwOjAwOjAwIikpCiAgICAgICAgICAgIC5zZXRUb0RhdGUoRGF0ZVV0aWwucGFyc2UoIjIwMjAuMTAuMjMgMDA6MDA6MDAiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbnNpZGVBbmFseXplciA9IG5ldyBJbnNpZGVBbmFseXplckhlbHBlcihxdW90YXRpb25zLCBwYXJhbWV0ZXJzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -407,28 +408,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZpbmdBdmFyYW5nZUFuYWx5emVyLmFuYWx5emUoYW5hbHl6ZVBvaW50ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldEZyb21EYXRlKERhdGVVdGlsLnBhcnNlKCIyMDIwLjEwLjI2IDAwOjAwOjAwIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhbmFseXplSW5zaWRlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGhhc05vdFN0b3BQb2ludCgpIHsKICAgICAgICByZXR1cm4gc3RvcCA9PSBudWxsOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpbnNpZGVBbmFseXplci5hbmFseXplKGFuYWx5emVQb2ludGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBoYXNOb3RMZXZlbDAoKSB7CiAgICAgICAgICAgIHJldHVybiBsZXZlbDAgPT0gbnVsbDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5iZWdpbiA9IGJlZ2luOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQbwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFF1b3RlIGJlZ2luOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,9 +438,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoYXNOb3RMZXZlbDBcPg==</last-search>
+      <last-search encoding="base64">XDxpbnNpZGVBbmFseXplclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNOb3RMZXZlbDBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnNpZGVBbmFseXplclw+</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
