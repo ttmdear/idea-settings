@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>events</entry>
         <entry>bis</entry>
         <entry>loom</entry>
         <entry>mapS</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxvdXRsaW5lU3Ryb2tlXD4=</entry>
         <entry>Font</entry>
         <entry>NumberAxis</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/period/interval/g</entry>
@@ -155,12 +155,37 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603623821762">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" timestamp="1604614170449">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="64" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1604531594698">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1604530417677">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="71" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1604534875549">
+        <mark key="'" line="30" column="28" />
+        <mark key="[" line="429" column="65" />
+        <mark key="]" line="429" column="65" />
+        <mark key="." line="429" column="64" />
+        <mark key="^" line="429" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1604531561030">
         <mark key="'" line="60" column="36" />
@@ -174,50 +199,6 @@
         <mark key="]" line="103" column="67" />
         <mark key="." line="103" column="66" />
         <mark key="^" line="103" column="67" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Movement.java" timestamp="1604524668553">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604528192308">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="129" column="8" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" timestamp="1604532822080">
-        <mark key="'" line="468" column="29" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/awt/Stroke.class" timestamp="1604532801091" />
-      <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603623821762">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="38" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" timestamp="1604534559445">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1604530417677">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="71" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1604534657559">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="154" column="40" />
-        <mark key="]" line="154" column="39" />
-        <mark key="." line="154" column="38" />
-        <mark key="^" line="154" column="39" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-events/pom.xml" timestamp="1603623894564">
         <mark key="[" line="36" column="0" />
@@ -241,17 +222,36 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604531960017">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="75" column="53" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604612576222">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="77" column="51" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Movement.java" timestamp="1604524668553">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/StandardResponse.java" timestamp="1603620868645">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604528192308">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="129" column="8" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" timestamp="1604532822080">
+        <mark key="'" line="468" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1604531502699">
         <mark key="[" line="0" column="0" />
@@ -365,26 +365,26 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Color.getColor(&quot;Silver&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVEYXNoZWRCb3JkZXIoQ29sb3IuZ3JheSwgMSwgMCwgMCwgdHJ1ZSkpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
       </register>
-      <register name="+" type="4">
-        <text>CandlestickRenderer</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRMYXlvdXQobmV3IE1pZ0xheW91dCgiZ2FwIDAiLCAiWzEwMCU6OiwgZmlsbF0iLCAiWzMwOjpdW11bZ3Jvd11bXSIpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Color.getColor(&quot;Silver&quot;)</text>
+        <text>statusBar</text>
       </register>
       <register name="/" type="4">
-        <text>NumberAxis</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
-        <text>TRUETYPE_FONT</text>
+        <text>insets 10</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVMaW5lQm9yZGVyKENvbG9yLkJMQUNLKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVEYXNoZWRCb3JkZXIoQ29sb3IuZ3JheSwgMSwgMCwgMCwgdHJ1ZSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -402,9 +402,24 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBKUGFuZWwgc3RhdHVzQmFyID0gbmV3IEpQYW5lbCgpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzdGF0dXNQYW5lbC5zZXRCYWNrZ3JvdW5kKENvbG9yLik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFRvRGF0ZShEYXRlVXRpbC5wYXJzZSgiMjAyMC4xMC4zMCAwMDowMDowMCIpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIC5zZXRGcm9tRGF0ZShEYXRlVXRpbC5wYXJzZSgiMjAyMC4wOS4wNyAwMDowMDowMCIpKQogICAgICAgICAgICAuc2V0VG9EYXRlKERhdGVVdGlsLnBhcnNlKCIyMDIwLjA5LjExIDAwOjAwOjAwIikpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVMaW5lQm9yZGVyKENvbG9yLkJMQUNLKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCbwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="8" type="8">
         <text>renderer3
 renderer3
 renderer3
@@ -412,23 +427,8 @@ renderer3
 renderer3
 renderer3</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdW90ZVJlbmRlcmVyLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDYW5kbGVzdGlja1JlbmRlcmVyIHF1b3RlUmVuZGVyZXIgPSBuZXcgQ2FuZGxlc3RpY2tSZW5kZXJlcihDYW5kbGVzdGlja1JlbmRlcmVyLldJRFRITUVUSE9EX1NNQUxMRVNUKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydC5zZXRCb3JkZXJQYWludChDb2xvci5CTEFDSyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydC5zZXRCb3JkZXJTdHJva2UobmV3IEJhc2ljU3Ryb2tlKDEuMGYsIEJhc2ljU3Ryb2tlLkNBUF9CVVRULCBCYXNpY1N0cm9rZS5KT0lOX01JVEVSLCAxMC4wZiwKICAgICAgICAgICAgZGFzaDEsIDAuMGYpOyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydC5zZXRCb3JkZXJTdHJva2UobmV3IFN0cm9rZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTaGFwZSBjcmVhdGVTdHJva2VkU2hhcGUoU2hhcGUgc2hhcGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdW90ZVJlbmRlcmVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,9 +437,9 @@ renderer3</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>NumberAxis</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>NumberAxis</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
