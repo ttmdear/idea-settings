@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>id</entry>
-        <entry>valida</entry>
-        <entry encoding="base64">XDxtdmNcPg==</entry>
-        <entry>H2</entry>
         <entry>events</entry>
         <entry>bis</entry>
         <entry>loom</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxpc0RlY3JlYXNpbmdcPg==</entry>
         <entry encoding="base64">XDxpc0luY3JlYXNpbmdcPg==</entry>
         <entry encoding="base64">XDxpbnNpZGVBbmFseXplclw+</entry>
+        <entry encoding="base64">XDxhbmFseXplTUFXYXZlTWluTGVuZ3RoVG9TaWduYWxcPg==</entry>
+        <entry encoding="base64">XDxvdXRsaW5lU3Ryb2tlXD4=</entry>
+        <entry>Font</entry>
+        <entry>NumberAxis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/period/interval/g</entry>
@@ -155,11 +155,56 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1604531594698">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1604531561030">
+        <mark key="'" line="60" column="36" />
+        <mark key="[" line="119" column="36" />
+        <mark key="]" line="120" column="8" />
+        <mark key="^" line="120" column="8" />
+        <mark key="." line="120" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1604531322440">
+        <mark key="[" line="103" column="58" />
+        <mark key="]" line="103" column="67" />
+        <mark key="." line="103" column="66" />
+        <mark key="^" line="103" column="67" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Movement.java" timestamp="1604524668553">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604528192308">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="129" column="8" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" timestamp="1604532822080">
+        <mark key="'" line="468" column="29" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/awt/Stroke.class" timestamp="1604532801091" />
       <file name="$USER_HOME$/repository/java/spring5-app/pom.xml" timestamp="1603623821762">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="38" />
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" timestamp="1604534559445">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1604530417677">
         <mark key="[" line="0" column="0" />
@@ -167,42 +212,12 @@
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/resources/api-users.yaml" timestamp="1603576938337">
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="23" />
-        <mark key="^" line="53" column="24" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/repositories/UserRepository.java" timestamp="1603049208309">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="14" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/controllers/UserController.java" timestamp="1603049901590">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="84" />
-        <mark key="^" line="24" column="84" />
-        <mark key="." line="24" column="83" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/repositories/impl/UserRepositoryImpl.java" timestamp="1603049838284">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="28" column="73" />
-        <mark key="]" line="28" column="74" />
-        <mark key="^" line="28" column="74" />
-        <mark key="." line="28" column="73" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1604530607813">
-        <mark key="'" line="105" column="65" />
-        <mark key="[" line="111" column="43" />
-        <mark key="]" line="111" column="43" />
-        <mark key="^" line="111" column="43" />
-        <mark key="." line="111" column="42" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/UserDataSourceConfiguration.java" timestamp="1603569798696">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1604534657559">
+        <mark key="'" line="30" column="28" />
+        <mark key="[" line="154" column="40" />
+        <mark key="]" line="154" column="39" />
+        <mark key="." line="154" column="38" />
+        <mark key="^" line="154" column="39" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-events/pom.xml" timestamp="1603623894564">
         <mark key="[" line="36" column="0" />
@@ -212,12 +227,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" timestamp="1603622490887">
         <mark key="'" line="66" column="36" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-webflux/src/main/java/spring5webflux/UserRepository.java" timestamp="1603048854164">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-app/spring5-app-api-users/pom.xml" timestamp="1603622366511">
         <mark key="[" line="38" column="0" />
@@ -232,15 +241,11 @@
         <mark key="^" line="98" column="23" />
         <mark key="." line="98" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604528640364">
-        <mark key="[" line="74" column="45" />
-        <mark key="]" line="74" column="54" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604531960017">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
         <mark key="^" line="75" column="53" />
-        <mark key="." line="75" column="52" />
-      </file>
-      <file name="$USER_HOME$/repository/java/spring5-app/src/main/java/repo/spring5app/App.java" timestamp="1603621183629">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="22" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/StandardResponse.java" timestamp="1603620868645">
         <mark key="[" line="0" column="8" />
@@ -248,48 +253,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Movement.java" timestamp="1604524668553">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604528192308">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="129" column="8" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1604530417687">
+      <file name="/fragment.java" timestamp="1604531502699">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/locations/Cordinate.java" />
-      <jump line="43" column="15" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/locations/Address.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/locations/Address.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/locations/Address.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/resources/Picture.java" />
-      <jump line="21" column="3" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/User.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/User.java" />
-      <jump line="32" column="18" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/User.java" />
-      <jump line="63" column="15" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/User.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/Bootstrap.java" />
-      <jump line="25" column="51" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/Bootstrap.java" />
-      <jump line="36" column="8" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/Bootstrap.java" />
-      <jump line="29" column="51" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/Bootstrap.java" />
-      <jump line="47" column="39" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/Bootstrap.java" />
-      <jump line="30" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.3.4.RELEASE/spring-data-jpa-2.3.4.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class" />
-      <jump line="22" column="26" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.3.4.RELEASE/spring-data-jpa-2.3.4.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class" />
-      <jump line="26" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.3.4.RELEASE/spring-data-jpa-2.3.4.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class" />
-      <jump line="48" column="22" filename="$MAVEN_REPOSITORY$/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final.jar!/org/hibernate/validator/internal/engine/ConstraintViolationImpl.class" />
-      <jump line="33" column="17" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/Bootstrap.java" />
-      <jump line="121" column="23" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/services/ReadWriteServiceImpl.java" />
-      <jump line="33" column="17" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/services/UserServiceIT.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/services/UserServiceIT.java" />
-      <jump line="40" column="21" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/UsersController.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/BaseController.java" />
       <jump line="130" column="24" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/User.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/domain/core/User.java" />
       <jump line="23" column="39" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/UsersController.java" />
@@ -365,6 +333,31 @@
       <jump line="88" column="17" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="102" column="65" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
+      <jump line="100" column="36" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
+      <jump line="152" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="178" column="29" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="265" column="14" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="271" column="65" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="277" column="59" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="321" column="14" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="334" column="29" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="342" column="46" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="354" column="29" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="398" column="14" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="406" column="29" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="411" column="59" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="455" column="14" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="468" column="29" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" />
+      <jump line="109" column="41" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="235" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="237" column="63" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="289" column="55" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="421" column="24" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="422" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="425" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="93" column="36" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
+      <jump line="30" column="28" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -372,26 +365,26 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Color.getColor(&quot;Silver&quot;)</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
       </register>
       <register name="+" type="4">
-        <text>2020.10.26</text>
+        <text>CandlestickRenderer</text>
       </register>
       <register name="-" type="4">
-        <text>begin</text>
+        <text>Color.getColor(&quot;Silver&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnNpZGVBbmFseXplclw+</text>
+        <text>NumberAxis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5iZWdpbiA9IGJlZ2luOwo=</text>
+      <register name="0" type="4">
+        <text>TRUETYPE_FONT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVMaW5lQm9yZGVyKENvbG9yLkJMQUNLKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -409,28 +402,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRCbwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5iZWdpbiA9IGJlZ2luOwo=</text>
+      <register name="3" type="8">
+        <text>renderer3
+renderer3
+renderer3
+renderer3
+renderer3
+renderer3</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdW90ZVJlbmRlcmVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFF1b3RlIGJlZ2luOwo=</text>
+        <text encoding="base64">ICAgICAgICBDYW5kbGVzdGlja1JlbmRlcmVyIHF1b3RlUmVuZGVyZXIgPSBuZXcgQ2FuZGxlc3RpY2tSZW5kZXJlcihDYW5kbGVzdGlja1JlbmRlcmVyLldJRFRITUVUSE9EX1NNQUxMRVNUKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJlZ2luOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFydC5zZXRCb3JkZXJQYWludChDb2xvci5CTEFDSyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydC5zZXRCb3JkZXJTdHJva2UobmV3IEJhc2ljU3Ryb2tlKDEuMGYsIEJhc2ljU3Ryb2tlLkNBUF9CVVRULCBCYXNpY1N0cm9rZS5KT0lOX01JVEVSLCAxMC4wZiwKICAgICAgICAgICAgZGFzaDEsIDAuMGYpOyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydC5zZXRCb3JkZXJTdHJva2UobmV3IFN0cm9rZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTaGFwZSBjcmVhdGVTdHJva2VkU2hhcGUoU2hhcGUgc2hhcGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -439,9 +437,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbnNpZGVBbmFseXplclw+</last-search>
+      <last-search>NumberAxis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnNpZGVBbmFseXplclw+</last-pattern>
+      <last-pattern>NumberAxis</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
