@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mapS</entry>
-        <entry>maps</entry>
-        <entry>lom</entry>
         <entry encoding="base64">XDxldmVudFJlcG9zaXRvcnlcPg==</entry>
         <entry>lombok</entry>
         <entry>h2</entry>
@@ -25,6 +22,9 @@
         <entry>Font</entry>
         <entry>anti</entry>
         <entry>Alia</entry>
+        <entry encoding="base64">XDxyZWxvYWRcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
+        <entry>stop(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/period/interval/g</entry>
@@ -233,12 +233,19 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604872535192">
-        <mark key="'" line="307" column="17" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="4" column="37" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1604874229301">
+        <mark key="'" line="22" column="36" />
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="480" column="0" />
+        <mark key="." line="480" column="0" />
+        <mark key="^" line="479" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604874410979">
+        <mark key="'" line="315" column="17" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" timestamp="1604532822080">
         <mark key="'" line="468" column="29" />
@@ -255,21 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="3" filename="$USER_HOME$/repository/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/repository/.gitignore" />
-      <jump line="12" column="10" filename="$USER_HOME$/repository/java/java-validation/src/main/java/repo/java/validation/validators/UserValidator.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/repository/java/java-validation/src/main/java/repo/java/validation/validators/constraints/UserConstraint.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="41" column="8" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="61" column="8" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="94" column="8" filename="$USER_HOME$/repository/java/spring-restapi/src/test/java/springrestapi/api/v1/UsersControllerTest.java" />
-      <jump line="7" column="31" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/BisDataSourceConfiguration.java" />
-      <jump line="12" column="29" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/BisDataSourceConfiguration.java" />
-      <jump line="60" column="7" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/UserDataSourceConfiguration.java" />
-      <jump line="17" column="29" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/configuration/UserDataSourceConfiguration.java" />
-      <jump line="33" column="35" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
-      <jump line="32" column="15" filename="$USER_HOME$/repository/java/spring-restapi/src/main/java/springrestapi/api/v1/EventController.java" />
       <jump line="54" column="39" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
       <jump line="6" column="38" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
       <jump line="104" column="0" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
@@ -355,6 +347,21 @@
       <jump line="303" column="17" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
       <jump line="129" column="9" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="6" column="57" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" />
+      <jump line="147" column="42" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="492" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="509" column="4" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="487" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="99" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="98" column="33" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="490" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="502" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="609" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="76" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="616" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="469" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="22" column="36" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -362,8 +369,8 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWJzdHJhY3QgcHVibGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
@@ -372,16 +379,16 @@
         <text encoding="base64">ICAgICAgICBzZXRMYXlvdXQobmV3IE1pZ0xheW91dCgiZ2FwIDAiLCAiWzEwMCU6OiwgZmlsbF0iLCAiWzMwOjpdW11bZ3Jvd11bXSIpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWJzdHJhY3QgcHVibGljIA==</text>
+        <text>reset();</text>
       </register>
       <register name="/" type="4">
-        <text>Alia</text>
+        <text>stop(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IHB1YmxpYyB2b2lkIHJlc2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgcmVzZXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -399,28 +406,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgCg==</text>
+        <text encoding="base64">ICAgICAgICBxdW90YXRpb25zLmdldFF1b3RlTGFzdFBvaW50ZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdW90ZUxhc3RQb2ludGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5hZGQobmV3IEpMYWJlbCgiTFZMIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5xdW90ZUxhc3RQb2ludGVyID0gcXVvdGVMYXN0UG9pbnRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSlBhbmVsIHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5hbHl6ZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNQYW5lbC5zZXRQcmVmZXJyZWRTaXplKG5ldyBEaW1lbnNpb24oMzApKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmFseXplcnMuZm9yRWFjaCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -429,9 +436,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Alia</last-search>
+      <last-search>stop(</last-search>
       <last-offset />
-      <last-pattern>Alia</last-pattern>
+      <last-pattern>stop(</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
