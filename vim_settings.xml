@@ -167,12 +167,12 @@
         <mark key="." line="66" column="53" />
         <mark key="^" line="66" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1604531594698">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1604790487192">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="31" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1604530417677">
         <mark key="[" line="0" column="0" />
@@ -241,12 +241,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604790172146">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604871335261">
         <mark key="'" line="35" column="16" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="606" column="5" />
-        <mark key="^" line="129" column="8" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="64" column="4" />
+        <mark key="^" line="64" column="4" />
+        <mark key="." line="64" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" timestamp="1604532822080">
         <mark key="'" line="468" column="29" />
@@ -371,7 +371,7 @@
         <text>validation.user.error</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
@@ -380,7 +380,7 @@
         <text encoding="base64">ICAgICAgICBzZXRMYXlvdXQobmV3IE1pZ0xheW91dCgiZ2FwIDAiLCAiWzEwMCU6OiwgZmlsbF0iLCAiWzMwOjpdW11bZ3Jvd11bXSIpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Alia</text>
@@ -447,22 +447,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
