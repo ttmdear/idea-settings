@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>h2</entry>
-        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
-        <entry>mongo</entry>
         <entry encoding="base64">XDxoYXNOb3RMZXZlbDBcPg==</entry>
         <entry encoding="base64">XDxpbnNpZGVDcmVhdGVkXD4=</entry>
         <entry encoding="base64">XDxpc0RlY3JlYXNpbmdcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxhbmFseXplQ2FuZGxlXD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry encoding="base64">XDxmaW5kRmlsZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVGaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/period/interval/g</entry>
@@ -149,12 +149,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" timestamp="1604789853574">
-        <mark key="[" line="66" column="44" />
-        <mark key="]" line="66" column="54" />
-        <mark key="." line="66" column="53" />
-        <mark key="^" line="66" column="54" />
-      </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1604790487192">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="22" column="14" />
@@ -162,24 +156,11 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1604530417677">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="71" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerHelper.java" timestamp="1604872026911">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="21" column="11" />
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1604790371625">
-        <mark key="'" line="251" column="8" />
-        <mark key="[" line="158" column="8" />
-        <mark key="]" line="158" column="8" />
-        <mark key="." line="158" column="8" />
-        <mark key="^" line="429" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1604875193611">
         <mark key="'" line="29" column="16" />
@@ -188,33 +169,17 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/LevelReactionAnalyzer.java" timestamp="1604614414885">
-        <mark key="'" line="85" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/ExList.java" timestamp="1605126587231">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1604531322440">
-        <mark key="[" line="103" column="58" />
-        <mark key="]" line="103" column="67" />
-        <mark key="." line="103" column="66" />
-        <mark key="^" line="103" column="67" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/signals/Signal.java" timestamp="1604875313702">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1604871840035">
-        <mark key="'" line="36" column="42" />
-        <mark key="[" line="82" column="4" />
-        <mark key="]" line="82" column="11" />
-        <mark key="^" line="82" column="11" />
-        <mark key="." line="82" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1604789536525">
-        <mark key="[" line="107" column="38" />
-        <mark key="]" line="107" column="38" />
-        <mark key="^" line="107" column="38" />
-        <mark key="." line="107" column="37" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/signals/Signal.java" timestamp="1605126726526">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/LevelAnalyzer.java" timestamp="1604871848081">
         <mark key="[" line="21" column="4" />
@@ -222,29 +187,18 @@
         <mark key="^" line="21" column="11" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" timestamp="1604875046447">
-        <mark key="'" line="29" column="19" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="60" column="22" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronizableList.java" timestamp="1605126781144">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Movement.java" timestamp="1604524668553">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Candle.java" timestamp="1604614383501">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1604874229301">
-        <mark key="'" line="22" column="36" />
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="480" column="0" />
-        <mark key="." line="480" column="0" />
-        <mark key="^" line="479" column="30" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605126246446">
+        <mark key="'" line="479" column="19" />
+        <mark key="[" line="493" column="8" />
+        <mark key="]" line="494" column="8" />
+        <mark key="." line="494" column="7" />
+        <mark key="^" line="494" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" timestamp="1604875091373">
         <mark key="'" line="313" column="17" />
@@ -253,31 +207,75 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/LegendItem.java" timestamp="1604532822080">
-        <mark key="'" line="468" column="29" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/AnalysisScope.java" timestamp="1605125272563">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="32" column="15" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1605124488872">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/Files.java" timestamp="1605125044609">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1604790371625">
+        <mark key="'" line="251" column="8" />
+        <mark key="[" line="158" column="8" />
+        <mark key="]" line="158" column="8" />
+        <mark key="." line="158" column="8" />
+        <mark key="^" line="429" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/Identifiable.java" timestamp="1605126623739">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1604871840035">
+        <mark key="'" line="36" column="42" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="11" />
+        <mark key="^" line="82" column="11" />
+        <mark key="." line="82" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" timestamp="1604875374007">
+        <mark key="'" line="29" column="19" />
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="59" column="8" />
+        <mark key="." line="59" column="7" />
+        <mark key="^" line="59" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4EnvironmentBuilder.java" timestamp="1605123440166">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/signals/Signals.java" timestamp="1605126758753">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1604871980530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" timestamp="1604789390074">
-        <mark key="'" line="222" column="0" />
-        <mark key="[" line="224" column="64" />
-        <mark key="]" line="224" column="64" />
-        <mark key="." line="224" column="64" />
-        <mark key="^" line="224" column="63" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" timestamp="1605125470832">
+        <mark key="'" line="63" column="17" />
+        <mark key="[" line="382" column="62" />
+        <mark key="]" line="383" column="8" />
+        <mark key="." line="383" column="7" />
+        <mark key="^" line="383" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="1605" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="1738" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="1739" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="2369" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="2374" column="44" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="65" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="66" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.4.RELEASE/spring-boot-dependencies-2.3.4.RELEASE.pom" />
-      <jump line="13" column="32" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
-      <jump line="29" column="49" filename="$USER_HOME$/repository/java/spring-restapi/pom.xml" />
       <jump line="458" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
       <jump line="636" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
       <jump line="198" column="27" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Analyzer.java" />
@@ -368,6 +366,16 @@
       <jump line="96" column="31" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="28" column="3" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="29" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
+      <jump line="476" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="472" column="32" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="32" column="3" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4EnvironmentBuilder.java" />
+      <jump line="56" column="15" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/AnalysisScope.java" />
+      <jump line="70" column="17" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" />
+      <jump line="61" column="17" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" />
+      <jump line="19" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/AnalysisScope.java" />
+      <jump line="479" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/signals/Signals.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -375,26 +383,26 @@
       <register name="a" type="4">
         <text>validation.user.error</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>Signal</text>
       </register>
       <register name="c" type="4">
         <text>wbb</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRMYXlvdXQobmV3IE1pZ0xheW91dCgiZ2FwIDAiLCAiWzEwMCU6OiwgZmlsbF0iLCAiWzMwOjpdW11bZ3Jvd11bXSIpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLkZpbGU7CmltcG9ydCBqYXZhLmlvLkZpbGVJbnB1dFN0cmVhbTsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CmltcG9ydCBqYXZhLmlvLklucHV0U3RyZWFtOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEudGV4dC5QYXJzZUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0OwppbXBvcnQgamF2YS51dGlsLkRhdGU7CmltcG9ydCBqYXZhLnV0aWwuRGVxdWU7CmltcG9ydCBqYXZhLnV0aWwuTGlua2VkTGlzdDsKCmltcG9ydCBjb20ubHZsLnV0aWwuRGF0ZVV0aWw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>parameters</text>
+        <text>Signal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXplUG9pbnRlclw+</text>
+        <text encoding="base64">XDxjcmVhdGVGaWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIoQWNjZXNzTGV2ZWwuUFJPVEVDVEVEKQo=</text>
+      <register name="0" type="4">
+        <text>SynchronizableList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -412,28 +420,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZChTaWduYWwgc2lnbmFsKSB7CiAgICAgICAgYm9vbGVhbiBmb3VuZCA9IHZhbHVlcy5zdHJlYW0oKS5hbnlNYXRjaChzaWduYWwxIC0+IHNpZ25hbDEuZ2V0SWQoKS5lcXVhbHMoc2lnbmFsMSkpOwoKICAgICAgICBpZiAoZm91bmQpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgdmFsdWVzLmFkZChzaWduYWwpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGQoU2lnbmFsIHNpZ25hbCkgewogICAgICAgIGJvb2xlYW4gZm91bmQgPSB2YWx1ZXMuc3RyZWFtKCkuYW55TWF0Y2goc2lnbmFsMSAtPiBzaWduYWwxLmdldElkKCkuZXF1YWxzKHNpZ25hbDEpKTsKCiAgICAgICAgaWYgKGZvdW5kKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIHZhbHVlcy5hZGQoc2lnbmFsKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxTaWduYWw+IHZhbHVlcyA9IG5ldyBWZWN0b3I8PigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGdldE5hbWUoKSB7CgogICAgfQoKICAgIHB1YmxpYyB2b2lkIGdldFhBKCkgewoKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXROYW1lKCkgewogICAgICAgIHRoaXMudHlwZSA9IFNpZ25hbFR5cGUuU0VMTDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRYQSgpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxTdHJpbmc+IGlkcyA9IG5ldyBWZWN0b3I8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU01BIG1hOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBhcmFtZXRlcnMgPSBwYXJhbWV0ZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -442,9 +450,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhbmFseXplUG9pbnRlclw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVGaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXplUG9pbnRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVGaWxlXD4=</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>bis</last-substitute>
       <last-dir>1</last-dir>
