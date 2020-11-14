@@ -18,6 +18,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -33,19 +36,19 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605383870998">
-        <mark key="'" line="532" column="0" />
-        <mark key="[" line="537" column="62" />
-        <mark key="]" line="537" column="63" />
-        <mark key="." line="537" column="62" />
-        <mark key="^" line="537" column="63" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605384960762">
+        <mark key="'" line="535" column="0" />
+        <mark key="[" line="555" column="9" />
+        <mark key="]" line="557" column="33" />
+        <mark key="." line="557" column="32" />
+        <mark key="^" line="557" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" timestamp="1605383853424">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="24" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" timestamp="1605385015774">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="42" />
+        <mark key="." line="78" column="41" />
+        <mark key="^" line="78" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousListTest.groovy" timestamp="1605382554935">
         <mark key="'" line="3" column="31" />
@@ -68,48 +71,49 @@
       <jump line="3" column="31" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousListTest.groovy" />
       <jump line="527" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="530" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>getAfter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>getAfter</text>
+        <text encoding="base64">Ym9vbGVhbiA=</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
       </register>
-      <register name="0" type="4">
-        <text>analyzer.getSignals().iterator(signalSyncInstant)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZChUIHNpZ25hbCkgewogICAgICAgIGJvb2xlYW4gZm91bmQgPSBlbGVtZW50cy5zdHJlYW0oKS5hbnlNYXRjaChzIC0+IHMuZ2V0RWxlbWVudCgpLmdldElkKCkuZXF1YWxzKHNpZ25hbC5nZXRJZCgpKSk7CgogICAgICAgIGlmIChmb3VuZCkgcmV0dXJuOwoKICAgICAgICBlbGVtZW50cy5hZGQobmV3IFdyYXBwZXI8PihzaWduYWwpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcChXcmFwcGVyOjpnZXRFbGVtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudHMuYWRkQWxsKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50cy5mb3JFYWNoKChDb25zdW1lcjxXcmFwcGVyPFQ+PikgdyAtPiB7CiAgICAgICAgICAgIAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0QWZ0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
