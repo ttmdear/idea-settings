@@ -2,6 +2,13 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -12,13 +19,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1605379974740">
-        <mark key="[" line="125" column="21" />
-        <mark key="]" line="126" column="12" />
-        <mark key="^" line="126" column="12" />
-        <mark key="." line="126" column="11" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronizableList.java" timestamp="1605380642569">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronizableList.java" timestamp="1605379454476" />
       <file name="/fragment.java" timestamp="1605379460087">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,7 +31,26 @@
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLQogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tZGVwZW5kZW5jeS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+Y29weS1kZXBlbmRlbmNpZXM8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+cHJlcGFyZS1wYWNrYWdlPC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Y29weS1kZXBlbmRlbmNpZXM8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPG91dHB1dERpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAke3Byb2plY3QuYnVpbGQuZGlyZWN0b3J5fS9saWJzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L291dHB1dERpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgLS0+Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>l</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gc2l0ZSBsaWZlY3ljbGUsIHNlZSBodHRwczovL21hdmVuLmFwYWNoZS5vcmcvcmVmL2N1cnJlbnQvbWF2ZW4tY29yZS9saWZlY3ljbGVzLmh0bWwjc2l0ZV9MaWZlY3ljbGUgLS0+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGFyY2hpdmU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWFuaWZlc3RGaWxlPiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L01FVEEtSU5GL01BTklGRVNULk1GPC9tYW5pZmVzdEZpbGU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYXJjaGl2ZT4KICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIC0tPgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>l</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
