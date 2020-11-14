@@ -33,11 +33,19 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" timestamp="1605382174990">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605383870998">
+        <mark key="'" line="532" column="0" />
+        <mark key="[" line="537" column="62" />
+        <mark key="]" line="537" column="63" />
+        <mark key="." line="537" column="62" />
+        <mark key="^" line="537" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" timestamp="1605383853424">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousListTest.groovy" timestamp="1605382554935">
         <mark key="'" line="3" column="31" />
@@ -58,48 +66,50 @@
       <jump line="49" column="24" filename="$USER_HOME$/workspace/lvl/lvl/pom.xml" />
       <jump line="50" column="23" filename="$USER_HOME$/workspace/lvl/lvl/pom.xml" />
       <jump line="3" column="31" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousListTest.groovy" />
+      <jump line="527" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="530" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getAfter</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>getAfter</text>
       </register>
       <register name="/" type="4">
         <text>junit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Cg==</text>
+      <register name="0" type="4">
+        <text>analyzer.getSignals().iterator(signalSyncInstant)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChXcmFwcGVyOjpnZXRFbGVtZW50KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQuKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LnNpemUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgRWxlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0QWZ0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
