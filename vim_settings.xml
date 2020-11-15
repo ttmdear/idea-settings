@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdW90ZU1hU2VyaWVzXD4=</entry>
-        <entry encoding="base64">XDxxdW90ZU1hUmVuZGVyZXJcPg==</entry>
-        <entry encoding="base64">XDxBbmFseXplclBvaW50ZXJDb21wb25lbnRzXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVMaW5lSW5kaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxsYXN0VmFsdWVcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlck1hcmdpblw+</entry>
         <entry encoding="base64">XDxzaWduYWxNYXJnaW5cPg==</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxzeW5jaHJvbml6ZUxldmVsc1w+</entry>
         <entry encoding="base64">XDxGSUxFX0xFVkVMU19IRUFERVJcPg==</entry>
         <entry encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</entry>
+        <entry encoding="base64">XDxhZGRcPg==</entry>
+        <entry encoding="base64">XDxub3RpZnlcPg==</entry>
+        <entry encoding="base64">XDxmaXJlU2VyaWVzQ2hhbmdlZFw+</entry>
+        <entry encoding="base64">XDxxdW90ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -73,7 +73,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1605465943221">
+      <file name="/Dummy.txt" timestamp="1605468216947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/Environment.java" timestamp="1605465692634">
@@ -81,11 +81,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1605467582615">
-        <mark key="'" line="313" column="36" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1605468449511">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="34" />
+        <mark key="." line="79" column="33" />
+        <mark key="^" line="79" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerTemplate.java" timestamp="1605465622702">
         <mark key="[" line="22" column="36" />
@@ -123,12 +123,6 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/LineIndicator.java" timestamp="1605453672608">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/LevelAnalyzer.java" timestamp="1605465252984">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="14" column="36" />
@@ -150,12 +144,22 @@
         <mark key="." line="33" column="11" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605467692294">
+      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" timestamp="1605468169768">
+        <mark key="'" line="167" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605467888588">
         <mark key="'" line="52" column="16" />
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="10" />
-        <mark key="." line="77" column="8" />
-        <mark key="^" line="77" column="10" />
+        <mark key="[" line="157" column="71" />
+        <mark key="]" line="159" column="18" />
+        <mark key="." line="159" column="17" />
+        <mark key="^" line="159" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/time/ohlc/OHLCSeries.java" timestamp="1605468028686">
+        <mark key="'" line="111" column="14" />
+        <mark key="[" line="111" column="64" />
+        <mark key="]" line="111" column="64" />
+        <mark key="^" line="111" column="64" />
+        <mark key="." line="111" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainPresenter.java" timestamp="1605465601556">
         <mark key="[" line="182" column="69" />
@@ -175,12 +179,8 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayDeque.class" timestamp="1605453100144">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="109" column="5" />
-      </file>
-      <file name="/fragment.java" timestamp="1605466986437">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1605468218796">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" timestamp="1605465901489">
         <mark key="'" line="299" column="62" />
@@ -191,21 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="27" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" />
-      <jump line="437" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="444" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="50" column="29" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="248" column="45" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="355" column="11" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="364" column="48" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="451" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="457" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="48" column="6" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="85" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="150" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="174" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="240" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="263" column="11" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="274" column="15" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="279" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -291,6 +276,21 @@
       <jump line="155" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="52" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="102" column="16" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/time/ohlc/OHLCSeries.java" />
+      <jump line="111" column="14" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/time/ohlc/OHLCSeries.java" />
+      <jump line="257" column="12" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="305" column="12" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="319" column="8" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="344" column="8" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="355" column="12" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="370" column="8" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="167" column="12" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
+      <jump line="78" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="71" column="38" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="72" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="75" column="26" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="77" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="214" column="47" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,26 +298,26 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAvLyBTeW5hxYIgamVzdCBuaWV6bWllbm55LCB3aWVjIG5pZSBtYSBwb3RyemVieSBpY2ggYWt0dWFsaXphY2ppCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBxdW90ZVBsb3Quc2V0QWMK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZExhc3QoRSB2YXIxKSB7CiAgICAgICAgaWYgKHZhcjEgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgTnVsbFBvaW50ZXJFeGNlcHRpb24oKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLmVsZW1lbnRzW3RoaXMudGFpbF0gPSB2YXIxOwogICAgICAgICAgICBpZiAoKHRoaXMudGFpbCA9IHRoaXMudGFpbCArIDEgJiB0aGlzLmVsZW1lbnRzLmxlbmd0aCAtIDEpID09IHRoaXMuaGVhZCkgewogICAgICAgICAgICAgICAgdGhpcy5kb3VibGVDYXBhY2l0eSgpOwogICAgICAgICAgICB9CgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>getQuoteLast()</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</text>
+        <text encoding="base64">XDxxdW90ZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQW5hbHl6ZVBvaW50ZXIgY2hhcnRBbmFseXplUG9pbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBxdW90ZVNlcmllcy5zZXROb3RpZnkoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBxdW90ZVBsb3Quc2V0QWMK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IHF1b3Rlcy5zaXplKCk7CiAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBxdW90ZU1hU2VyaWVzLmFkZChxdW90ZS5nZXRUaW1lKCkuZ2V0VGltZSgpLCBtYVZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,19 +329,19 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGk9MDsgaTxzaXplOyBpKyspIHsKICAgICAgICAgICAgUXVvdGUgcXVvdGUgPSBxdW90ZXMuZ2V0KGkpOwogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2hhcnRPYmplY3RMaXN0IGNoYXJ0T2JqZWN0TGlzdCA9IG5ldyBDaGFydE9iamVjdExpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVvdGVTZXJpZXMuYWRkKG5ldyBGaXhlZE1pbGxpc2Vjb25kKHF1b3RlLmdldFRpbWUoKSksIHF1b3RlLmdldE9wZW4oKSwgcXVvdGUuZ2V0SGlnaHQoKSwgcXVvdGUuZ2V0TG93KCksCiAgICAgICAgICAgICAgICBxdW90ZS5nZXRDbG9zZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bnVzZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPT0gc2l6ZSAtMSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -350,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxxdW90ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxxdW90ZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
