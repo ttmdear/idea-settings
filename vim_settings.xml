@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9wXD4=</entry>
         <entry encoding="base64">XDxzdG9wZWRcPg==</entry>
         <entry encoding="base64">XDxzdG9wZWRBbmFseXplclw+</entry>
         <entry encoding="base64">XDxtb3ZlQW5hbHl6ZVBvaW50ZXJUb1w+</entry>
@@ -25,11 +24,13 @@
         <entry encoding="base64">XDxxdW90ZU1hUmVuZGVyZXJcPg==</entry>
         <entry encoding="base64">XDxBbmFseXplclBvaW50ZXJDb21wb25lbnRzXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVMaW5lSW5kaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxsYXN0VmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
         <entry>let @a=&quot;&quot;</entry>
         <entry>w</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -57,6 +58,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -98,12 +102,12 @@
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1605452282451">
-        <mark key="'" line="179" column="25" />
-        <mark key="[" line="513" column="66" />
-        <mark key="]" line="513" column="46" />
-        <mark key="." line="513" column="45" />
-        <mark key="^" line="513" column="46" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1605454251710">
+        <mark key="'" line="512" column="12" />
+        <mark key="[" line="180" column="60" />
+        <mark key="]" line="180" column="67" />
+        <mark key="." line="180" column="66" />
+        <mark key="^" line="180" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1605390208848">
         <mark key="'" line="177" column="27" />
@@ -128,10 +132,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/LineIndicator.java" timestamp="1605453161580">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/LineIndicator.java" timestamp="1605453672608">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/Point.java" timestamp="1605449145018">
         <mark key="[" line="9" column="18" />
@@ -171,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="41" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="312" column="41" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="390" column="52" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="394" column="52" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="408" column="57" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -258,7 +261,6 @@
       <jump line="489" column="4" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="83" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="182" column="39" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
-      <jump line="499" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="379" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
@@ -271,6 +273,9 @@
       <jump line="461" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="178" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="14" column="17" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/Chart.java" />
+      <jump line="499" column="24" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="507" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="16" column="18" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/LineIndicator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,57 +284,57 @@
         <text encoding="base64">ICAgICAgICBxdW90ZVBsb3Quc2V0RGF0YXNldCgxLCBuZXcgWFlTZXJpZXNDb2xsZWN0aW9uKHF1b3RlTWFTZXJpZXMpKTsKICAgICAgICBxdW90ZVBsb3Quc2V0UmVuZGVyZXIoMSwgcXVvdGVNYVJlbmRlcmVyKTsKCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBVc3V3YW5pZSB3c2thxbpuaWvDs3cKICAgICAgICAgICAgLy8gZm9yIChBbmFseXplclBvaW50ZXIgYW5hbHl6ZXJQb2ludGVyIDogcmVtb3ZlKSB7CiAgICAgICAgICAgIC8vICAgICBhbmFseXplUG9pbnRlcnMucmVtb3ZlKGFuYWx5emVyUG9pbnRlcik7CiAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZExhc3QoRSB2YXIxKSB7CiAgICAgICAgaWYgKHZhcjEgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgTnVsbFBvaW50ZXJFeGNlcHRpb24oKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0aGlzLmVsZW1lbnRzW3RoaXMudGFpbF0gPSB2YXIxOwogICAgICAgICAgICBpZiAoKHRoaXMudGFpbCA9IHRoaXMudGFpbCArIDEgJiB0aGlzLmVsZW1lbnRzLmxlbmd0aCAtIDEpID09IHRoaXMuaGVhZCkgewogICAgICAgICAgICAgICAgdGhpcy5kb3VibGVDYXBhY2l0eSgpOwogICAgICAgICAgICB9CgogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>components</text>
+        <text>return;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVMaW5lSW5kaWNhdGlvblw+</text>
+        <text encoding="base64">XDxsYXN0VmFsdWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWZWN0b3I8QW5hbHl6ZXJQb2ludGVyPiByZW1vdmUgPSBuZXcgVmVjdG9yPD4oYW5hbHl6ZVBvaW50ZXJzLnNpemUoKSk7CgogICAgICAgIGZvciAoRW50cnk8QW5hbHl6ZXJQb2ludGVyLCBBbmFseXplclBvaW50ZXJDb21wb25lbnRzPiBlbnRyeSA6IGFuYWx5emVQb2ludGVycy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIGlmIChlbnRyeS5nZXRLZXkoKS5pc1JlbW92ZSgpKSB7CiAgICAgICAgICAgICAgICByZW1vdmUuYWRkKGVudHJ5LmdldEtleSgpKTsKCiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGVudHJ5LmdldEtleSgpLmdldFF1b3RlKCkuZXF1YWxzKGVudHJ5LmdldFZhbHVlKCkuZ2V0UXVvdGUoKSkpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBBbmFseXplclBvaW50ZXIgYW5hbHl6ZXJQb2ludGVyID0gZW50cnkuZ2V0S2V5KCk7CiAgICAgICAgICAgIEFuYWx5emVyUG9pbnRlckNvbXBvbmVudHMgY29tcG9uZW50cyA9IGVudHJ5LmdldFZhbHVlKCk7CiAgICAgICAgICAgIFF1b3RlIHF1b3RlID0gYW5hbHl6ZXJQb2ludGVyLmdldFF1b3RlKCk7CgogICAgICAgICAgICBYWVRleHRBbm5vdGF0aW9uIGFubm90YXRpb24gPSBjb21wb25lbnRzLmdldEFubm90YXRpb24oKTsKCiAgICAgICAgICAgIFBvaW50IHBvc2l0aW9uID0gY2FsY3VsYXRlQW5hbHl6ZXJQb2ludGVyUG9zaXRpb24ocXVvdGUpOwoKICAgICAgICAgICAgYW5ub3RhdGlvbi5zZXRYKHBvc2l0aW9uLmdldFgoKSk7CiAgICAgICAgICAgIGFubm90YXRpb24uc2V0WShwb3NpdGlvbi5nZXRZKCkpOwoKICAgICAgICAgICAgY29tcG9uZW50cy5zZXRRdW90ZShxdW90ZSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIXJlbW92ZS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgZm9yIChBbmFseXplclBvaW50ZXIgYW5hbHl6ZXJQb2ludGVyIDogcmVtb3ZlKSB7CiAgICAgICAgICAgICAgICBhbmFseXplUG9pbnRlcnMucmVtb3ZlKGFuYWx5emVyUG9pbnRlcik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdW90ZVBsb3QucmVtb3ZlQW5ub3RhdGlvbihkcmF3ZWRBbmFseXplUG9pbnRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBVc3V3YW5pZSB3c2thxbpuaWvDs3cKICAgICAgICAgICAgLy8gZm9yIChBbmFseXplclBvaW50ZXIgYW5hbHl6ZXJQb2ludGVyIDogcmVtb3ZlKSB7CiAgICAgICAgICAgIC8vICAgICBhbmFseXplUG9pbnRlcnMucmVtb3ZlKGFuYWx5emVyUG9pbnRlcik7CiAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZXF1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBvbmVudHMuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1b3RlUGxvdC5yZW1vdmVBbm5vdGF0aW9uKGFuYSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy54ID0geDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VyaWVzLmMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5pcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50cy5zZXRMYXN0VmFsdWVJbmRleChpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVMaW5lSW5kaWNhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxsYXN0VmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVMaW5lSW5kaWNhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0VmFsdWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
