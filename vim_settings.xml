@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmFseXplUXVvdGVcPg==</entry>
-        <entry encoding="base64">XDxhbmFseXplUG9pbnRlckRhdGVcPg==</entry>
         <entry>A</entry>
         <entry encoding="base64">XDxFbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxhc3NlcnRUcnVlXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxQUk9QX0FOQUxZU0lTX1NDT1BFU1w+</entry>
         <entry encoding="base64">XDxsZWZ0UGFuZWxcPg==</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDwxMVw+</entry>
+        <entry>11</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -33,6 +33,7 @@
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry>a</entry>
         <entry>e</entry>
+        <entry encoding="base64">JzwsJz5zLzExLzEwL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -114,16 +115,22 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DatePeriod.java" timestamp="1605965073872">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Bootstrap.java" timestamp="1605961051894">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" timestamp="1605964255500">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="31" column="40" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" timestamp="1605965803234">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1605961156353">
         <mark key="'" line="45" column="15" />
@@ -138,12 +145,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1605964700024">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="52" column="48" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1605965896135">
+        <mark key="'" line="44" column="41" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="49" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/junit/framework/TestCase.java" timestamp="1605957775050">
         <mark key="'" line="383" column="21" />
@@ -159,13 +166,6 @@
         <mark key="]" line="55" column="33" />
         <mark key="." line="55" column="33" />
         <mark key="^" line="39" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/Synchronous.java" timestamp="1605827979512">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainBean.java" timestamp="1605962114665">
         <mark key="[" line="36" column="0" />
@@ -192,11 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="15" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
-      <jump line="151" column="49" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
-      <jump line="155" column="49" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
-      <jump line="185" column="30" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
-      <jump line="238" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
       <jump line="40" column="18" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
       <jump line="110" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
       <jump line="112" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
@@ -292,6 +287,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
       <jump line="44" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="8" column="59" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
+      <jump line="4" column="35" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
+      <jump line="44" column="41" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" />
+      <jump line="9" column="65" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,49 +300,49 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vdmluZ0F2YXJhbmdlQW5hbHl6ZXIocXVvdGF0aW9ucywgcGFyYW1ldGVycywgY2hhcnQpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIERBVEVfRk9STUFUID0gInl5eXktTU0tZGQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpOwoKICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmZmVyZWRSZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlucHV0U3RyZWFtKSk7CgogICAgICAgICAgICAvLyBPbW1pdCBmaXJzdCBsaW5lIHdpdGggaGVhZGluZwogICAgICAgICAgICBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpOwoKICAgICAgICAgICAgU3RyaW5nIGxpbmU7CgogICAgICAgICAgICB3aGlsZSAoKGxpbmUgPSBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBTdHJpbmdbXSBzcGxpdGVkID0gbGluZS5zcGxpdCgiOyIpOwoKICAgICAgICAgICAgICAgIERhdGUgdGltZSA9IERhdGVVdGlsLnBhcnNlKHNwbGl0ZWRbMF0pOwoKICAgICAgICAgICAgICAgIGlmIChsYXN0UXVvdGUgIT0gbnVsbCAmJiAhdGltZS5hZnRlcihsYXN0UXVvdGUuZ2V0VGltZSgpKSkgY29udGludWU7CiAgICAgICAgICAgICAgICBpZiAoZnJvbURhdGUgIT0gbnVsbCAmJiB0aW1lLmJlZm9yZShmcm9tRGF0ZSkpIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgaWYgKHRvRGF0ZSAhPSBudWxsICYmIHRpbWUuYWZ0ZXIodG9EYXRlKSkgY29udGludWU7CgogICAgICAgICAgICAgICAgUXVvdGUgcXVvdGUgPSBuZXcgUXVvdGUoCiAgICAgICAgICAgICAgICAgICAgdGltZSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFsyXSksCiAgICAgICAgICAgICAgICAgICAgRG91YmxlLnBhcnNlRG91YmxlKHNwbGl0ZWRbM10pLAogICAgICAgICAgICAgICAgICAgIERvdWJsZS5wYXJzZURvdWJsZShzcGxpdGVkWzFdKSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFs0XSkKICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgcXVvdGVzLmFkZChxdW90ZSk7CgogICAgICAgICAgICAgICAgbGFzdFF1b3RlID0gcXVvdGU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>21</text>
+        <text>, String format</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbWV0ZXJzXD4=</text>
+        <text>11</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBjYWxlbmRhckJlZ2luID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICBjYWxlbmRhckJlZ2luLnNldFRpbWUoZGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGF0ZSBwYXJzZShTdHJpbmcgZGF0ZSwgU3RyaW5nIGZvcm1hdCkgdGhyb3dzIFBhcnNlRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gbmV3IFNpbXBsZURhdGVGb3JtYXQoZm9ybWF0KS5wYXJzZShkYXRlKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIERBVEVfRk9STUFUID0gInl5eXktTU0tZGQiOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGF0ZSBwYXJzZVlZWVlNTUREKFN0cmluZyBkYXRlKSB0aHJvd3MgUGFyc2VFeGNlcHRpb24gewogICAgICAgIHJldHVybiBuZXcgU2ltcGxlRGF0ZUZvcm1hdChEQVRFX0ZPUk1BVF9ZWVlZX01NX0REKS5wYXJzZShkYXRlKTsKICAgIH0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxlbmRhckZyb20uc2V0Rmlyc3REYXlPZldlZWsoKTsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgyMDIwLCAxMSwgMjApCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgyMDIwLCAxMSwgMTYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxlbmRhci5nZXQK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgyMDIwLCAxMSwgMjEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IERhdGUoMjAyMCwgMTEsIDE2KSwgZGF0ZVBlcmlvZC5nZXRGcm9tKCkpCiAgICAgICAgYXNzZXJ0RXF1YWxzKG5ldyBEYXRlKDIwMjAsIDExLCAyMCksIGRhdGVQZXJpb2QuZ2V0VG8oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IERhdGUoMjAyMCwgMTEsIDE2KSwgZGF0ZVBlcmlvZC5nZXRGcm9tKCkpCiAgICAgICAgYXNzZXJ0RXF1YWxzKG5ldyBEYXRlKDIwMjAsIDExLCAyMCksIGRhdGVQZXJpb2QuZ2V0VG8oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2FsZW5kYXIgY2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMobmV3IERhdGUoMjAyMCwgMTEsIDE2KSwgZGF0ZVBlcmlvZC5nZXRGcm9tKCkpCiAgICAgICAgYXNzZXJ0RXF1YWxzKG5ldyBEYXRlKDIwMjAsIDExLCAyMCksIGRhdGVQZXJpb2QuZ2V0VG8oKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -351,11 +351,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXJhbWV0ZXJzXD4=</last-search>
+      <last-search>11</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbWV0ZXJzXD4=</last-pattern>
-      <last-replace>B</last-replace>
-      <last-substitute>A</last-substitute>
+      <last-pattern>11</last-pattern>
+      <last-replace>10</last-replace>
+      <last-substitute>11</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
