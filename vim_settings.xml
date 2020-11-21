@@ -15,7 +15,6 @@
         <entry>reset</entry>
         <entry encoding="base64">XDxhbmFseXplSW5uZXJcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplU3RvcFw+</entry>
-        <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
         <entry encoding="base64">XDxhbmFseXplUXVvdGVcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlckRhdGVcPg==</entry>
         <entry>A</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxDb250cm9sbGVyXD4=</entry>
         <entry encoding="base64">XDxhdHJJbmRpY2F0b3JcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplcnNcPg==</entry>
+        <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -79,6 +79,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousTest.groovy" timestamp="1605826918537">
+        <mark key="'" line="59" column="13" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="52" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/Environment.java" timestamp="1605953331364">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="/a.dummy" timestamp="1605820497197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,8 +107,27 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1605731125220">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1605828973622">
+        <mark key="'" line="61" column="11" />
+        <mark key="[" line="264" column="33" />
+        <mark key="]" line="264" column="31" />
+        <mark key="^" line="264" column="31" />
+        <mark key="." line="264" column="30" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1605825308153">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" timestamp="1605744171882">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="158" column="51" />
+        <mark key="]" line="158" column="50" />
+        <mark key="^" line="158" column="50" />
+        <mark key="." line="158" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1605744151001">
         <mark key="[" line="20" column="0" />
@@ -104,11 +135,17 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605829305483">
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="67" column="29" />
-        <mark key="." line="67" column="28" />
-        <mark key="^" line="67" column="29" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousUtil.java" timestamp="1605828384729">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605954111533">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="73" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/Synchronous.java" timestamp="1605827979512">
         <mark key="'" line="1" column="0" />
@@ -116,6 +153,13 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1605825001683">
+        <mark key="'" line="165" column="20" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+        <mark key="^" line="178" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainPresenter.java" timestamp="1605471931659">
         <mark key="[" line="182" column="70" />
@@ -132,56 +176,18 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousTest.groovy" timestamp="1605826918537">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="52" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1605731125220">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1605828973622">
-        <mark key="'" line="61" column="11" />
-        <mark key="[" line="264" column="33" />
-        <mark key="]" line="264" column="31" />
-        <mark key="^" line="264" column="31" />
-        <mark key="." line="264" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" timestamp="1605744171882">
-        <mark key="'" line="41" column="17" />
-        <mark key="[" line="158" column="51" />
-        <mark key="]" line="158" column="50" />
-        <mark key="^" line="158" column="50" />
-        <mark key="." line="158" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousUtil.java" timestamp="1605828384729">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1605825001683">
-        <mark key="'" line="165" column="20" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="178" column="52" />
-      </file>
       <file name="/fragment.java" timestamp="1605828297479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" timestamp="1605732008107">
-        <mark key="'" line="299" column="62" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" timestamp="1605953792910">
+        <mark key="'" line="295" column="62" />
+        <mark key="[" line="180" column="106" />
+        <mark key="]" line="180" column="69" />
+        <mark key="." line="180" column="68" />
+        <mark key="^" line="180" column="69" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="8" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
-      <jump line="167" column="12" filename="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/data/ComparableObjectSeries.java" />
       <jump line="78" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="71" column="38" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="72" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" />
@@ -280,33 +286,35 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="101" column="43" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/Environment.java" />
+      <jump line="36" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTeW5hxYIgamVzdCBuaWV6bWllbm55LCB3aWVjIG5pZSBtYSBwb3RyemVieSBpY2ggYWt0dWFsaXphY2ppCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vdmluZ0F2YXJhbmdlQW5hbHl6ZXIocXVvdGF0aW9ucywgcGFyYW1ldGVycywgY2hhcnQpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENvbnRyb2xsZXIgY29udHJvbGxlciA6IGNvbnRyb2xsZXJzKSB7CiAgICAgICAgICAgIGNvbnRyb2xsZXIucmVsb2FkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpOwoKICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmZmVyZWRSZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlucHV0U3RyZWFtKSk7CgogICAgICAgICAgICAvLyBPbW1pdCBmaXJzdCBsaW5lIHdpdGggaGVhZGluZwogICAgICAgICAgICBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpOwoKICAgICAgICAgICAgU3RyaW5nIGxpbmU7CgogICAgICAgICAgICB3aGlsZSAoKGxpbmUgPSBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBTdHJpbmdbXSBzcGxpdGVkID0gbGluZS5zcGxpdCgiOyIpOwoKICAgICAgICAgICAgICAgIERhdGUgdGltZSA9IERhdGVVdGlsLnBhcnNlKHNwbGl0ZWRbMF0pOwoKICAgICAgICAgICAgICAgIGlmIChsYXN0UXVvdGUgIT0gbnVsbCAmJiAhdGltZS5hZnRlcihsYXN0UXVvdGUuZ2V0VGltZSgpKSkgY29udGludWU7CiAgICAgICAgICAgICAgICBpZiAoZnJvbURhdGUgIT0gbnVsbCAmJiB0aW1lLmJlZm9yZShmcm9tRGF0ZSkpIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgaWYgKHRvRGF0ZSAhPSBudWxsICYmIHRpbWUuYWZ0ZXIodG9EYXRlKSkgY29udGludWU7CgogICAgICAgICAgICAgICAgUXVvdGUgcXVvdGUgPSBuZXcgUXVvdGUoCiAgICAgICAgICAgICAgICAgICAgdGltZSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFsyXSksCiAgICAgICAgICAgICAgICAgICAgRG91YmxlLnBhcnNlRG91YmxlKHNwbGl0ZWRbM10pLAogICAgICAgICAgICAgICAgICAgIERvdWJsZS5wYXJzZURvdWJsZShzcGxpdGVkWzFdKSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFs0XSkKICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgcXVvdGVzLmFkZChxdW90ZSk7CgogICAgICAgICAgICAgICAgbGFzdFF1b3RlID0gcXVvdGU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>reset</text>
+        <text>return 0;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXplcnNcPg==</text>
+        <text encoding="base64">XDxhbmFseXplUG9pbnRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250cm9sbGVycy5mb3JFYWNoKENvbnRyb2xsZXI6OnJlc2V0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENvbnRyb2xsZXIgY29udHJvbGxlciA6IGNvbnRyb2xsZXJzKSB7CiAgICAgICAgICAgIGNvbnRyb2xsZXIucmVsb2FkKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENvbnRyb2xsZXIgY29udHJvbGxlciA6IGNvbnRyb2xsZXJzKSB7CiAgICAgICAgICAgIGNvbnRyb2xsZXIucmVzZXQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -315,22 +323,22 @@
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCByZWxvYWRDaGFydCgpIHsKICAgICAgICBpZiAoY2hhcnQgPT0gbnVsbCB8fCBhbmFseXplUXVvdGUgPT0gbnVsbCkgcmV0dXJuOwoKICAgICAgICBpZiAoY2hhcnRBbmFseXplUG9pbnRlciA9PSBudWxsKSB7CiAgICAgICAgICAgIGNoYXJ0QW5hbHl6ZVBvaW50ZXIgPSBjaGFydC5jcmVhdGVBbmFseXplclBvaW50ZXIoYW5hbHl6ZVF1b3RlKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjaGFydEFuYWx5emVQb2ludGVyLnNldFF1b3RlKGFuYWx5emVRdW90ZSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoY2hhcnRRdW90ZUxhc3RQb2ludGVyIDwgcXVvdGF0aW9ucy5nZXRRdW90ZUxhc3RQb2ludGVyKCkpIHsKICAgICAgICAgICAgTGlzdDxRdW90ZT4gcXVvdGVzID0gbmV3IFZlY3Rvcjw+KCk7CgogICAgICAgICAgICB3aGlsZSAoY2hhcnRRdW90ZUxhc3RQb2ludGVyIDwgcXVvdGF0aW9ucy5nZXRRdW90ZUxhc3RQb2ludGVyKCkpIHsKICAgICAgICAgICAgICAgIGNoYXJ0UXVvdGVMYXN0UG9pbnRlcisrOwoKICAgICAgICAgICAgICAgIHF1b3Rlcy5hZGQocXVvdGF0aW9ucy5nZXRRdW90ZShjaGFydFF1b3RlTGFzdFBvaW50ZXIpKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY2hhcnQuYWRkUXVvdGVzKHF1b3Rlcyk7CiAgICAgICAgfQoKICAgICAgICBjaGFydC5yZWxvYWQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vdmluZ0F2YXJhbmdlQW5hbHl6ZXIocXVvdGF0aW9ucywgcGFyYW1ldGVycywgY2hhcnQpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhbmFseXplKCkgewogICAgICAgIGlmIChhbmFseXplU3RvcCkgcmV0dXJuOwoKICAgICAgICBhbmFseXplSW5uZXIoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgYW5hbHl6ZUlubmVyKCkgewogICAgICAgIGlmIChhbmFseXplUG9pbnRlciA+PSBxdW90YXRpb25zLmdldFF1b3RlTGFzdFBvaW50ZXIoKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBhbmFseXplUG9pbnRlcisrOwogICAgICAgIGFuYWx5emVRdW90ZSA9IHF1b3RhdGlvbnMuZ2V0UXVvdGUoYW5hbHl6ZVBvaW50ZXIpOwoKICAgICAgICAvLyBmb3IgKEFuYWx5emVyIGFuYWx5emVyIDogYW5hbHl6ZXJzKSB7CiAgICAgICAgLy8gICAgIGFuYWx5emVyLmFuYWx5emUoYW5hbHl6ZVBvaW50ZXIpOwogICAgICAgIC8vIH0KCiAgICAgICAgc3luY2hyb25pemVTaWduYWxzKCk7CgogICAgICAgIHNpbXVsYXRvci5hbmFseXplKGFuYWx5emVQb2ludGVyKTsKCiAgICAgICAgcmVsb2FkQ2hhcnQoKTsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldEFuYWx5emVQb2ludGVyKCkgewogICAgICAgIHJldHVybiBhbmFseXplUG9pbnRlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBtb3ZlQW5hbHl6ZVBvaW50ZXJCYWNrd2FyZHMoKSB7CiAgICAgICAgbW92ZUFuYWx5emVQb2ludGVyVG8ocXVvdGF0aW9ucy5nZXRRdW90ZShhbmFseXplUG9pbnRlciAtIDEpLmdldFRpbWUoKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgbW92ZUFuYWx5emVQb2ludGVyRm9yd2FyZCgpIHsKICAgICAgICBtb3ZlQW5hbHl6ZVBvaW50ZXJUbyhxdW90YXRpb25zLmdldFF1b3RlKGFuYWx5emVQb2ludGVyICsgMSkuZ2V0VGltZSgpKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBtb3ZlQW5hbHl6ZVBvaW50ZXJNb3ZlVG9CZWdpbigpIHsKICAgICAgICBtb3ZlQW5hbHl6ZVBvaW50ZXJUbyhxdW90YXRpb25zLmdldFF1b3RlKEFOQUxZWkVfUE9JTlRFUl9JTklUKS5nZXRUaW1lKCkpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG1vdmVBbmFseXplUG9pbnRlck1vdmVUb0VuZCgpIHsKICAgICAgICBtb3ZlQW5hbHl6ZVBvaW50ZXJUbyhxdW90YXRpb25zLmdldFF1b3RlTGFzdCgpLmdldFRpbWUoKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgbW92ZUFuYWx5emVQb2ludGVyVG8oRGF0ZSBkYXRlKSB7CiAgICAgICAgc3RvcCgpOwoKICAgICAgICBEYXRlIGFuYWx5emVQb2ludGVyRGF0ZSA9IHF1b3RhdGlvbnMuZ2V0UXVvdGUoYW5hbHl6ZVBvaW50ZXIpLmdldFRpbWUoKTsKCiAgICAgICAgaWYgKERhdGVVdGlsLmNvbXBhcmUoZGF0ZSwgYW5hbHl6ZVBvaW50ZXJEYXRlKSA8IDApIHsKICAgICAgICAgICAgLy8gUHJ6ZXN1d2FteSBzacSZIGRvIHR5xYJ1LiBDenlsaSBtdXN6xJkgdXN1bsSFxIcgd3N6eXN0a28gaSB3eWtvbmFjIGplc3pjemUgcmF6IGFuYWxpesSZLgogICAgICAgICAgICBzaWduYWxzLmNsZWFyKCk7CiAgICAgICAgICAgIHNpbXVsYXRvci5yZXNldCgpOwogICAgICAgICAgICBhbmFseXplcnMuZm9yRWFjaChBbmFseXplcjo6cmVzZXQpOwoKICAgICAgICAgICAgYW5hbHl6ZVBvaW50ZXIgPSBBTkFMWVpFX1BPSU5URVJfSU5JVDsKCiAgICAgICAgICAgIGlmIChjaGFydCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjaGFydC5yZW1vdmVBbGxPYmplY3RzKCk7CiAgICAgICAgICAgICAgICBjaGFydEFuYWx5emVQb2ludGVyID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgYW5hbHl6ZUlubmVyKCk7CgogICAgICAgICAgICBRdW90ZSBhbmFseXplUG9pbnRlclF1b3RlID0gcXVvdGF0aW9ucy5nZXRRdW90ZShhbmFseXplUG9pbnRlcik7CgogICAgICAgICAgICBpZiAoRGF0ZVV0aWwuY29tcGFyZShhbmFseXplUG9pbnRlclF1b3RlLmdldFRpbWUoKSwgZGF0ZSkgPj0gMCkgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGNoYXJ0LnJlcGFpbnQoKTsKCiAgICAgICAgcnVuKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDaGFydCBjaGFydCA9IG5ldyBKRkNoYXJ0KHF1b3RhdGlvbnMuZ2V0VGl0bGUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFuYWx5emVycyA9IGFuYWx5emVyczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLnJlcXVpcmVOb25OdWxsKGFuYWx5emVycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNoYXJ0ID0gY2hhcnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTGlzdDxBbmFseXplcj4gYW5hbHl6ZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFydC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -339,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhbmFseXplcnNcPg==</last-search>
+      <last-search encoding="base64">XDxhbmFseXplUG9pbnRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXplcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhbmFseXplUG9pbnRlclw+</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
