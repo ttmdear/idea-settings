@@ -87,11 +87,17 @@
       <file name="/a.dummy" timestamp="1605962214562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/analysis/ControllerTest.groovy" timestamp="1605977589084">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/analysis/ControllerTest.groovy" timestamp="1605977752268">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1605977641610">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="42" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1605970319746">
         <mark key="'" line="57" column="20" />
@@ -161,13 +167,6 @@
         <mark key="]" line="40" column="55" />
         <mark key="." line="40" column="54" />
         <mark key="^" line="40" column="55" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1605961156353">
-        <mark key="'" line="45" column="15" />
-        <mark key="[" line="318" column="25" />
-        <mark key="]" line="318" column="24" />
-        <mark key="." line="318" column="23" />
-        <mark key="^" line="318" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" timestamp="1605973036839">
         <mark key="'" line="93" column="25" />
@@ -301,50 +300,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyIAo=</text>
+      <register name="&quot;" type="4">
+        <text>= Mockito.mock()</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">QERhdGEKcHVibGljIGNsYXNzIERhdGVQZXJpb2QgewogICAgcHJpdmF0ZSBmaW5hbCBEYXRlIGZyb207CiAgICBwcml2YXRlIGZpbmFsIERhdGUgdG87Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>= Mockito.mock()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXplUG9pbnRlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJvbGxlciBjb250cm9sbGVyCiAgICBwcml2YXRlIFN1cGVydmlzb3Igc3VwZXJ2aXNvcgogICAgcHJpdmF0ZSBQYXJhbWV0ZXJzIHBhcmFtZXRlcnMKICAgIHByaXZhdGUgUXVvdGF0aW9ucyBxdW90YXRpb25zCiAgICBwcml2YXRlIExpc3Q8QW5hbHl6ZXI+IGFuYWx5emVycwogICAgcHJpdmF0ZSBEYXRlUGVyaW9kIGFuYWx5emVQZXJpb2QKICAgIHByaXZhdGUgQ2hhcnQgY2hhcnQK</text>
+      <register name="0" type="4">
+        <text>mockito-all</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDaGFydCBjaGFydAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sbGVyIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDaGFydCBjaGFydAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJvbGxlciBjb250cm9sbGVyCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJvbGxlciBjb250cm9sbGVyCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGVpbnQgYW5hbHl6ZVBvaW50ZXJCZWdpbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIHByaXZhdGVpbnQgYW5hbHl6ZVBvaW50ZXJCZWdpbiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBhbmFseXplUG9pbnRlcgo=</text>
+        <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
