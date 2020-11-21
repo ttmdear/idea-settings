@@ -126,11 +126,12 @@
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" timestamp="1605965803234">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="44" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" timestamp="1605970128166">
+        <mark key="'" line="8" column="69" />
+        <mark key="[" line="40" column="52" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="40" column="54" />
+        <mark key="^" line="40" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1605961156353">
         <mark key="'" line="45" column="15" />
@@ -145,14 +146,14 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1605966797477">
-        <mark key="'" line="51" column="41" />
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="32" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1605970085169">
+        <mark key="'" line="11" column="74" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="63" column="43" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605968148306">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605969034397">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -179,7 +180,7 @@
         <mark key="." line="60" column="11" />
         <mark key="^" line="60" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1605967579778">
+      <file name="/fragment.java" timestamp="1605968949965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/MT4Environment.java" timestamp="1605960558315">
@@ -191,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
-      <jump line="135" column="29" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
       <jump line="139" column="29" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
       <jump line="174" column="51" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
       <jump line="113" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MainAnalyzer.java" />
@@ -276,7 +275,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
       <jump line="44" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="8" column="59" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
       <jump line="4" column="35" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
       <jump line="44" column="41" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" />
@@ -291,6 +289,9 @@
       <jump line="11" column="15" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="12" column="15" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
+      <jump line="8" column="69" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/DateUtilTest.groovy" />
+      <jump line="11" column="74" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,25 +300,28 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3IE1vdmluZ0F2YXJhbmdlQW5hbHl6ZXIocXVvdGF0aW9ucywgcGFyYW1ldGVycywgY2hhcnQpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhckZyb20uc2V0KENhbGVuZGFyLkRBWV9PRl9XRUVLLCBDYWxlbmRhci5GUklEQVkpOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpOwoKICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmZmVyZWRSZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlucHV0U3RyZWFtKSk7CgogICAgICAgICAgICAvLyBPbW1pdCBmaXJzdCBsaW5lIHdpdGggaGVhZGluZwogICAgICAgICAgICBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpOwoKICAgICAgICAgICAgU3RyaW5nIGxpbmU7CgogICAgICAgICAgICB3aGlsZSAoKGxpbmUgPSBidWZmZXJlZFJlYWRlci5yZWFkTGluZSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBTdHJpbmdbXSBzcGxpdGVkID0gbGluZS5zcGxpdCgiOyIpOwoKICAgICAgICAgICAgICAgIERhdGUgdGltZSA9IERhdGVVdGlsLnBhcnNlKHNwbGl0ZWRbMF0pOwoKICAgICAgICAgICAgICAgIGlmIChsYXN0UXVvdGUgIT0gbnVsbCAmJiAhdGltZS5hZnRlcihsYXN0UXVvdGUuZ2V0VGltZSgpKSkgY29udGludWU7CiAgICAgICAgICAgICAgICBpZiAoZnJvbURhdGUgIT0gbnVsbCAmJiB0aW1lLmJlZm9yZShmcm9tRGF0ZSkpIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgaWYgKHRvRGF0ZSAhPSBudWxsICYmIHRpbWUuYWZ0ZXIodG9EYXRlKSkgY29udGludWU7CgogICAgICAgICAgICAgICAgUXVvdGUgcXVvdGUgPSBuZXcgUXVvdGUoCiAgICAgICAgICAgICAgICAgICAgdGltZSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFsyXSksCiAgICAgICAgICAgICAgICAgICAgRG91YmxlLnBhcnNlRG91YmxlKHNwbGl0ZWRbM10pLAogICAgICAgICAgICAgICAgICAgIERvdWJsZS5wYXJzZURvdWJsZShzcGxpdGVkWzFdKSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFs0XSkKICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgcXVvdGVzLmFkZChxdW90ZSk7CgogICAgICAgICAgICAgICAgbGFzdFF1b3RlID0gcXVvdGU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>analysisPeriod</text>
+        <text>59</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJXMgKCVzIC0gJXMpIiwgcXVvdGF0aW9ucy5nZXRUaXRsZSgpLAogICAgICAgICAgICBEYXRlVXRpbC5mb3JtYXREYXRlVGltZShhbmFseXNpc1BlcmlvZC5nZXRGcm9tKCksIERhdGVVdGlsLkRBVEVUSU1FX0ZPUk1BVCksCiAgICAgICAgICAgIERhdGVVdGlsLmZvcm1hdERhdGVUaW1lKGFuYWx5c2lzUGVyaW9kLmdldFRvKCksIERhdGVVdGlsLkRBVEVUSU1FX0ZPUk1BVCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhclRvLnNldChDYWxlbmRhci5EQVlfT0ZfV0VFSywgQ2FsZW5kYXIuRlJJREFZKTsKICAgICAgICBjYWxlbmRhclRvLnNldChDYWxlbmRhci5IT1VSX09GX0RBWSwgMjMpOwogICAgICAgIGNhbGVuZGFyVG8uc2V0KENhbGVuZGFyLk1JTlVURSwgNTkpOwogICAgICAgIGNhbGVuZGFyVG8uc2V0KENhbGVuZGFyLlNFQ09ORCwgNTkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhckZyb20uc2V0KENhbGVuZGFyLkRBWV9PRl9XRUVLLCBDYWxlbmRhci5GUklEQVkpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKRkNoYXJ0IGNoYXJ0ID0gbmV3IEpGQ2hhcnQoIiIpCg==</text>
+      <register name="2" type="8">
+        <text>calendarTo
+calendarTo
+calendarTo
+calendarTo</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -326,22 +330,22 @@
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZSArPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIGRhdGUgPSBjcmVhdGVEYXRlKCIyMDIwLTExLTIwIikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgQ2hhcnQgY2hhcnQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBKRkNoYXJ0IGNoYXJ0ID0gbmV3IEpGQ2hhcnQoIiIpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFkZGVkLnNpemUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
