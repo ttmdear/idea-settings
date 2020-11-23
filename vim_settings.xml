@@ -106,12 +106,12 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1606172298018">
-        <mark key="'" line="146" column="90" />
-        <mark key="[" line="146" column="8" />
-        <mark key="]" line="146" column="8" />
-        <mark key="." line="146" column="8" />
-        <mark key="^" line="146" column="11" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1606173762302">
+        <mark key="'" line="89" column="19" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="215" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1606172144291">
         <mark key="[" line="101" column="11" />
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="34" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="119" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="33" column="33" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" />
       <jump line="93" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" />
@@ -289,6 +288,7 @@
       <jump line="97" column="65" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="146" column="90" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
+      <jump line="89" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,8 +296,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgo=</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">Ly8gCi8vIAogICAKLy8gCi8vIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Thread</text>
@@ -308,38 +308,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYVZhbHVlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzZXRUZXN0aW5nQ291bnRlcigpOwoKICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="0" type="4">
+        <text>parameters.getAnalyzeMAMaxGapToMA()</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Ly8gCi8vIAogICAKLy8gCi8vIA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzV2F2ZUgpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0QW5hbHl6ZU1BVGVzdGluZ051bWJlcigpIHsKICAgICAgICByZXR1cm4gSW50ZWdlci5wYXJzZUludChnZXQoImFuYWx5emVNQVRlc3RpbmdOdW1iZXIiKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGVzdGluZ0RpcmVjdGlvbi5lcXVhbHMoRGlyZWN0aW9uLklOQ1JFQVNJTkcpKSB7CiAgICAgICAgICAgIAogICAgICAgICAgICBzaWduYWxzLmFkZChuZXcgU2lnbmFsKFNpZ25hbFR5cGUuU0VMTCwgYW5hbHl6ZVF1b3RlLCBTaWduYWxUcmlnZ2VyLk1BVCkpOwogICAgICAgIH0gZWxzZSBpZiAodGVzdGluZ0RpcmVjdGlvbi5lcXVhbHMoRGlyZWN0aW9uLkRFQ1JFQVNJTkcpKSB7CiAgICAgICAgICAgIHNpZ25hbHMuYWRkKG5ldyBTaWduYWwoU2lnbmFsVHlwZS5CVVksIGFuYWx5emVRdW90ZSwgU2lnbmFsVHJpZ2dlci5NQVQpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXplQ2FuZGxlLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTWF0aC5hYnMobWFWYWx1ZSAtIGFuYWx5emVDYW5kbGUuZ2V0Q2xvc2UoKSkgPiBwYXJhbWV0ZXJzLmdldEFuYWx5emVNQU1heEdhcFRvTUEoKSkgewogICAgICAgICAgICByZXNldFRlc3RpbmdDb3VudGVyKCk7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">Ly8gCi8vIAogICAKLy8gCi8vIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
