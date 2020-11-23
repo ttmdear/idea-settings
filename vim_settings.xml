@@ -134,11 +134,12 @@
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/mlist/MList.java" timestamp="1606168164079" />
       <file name="$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-binding/2.13.0/jgoodies-binding-2.13.0-sources.jar!/com/jgoodies/binding/binder/ValueModelBindingBuilderImpl.java" timestamp="1606169506524" />
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1606170417588">
-        <mark key="'" line="177" column="14" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1606170676722">
+        <mark key="'" line="182" column="14" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+        <mark key="^" line="161" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/mlist/SMList.java" timestamp="1606168179469">
         <mark key="'" line="244" column="17" />
@@ -233,7 +234,6 @@
       <jump line="179" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="200" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="68" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="270" column="26" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="136" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="184" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="174" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
@@ -283,6 +283,7 @@
       <jump line="129" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
       <jump line="177" column="36" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
       <jump line="46" column="34" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/gui/views/main/MainView.java" />
+      <jump line="270" column="26" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,28 +292,28 @@
         <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYW5hKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Thread</text>
       </register>
       <register name="-" type="4">
-        <text>DATETIME_FORMAT</text>
+        <text>analyzePointer == analyzePointerBegin - 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250cm9sbGVyc0xpc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DATE_FORMAT_YYYY_MM_DD_DASH</text>
+        <text>analyzePointerBegin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYW5hKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0QW5hbHl6ZSgpIHsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl6ZVF1b3RlID09IG51bGwpIHsKICAgICAgICAgICAgYW5hbHl6ZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
@@ -321,19 +322,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXIuYmluZEJlYW5Qcm9wZXJ0eShNYWluQmVhbi5QUk9QX1NFTEVDVEVEX0NPTlRST0xMRVIpCiAgICAgICAgICAgIC5hc1NlbGVjdGlvbkluKCkudG8oY29udHJvbGxlcnNMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5hKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sQmFyLmFkZCh0ZXN0TGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TGlzdC5zZXRSZW5kZXJlcihuZXcgVGVzdENlbGxSZW5kZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
