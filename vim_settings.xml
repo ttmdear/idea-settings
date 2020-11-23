@@ -94,11 +94,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1606172100083">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1606174613695">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/ThreadUtil.java" timestamp="1606166089117">
         <mark key="[" line="14" column="23" />
@@ -106,18 +106,18 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1606173762302">
-        <mark key="'" line="89" column="19" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
-        <mark key="^" line="215" column="16" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1606174791599">
+        <mark key="'" line="235" column="44" />
+        <mark key="[" line="153" column="12" />
+        <mark key="]" line="153" column="13" />
+        <mark key="." line="153" column="12" />
+        <mark key="^" line="153" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1606172144291">
-        <mark key="[" line="101" column="11" />
-        <mark key="]" line="101" column="17" />
-        <mark key="." line="101" column="16" />
-        <mark key="^" line="101" column="17" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1606174245471">
+        <mark key="[" line="90" column="39" />
+        <mark key="]" line="90" column="62" />
+        <mark key="^" line="90" column="40" />
+        <mark key="." line="90" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-binding/2.13.0/jgoodies-binding-2.13.0-sources.jar!/com/jgoodies/binding/list/SelectionInList.java" timestamp="1606169953104" />
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1606168366039">
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="33" column="33" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" />
       <jump line="93" column="25" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" />
       <jump line="26" column="29" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -289,6 +288,7 @@
       <jump line="88" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="146" column="90" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
       <jump line="89" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
+      <jump line="235" column="44" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,43 +303,43 @@
         <text>Thread</text>
       </register>
       <register name="-" type="4">
-        <text>Double</text>
+        <text>0.0000 do 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYVZhbHVlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>parameters.getAnalyzeMAMaxGapToMA()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc2V0VGVzdGluZ0NvdW50ZXIoKTsKCiAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">IyAxIC0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzV2F2ZUgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKE1hdGguYWJzKG1hVmFsdWUgLSApKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpcmVjdGlvbi5pc0luY3JlYXNpbmcoKSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTWF0aC5hYnMobWFWYWx1ZSAtIGFuYWx5emVDYW5kbGUuZ2V0Q2xvc2UoKSkgPiBwYXJhbWV0ZXJzLmdldEFuYWx5emVNQU1heEdhcFRvTUEoKSkgewogICAgICAgICAgICByZXNldFRlc3RpbmdDb3VudGVyKCk7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Ly8gCi8vIAogICAKLy8gCi8vIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChNYXRoLmFicygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
