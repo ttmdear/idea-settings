@@ -114,12 +114,12 @@
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/ParameterValues.java" timestamp="1606858184299">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/ParameterValues.java" timestamp="1606858290798">
         <mark key="'" line="12" column="8" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="31" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Value.java" timestamp="1606858030508">
         <mark key="[" line="14" column="4" />
@@ -207,14 +207,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/ParametersOptimizer.java" timestamp="1606857989566">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/ParametersOptimizer.java" timestamp="1606860643217">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="37" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/analysis/ControllerTest.groovy" />
       <jump line="10" column="49" filename="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/analysis/ControllerTest.groovy" />
       <jump line="325" column="95" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="334" column="73" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
@@ -314,6 +315,7 @@
       <jump line="2" column="18" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/DoubleValue.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/DoubleValue.java" />
       <jump line="2" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/BooleanValue.java" />
+      <jump line="21" column="10" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/ParametersOptimizer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,62 +323,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgphbmFseXplTUFNYXhHYXBUb01BYW5hbHl6ZU1BTWluV2F2ZU1vbWVudHVtYW5hbHl6ZU1BU01BUGVyaW9kYW5hbHl6ZU1BVGVzdGluZ01heEdhcGFuYWx5emVNQVRlc3RpbmdNaW5HYXBUb1NpZ25hbGFuYWx5emVNQVRlc3RpbmdOdW1iZXJhbmFseXplTUFXYXZlTWluTGVuZ3RoVG9TaWduYWwgICAgICAgIHJldHVybiBEb3VibGUucGFyc2VEb3VibGUoZ2V0KCJhbmFseXplTUFNYXhHYXBUb01BIikpOwogICAgICAgIHJldHVybiBEb3VibGUucGFyc2VEb3VibGUoZ2V0KCJhbmFseXplTUFNaW5XYXZlTW9tZW50dW0iKSk7CiAgICAgICAgcmV0dXJuIEludGVnZXIucGFyc2VJbnQoZ2V0KCJhbmFseXplTUFTTUFQZXJpb2QiKSk7CiAgICAgICAgcmV0dXJuIEludGVnZXIucGFyc2VJbnQoZ2V0KCJhbmFseXplTUFUZXN0aW5nTWF4R2FwIikpOwogICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KGdldCgiYW5hbHl6ZU1BVGVzdGluZ01pbkdhcFRvU2lnbmFsIikpOwogICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KGdldCgiYW5hbHl6ZU1BVGVzdGluZ051bWJlciIpKTsKICAgICAgICByZXR1cm4gSW50ZWdlci5wYXJzZUludChnZXQoImFuYWx5emVNQVdhdmVNaW5MZW5ndGhUb1NpZ25hbCIpKTsK</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>put
-put
-put
-put
-put
-put
-put</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbm9pbnNwZWN0aW9uIENvbnN0YW50Q29uZGl0aW9ucwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">IyBBbmFseXplcgphbmFseXplTGV2ZWwwPXRydWUKIyBhbmFseXplTGV2ZWxab25lU2l6ZT0wCiMgYW5hbHl6ZUxldmVsWm9uZVRlc3RpbmdTaXplPQojIGFuYWx5emVab25lU2FtZUxldmVsU2l6ZT0wCmFuYWx5emVUZXN0aW5nTWF4R2FwPTMKYW5hbHl6ZVpvbmVUZXN0aW5nTWF4R2FwPTUKYW5hbHl6ZVNwaW5uaW5nTWF4R2FwPTAKYW5hbHl6ZU1BU01BUGVyaW9kPTYwCmFuYWx5emVNQVRlc3RpbmdNYXhHYXA9MwphbmFseXplTUFUZXN0aW5nTWluR2FwVG9TaWduYWw9NQphbmFseXplTUFXYXZlTWluTGVuZ3RoVG9TaWduYWw9NQphbmFseXplTUFUZXN0aW5nTnVtYmVyPTEKCiMgTWFrc3ltYWxuYSBvZGxlZ8WCb8WbxIcgY2VueSB6YW1rbmnEmWNpYSBvZCDFm3JlZG5pZWogdyBtb21lbmNpZSB3eXN0xIVwaWVuaWEgc3lnbmHFgnUuCiMgUGFyYW1ldHIgcG96d2FsYSBuYSB1c3VuacSZY2llIHN5Z25hxYLDs3cgIHcga3TDs3J5Y2ggbmFzdMSZcHVqZSB0ZXN0b3dhbmllIGkgc3p5YmtpZSBvZGRhbG5pZSBzaWUKIyBvZCDFm3JlZG5pZWouCmFuYWx5emVNQU1heEdhcFRvTUE9MC4wMDA3CgojIE1ha3N5bWFsbmUgb2RjaHlsZW5pZSBzacSZIGNlbnkgb2QgxZtyZWRuaWVqIHcgcmFtYWNoIGZhbGkgbGljem9uZSB3IHB1bmt0YWNoLgojIDAgLSBwb3dvZHVqZSwgxbxlIG5pZSBqZXN0IHRvIGJyYW5lIHBvZCB1d2FnxJkuCmFuYWx5emVNQU1pbldhdmVNb21lbnR1bT0wLjAwMTAKYW5hbHl6ZVRyZW5kU21hUGVyaW9kPTYwCmFuYWx5emVNQUNETG9uZ1NNQVBlcmlvZD0yNgphbmFseXplTUFDRFNob3J0U01BUGVyaW9kPTEyCmFuYWx5emVNQUNEU2lnbmFsU01BUGVyaW9kPTkKYW5hbHl6ZUF0clBlcmlvZD0xNAphbmFseXplTGV2ZWxzTnVtYmVyPTMKIyBTaWduYWxzCnNpZ25hbEF0ck1pblZhbHVlPTAuMDAwNApzaWduYWxMaW5lV2l0aFRyZW5kPXRydWUKc2lnbmFsVGVzdGluZz1mYWxzZQpzaWduYWxUZXN0aW5nTGluZVdpdGhUcmVuZD1mYWxzZQpzaWduYWxUZXN0aW5nTWluTnVtYmVyPTIKc2lnbmFsWm9uZVRlc3Rpbmc9ZmFsc2UKc2lnbmFsWm9uZVRlc3RpbmdMaW5lV2l0aFRyZW5kPXRydWUKc2lnbmFsWm9uZVRlc3RpbmdNaW5OdW1iZXI9NApzaWduYWxTcGlubmluZz1mYWxzZQpzaWduYWxTcGlubmluZ0xpbmVXaXRoVHJlbmQ9dHJ1ZQpzaWduYWxTcGlubmluZ01pbk51bWJlcj0xCnNpZ25hbEVuZ3VsZmluZz1mYWxzZQpzaWduYWxFbmd1bGZpbmdMaW5lV2l0aFRyZW5kPXRydWUKc2lnbmFsQ292ZXI9ZmFsc2UKc2lnbmFsQ292ZXJMaW5lV2l0aFRyZW5kPXRydWUKc2lnbmFsSW5zaWRlPWZhbHNlCnNpZ25hbEluc2lkZUxpbmVXaXRoVHJlbmQ9dHJ1ZQojIENoYXJ0CmNoYXJ0RHJhd0xldmVsPXRydWUKY2hhcnREcmF3U2lnbmFscz10cnVlCmNoYXJ0RHJhd1ByaWNlTW92ZW1lbnQ9dHJ1ZQpjaGFydERyYXdBbmFseXplUG9pbnRlcj10cnVlCiMgU2ltdWxhdG9yCnNpbXVsYXRvckFjdGl2ZT10cnVlCnNpbXVsYXRvclNMPTAuMDAwNwpzaW11bGF0b3JUUD0wLjAwMzAKc2ltdWxhdG9yUG9pbnRlcj0wLjAwMDEK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGFyYW1ldGVyTmFtZSwg</text>
+        <text>value.change()</text>
       </register>
       <register name="/" type="4">
         <text>Integer</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRG91YmxlIGZyb207Cg==</text>
+      <register name="0" type="4">
+        <text>valueList.get(pointer)</text>
       </register>
-      <register name="1" type="8">
-        <text>put
-put
-put
-put
-put
-put
-put</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbm9pbnNwZWN0aW9uIENvbnN0YW50Q29uZGl0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFBhcmFtZXRlck5hbWUsIFZhbHVlPD8+PiB2YWx1ZXMgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBWYWx1ZTw/PiB2YWx1ZTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzLmdldAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmFsdWU8Pz4gdmEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBYNTA5Q2VydGlmaWNhdGUK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbmQpIHsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocG9pbnRlciA9PSAwICYmIHZhbHVlLmlzQ2hhbmdlYWJsZSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVuZCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAodmFsdWUuaXNDaGFuZ2VhYmxlKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUuY2hhbmdlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
