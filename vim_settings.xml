@@ -104,7 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1607073715113">
+      <file name="/Dummy.txt" timestamp="1607258555259">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -116,12 +116,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1607257927551">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1607258430767">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="39" column="95" />
-        <mark key="]" line="39" column="96" />
-        <mark key="^" line="39" column="96" />
-        <mark key="." line="39" column="95" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="11" />
+        <mark key="^" line="40" column="11" />
+        <mark key="." line="40" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/ListUtilTest.groovy" timestamp="1607197229236">
         <mark key="'" line="22" column="27" />
@@ -141,8 +141,8 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1607202657180">
-        <mark key="'" line="72" column="19" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1607258539128">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="327" column="0" />
         <mark key="]" line="327" column="0" />
         <mark key="." line="327" column="0" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="109" column="37" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="111" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="238" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
@@ -318,6 +317,7 @@
       <jump line="59" column="67" filename="$MAVEN_REPOSITORY$/com/jakewharton/fliptables/fliptables/1.1.0/fliptables-1.1.0-sources.jar!/com/jakewharton/fliptables/FlipTableConverters.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="64" column="39" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
