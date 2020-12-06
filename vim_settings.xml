@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaW11bGF0b3JcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplTGV2ZWxab25lU2l6ZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDaGFydFw+</entry>
         <entry encoding="base64">XDxSZXN1bHRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</entry>
         <entry encoding="base64">XDxBTkFMWVpFX01BX01BWF9HQVBfVE9fTUFcPg==</entry>
         <entry>TestingNu</entry>
+        <entry>analyzeMa</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -104,20 +104,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1607258592665">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1607278843478">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1607264985336">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="31" />
-        <mark key="^" line="17" column="31" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1607278620060">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/Environment.java" timestamp="1607259646775" />
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Value.java" timestamp="1607205405277">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="18" column="27" />
@@ -159,8 +158,8 @@
       <file name="$MAVEN_REPOSITORY$/com/jakewharton/fliptables/fliptables/1.1.0/fliptables-1.1.0-sources.jar!/com/jakewharton/fliptables/FlipTableConverters.java" timestamp="1607211649867">
         <mark key="'" line="59" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1607260911239">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1607278830798">
+        <mark key="'" line="89" column="15" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="148" column="102" />
         <mark key="." line="144" column="0" />
@@ -225,16 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="45" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="282" column="25" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.9/commons-text-1.9-sources.jar!/org/apache/commons/text/WordUtils.java" />
-      <jump line="9" column="45" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/TextUtil.java" />
-      <jump line="62" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
-      <jump line="8" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
-      <jump line="26" column="18" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
-      <jump line="51" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="18" column="28" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" />
@@ -325,6 +314,16 @@
       <jump line="44" column="55" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="34" column="51" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="22" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="8" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="89" column="15" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,7 +341,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TestingNu</text>
+        <text>analyzeMa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gLi4uIC0xIGRsYXRlZ28sIMW8ZSBiaWVyenlteSBwb2QgdXdhZ8SZIHRlIMWbd2llY2UgbmlldGVzdHVqxIVjZS4KICAgICAgICAgICAgLy8gSmXFm2xpIGJ5xYJvIGJ5IG5wLiAzIHBpZXJ3c3phLCA1IGRydWdhIHRvIDUtMz0yIGN6eWxpIDIgxZt3aWVjZSB0ZXN0dWrEhWNlIG1pxJlkenkgMyBhIDUKICAgICAgICAgICAgLy8gYWxlIHRvIGplc3QgcmF6ZSB6IHTEhSA1LCBhIHRlaiA1IG5pZSBiaWVyemVteSBwb2QgdXdhZ8SZIHN0xIVkIC0xLgogICAgICAgICAgICAvLyBKZcWbbGkgbHVrYSBqZXN0IHdpxJlrc3phIHRvIHplcnVqZW15IGxpY3puaWsuCg==</text>
@@ -384,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>TestingNu</last-search>
+      <last-search>analyzeMa</last-search>
       <last-offset />
-      <last-pattern>TestingNu</last-pattern>
+      <last-pattern>analyzeMa</last-pattern>
       <last-replace>Float</last-replace>
       <last-substitute>Double</last-substitute>
       <last-dir>1</last-dir>
