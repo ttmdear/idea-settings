@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>simulatorSl</entry>
-        <entry>SIMI</entry>
-        <entry encoding="base64">XDxJbnRlZ2VyXD4=</entry>
-        <entry>Integer</entry>
         <entry encoding="base64">XDxzaW11bGF0b3JcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplTGV2ZWxab25lU2l6ZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVDaGFydFw+</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxEb3VibGVcPg==</entry>
         <entry>Double</entry>
         <entry encoding="base64">XDxyb3dUeXBlXD4=</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX01JTl9XQVZFX01PTUVOVFVNXD4=</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX01BWF9HQVBfVE9fTUFcPg==</entry>
+        <entry>TestingNu</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -110,18 +110,22 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" timestamp="1607261690606">
+        <mark key="'" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/Environment.java" timestamp="1607259646775" />
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Value.java" timestamp="1607205405277">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="18" column="27" />
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1607258430767">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="11" />
-        <mark key="^" line="40" column="11" />
-        <mark key="." line="40" column="10" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1607261792818">
+        <mark key="'" line="34" column="51" />
+        <mark key="[" line="42" column="77" />
+        <mark key="]" line="42" column="78" />
+        <mark key="^" line="42" column="78" />
+        <mark key="." line="42" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/ListUtilTest.groovy" timestamp="1607197229236">
         <mark key="'" line="22" column="27" />
@@ -129,11 +133,6 @@
         <mark key="]" line="28" column="8" />
         <mark key="^" line="28" column="8" />
         <mark key="." line="28" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAvarangeAnalyzer.java" timestamp="1607197118329">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/DoubleValue.java" timestamp="1607210483775">
         <mark key="[" line="4" column="14" />
@@ -156,12 +155,12 @@
       <file name="$MAVEN_REPOSITORY$/com/jakewharton/fliptables/fliptables/1.1.0/fliptables-1.1.0-sources.jar!/com/jakewharton/fliptables/FlipTableConverters.java" timestamp="1607211649867">
         <mark key="'" line="59" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1607214854231">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1607260911239">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="199" column="32" />
-        <mark key="]" line="200" column="8" />
-        <mark key="." line="200" column="7" />
-        <mark key="^" line="200" column="8" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="148" column="102" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="144" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1607258672636">
         <mark key="'" line="16" column="22" />
@@ -182,15 +181,18 @@
         <mark key="." line="64" column="22" />
         <mark key="^" line="64" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1607261218264">
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="74" />
+        <mark key="^" line="41" column="74" />
+        <mark key="." line="41" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1607205931511">
         <mark key="'" line="132" column="17" />
         <mark key="[" line="53" column="51" />
         <mark key="]" line="53" column="52" />
         <mark key="." line="53" column="51" />
         <mark key="^" line="53" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/Synchronous.java" timestamp="1606944966423">
-        <mark key="'" line="121" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1607215119162">
         <mark key="'" line="65" column="39" />
@@ -219,11 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="37" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="238" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="237" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="240" column="7" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="15" column="45" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="282" column="25" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-text/1.9/commons-text-1.9-sources.jar!/org/apache/commons/text/WordUtils.java" />
       <jump line="9" column="45" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/TextUtil.java" />
@@ -304,7 +301,6 @@
       <jump line="27" column="12" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="25" column="38" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="140" column="33" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
-      <jump line="39" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="162" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="163" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="168" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
@@ -319,6 +315,12 @@
       <jump line="79" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="64" column="39" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="35" column="51" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="45" column="56" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="39" column="53" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="44" column="55" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="34" column="51" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/resources/parameters.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +329,7 @@
         <text encoding="base64">ICAgICAqIFNldCBhbmFseXplIHBvaW50ZXIgdG8gZ2l2ZW4gdmFsdWUgYW5kIHJlc29sdmUgYW5hbHl6ZSBxdW90ZSBhbmQgYW5hbHl6ZSBkYXRlIHRvIHZhbHVlLgphbmFseXplTUFNYXhHYXBUb01BYW5hbHl6ZU1BTWluV2F2ZU1vbWVudHVtYW5hbHl6ZU1BU01BUGVyaW9kYW5hbHl6ZU1BVGVzdGluZ01heEdhcGFuYWx5emVNQVRlc3RpbmdNaW5HYXBUb1NpZ25hbGFuYWx5emVNQVRlc3RpbmdOdW1iZXJhbmFseXplTUFXYXZlTWluTGVuZ3RoVG9TaWduYWwgICAgICAgIHJldHVybiBEb3VibGUucGFyc2VEb3VibGUoZ2V0KCJhbmFseXplTUFNYXhHYXBUb01BIikpOwogICAgICAgIHJldHVybiBEb3VibGUucGFyc2VEb3VibGUoZ2V0KCJhbmFseXplTUFNaW5XYXZlTW9tZW50dW0iKSk7CiAgICAgICAgcmV0dXJuIEludGVnZXIucGFyc2VJbnQoZ2V0KCJhbmFseXplTUFTTUFQZXJpb2QiKSk7CiAgICAgICAgcmV0dXJuIEludGVnZXIucGFyc2VJbnQoZ2V0KCJhbmFseXplTUFUZXN0aW5nTWF4R2FwIikpOwogICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KGdldCgiYW5hbHl6ZU1BVGVzdGluZ01pbkdhcFRvU2lnbmFsIikpOwogICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KGdldCgiYW5hbHl6ZU1BVGVzdGluZ051bWJlciIpKTsKICAgICAgICByZXR1cm4gSW50ZWdlci5wYXJzZUludChnZXQoImFuYWx5emVNQVdhdmVNaW5MZW5ndGhUb1NpZ25hbCIpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZUxpc3QuYWRkKG5ldyBJbnRlZ2VyVmFsdWUoUGFyYW1ldGVyTmFtZS5BTkFMWVpFX01BX1RFU1RJTkdfTUlOX0dBUF9UT19TSUdOQUwsIDAsIDUsIDEpKTsK</text>
       </register>
       <register name="+" type="4">
         <text>OPTIMIZER</text>
@@ -336,40 +338,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3dUeXBlXD4=</text>
+        <text>TestingNu</text>
       </register>
-      <register name="0" type="4">
-        <text>optimizer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLi4uIC0xIGRsYXRlZ28sIMW8ZSBiaWVyenlteSBwb2QgdXdhZ8SZIHRlIMWbd2llY2UgbmlldGVzdHVqxIVjZS4KICAgICAgICAgICAgLy8gSmXFm2xpIGJ5xYJvIGJ5IG5wLiAzIHBpZXJ3c3phLCA1IGRydWdhIHRvIDUtMz0yIGN6eWxpIDIgxZt3aWVjZSB0ZXN0dWrEhWNlIG1pxJlkenkgMyBhIDUKICAgICAgICAgICAgLy8gYWxlIHRvIGplc3QgcmF6ZSB6IHTEhSA1LCBhIHRlaiA1IG5pZSBiaWVyemVteSBwb2QgdXdhZ8SZIHN0xIVkIC0xLgogICAgICAgICAgICAvLyBKZcWbbGkgbHVrYSBqZXN0IHdpxJlrc3phIHRvIHplcnVqZW15IGxpY3puaWsuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZUxpc3QuYWRkKG5ldyBJbnRlZ2VyVmFsdWUoUGFyYW1ldGVyTmFtZS5BTkFMWVpFX01BX1RFU1RJTkdfTUlOX0dBUF9UT19TSUdOQUwsIDAsIDUsIDEpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZFV0aWwuc2xlZXBXaXRoVHJ5KDUwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB2YWx1ZUxpc3QuYWRkKG5ldyBEb3VibGVWYWx1ZShQYXJhbWV0ZXJOYW1lLkFOQUxZWkVfTUFfTUFYX0dBUF9UT19NQSwgMC4wMDAwLCAwLjAwMDMsIDAuMDAwMSkpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdCA9ICJTOiIgKyBzaWduYWwuZ2V0VHJpZ2dlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZFV0aWwuc2xlZXBXaXRoVHJ5KDUwMCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB2YWx1ZUxpc3QuYWRkKG5ldyBJbnRlZ2VyVmFsdWUoUGFyYW1ldGVyTmFtZS5BTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUCwgMCwgNSwgMSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB2YWx1ZUxpc3QuYWRkKG5ldyBEb3VibGVWYWx1ZShQYXJhbWV0ZXJOYW1lLkFOQUxZWkVfTUFfTUlOX1dBVkVfTU9NRU5UVU0sIDAuMDAwMCwgMC4wMDAzLCAwLjAwMDEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWx1ZUxpc3QuYWRkKG5ldyBJbnRlZ2VyVmFsdWUoUGFyYW1ldGVyTmFtZS5BTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUCwgMCwgNSwgMSkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGorKzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -378,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyb3dUeXBlXD4=</last-search>
+      <last-search>TestingNu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3dUeXBlXD4=</last-pattern>
+      <last-pattern>TestingNu</last-pattern>
       <last-replace>Float</last-replace>
       <last-substitute>Double</last-substitute>
       <last-dir>1</last-dir>
