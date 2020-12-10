@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="FactoryProcessor" type="CLASS" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="xclip.sh" type="PLAIN_TEXT" />
       <mapping pattern="grep" type="PLAIN_TEXT" />
       <mapping pattern="maven" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="aas" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="pde" type="ObjectiveC" />
+      <mapping pattern="FactoryProcessor" type="CLASS" />
     </extensionMap>
   </component>
 </application>
