@@ -18,13 +18,13 @@
         <entry encoding="base64">XDxyZWxvYWRDaGFydFw+</entry>
         <entry encoding="base64">XDxQcmljZU1vdmVtZW50QW5ub3RhdGlvblw+</entry>
         <entry encoding="base64">XDxEcmF3ZWRMZXZlbFw+</entry>
-        <entry encoding="base64">XDxhcGlQdWJsaXNoVXJsXD4=</entry>
         <entry encoding="base64">XDxwdWJsaXNoVXJsXD4=</entry>
         <entry encoding="base64">XDx1c2VyRW50aXR5TWFuYWdlclw+</entry>
         <entry encoding="base64">XDx1c2VyVHJhbnNhY3Rpb25NYW5hZ2VyXD4=</entry>
         <entry>diale</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry>DATE</entry>
+        <entry encoding="base64">XDxhcGlQdWJsaXNoVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -90,11 +90,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/README.md" timestamp="1608552706473">
-        <mark key="[" line="93" column="70" />
-        <mark key="]" line="92" column="31" />
-        <mark key="." line="92" column="30" />
-        <mark key="^" line="92" column="31" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/README.md" timestamp="1608558574162">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/DbConfiguration.java" timestamp="1608551226485">
         <mark key="[" line="25" column="13" />
@@ -102,11 +102,18 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="26" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1608558034147">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="27" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1608559003229">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="37" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApi.java" timestamp="1608559374929">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/Dockerfile" timestamp="1608552687934">
         <mark key="[" line="2" column="70" />
@@ -133,25 +140,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfigurationTest.groovy" timestamp="1608548786630">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="57" column="21" />
-        <mark key="^" line="48" column="21" />
-        <mark key="." line="57" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1608556582425">
+      <file name="/Dummy.txt" timestamp="1608559461629">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="85" />
         <mark key="^" line="0" column="85" />
         <mark key="." line="0" column="85" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" timestamp="1608555861875">
-        <mark key="'" line="65" column="15" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="80" column="9" />
-        <mark key="." line="79" column="86" />
-        <mark key="^" line="79" column="87" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/target/classes/application.yaml" timestamp="1608548980545">
         <mark key="'" line="15" column="26" />
@@ -173,12 +166,12 @@
         <mark key="." line="100" column="50" />
         <mark key="^" line="100" column="51" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1608558094755">
-        <mark key="'" line="36" column="30" />
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="16" column="19" />
-        <mark key="^" line="16" column="20" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1608559233853">
+        <mark key="'" line="33" column="104" />
+        <mark key="[" line="33" column="112" />
+        <mark key="]" line="33" column="112" />
+        <mark key="." line="33" column="111" />
+        <mark key="^" line="33" column="112" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/resources/ted.xml" timestamp="1608553334002">
         <mark key="'" line="19" column="13" />
@@ -196,9 +189,9 @@
         <mark key="^" line="5" column="38" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfiguration.java" timestamp="1608555865303">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="61" column="9" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="9" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1608556582411">
         <mark key="[" line="0" column="0" />
@@ -208,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
       <jump line="166" column="27" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/NoticePreparatorServiceImpl.java" />
       <jump line="39" column="41" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/NoticePreparatorServiceImpl.java" />
       <jump line="95" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
@@ -280,7 +272,6 @@
       <jump line="14" column="45" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfigurationTest.groovy" />
       <jump line="36" column="4" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfigurationTest.groovy" />
       <jump line="17" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
-      <jump line="33" column="30" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
       <jump line="15" column="26" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/target/classes/application.yaml" />
       <jump line="2" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/DbConfiguration.java" />
       <jump line="16" column="24" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/DbConfiguration.java" />
@@ -308,6 +299,8 @@
       <jump line="46" column="23" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfiguration.java" />
       <jump line="63" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
       <jump line="25" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
+      <jump line="18" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" />
+      <jump line="33" column="104" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,8 +308,8 @@
       <register name="a" type="4">
         <text>listElem['1']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>log.level</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBEZWZhdWx0VXJpQnVpbGRlckZhY3RvcnkgdXJpQnVpbGRlckZhY3RvcnkgPSBuZXcgRGVmYXVsdFVyaUJ1aWxkZXJGYWN0b3J5KGJ6cENvbmZpZ3VyYXRpb24uZ2V0QXBpQmFzZVVybCgpKTsK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -328,16 +321,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>log.level</text>
+        <text>bzp.api.jwtToken</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MO_NOTICE_IMPORTER_BZP_API_PUBLISH_URL</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>DATE</text>
+        <text encoding="base64">XDxhcGlQdWJsaXNoVXJsXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -353,41 +346,41 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWVycm9yLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihTdHJpbmcuZm9ybWF0KCJQbGVhc2Ugc2V0IHBhcmFtZXRlcnMgJXMuIiwgZXJyb3IpKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>publishUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWVycm9yLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiUGxlYXNlIGNoZWNrIGlmIGFsbCByZXF1aXJlZCBwYXJhbWV0ZXJzIGFyZSBzZXQuIFNldCB0aGVtIGJ5IGVudiB2YXJpYWJsZXMgb3IiICsKICAgICAgICAgICAgICAgICIgZHVyaW5nIHBhY2tpbmcuIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBEZWZhdWx0VXJpQnVpbGRlckZhY3RvcnkgdXJpQnVpbGRlckZhY3RvcnkgPSBuZXcgRGVmYXVsdFVyaUJ1aWxkZXJGYWN0b3J5KGJ6cENvbmZpZ3VyYXRpb24uZ2V0QXBpQmFzZVVybCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWVycm9yLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiUGxlYXNlIGNoZWNrIGlmIGFsbCByZXF1aXJlZCBwYXJhbWV0ZXJzIGFyZSBzZXQuIFNldCB0aGVtIGJ5IGVudiB2YXJpYWJsZXMgb3IiICsKICAgICAgICAgICAgICAgICIgZHVyaW5nIHBhY2tpbmcuIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJQYXJhbWV0ZXIgW3t9XSBpcyBub3Qgc2V0LiIsIEVudmlyb25tZW50VmFyaWFibGVzLk1PX05PVElDRV9JTVBPUlRFUl9CWlBfQVBJX0pXVF9UT0tFTik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJQYXJhbWV0ZXIgW3t9XSBpcyBub3Qgc2V0LiIsIEVudmlyb25tZW50VmFyaWFibGVzLk1PX05PVElDRV9JTVBPUlRFUl9CWlBfQVBJX0pXVF9UT0tFTik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJQYXJhbWV0ZXIgW3t9XSBpcyBub3Qgc2V0LiIsICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGVycm9yID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJQYXJhbWV0ZXIgW3t9XSBpcyBub3Qgc2V0LiIsICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3IgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGVycm9yID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -396,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DATE</last-search>
+      <last-search encoding="base64">XDxhcGlQdWJsaXNoVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>DATE</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlQdWJsaXNoVXJsXD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
