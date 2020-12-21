@@ -30,6 +30,8 @@
         <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -52,22 +54,58 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFreeChart.java" timestamp="1605390192703">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="18" />
-        <mark key="^" line="46" column="18" />
-        <mark key="." line="46" column="17" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1605388265738">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/ChartObject.java" timestamp="1605389959944">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/ChartObjects.java" timestamp="1605389966821">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="61" />
+        <mark key="^" line="4" column="61" />
+        <mark key="." line="4" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/AnalyzerPointerObject.java" timestamp="1605389652152">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/ChartObjectList.java" timestamp="1605389971821">
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1605390843279">
         <mark key="'" line="36" column="6" />
@@ -75,6 +113,66 @@
         <mark key="]" line="438" column="7" />
         <mark key="^" line="438" column="7" />
         <mark key="." line="438" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/ChartObject.java" timestamp="1605389959944">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/JFreeChart.java" timestamp="1605390192703">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="18" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="46" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605389466846">
+        <mark key="'" line="235" column="11" />
+        <mark key="[" line="231" column="29" />
+        <mark key="]" line="232" column="8" />
+        <mark key="." line="232" column="7" />
+        <mark key="^" line="232" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" timestamp="1605388357165">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/ChartTemplate.java" timestamp="1605390872908">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/AnalyzerPointer.java" timestamp="1605390458350">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1605382462273">
+        <mark key="'" line="50" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/LevelAnalyzer.java" timestamp="1605389252330">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousListTest.groovy" timestamp="1605382554935">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/BaseChart.java" timestamp="1605390103346">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/StandardChart.java" timestamp="1605390208848">
         <mark key="'" line="177" column="27" />
@@ -88,78 +186,6 @@
         <mark key="]" line="34" column="7" />
         <mark key="." line="34" column="6" />
         <mark key="^" line="34" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/ChartObjectList.java" timestamp="1605389971821">
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/ChartObjects.java" timestamp="1605389966821">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="61" />
-        <mark key="^" line="4" column="61" />
-        <mark key="." line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/SynchronousList.java" timestamp="1605388357165">
-        <mark key="'" line="33" column="29" />
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="44" column="23" />
-        <mark key="^" line="44" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/AnalyzerPointerObject.java" timestamp="1605389652152">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="48" />
-        <mark key="^" line="2" column="48" />
-        <mark key="." line="2" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/pom.xml" timestamp="1605382462273">
-        <mark key="'" line="50" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/LevelAnalyzer.java" timestamp="1605389252330">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/AnalyzerPointer.java" timestamp="1605390458350">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1605389466846">
-        <mark key="'" line="235" column="11" />
-        <mark key="[" line="231" column="29" />
-        <mark key="]" line="232" column="8" />
-        <mark key="." line="232" column="7" />
-        <mark key="^" line="232" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1605388265738">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/BaseChart.java" timestamp="1605390103346">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/test/java/com/lvl/util/SynchronousListTest.groovy" timestamp="1605382554935">
-        <mark key="'" line="3" column="31" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="36" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/chart/ChartTemplate.java" timestamp="1605390872908">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1605389836163">
         <mark key="[" line="0" column="0" />
@@ -317,52 +343,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
