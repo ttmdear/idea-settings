@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>3\.10\.</entry>
-        <entry>3\.11\.</entry>
-        <entry>0564</entry>
-        <entry>Cześci</entry>
-        <entry>Część</entry>
-        <entry>3\.8</entry>
-        <entry>3\.9</entry>
-        <entry>Zamawia</entry>
         <entry>1\.5</entry>
         <entry>-08</entry>
         <entry>01</entry>
@@ -25,6 +17,14 @@
         <entry encoding="base64">XDx6YW1Db3VudFw+</entry>
         <entry>-16</entry>
         <entry>BT-500</entry>
+        <entry>o_zm_um</entry>
+        <entry>notice</entry>
+        <entry>-11</entry>
+        <entry>722</entry>
+        <entry>PLN</entry>
+        <entry>100000,00</entry>
+        <entry>ogl_o_zm_u</entry>
+        <entry>Iden</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -109,18 +109,18 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="3" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" timestamp="1608639152310">
-        <mark key="'" line="3" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" timestamp="1608645205577">
+        <mark key="'" line="154" column="30" />
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="59" />
-        <mark key="." line="51" column="10" />
-        <mark key="^" line="51" column="11" />
+        <mark key="." line="143" column="25" />
+        <mark key="^" line="143" column="26" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1608635285518">
-        <mark key="'" line="412" column="54" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/definitions/bzp-api.json" timestamp="1608561082224">
-        <mark key="'" line="478" column="9" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" timestamp="1608644557083">
+        <mark key="'" line="175" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="201" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" timestamp="1608641935412">
         <mark key="'" line="206" column="11" />
@@ -139,17 +139,19 @@
         <mark key="'" line="78" column="5" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko.ftl" timestamp="1608631374803" />
-      <file name="/Dummy.txt" timestamp="1608643124452">
+      <file name="/Dummy.txt" timestamp="1608645663894">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-swagger/target/generated-sources/openapi/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/model/NoticeData.java" timestamp="1608629474231" />
-      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1608643119384">
+      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1608645367298">
+        <mark key="'" line="5" column="10" />
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1608573711125">
         <mark key="'" line="33" column="106" />
@@ -162,9 +164,6 @@
         <mark key="'" line="19" column="30" />
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="40" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608636005709">
-        <mark key="'" line="657" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" timestamp="1608632942254">
         <mark key="'" line="314" column="15" />
@@ -184,22 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="478" column="9" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/definitions/bzp-api.json" />
-      <jump line="19" column="30" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/resources/ted.xml" />
-      <jump line="36" column="126" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
-      <jump line="39" column="30" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
-      <jump line="17" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
-      <jump line="33" column="106" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
-      <jump line="5" column="2" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyn_post_bug_epzpts_1684.json" />
-      <jump line="4" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyn_post_bug_epzpts_1684.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyn_post_bug_epzpts_1684.json" />
-      <jump line="129" column="2" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="5" column="2" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="326" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="7" column="11" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyn_post_bug_epzpts_1684.json" />
-      <jump line="78" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl.ftl" />
-      <jump line="35" column="26" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um.ftl" />
       <jump line="709" column="30" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="296" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
@@ -284,6 +267,22 @@
       <jump line="22" column="19" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" />
       <jump line="186" column="11" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" />
       <jump line="206" column="11" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" />
+      <jump line="402" column="8" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="5" column="10" filename="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" />
+      <jump line="6" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="7" column="39" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="70" column="20" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="72" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="115" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="119" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="175" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="144" column="34" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
+      <jump line="378" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="383" column="54" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="385" column="55" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="82" column="24" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
+      <jump line="154" column="30" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,7 +291,7 @@
         <text>listElem['1']</text>
       </register>
       <register name="&quot;" type="4">
-        <text>67eacc0b</text>
+        <text>324be32c</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -304,16 +303,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>LQBFAE</text>
+        <text>Ogłoszenie o zmianie umowy</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>67eacc0b</text>
+        <text>324be32c</text>
       </register>
       <register name="/" type="4">
-        <text>BT-500</text>
+        <text>Iden</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -329,407 +328,41 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtMTZAMSIsCiAgICAidmFsdWUiOiAiTFFCRkFFIgogIH0sCg==</text>
+      <register name="0" type="4">
+        <text>RKT\-1052@3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwjLS0gWkFNQVdJQUqlQ1lDSCAtLT4K</text>
+        <text encoding="base64">PGgzIGNsYXNzPSJtYi0wIj40LjMuMi4pIEtyYWpvd3kgTnVtZXIgSWRlbnR5ZmlrYWN5am55OiA8c3BhbiBjbGFzcz0ibm9ybWFsIj5SRUdPTiA3NjY0NzUxODI4Mjwvc3Bhbj48L2gzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBaQU1BV0lBSkFDWSBUT0RPLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwjYXNzaWduIHphbUNvdW50ID0gVFwtMDE/bnVtYmVyPgo=</text>
+        <text encoding="base64">PC8jaWY+Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text>[
-  {
-    &quot;id&quot;: &quot;BT-21&quot;,
-    &quot;value&quot;: &quot;MAT 202012 1140 bez części numer ref&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-04&quot;,
-    &quot;value&quot;: &quot;ocds-148610-110d9330-4302-11eb-b743-1a99c3ce7759&quot;
-  },
-  {
-    &quot;id&quot;: &quot;@IsTenderInitiated&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500@1&quot;,
-    &quot;value&quot;: &quot;0_test&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16@1&quot;,
-    &quot;value&quot;: &quot;ZBPKWN&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501@1&quot;,
-    &quot;value&quot;: &quot;REGON 555817760&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510@1&quot;,
-    &quot;value&quot;: &quot;Poligonowa 9&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513@1&quot;,
-    &quot;value&quot;: &quot;Kraków&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512@1&quot;,
-    &quot;value&quot;: &quot;01-376&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0520@1&quot;,
-    &quot;value&quot;: &quot;Małopolskie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-514@1&quot;,
-    &quot;value&quot;: &quot;Polska&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-507@1&quot;,
-    &quot;value&quot;: &quot;PL213 - Miasto Kraków&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505@1&quot;,
-    &quot;value&quot;: &quot;testowa.com.pl&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-22&quot;,
-    &quot;value&quot;: &quot;MAT 202012 1140 bez części numer ref&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0562&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0530&quot;,
-    &quot;value&quot;: &quot;Zamówienie udzielane jest w trybie negocjacji bez ogłoszenia na podstawie : art. 301 ust. 1 pkt 2 ustawy&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0509&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0705&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0710&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-11&quot;,
-    &quot;value&quot;: &quot;Zamawiający publiczny - inny zamawiający (proszę określić)&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-2228&quot;,
-    &quot;value&quot;: &quot;inns&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-10&quot;,
-    &quot;value&quot;: &quot;Inna działalność&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0564&quot;,
-    &quot;value&quot;: &quot;2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-263_0&quot;,
-    &quot;value&quot;: &quot;{'KOD A'}&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-263_1&quot;,
-    &quot;value&quot;: &quot;{'KOD B'}&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-1052_0&quot;,
-    &quot;value&quot;: &quot;EUR&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-1052_1&quot;,
-    &quot;value&quot;: &quot;PL&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0565_0&quot;,
-    &quot;value&quot;: &quot;1000 00 0 B&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0565_1&quot;,
-    &quot;value&quot;: &quot;1000 00 0 B&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-13720_0&quot;,
-    &quot;value&quot;: &quot;BT-13720_0&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-13720_1&quot;,
-    &quot;value&quot;: &quot;BT-13720_1&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-2229&quot;,
-    &quot;value&quot;: &quot;werwe&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-08&quot;,
-    &quot;value&quot;: &quot;Postępowanie prowadzą zamawiający działający wspólnie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;T-01&quot;,
-    &quot;value&quot;: &quot;2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500_1&quot;,
-    &quot;value&quot;: &quot;zam2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16_1&quot;,
-    &quot;value&quot;: &quot;odd2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501_1&quot;,
-    &quot;value&quot;: &quot;niumer2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510_1&quot;,
-    &quot;value&quot;: &quot;ulica2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513_1&quot;,
-    &quot;value&quot;: &quot;miej2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512_1&quot;,
-    &quot;value&quot;: &quot;kod2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-503_1&quot;,
-    &quot;value&quot;: &quot;tek2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-739_1&quot;,
-    &quot;value&quot;: &quot;fax2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-506_1&quot;,
-    &quot;value&quot;: &quot;adresopczty2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505_1&quot;,
-    &quot;value&quot;: &quot;strona2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500_2&quot;,
-    &quot;value&quot;: &quot;nazwa3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16_2&quot;,
-    &quot;value&quot;: &quot;oddz3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501_2&quot;,
-    &quot;value&quot;: &quot;krajnum3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510_2&quot;,
-    &quot;value&quot;: &quot;uli3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513_2&quot;,
-    &quot;value&quot;: &quot;miejsc3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512_2&quot;,
-    &quot;value&quot;: &quot;kod3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-503_2&quot;,
-    &quot;value&quot;: &quot;numtel3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-739_2&quot;,
-    &quot;value&quot;: &quot;fax3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-506_2&quot;,
-    &quot;value&quot;: &quot;poczta3&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505_2&quot;,
-    &quot;value&quot;: &quot;stroan3&quot;
-  }
-]</text>
+        <text encoding="base64">ICAgIDwvI2lmPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUktULTA1NjUK</text>
+        <text encoding="base64">PCNlbHNlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ2YWx1ZSI6ICJLT0QgQSIsCg==</text>
+        <text encoding="base64">PCNlbHNlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">PCNlbHNlaWYgQlRcLTExP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4zLjMuKSBOYXp3YSBwcm9qZWt0dSBsdWIgcHJvZ3JhbXU6IDwvaDM+CiAgICA8cD4ke0JUXC0xMX08L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC8jaWY+Cg==</text>
+        <text encoding="base64">PCNlbHNlaWYgQlRcLTExP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4zLjMuKSBOYXp3YSBwcm9qZWt0dSBsdWIgcHJvZ3JhbXU6IDwvaDM+CiAgICA8cD4ke0JUXC0xMX08L3A+CjwvI2lmPgo=</text>
       </register>
       <register name="9" type="2">
-        <text>[
-  {
-    &quot;id&quot;: &quot;RKT-0502&quot;,
-    &quot;value&quot;: &quot;Zamówienia publicznego&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-21&quot;,
-    &quot;value&quot;: &quot;MAT 202012 1140 bez części numer ref&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-04&quot;,
-    &quot;value&quot;: &quot;ocds-148610-110d9330-4302-11eb-b743-1a99c3ce7759&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0509&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;@IsTenderInitiated&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500@1&quot;,
-    &quot;value&quot;: &quot;0_test&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16@1&quot;,
-    &quot;value&quot;: &quot;ZBPKWN&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501@1&quot;,
-    &quot;value&quot;: &quot;REGON 555817760&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510@1&quot;,
-    &quot;value&quot;: &quot;Poligonowa 9&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513@1&quot;,
-    &quot;value&quot;: &quot;Kraków&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512@1&quot;,
-    &quot;value&quot;: &quot;01-376&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0520@1&quot;,
-    &quot;value&quot;: &quot;Małopolskie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-514@1&quot;,
-    &quot;value&quot;: &quot;Polska&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-507@1&quot;,
-    &quot;value&quot;: &quot;PL213 - Miasto Kraków&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505@1&quot;,
-    &quot;value&quot;: &quot;testowa.com.pl&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-22&quot;,
-    &quot;value&quot;: &quot;MAT 202012 1140 bez części numer ref&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0562&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-2210&quot;,
-    &quot;value&quot;: &quot;Tak&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0710&quot;,
-    &quot;value&quot;: &quot;Nie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-08&quot;,
-    &quot;value&quot;: &quot;Postępowanie prowadzą zamawiający działający wspólnie&quot;
-  },
-  {
-    &quot;id&quot;: &quot;T-01&quot;,
-    &quot;value&quot;: &quot;2&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500_1&quot;,
-    &quot;value&quot;: &quot;2222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16_1&quot;,
-    &quot;value&quot;: &quot;2222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501_1&quot;,
-    &quot;value&quot;: &quot;2222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510_1&quot;,
-    &quot;value&quot;: &quot;2222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512_1&quot;,
-    &quot;value&quot;: &quot;222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-739_1&quot;,
-    &quot;value&quot;: &quot;222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-506_1&quot;,
-    &quot;value&quot;: &quot;222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505_1&quot;,
-    &quot;value&quot;: &quot;2222&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500_2&quot;,
-    &quot;value&quot;: &quot;333&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16_2&quot;,
-    &quot;value&quot;: &quot;333&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501_2&quot;,
-    &quot;value&quot;: &quot;3333&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510_2&quot;,
-    &quot;value&quot;: &quot;3333&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513_2&quot;,
-    &quot;value&quot;: &quot;33&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-503_2&quot;,
-    &quot;value&quot;: &quot;333&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-506_2&quot;,
-    &quot;value&quot;: &quot;333&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505_2&quot;,
-    &quot;value&quot;: &quot;333&quot;
-  }
-]</text>
+        <text encoding="base64">PCNlbHNlaWYgUktUXC0wNzEwP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4zLjEuMS4pIE51bWVyIG9ns29zemVuaWE6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7UktUXC0wNzEwfTwvc3Bhbj48L2gzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -738,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>BT-500</last-search>
+      <last-search>Iden</last-search>
       <last-offset />
-      <last-pattern>BT-500</last-pattern>
+      <last-pattern>Iden</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
