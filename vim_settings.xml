@@ -23,8 +23,8 @@
         <entry>Całkowita wartość zamówienia</entry>
         <entry>-27</entry>
         <entry>ogl_o_zam</entry>
-        <entry>2265</entry>
         <entry>0560</entry>
+        <entry>2265</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -144,11 +144,11 @@
         <mark key="]" line="201" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608725134848">
-        <mark key="'" line="362" column="10" />
-        <mark key="[" line="384" column="0" />
-        <mark key="]" line="384" column="0" />
-        <mark key="." line="384" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608726625295">
+        <mark key="[" line="366" column="52" />
+        <mark key="]" line="366" column="52" />
+        <mark key="^" line="362" column="48" />
+        <mark key="." line="366" column="52" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1608723993668">
         <mark key="'" line="160" column="54" />
@@ -303,8 +303,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj40LjEuNS4pIENhs2tvd2l0YSB3YXJ0b5zmIHphbfN3aWVuaWEgKGJleiBWQVQpOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke0JUXC0yN308L3NwYW4+PC9oMz4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -322,10 +322,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgQlRcLTI3P2hhc19jb250ZW50</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>0560</text>
+        <text>2265</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -341,8 +341,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PCNpZiBSS1RcLTIyNjU/aGFzX2NvbnRlbnQgJiYgQlRcLTI3P2hhc19jb250ZW50Pgo=</text>
+      <register name="0" type="4">
+        <text>RKT\-0560</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -351,31 +351,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCNpZiBSS1RcLTA1NjA/aGFzX2NvbnRlbnQgJiYgUktUXC0wNTYwID0gIlRhayI+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41Likgo7ljem5hIHdhcnRvnOYgcG9zemN6ZWfzbG55Y2ggY3rqnGNpIHphbfN3aWVuaWE6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTI3fTwvc3Bhbj48L2gzPgo8I2Vsc2U+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41Likgo7ljem5hIHdhcnRvnOYgemFt83dpZW5pYTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMjd9PC9zcGFuPjwvaDM+CjwvI2lmPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxoMyBjbGFzcz0ibWItMCI+NC4xLjYuKSBXYXJ0b5zmIHphbfN3aWVuaWEgc3Rhbm93abljZWdvIHByemVkbWlvdCB0ZWdvIHBvc3TqcG93YW5pYSAoYmV6IFZBVCk6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7UktUXC0yMjY1fTwvc3Bhbj48L2gzPgo=</text>
+        <text encoding="base64">PCNpZiBSS1RcLTIyNjU/aGFzX2NvbnRlbnQgJiYgQlRcLTI3P2hhc19jb250ZW50PgogICAgPCMtLSB6YW3zd2llbmllIHogY3rqnGNpYW1pIC0tPgo8I2Vsc2U+CiAgICA8Iy0tIHphbfN3aWVuaWUgYmV6IGN66pxjaSAtLT4KICAgIDwjaWYgUktUXC0wNTYwP2hhc19jb250ZW50PgogICAgICAgIDwjaWYgUktUXC0wNTYwID0gIlRhayI+CiAgICAgICAgICAgIDxoMyBjbGFzcz0ibWItMCI+NC4xLjUuKSBDYbNrb3dpdGEgd2FydG+c5iB6YW3zd2llbmlhIChiZXogVkFUKTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMjd9PC9zcGFuPjwvaDM+CiAgICAgICAgPCNlbHNlPgogICAgICAgICAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41LikgV2FydG+c5iB6YW3zd2llbmlhOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke0JUXC0yN308L3NwYW4+PC9oMz4KICAgICAgICA8LyNpZj4KICAgIDwvI2lmPgo8LyNpZj4K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwjaWYgUktUXC0wNTYwP2hhc19jb250ZW50ICYmIFJLVFwtMDU2MCA9ICJUYWsiPgogICAgICAgIAogICAgICAgIDwjaWYgQlRcLTI3P2hhc19jb250ZW50PgogICAgICAgICAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41LikgQ2Gza293aXRhIHdhcnRvnOYgemFt83dpZW5pYSAoYmV6IFZBVCk6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTI3fTwvc3Bhbj48L2gzPgogICAgICAgIDwvI2lmPgogICAgPC8jaWY+Cg==</text>
+        <text encoding="base64">ICAgIDwjaWYgUktUXC0wNTYwP2hhc19jb250ZW50ICYmIFJLVFwtMDU2MCA9ICJUYWsiPgogICAgICAgIDxoMyBjbGFzcz0ibWItMCI+NC4xLjUuKSCjuWN6bmEgd2FydG+c5iBwb3N6Y3plZ/NsbnljaCBjeuqcY2kgemFt83dpZW5pYTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMjd9PC9zcGFuPjwvaDM+CiAgICA8I2Vsc2U+CiAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj40LjEuNS4pIKO5Y3puYSB3YXJ0b5zmIHphbfN3aWVuaWE6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTI3fTwvc3Bhbj48L2gzPgogICAgPC8jaWY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwjaWYgUktUXC0wNTYwP2hhc19jb250ZW50ICYmIFJLVFwtMDU2MCA9ICJUYWsiPgogICAgICAgIAogICAgICAgIDwjaWYgQlRcLTI3P2hhc19jb250ZW50PgogICAgICAgICAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41LikgQ2Gza293aXRhIHdhcnRvnOYgemFt83dpZW5pYSAoYmV6IFZBVCk6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTI3fTwvc3Bhbj48L2gzPgogICAgICAgIDwvI2lmPgogICAgPC8jaWY+Cg==</text>
+        <text encoding="base64">ICAgIDxoMyBjbGFzcz0ibWItMCI+NC4xLjYuKSBXYXJ0b5zmIHphbfN3aWVuaWEgc3Rhbm93abljZWdvIHByemVkbWlvdCB0ZWdvIHBvc3TqcG93YW5pYSAoYmV6IFZBVCk6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7UktUXC0yMjY1fTwvc3Bhbj48L2gzPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwjaWYgUktUXC0wNTYwCg==</text>
+        <text encoding="base64">PGgzIGNsYXNzPSJtYi0wIj40LjEuNi4pIFdhcnRvnOYgemFt83dpZW5pYSBzdGFub3dpuWNlZ28gcHJ6ZWRtaW90IHRlZ28gcG9zdOpwb3dhbmlhIChiZXogVkFUKTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtSS1RcLTIyNjV9PC9zcGFuPjwvaDM+Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8I2lmIFJLVFwtMDU2MD9oYXNfY29udGVudCAmJiBSS1RcLTA1NjAgPSAiVGFrIj4K</text>
+        <text encoding="base64">ICAgIDxoMyBjbGFzcz0ibWItMCI+NC4xLjYuKSBXYXJ0b5zmIHphbfN3aWVuaWEgc3Rhbm93abljZWdvIHByemVkbWlvdCB0ZWdvIHBvc3TqcG93YW5pYSAoYmV6IFZBVCk6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7UktUXC0yMjY1fTwvc3Bhbj48L2gzPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwjaWYgQlRcLTI3P2hhc19jb250ZW50PgogICAgICAgIDxoMyBjbGFzcz0ibWItMCI+NC4xLjUuKSBDYbNrb3dpdGEgd2FydG+c5iB6YW3zd2llbmlhIChiZXogVkFUKTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMjd9PC9zcGFuPjwvaDM+CiAgICA8LyNpZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -384,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>0560</last-search>
+      <last-search>2265</last-search>
       <last-offset />
-      <last-pattern>0560</last-pattern>
+      <last-pattern>2265</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
