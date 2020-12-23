@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>512</entry>
-        <entry encoding="base64">XDx6YW1Db3VudFw+</entry>
-        <entry>-16</entry>
         <entry>BT-500</entry>
         <entry>o_zm_um</entry>
         <entry>notice</entry>
@@ -25,6 +22,9 @@
         <entry>ogl_o_zam</entry>
         <entry>2265</entry>
         <entry>0560</entry>
+        <entry>123000</entry>
+        <entry>12300</entry>
+        <entry>1000</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -32,6 +32,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wa</entry>
         <entry>119</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -90,7 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1608727742923">
+      <file name="/Dummy.txt" timestamp="1608729011227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
@@ -118,7 +119,7 @@
         <mark key="]" line="209" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1608727736027">
+      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1608729006218">
         <mark key="'" line="5" column="10" />
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
@@ -141,10 +142,10 @@
         <mark key="]" line="201" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608727484464">
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="." line="361" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608728865473">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="0" />
+        <mark key="." line="380" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1608723993668">
         <mark key="'" line="160" column="54" />
@@ -169,12 +170,11 @@
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" timestamp="1608724557621">
         <mark key="'" line="10" column="22" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1608727534093">
-        <mark key="'" line="6" column="17" />
-        <mark key="[" line="143" column="14" />
-        <mark key="]" line="143" column="17" />
-        <mark key="." line="143" column="16" />
-        <mark key="^" line="143" column="17" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1608728738333">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="154" column="11" />
+        <mark key="]" line="154" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl.ftl" timestamp="1608628601420">
         <mark key="'" line="78" column="5" />
@@ -194,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="657" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
       <jump line="52" column="51" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
       <jump line="14" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
       <jump line="3" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" />
@@ -284,8 +283,6 @@
       <jump line="154" column="13" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="367" column="101" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
       <jump line="362" column="10" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
-      <jump line="139" column="21" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="366" column="8" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="149" column="53" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="160" column="54" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
@@ -294,6 +291,9 @@
       <jump line="237" column="156" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um.ftl" />
       <jump line="7" column="22" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="6" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="139" column="21" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="16" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj40LjEuNS4pIENhs2tvd2l0YSB3YXJ0b5zmIHphbfN3aWVuaWEgKGJleiBWQVQpOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke0JUXC0yN308L3NwYW4+PC9oMz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>710ba22a</text>
+        <text>aebab457</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -313,17 +313,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">W3siaWQiOiJSS1QtMDUwMiIsInZhbHVlIjoiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyJ9LHsiaWQiOiJCVC0yMSIsInZhbHVlIjoiUEItMjAxMjIyLTEifSx7ImlkIjoiQlQtMDQiLCJ2YWx1ZSI6Im9jZHMtMTQ4NjEwLTMwZTMxYTFiLTQ0M2YtMTFlYi05YTQ5LTBhZjRkMjZmODU4NCJ9LHsiaWQiOiJSS1QtMDUwOUAxIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiQElzVGVuZGVySW5pdGlhdGVkIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNTAwQDEiLCJ2YWx1ZSI6IkNlbnRyYWxueSBQb2RtaW90IFphbWF3aWFquWN5IFMyIn0seyJpZCI6IkJULTE2QDEiLCJ2YWx1ZSI6IkNQWlMyIn0seyJpZCI6IkJULTUwMUAxIiwidmFsdWUiOiJSRUdPTiA1MTI1Mzg4NDkifSx7ImlkIjoiQlQtNTEwQDEiLCJ2YWx1ZSI6IlByeW1hc2EgVHlzabljbGVjaWEgMjUifSx7ImlkIjoiQlQtNTEzQDEiLCJ2YWx1ZSI6IldhcnN6YXdhIn0seyJpZCI6IkJULTUxMkAxIiwidmFsdWUiOiIwMS0yNDUifSx7ImlkIjoiUktULTA1MjBAMSIsInZhbHVlIjoiTWF6b3dpZWNraWUifSx7ImlkIjoiQlQtNTE0QDEiLCJ2YWx1ZSI6IlBvbHNrYSJ9LHsiaWQiOiJCVC01MDdAMSIsInZhbHVlIjoiUEw5MTEgLSBNaWFzdG8gV2Fyc3phd2EifSx7ImlkIjoiQlQtNTA1QDEiLCJ2YWx1ZSI6Ind3dy5zYW1wbGVwYWdlLmV1In0seyJpZCI6IkJULTEwNSIsInZhbHVlIjoiWmFt83dpZW5pZSB1ZHppZWxhbmUgamVzdCB3IHRyeWJpZSBwb2RzdGF3b3d5bSBuYSBwb2RzdGF3aWUgOiBhcnQuIDI3NSBwa3QgMSB1c3Rhd3kifSx7ImlkIjoiQlQtMjIiLCJ2YWx1ZSI6IlBCLTIwMTIyMi0xIn0seyJpZCI6IlJLVC0wNTYyIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA1MTAiLCJ2YWx1ZSI6IjIwMjAvQlpQIDAwMDAwMDM5LzA2L1AifSx7ImlkIjoiUktULTA1MTAxIiwidmFsdWUiOiJ7JzEuMi4xIFBvenljamEgMSd9In0seyJpZCI6IlJLVC0wNzA1IiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTIyMTAiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJCVC03MSIsInZhbHVlIjoieydhcnQuIDk0IHVzdC4gMSBwa3QgNCkgdXN0YXd5JywnYXJ0LiA5NCB1c3QuIDEgcGt0IDUpIHVzdGF3eScsJ2FydC4gOTQgdXN0LiAxIHBrdCA3KSB1c3Rhd3knfSJ9LHsiaWQiOiJSS1QtMDUxMiIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNzEwIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiQlQtNzIyIiwidmFsdWUiOiJOYXp3YSBwcm9qZWt0dSBsdWIgcHJvZ3JhbXUifSx7ImlkIjoiQlQtNTAzQDEiLCJ2YWx1ZSI6IjEtMzQ1LTIzNCJ9LHsiaWQiOiJCVC03MzlAMSIsInZhbHVlIjoiMS01NTMtMjM0In0seyJpZCI6IkJULTUwNkAxIiwidmFsdWUiOiIxQG8yLnBsIn0seyJpZCI6IkJULTExIiwidmFsdWUiOiJaYW1hd2lharljeSBwdWJsaWN6bnkgLSBqZWRub3N0a2Egc2VrdG9yYSBmaW5hbnPzdyBwdWJsaWN6bnljaCAtIG9yZ2FuIHezYWR6eSBwdWJsaWN6bmVqIC0gb3JnYW4ga29udHJvbGkgcGHxc3R3b3dlaiBpIG9jaHJvbnkgcHJhd2Egb3JheiBzuWQgaSB0cnlidW5hsyJ9LHsiaWQiOiJCVC0xMCIsInZhbHVlIjoiT2Jyb25hIn0seyJpZCI6IkJULTA4IiwidmFsdWUiOiJQb3N06nBvd2FuaWUgcHJvd2FkemkgemFtYXdpYWq5Y3kgY2VudHJhbG55In0seyJpZCI6IkJULTE1IiwidmFsdWUiOiJzNC5wbCJ9LHsiaWQiOiJSS1QtMDU1OCIsInZhbHVlIjoiVGFrIn0seyJpZCI6IkJULTIzIiwidmFsdWUiOiJEb3N0YXd5In0seyJpZCI6IlJLVC0wNTYwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNjMiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJSS1QtMDYwMSIsInZhbHVlIjoiZG9wdXN6Y3phIHR5bGtvIHogamVkbm9jemVzbnltIHqzb79lbmllbSBvZmVydHkgcG9kc3Rhd293ZWoifSx7ImlkIjoiQlQtMjciLCJ2YWx1ZSI6IjEyMzAwMCJ9XQo=</text>
+      <register name="+" type="4">
+        <text>RKT-1052@3</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>710ba22a</text>
+        <text>aebab457</text>
       </register>
       <register name="/" type="4">
-        <text>0560</text>
+        <text>1000</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -340,19 +340,19 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">NC5YWFgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwjaWYgUktUXC0xMDUyQDM/aGFzX2NvbnRlbnQ+CiAgICAgICAgICAgICAgICAgICAgJHtSS1RcLTEwNTJAM30KICAgICAgICAgICAgICAgIDwvI2lmPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCMtLSB6YW3zd2llbmllIHogY3rqnGNpYW1pIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJSS1QtMDUwMiIsCiAgICAidmFsdWUiOiAiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyIKICB9LAogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAiUEItMjAxMjIyLTEiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMDQiLAogICAgInZhbHVlIjogIm9jZHMtMTQ4NjEwLTMwZTMxYTFiLTQ0M2YtMTFlYi05YTQ5LTBhZjRkMjZmODU4NCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUwOUAxIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiQElzVGVuZGVySW5pdGlhdGVkIiwKICAgICJ2YWx1ZSI6ICJOaWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAwQDEiLAogICAgInZhbHVlIjogIkNlbnRyYWxueSBQb2RtaW90IFphbWF3aWFquWN5IFMyIgogIH0sCiAgewogICAgImlkIjogIkJULTE2QDEiLAogICAgInZhbHVlIjogIkNQWlMyIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMUAxIiwKICAgICJ2YWx1ZSI6ICJSRUdPTiA1MTI1Mzg4NDkiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEwQDEiLAogICAgInZhbHVlIjogIlByeW1hc2EgVHlzabljbGVjaWEgMjUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEzQDEiLAogICAgInZhbHVlIjogIldhcnN6YXdhIgogIH0sCiAgewogICAgImlkIjogIkJULTUxMkAxIiwKICAgICJ2YWx1ZSI6ICIwMS0yNDUiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1MjBAMSIsCiAgICAidmFsdWUiOiAiTWF6b3dpZWNraWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTE0QDEiLAogICAgInZhbHVlIjogIlBvbHNrYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDdAMSIsCiAgICAidmFsdWUiOiAiUEw5MTEgLSBNaWFzdG8gV2Fyc3phd2EiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTA1QDEiLAogICAgInZhbHVlIjogInd3dy5zYW1wbGVwYWdlLmV1IgogIH0sCiAgewogICAgImlkIjogIkJULTEwNSIsCiAgICAidmFsdWUiOiAiWmFt83dpZW5pZSB1ZHppZWxhbmUgamVzdCB3IHRyeWJpZSBwb2RzdGF3b3d5bSBuYSBwb2RzdGF3aWUgOiBhcnQuIDI3NSBwa3QgMSB1c3Rhd3kiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjIiLAogICAgInZhbHVlIjogIlBCLTIwMTIyMi0xIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTYyIiwKICAgICJ2YWx1ZSI6ICJOaWUiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1MTAiLAogICAgInZhbHVlIjogIjIwMjAvQlpQIDAwMDAwMDM5LzA2L1AiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1MTAxIiwKICAgICJ2YWx1ZSI6ICJ7JzEuMi4xIFBvenljamEgMSd9IgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNzA1IiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTIyMTAiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJCVC03MSIsCiAgICAidmFsdWUiOiAieydhcnQuIDk0IHVzdC4gMSBwa3QgNCkgdXN0YXd5JywnYXJ0LiA5NCB1c3QuIDEgcGt0IDUpIHVzdGF3eScsJ2FydC4gOTQgdXN0LiAxIHBrdCA3KSB1c3Rhd3knfSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUxMiIsCiAgICAidmFsdWUiOiAiTmllIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNzEwIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzIyIiwKICAgICJ2YWx1ZSI6ICJOYXp3YSBwcm9qZWt0dSBsdWIgcHJvZ3JhbXUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAzQDEiLAogICAgInZhbHVlIjogIjEtMzQ1LTIzNCIKICB9LAogIHsKICAgICJpZCI6ICJCVC03MzlAMSIsCiAgICAidmFsdWUiOiAiMS01NTMtMjM0IgogIH0sCiAgewogICAgImlkIjogIkJULTUwNkAxIiwKICAgICJ2YWx1ZSI6ICIxQG8yLnBsIgogIH0sCiAgewogICAgImlkIjogIkJULTExIiwKICAgICJ2YWx1ZSI6ICJaYW1hd2lharljeSBwdWJsaWN6bnkgLSBqZWRub3N0a2Egc2VrdG9yYSBmaW5hbnPzdyBwdWJsaWN6bnljaCAtIG9yZ2FuIHezYWR6eSBwdWJsaWN6bmVqIC0gb3JnYW4ga29udHJvbGkgcGHxc3R3b3dlaiBpIG9jaHJvbnkgcHJhd2Egb3JheiBzuWQgaSB0cnlidW5hsyIKICB9LAogIHsKICAgICJpZCI6ICJCVC0xMCIsCiAgICAidmFsdWUiOiAiT2Jyb25hIgogIH0sCiAgewogICAgImlkIjogIkJULTA4IiwKICAgICJ2YWx1ZSI6ICJQb3N06nBvd2FuaWUgcHJvd2FkemkgemFtYXdpYWq5Y3kgY2VudHJhbG55IgogIH0sCiAgewogICAgImlkIjogIkJULTE1IiwKICAgICJ2YWx1ZSI6ICJzNC5wbCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDU1OCIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIkJULTIzIiwKICAgICJ2YWx1ZSI6ICJEb3N0YXd5IgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTYwIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNjMiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDYwMSIsCiAgICAidmFsdWUiOiAiZG9wdXN6Y3phIHR5bGtvIHogamVkbm9jemVzbnltIHqzb79lbmllbSBvZmVydHkgcG9kc3Rhd293ZWoiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjciLAogICAgInZhbHVlIjogIjEyMzAwMCIKICB9Cl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCMtLSB6YW3zd2llbmllIHogY3rqnGNpYW1pIC0tPgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
@@ -367,13 +367,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SlNPTi4uLgpCVC0yMzc6IDMwMDAwCgo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAoKNC4xMyBURVNURSA9IDMwMDAwCgo0LjE2IEVUWSA9IDEyMwo0LjE3IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCNpZiBSS1RcLTA1NjA/aGFzX2NvbnRlbnQgJiYgUktUXC0wNTYwID0gIlRhayI+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41Likgo7ljem5hIHdhcnRvnOYgcG9zemN6ZWfzbG55Y2ggY3rqnGNpIHphbfN3aWVuaWE6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTI3fTwvc3Bhbj48L2gzPgo8I2Vsc2U+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjQuMS41Likgo7ljem5hIHdhcnRvnOYgemFt83dpZW5pYTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMjd9PC9zcGFuPjwvaDM+CjwvI2lmPgo=</text>
+        <text encoding="base64">SlNPTi4uLgpCVC0yMzc6IDMwMDAwCgo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAo0LlhYWAoKNC4xMyBURVNURSA9IDMwMDAwCgo0LjE2IEVUWSA9IDEyMwo0LjE3IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo0LjE2IEVUWSA9IDEyMwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -382,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>0560</last-search>
+      <last-search>1000</last-search>
       <last-offset />
-      <last-pattern>0560</last-pattern>
+      <last-pattern>1000</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
