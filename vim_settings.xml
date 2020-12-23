@@ -101,13 +101,6 @@
         <mark key="[" line="325" column="0" />
         <mark key="]" line="328" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1608561675882">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="7" column="37" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um.ftl" timestamp="1608629969829">
         <mark key="'" line="35" column="26" />
         <mark key="[" line="35" column="27" />
@@ -150,8 +143,8 @@
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608647051466">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1608707888721">
-        <mark key="'" line="160" column="54" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1608712546484">
+        <mark key="'" line="435" column="16" />
         <mark key="[" line="294" column="58" />
         <mark key="]" line="294" column="90" />
         <mark key="." line="294" column="58" />
@@ -194,9 +187,14 @@
         <mark key="]" line="341" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/templates/TemplateTestCase.groovy" timestamp="1608713672142">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="73" />
+        <mark key="." line="3" column="72" />
+        <mark key="^" line="3" column="73" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="29" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="346" column="29" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="352" column="29" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="314" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
@@ -296,6 +294,7 @@
       <jump line="149" column="53" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="160" column="54" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="233" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/cases/ogl_o_wyk_um_case_1.json" />
+      <jump line="435" column="16" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,7 +303,7 @@
         <text>listElem['1']</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ogl_o_zam_bug_epzpts_1661b.json</text>
+        <text>t</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -322,7 +321,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ogl_o_zam_bug_epzpts_1661b.json</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>ogl_o_zam</text>
