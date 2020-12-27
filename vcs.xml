@@ -10,11 +10,16 @@
           <option name="url" value="http://bitbucket.pentacomp.pl" />
           <option name="userName" value="pbobryk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.pentacomp.pl" />
+          <option name="userName" value="pbobryk" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
