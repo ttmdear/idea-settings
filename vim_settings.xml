@@ -107,13 +107,6 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um.ftl" timestamp="1608629969829">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="35" column="4" />
-        <mark key="^" line="35" column="4" />
-        <mark key="." line="35" column="3" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_zam_bug_epzpts_1660.json" timestamp="1608730990246">
         <mark key="'" line="26" column="13" />
         <mark key="[" line="0" column="0" />
@@ -127,9 +120,11 @@
         <mark key="." line="34" column="10" />
         <mark key="^" line="34" column="18" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um.ftl" timestamp="1608645205577">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="59" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1609148354173">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="36" column="120" />
+        <mark key="^" line="34" column="970" />
+        <mark key="." line="34" column="969" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/jsons/ogl_o_zam.json" timestamp="1608720931705">
         <mark key="[" line="0" column="20" />
@@ -142,12 +137,6 @@
         <mark key="]" line="2" column="4431" />
         <mark key="^" line="2" column="2795" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" timestamp="1608644557083">
-        <mark key="'" line="175" column="14" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="201" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" timestamp="1608734246902">
         <mark key="'" line="11" column="8" />
@@ -185,6 +174,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/requests/publishNoticeCommand.http" timestamp="1609148276066">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="13" column="35154" />
+        <mark key="^" line="13" column="35154" />
+        <mark key="." line="13" column="35153" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl.ftl" timestamp="1609146479896">
         <mark key="'" line="97" column="21" />
         <mark key="[" line="105" column="0" />
@@ -203,6 +198,9 @@
         <mark key="]" line="3" column="73" />
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="73" />
+      </file>
+      <file name="/fragment.java" timestamp="1609148250384">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -314,7 +312,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj40LjEuNS4pIENhs2tvd2l0YSB3YXJ0b5zmIHphbfN3aWVuaWEgKGJleiBWQVQpOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke0JUXC0yN308L3NwYW4+PC9oMz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f4a765ec</text>
+        <text>https://srut3.ezamowienia.gov.pl/mo-board/api/v1/Board/InnerPublishNoticeCommand</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -325,14 +323,14 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwjaWYgZWxlbTIuQlRcLTE0MUAyP2hhc19jb250ZW50PgogICAgICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgICAgICBQcnplZCB6bWlhbrk6PGJyLz4KICAgICAgICAgICAgICAgICAgICAgICAgJHtlbGVtMi5CVFwtMTQxQDJ9CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC8jaWY+CiAgICAgICAgICAgICAgICA8I2lmIGVsZW0yLkJUXC0xNDFAMz9oYXNfY29udGVudD4KICAgICAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICAgICAgUG8gem1pYW5pZTo8YnIvPgogICAgICAgICAgICAgICAgICAgICAgICAke2VsZW0yLkJUXC0xNDFAM30KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8LyNpZj4K</text>
+      <register name="+" type="4">
+        <text>https://srut3.ezamowienia.gov.pl/mo-board/api/v1/Board/InnerPublishNoticeCommand</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>f4a765ec</text>
+        <text>NXQiOiJORGxqTXpjM1pEVXhZVE5sWWpKa01qQTBNRGN3WmpGa09XWTRZalEyT1dZMU9HVTNObVkxWVdNMU5qZ3dPR1ZoTmpNd09XTXhORFEzT0RKaVpEYzJaQSIsImtpZCI6Ik5EbGpNemMzWkRVeFlUTmxZakprTWpBME1EY3daakZrT1dZNFlqUTJPV1kxT0dVM05tWTFZV00xTmpnd09HVmhOak13T1dNeE5EUTNPREppWkRjMlpBX1JTMjU2IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJhZG1pbkBjYXJib24uc3VwZXIiLCJhdWQiOiJlcHpwX01UIiwibmJmIjoxNjA2MzE3NzA5LCJhenAiOiJlcHpwX01UIiwiaXNzIjoiaHR0cHM6XC9cL3NydXQzLmV6YW1vd2llbmlhLmdvdi5wbDo0NDNcL29hdXRoMlwvdG9rZW4iLCJleHAiOjE2NDIzMTc3MDksImlhdCI6MTYwNjMxNzcwOSwianRpIjoiZGJkYzRjMDktNzBiZS00YmQ5LWE4ZDUtOGQ3OWI1YmE0YjNiIn0.Qz_oRGYlkitoWMSouA0xdZw1kDvagFKUkEjrftkiEy1U1lJPs7VYoMHDRv_xOI6pTwTSO4uUgftpiMkGfZyGQ0dQMmXmhpDqzSg40xdFdteQiHANLPJFtw6a9fsSFHWKFNhc-I2SEN5AaelgVxj2-9jyKNbpNjrTWmJDrTS2PZjNpBm5zQh-_2PL02tYsmpQ8KQhs_koB7pf1q6bjT5Wx-3dXWVuJk_Eh64-Xw0oKFUdZxl5TlydyzzPFgtdvRNwIl1X3sZtVzf0kPvunCRzH60wmaQLSc6eyRpIUg9fXzpDdcH4OO5bLmQTEQy7i17Uvpj-X4NerS2NNclaF1ZXOQ</text>
       </register>
       <register name="/" type="4">
         <text>50</text>
@@ -352,7 +350,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aDMgY2xhc3M9InAtMiBtdC00IGJnLWxpZ2h0Ij5Deuqc5iAke2tleU51bSswfTwvaDM+Cg==</text>
+        <text encoding="base64">QWNjZXB0OiB0ZXh0L3BsYWluLCBhcHBsaWNhdGlvbi9qc29uLCBhcHBsaWNhdGlvbi8qK2pzb24sICovKgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUG8gem1pYW5pZTo8YnIvPgo=</text>
