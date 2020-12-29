@@ -105,11 +105,12 @@
       <file name="/a.dummy" timestamp="1609230884354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" timestamp="1609235905130">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" timestamp="1609237759020">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/TemplateResolver.java" timestamp="1609229041028">
         <mark key="[" line="15" column="45" />
@@ -117,12 +118,11 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/TemplatesConfig.java" timestamp="1609237244612">
-        <mark key="'" line="15" column="37" />
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="49" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/TemplatesConfig.java" timestamp="1609238578629">
+        <mark key="[" line="16" column="69" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="48" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/config/TemplatesConfigTest.groovy" timestamp="1609230934198">
         <mark key="[" line="7" column="0" />
@@ -178,13 +178,13 @@
         <mark key="." line="79" column="97" />
         <mark key="^" line="79" column="98" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeControllerTest.groovy" timestamp="1609237214300">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="62" />
-        <mark key="." line="37" column="61" />
-        <mark key="^" line="37" column="62" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeControllerTest.groovy" timestamp="1609238434402">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1609233767408">
+      <file name="/fragment.java" timestamp="1609239029964">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -296,8 +296,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwjaWYgZWxlbS5SS1RcLTU1NTVcLTE/aGFzX2NvbnRlbnQ+CiAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj43LjMuOC4pIEN6eSB3eWtvbmF3Y2EgcHJ6ZXdpZHVqZSBwb3dpZXJ6ZW5pZSB3eWtvbmFuaWEgY3rqnGNpIHphbfN3aWVuaWEgcG9kd3lrb25hd2NvbT86IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7ZWxlbS5SS1RcLTU1NTVcLTF9PC9zcGFuPjwvaDM+CiAgICAgICAgICAgICAgICA8LyNpZj4KICAgICAgICAgICAgICAgIDwjaWYgZWxlbS5SS1RcLTU1NTVcLTU1P2hhc19jb250ZW50PgogICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzcz0ibWItMCI+Ny4zLjkuKSBJbmZvcm1hY2phIG8gY3rqnGNpYWNoIHphbfN3aWVuaWEsIGt083J5Y2ggd3lrb25hbmllIHphbWllcnphIHBvd2llcnp55iBwb2R3eWtvbmF3Y29tLCBvcmF6IG5hend5IGV3ZW50dWFsbnljaCBwb2R3eWtvbmF3Y/N3LCBqZb9lbGkgc7kganW/IHpuYW5pOiA8L2gzPgogICAgICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgICAgICAke2VsZW0uUktUXC01NTU1XC01NX0KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8LyNpZj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbnZpcm9ubWVudC5yZXNvbHZlUGxhY2Vob2xkZXJzKCkK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -315,7 +315,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Environment environment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZXNcPg==</text>
@@ -334,41 +334,41 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZXMub2dsX29fem1fb2dsLnZlcnNpb25zPTEuMC4wLDEuMC4xLDEuMC4yIgo=</text>
+      <register name="0" type="4">
+        <text>ogl_o_zm_ogl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmcmVlbWFya2VyLnRlbXBsYXRlcy1kaXI9IiwK</text>
+        <text encoding="base64">ICAgICAgICBlbnZpcm9ubWVudC5yZXNvbHZlUGxhY2Vob2xkZXJzKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZXMtZGlyPTEwIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0KHByb3BlcnRpZXMgPSBbCiAgICAiZnJlZW1hcmtlci50ZW1wbGF0ZXMtZGlyPSIsCiAgICAidGVtcGxhdGVzLWRpcj0xMCIsCiAgICAidGVtcGxhdGVzLm9nbF9vX3ptX29nbC52ZXJzaW9ucz0xLjAuMCwxLjAuMSwxLjAuMiIKXSkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZhbHVlcyA9IHZhbHVlczsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJ0ZW1wbGF0ZXMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZXMub2dsX29fem1fb2dsPTEuMC4wLDEuMC4xLDEuMC4yIgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPFN0cmluZywgT2JqZWN0PiB2YWx1ZXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPFN0cmluZywgT2JqZWN0PiB2YWx1ZXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZXMub2dsX29fem1fb2dsPSIsCg==</text>
+        <text encoding="base64">ICAgICJmcmVlbWFya2VyLnRlbXBsYXRlcy1kaXI9IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZXM9IiwK</text>
+        <text encoding="base64">ICAgICJ0ZW1wbGF0ZXMtZGlyPTEwIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
