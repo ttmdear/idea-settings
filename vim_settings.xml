@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>4.2.5</entry>
         <entry encoding="base64">XDxDT05GSUdfUFJPUEVSVFlcPg==</entry>
         <entry encoding="base64">XDxSRUdJU1RFUl9TSFVURE9XTl9IT09LX1BST1BFUlRZXD4=</entry>
         <entry encoding="base64">XDxMT0dHSU5HX1NZU1RFTV9CRUFOX05BTUVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>zam_zaw_um</entry>
         <entry>V ZAWARCIE UMOWY</entry>
         <entry>BT-500</entry>
+        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -120,6 +120,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" timestamp="1609330443930">
+        <mark key="'" line="37" column="61" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1609325757286">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
@@ -194,11 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="789" column="49" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
-      <jump line="792" column="48" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
-      <jump line="844" column="31" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
-      <jump line="846" column="36" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
-      <jump line="535" column="6" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="536" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="586" column="23" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
       <jump line="587" column="148" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post.ftl" />
@@ -294,6 +292,11 @@
       <jump line="8" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" />
       <jump line="18" column="11" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" />
       <jump line="226" column="10" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" />
+      <jump line="98" column="31" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
+      <jump line="111" column="34" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
+      <jump line="31" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
+      <jump line="37" column="61" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +326,7 @@
         <text>903232ea</text>
       </register>
       <register name="/" type="4">
-        <text>BT-500</text>
+        <text encoding="base64">XDx1c2VybmFtZVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -382,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>BT-500</last-search>
+      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>BT-500</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
