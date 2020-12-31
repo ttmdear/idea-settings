@@ -112,12 +112,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/components/VersionMatcher.java" timestamp="1609402202548">
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/components/VersionMatcher.java" timestamp="1609402996586">
         <mark key="'" line="33" column="17" />
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="21" column="66" />
-        <mark key="." line="21" column="65" />
-        <mark key="^" line="21" column="66" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="42" />
+        <mark key="^" line="43" column="43" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" timestamp="1609330443930">
         <mark key="'" line="37" column="61" />
@@ -190,7 +190,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1609329520206">
+      <file name="/fragment.java" timestamp="1609402991702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -308,8 +308,8 @@
       <register name="a" type="4">
         <text>logging</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAiMi4wLjAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>highestVersions</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -327,7 +327,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>versionHighest.co</text>
+        <text>highestVersions</text>
       </register>
       <register name="/" type="4">
         <text>Zamawiający przewiduje wybór najkorzystniejszej</text>
@@ -346,11 +346,11 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAiMi4wLjAiCg==</text>
+      <register name="0" type="4">
+        <text>entry.getValue()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHlwZUNvbmZpZyB0eXBlQ29uZmlnID0gZW50cnkuZ2V0VmFsdWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -359,28 +359,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5oCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB2ZXJzaW9uTWFqb3IgPSB2ZXJzaW9uLmdldE1ham9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdmVyc2lvbk1ham9yID0gaGlnaGVzdFZlcnNpb25zLmdldCh2ZXJzaW9uLmdldE1ham9yKCkpLmdldE1ham9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB2ZXJzaW9uTWFqb3IgPSB2ZXJzaW9uLmdldE1ham9yKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
