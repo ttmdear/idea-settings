@@ -40,8 +40,8 @@
         <entry>57</entry>
         <entry>W</entry>
         <entry>64</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -145,7 +145,7 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1609861424646">
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1609862670818">
         <mark key="'" line="42" column="53" />
         <mark key="[" line="7" column="49" />
         <mark key="]" line="7" column="49" />
@@ -171,9 +171,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyn_post_epzpts_1716.json" timestamp="1609853142870" />
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/target/classes/application.yaml" timestamp="1609861670164">
-        <mark key="[" line="23" column="86" />
-        <mark key="]" line="23" column="124" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/target/classes/application.yaml" timestamp="1609862580071">
+        <mark key="[" line="23" column="123" />
+        <mark key="]" line="23" column="123" />
+        <mark key="." line="23" column="123" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1609860822616">
         <mark key="'" line="36" column="9" />
@@ -324,7 +325,7 @@
         <text>[&quot;1.0.0&quot;, &quot;1.0.1&quot;, &quot;1.0.2&quot;, &quot;1.2.2&quot;, &quot;2.0.0&quot; , &quot;3.0.1&quot;]</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0Zi04</text>
+        <text>-</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -336,13 +337,13 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">dXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPXV0Zi04</text>
+        <text>createDatabaseIfNotExist</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
@@ -398,7 +399,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
   </component>
