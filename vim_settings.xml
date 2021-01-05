@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>2276</entry>
         <entry>227</entry>
         <entry>8.5</entry>
         <entry>2275</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx1dGY4X3VuaWNvZGVfY2lcPg==</entry>
         <entry encoding="base64">XDxDT0xMQVRFXD4=</entry>
         <entry>import</entry>
+        <entry>impo</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -40,8 +40,8 @@
         <entry>57</entry>
         <entry>W</entry>
         <entry>64</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -167,7 +167,7 @@
         <mark key="^" line="33" column="60" />
         <mark key="." line="33" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1609853999739">
+      <file name="/Dummy.txt" timestamp="1609863938654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyn_post_epzpts_1716.json" timestamp="1609853142870" />
@@ -176,11 +176,11 @@
         <mark key="]" line="23" column="123" />
         <mark key="." line="23" column="123" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1609860822616">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="10" />
+      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1609863931496">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="10" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1609860963686">
         <mark key="'" line="37" column="131" />
@@ -217,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="19" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/TemplatesTest.groovy" />
-      <jump line="38" column="8" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/TemplatesTest.groovy" />
-      <jump line="6" column="7" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="58" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="22" column="4" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="48" column="12" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
@@ -317,6 +314,9 @@
       <jump line="20" column="52" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" />
       <jump line="37" column="53" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" />
       <jump line="36" column="9" filename="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" />
+      <jump line="52" column="9" filename="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" />
+      <jump line="37" column="7" filename="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" />
+      <jump line="104" column="11" filename="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +325,7 @@
         <text>[&quot;1.0.0&quot;, &quot;1.0.1&quot;, &quot;1.0.2&quot;, &quot;1.2.2&quot;, &quot;2.0.0&quot; , &quot;3.0.1&quot;]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>bce816be</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -343,10 +343,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>bce816be</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text>impo</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -399,15 +399,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>import</last-search>
+      <last-search>impo</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern>impo</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
