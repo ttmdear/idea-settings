@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>71</entry>
-        <entry>2.14</entry>
         <entry>ogl_o_wyn_po</entry>
         <entry>701</entry>
         <entry>Kryterium</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxEYXRhXD4=</entry>
         <entry>br</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>ogl_o_zam</entry>
+        <entry encoding="base64">XDxwdWJsaXNoVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -40,6 +40,7 @@
         <entry>739</entry>
         <entry>57</entry>
         <entry>W</entry>
+        <entry>64</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -140,6 +141,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1609846610514">
+        <mark key="'" line="37" column="131" />
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+        <mark key="." line="31" column="30" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/test-cases/ogl_o_zam-1.0.0-1.json" timestamp="1609833835889">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="34" />
@@ -152,6 +160,11 @@
         <mark key="]" line="111" column="93" />
         <mark key="." line="111" column="80" />
         <mark key="^" line="111" column="63" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/interceptors/HttpLogRequestInterceptor.java" timestamp="1609846590064">
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="8" />
+        <mark key="." line="63" column="8" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1609844999232">
         <mark key="'" line="291" column="61" />
@@ -199,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/GeneratorConfig.java" />
-      <jump line="34" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" />
-      <jump line="5" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/JacksonConfiguration.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/JacksonConfiguration.java" />
       <jump line="14" column="1" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/filter/UuidFilter.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/filter/UuidFilter.java" />
@@ -299,6 +309,9 @@
       <jump line="160" column="54" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="290" column="36" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="291" column="61" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="40" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
+      <jump line="34" column="106" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
+      <jump line="37" column="131" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +320,7 @@
         <text>[&quot;1.0.0&quot;, &quot;1.0.1&quot;, &quot;1.0.2&quot;, &quot;1.2.2&quot;, &quot;2.0.0&quot; , &quot;3.0.1&quot;]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>DEBUG</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -325,10 +338,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">XDxwdWJsaXNoVXJsXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -347,18 +360,18 @@
       <register name="0" type="4">
         <text>visualization</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUGFyc2VyQ29uZmlndXJhdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGNhdGNoIChTQVhFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IS0tIAohLS0g</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoUGFyc2VyQ29uZmlndXJhdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGNhdGNoIChTQVhFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>IOException e) {
                 e.printStackTrace();</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
@@ -367,19 +380,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZUxpc3QuaXRlbSgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZUxpc3RMZW5ndGguCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZUxpc3QuaXRlbSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZUxpc3RMZW5ndGguCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDYXNlRGF0YSBjYXNlRGF0YTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBDYXNlRGF0YSBjYXNlRGF0YTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -388,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ogl_o_zam</last-search>
+      <last-search encoding="base64">XDxwdWJsaXNoVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>ogl_o_zam</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaXNoVXJsXD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
