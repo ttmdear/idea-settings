@@ -148,12 +148,12 @@
         <mark key="]" line="63" column="8" />
         <mark key="." line="63" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" timestamp="1609926957298">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="153" column="15" />
-        <mark key="]" line="153" column="30" />
-        <mark key="^" line="153" column="30" />
-        <mark key="." line="153" column="29" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" timestamp="1609927233122">
+        <mark key="'" line="214" column="20" />
+        <mark key="[" line="255" column="46" />
+        <mark key="]" line="256" column="12" />
+        <mark key="^" line="256" column="12" />
+        <mark key="." line="256" column="11" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1609853032641">
         <mark key="'" line="303" column="22" />
@@ -216,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="32" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
-      <jump line="515" column="112" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam.ftl" />
       <jump line="98" column="8" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeControllerTest.groovy" />
       <jump line="121" column="4" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeControllerTest.groovy" />
       <jump line="137" column="26" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeControllerTest.groovy" />
@@ -316,6 +314,8 @@
       <jump line="212" column="31" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="78" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="205" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
+      <jump line="234" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
+      <jump line="214" column="20" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,8 +323,8 @@
       <register name="a" type="4">
         <text>[&quot;1.0.0&quot;, &quot;1.0.1&quot;, &quot;1.0.2&quot;, &quot;1.2.2&quot;, &quot;2.0.0&quot; , &quot;3.0.1&quot;]</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -342,7 +342,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>RuntimeException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRpb25zXD4=</text>
@@ -361,8 +361,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ2FzZUFzc2VydGlvbihxdWVyeVRva2Vucy5nZXQoMCksIGluZGV4LCBleHBlY3RlZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>IncorrectAssertion</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -371,7 +371,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSW5jb3JyZWN0QXNzZXJ0aW9uRXhjZXB0aW9uKFN0cmluZyBtZXNzYWdlLCBUaHJvd2FibGUgY2F1c2UpIHsKICAgICAgICAgICAgc3VwZXIobWVzc2FnZSwgY2F1c2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -380,22 +380,22 @@
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVlcnlUb2tlbnMuc2l6ZSgpID09IDIpIHsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgSW5jb3JyZWN0QXNzZXJ0aW9uRXhjZXB0aW9uKFRocm93YWJsZSBjYXVzZSkgewogICAgICAgICAgICBzdXBlcihjYXVzZSk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgSW5jb3JyZWN0QXNzZXJ0aW9uRXhjZXB0aW9uKFN0cmluZyBtZXNzYWdlLCBUaHJvd2FibGUgY2F1c2UsIGJvb2xlYW4gZW5hYmxlU3VwcHJlc3Npb24sCiAgICAgICAgICAgIGJvb2xlYW4gd3JpdGFibGVTdGFja1RyYWNlKSB7CgogICAgICAgICAgICBzdXBlcihtZXNzYWdlLCBjYXVzZSwgZW5hYmxlU3VwcHJlc3Npb24sIHdyaXRhYmxlU3RhY2tUcmFjZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXVlcnlUb2tlbnMuc2l6ZSgpID09IDIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
