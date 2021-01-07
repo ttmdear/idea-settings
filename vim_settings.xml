@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbnlcPg==</entry>
-        <entry encoding="base64">XDx0aGVuUmV0dXJuXD4=</entry>
-        <entry>pbobryk</entry>
         <entry>Wynik konkursu</entry>
         <entry>Cześć</entry>
         <entry encoding="base64">XDwtMDc4NFw+</entry>
@@ -25,6 +22,9 @@
         <entry>Podmiot</entry>
         <entry>BT-</entry>
         <entry>-16</entry>
+        <entry encoding="base64">XDxzZXRDb250cmFjdG9yTmF0aW9uYWxJZFw+</entry>
+        <entry>server</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -109,36 +109,11 @@
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/README.md" timestamp="1610011119863">
         <mark key="'" line="108" column="5" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1610008272517">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="35" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/NoticePreparatorServiceImpl.java" timestamp="1610048876383">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApi.java" timestamp="1610015035039">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="37" column="64" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApiTest.groovy" timestamp="1610016526086">
-        <mark key="'" line="49" column="11" />
-        <mark key="[" line="29" column="76" />
-        <mark key="]" line="29" column="76" />
-        <mark key="." line="29" column="75" />
-        <mark key="^" line="29" column="76" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1610025274934">
-        <mark key="'" line="346" column="8" />
-        <mark key="[" line="363" column="8" />
-        <mark key="]" line="363" column="8" />
-        <mark key="^" line="369" column="10" />
-        <mark key="." line="363" column="8" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1610016543997">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="119" />
-        <mark key="^" line="0" column="119" />
-        <mark key="." line="0" column="118" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3-sources.jar!/org/mockito/Matchers.java" timestamp="1610015365034" />
       <file name="/Dummy.txt" timestamp="1610032164033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -154,19 +129,41 @@
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1610018255129">
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1610049515797">
         <mark key="'" line="37" column="131" />
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="955" />
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="94" />
         <mark key="^" line="21" column="23" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1610022036512" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/domain/Metadata.java" timestamp="1610049390999">
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="38" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApi.java" timestamp="1610015035039">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="64" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApiTest.groovy" timestamp="1610016526086">
+        <mark key="'" line="49" column="11" />
+        <mark key="[" line="29" column="76" />
+        <mark key="]" line="29" column="76" />
+        <mark key="." line="29" column="75" />
+        <mark key="^" line="29" column="76" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" timestamp="1610013832377">
         <mark key="[" line="34" column="9" />
         <mark key="]" line="35" column="11" />
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="10" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1610025274934">
+        <mark key="'" line="346" column="8" />
+        <mark key="[" line="363" column="8" />
+        <mark key="]" line="363" column="8" />
+        <mark key="^" line="369" column="10" />
+        <mark key="." line="363" column="8" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/ted/TEDApiTest.groovy" timestamp="1610013744177">
         <mark key="'" line="32" column="68" />
@@ -174,6 +171,15 @@
         <mark key="]" line="45" column="11" />
         <mark key="^" line="45" column="11" />
         <mark key="." line="45" column="10" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/definitions/bzp-api.json" timestamp="1610049486629">
+        <mark key="'" line="1707" column="0" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1610016543997">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="119" />
+        <mark key="^" line="0" column="119" />
+        <mark key="." line="0" column="118" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/ogl_o_wyn_post.html" timestamp="1610028806394">
         <mark key="[" line="126" column="0" />
@@ -184,7 +190,6 @@
         <mark key="]" line="174" column="6" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1610007969360" />
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" timestamp="1610031614764">
         <mark key="'" line="133" column="5" />
         <mark key="[" line="190" column="75" />
@@ -200,10 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="26" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="294" column="39" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="291" column="157" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="89" column="2" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
       <jump line="5" column="2" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
       <jump line="47" column="20" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
@@ -300,6 +301,10 @@
       <jump line="23" column="24" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_kon.json" />
       <jump line="274" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" />
       <jump line="133" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" />
+      <jump line="138" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/NoticePreparatorServiceImpl.java" />
+      <jump line="19" column="32" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/definitions/bzp-api.json" />
+      <jump line="141" column="10" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/definitions/bzp-api.json" />
+      <jump line="1707" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_importer_ogloszen_ted/definitions/bzp-api.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +313,7 @@
         <text>[&quot;1.0.0&quot;, &quot;1.0.1&quot;, &quot;1.0.2&quot;, &quot;1.2.2&quot;, &quot;2.0.0&quot; , &quot;3.0.1&quot;]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e8be8796</text>
+        <text>https://test2.ezamowienia.gov.pl/mo-board/api/v1/Board</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -320,7 +325,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>BT\-500@5</text>
+        <text>https://test2.ezamowienia.gov.pl/mo-board/api/v1/Board</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -329,7 +334,7 @@
         <text>e8be8796</text>
       </register>
       <register name="/" type="4">
-        <text>-16</text>
+        <text>url</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -349,22 +354,22 @@
         <text>BT-739@5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gLi4uIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBtZXRhZGF0YS5zZXRDb250cmFjdG9yTmF0aW9uYWxJZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gLi4uIC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwhLS0gSUYgLS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogR2VuZXJ5Y3pueSBis7lkIHdhbGlkYWNqaS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gSUYgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -373,298 +378,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ2YWx1ZSI6ICJDZW50cmFsbnkgUG9kbWlvdCBaYW1hd2lharljeSBTMiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICJ2YWx1ZSI6ICJDZW50cmFsbnkgUG9kbWlvdCBaYW1hd2lharljeSBTMiIK</text>
       </register>
       <register name="9" type="2">
-        <text>[
-  {
-    &quot;id&quot;: &quot;BT-721&quot;,
-    &quot;value&quot;: &quot;2KonkursTest&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-04&quot;,
-    &quot;value&quot;: &quot;ocds-148610-e11aff76-2f1a-11eb-8810-4e1f45e53b6d&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500@1&quot;,
-    &quot;value&quot;: &quot;uprawnienia&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501@1&quot;,
-    &quot;value&quot;: &quot;8388714211&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510@1&quot;,
-    &quot;value&quot;: &quot;Warsza&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513@1&quot;,
-    &quot;value&quot;: &quot;Nowy Wiśnicz&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512@1&quot;,
-    &quot;value&quot;: &quot;06-587&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0520@1&quot;,
-    &quot;value&quot;: &quot;PL12,Małopolskie&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-514@1&quot;,
-    &quot;value&quot;: &quot;PL,Polska&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-507@1&quot;,
-    &quot;value&quot;: &quot;PL214,Krakowski&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505@1&quot;,
-    &quot;value&quot;: &quot;wwww.asdad.pl&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0740&quot;,
-    &quot;value&quot;: &quot;2,konkurs ograniczony&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-22&quot;,
-    &quot;value&quot;: &quot;2KonkursTest&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-1045&quot;,
-    &quot;value&quot;: &quot;True&quot;,
-    &quot;valueType&quot;: &quot;YesNo&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0710&quot;,
-    &quot;value&quot;: &quot;True&quot;,
-    &quot;valueType&quot;: &quot;YesNo&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-722&quot;,
-    &quot;value&quot;: &quot;123123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-503@1&quot;,
-    &quot;value&quot;: &quot;123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-506@1&quot;,
-    &quot;value&quot;: &quot;1@4&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-11&quot;,
-    &quot;value&quot;: &quot;1.1.3,Zamawiający publiczny - jednostka sektora finansów publicnzych - związek jednostek samorządu terytorialnego&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-10&quot;,
-    &quot;value&quot;: &quot;4,Środowisko&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-08&quot;,
-    &quot;value&quot;: &quot;powierzony,Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500@5&quot;,
-    &quot;value&quot;: &quot;123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-501@5&quot;,
-    &quot;value&quot;: &quot;123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510@5&quot;,
-    &quot;value&quot;: &quot;123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513@5&quot;,
-    &quot;value&quot;: &quot;123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-512@5&quot;,
-    &quot;value&quot;: &quot;10-100&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0520@5&quot;,
-    &quot;value&quot;: &quot;PL30,Wielkopolskie&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-514@5&quot;,
-    &quot;value&quot;: &quot;PL,Polska&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-507@5&quot;,
-    &quot;value&quot;: &quot;DE278,Günzburg&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-503@5&quot;,
-    &quot;value&quot;: &quot;123123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-506@5&quot;,
-    &quot;value&quot;: &quot;1@5&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-505@5&quot;,
-    &quot;value&quot;: &quot;2.pl&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0720&quot;,
-    &quot;value&quot;: &quot;1,Konkurs jednoetapowy&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-24&quot;,
-    &quot;value&quot;: &quot;123&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-262&quot;,
-    &quot;value&quot;: &quot;03112000-9,Tytoń nieprzetworzony&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-142&quot;,
-    &quot;value&quot;: &quot;rozstrzygnięcie,rozstrzygnięcie&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0800&quot;,
-    &quot;value&quot;: &quot;2020-11-26 00:00:00&quot;,
-    &quot;valueType&quot;: &quot;Date&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-759&quot;,
-    &quot;value&quot;: &quot;12&quot;,
-    &quot;valueType&quot;: &quot;Integer&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0801&quot;,
-    &quot;value&quot;: &quot;2&quot;,
-    &quot;valueType&quot;: &quot;Integer&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0802&quot;,
-    &quot;value&quot;: &quot;1&quot;,
-    &quot;valueType&quot;: &quot;Integer&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-500_A0&quot;,
-    &quot;value&quot;: &quot;12&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-510_A0&quot;,
-    &quot;value&quot;: &quot;12&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-513_A0&quot;,
-    &quot;value&quot;: &quot;12&quot;,
-    &quot;valueType&quot;: &quot;Text&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-514_A0&quot;,
-    &quot;value&quot;: &quot;PL,Polska&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0807_A0&quot;,
-    &quot;value&quot;: &quot;1.1,Miejsce - 1&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0808_A0&quot;,
-    &quot;value&quot;: &quot;2,Nagroda rzeczowa&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-644_A0&quot;,
-    &quot;value&quot;: &quot;123123.00&quot;,
-    &quot;valueType&quot;: &quot;Numeric&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0784_A0&quot;,
-    &quot;value&quot;: &quot;1,aspekty społeczne&quot;,
-    &quot;valueType&quot;: &quot;Glossary&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16@1&quot;,
-    &quot;value&quot;: &quot;Biuro Organizacyjno Finansowe&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-739@1&quot;,
-    &quot;value&quot;: &quot;022 765 76 87&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-15&quot;,
-    &quot;value&quot;: &quot;www.uzp.gov.pl/konkurs-123&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-701&quot;,
-    &quot;value&quot;: &quot;123-345-234&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-757&quot;,
-    &quot;value&quot;: &quot;AGD&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-05&quot;,
-    &quot;value&quot;: &quot;2020.01.01&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-16@5&quot;,
-    &quot;value&quot;: &quot;Biuro Organizacyjno Finansowe&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-739@5&quot;,
-    &quot;value&quot;: &quot;987-09-34&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-263&quot;,
-    &quot;value&quot;: &quot;{'Woski', 'Miód', 'Magnum'}&quot;
-  },
-  {
-    &quot;id&quot;: &quot;BT-144&quot;,
-    &quot;value&quot;: &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit&quot;
-  },
-  {
-    &quot;id&quot;: &quot;RKT-0701&quot;,
-    &quot;value&quot;: &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit&quot;
-  }
-]</text>
+        <text encoding="base64">ICAgICJ2YWx1ZSI6ICJDZW50cmFsbnkgUG9kbWlvdCBaYW1hd2lharljeSBTMiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -673,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>-16</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>-16</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
