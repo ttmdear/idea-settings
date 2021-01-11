@@ -5,15 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNfY29udGVudFw+</entry>
-        <entry>1010</entry>
-        <entry>7\.3\.1</entry>
-        <entry>wyn_post</entry>
-        <entry>500@3</entry>
-        <entry>7\.1\.1</entry>
-        <entry>0564</entry>
-        <entry>Wcześniejsze zmiany umow</entry>
-        <entry>wyn_kon</entry>
         <entry>AU1</entry>
         <entry>A1</entry>
         <entry>BT-510</entry>
@@ -25,6 +16,15 @@
         <entry>2021</entry>
         <entry>Numer ogłoszenia o wyniku postępowań</entry>
         <entry>Numer ogłoszenia</entry>
+        <entry>701@1</entry>
+        <entry>701</entry>
+        <entry>inny</entry>
+        <entry>inn</entry>
+        <entry>2228</entry>
+        <entry>11</entry>
+        <entry>BT-11</entry>
+        <entry>3\.2\.1</entry>
+        <entry>4\.5</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -113,7 +113,7 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610363300383">
+      <file name="/Dummy.txt" timestamp="1610365895385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="24" />
@@ -145,18 +145,23 @@
         <mark key="]" line="54" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1610363289880">
+      <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1610365890341">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" timestamp="1610363008851">
-        <mark key="'" line="203" column="0" />
-        <mark key="[" line="149" column="82" />
-        <mark key="]" line="149" column="84" />
-        <mark key="." line="149" column="83" />
-        <mark key="^" line="149" column="84" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_kon_bug_brak_2.6.json" timestamp="1610365585040">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1079" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" timestamp="1610365820613">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="74" column="84" />
+        <mark key="]" line="74" column="84" />
+        <mark key="." line="74" column="83" />
+        <mark key="^" line="74" column="84" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/.gitignore" timestamp="1610117468227">
         <mark key="'" line="0" column="0" />
@@ -188,10 +193,10 @@
         <mark key="]" line="170" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1610362084884">
-        <mark key="'" line="187" column="16" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1610365451381">
+        <mark key="'" line="9" column="30" />
+        <mark key="[" line="67" column="27" />
+        <mark key="]" line="67" column="42" />
         <mark key="." line="193" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" timestamp="1610354369659" />
@@ -211,36 +216,11 @@
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" timestamp="1610362129509">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1610098966640">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
-      </file>
       <file name="/ogl_o_wyn_post-1.0.0.ftl" timestamp="1610113753983">
         <mark key="'" line="520" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="11" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="624" column="85" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="106" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="94" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="929" column="42" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="833" column="20" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="103" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="110" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="98" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="12" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_wyk_um_EPZPTS-708.json" />
-      <jump line="394" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="397" column="42" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="134" column="21" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="46" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="45" column="25" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="47" column="8" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="43" column="8" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="398" column="16" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="148" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/.gitignore" />
       <jump line="162" column="4" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="35" column="40" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/util/DevUtil.java" />
@@ -286,11 +266,8 @@
       <jump line="427" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="118" column="12" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
       <jump line="655" column="13" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="197" column="23" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="17" column="26" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
-      <jump line="205" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="192" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="405" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="333" column="42" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
@@ -317,11 +294,33 @@
       <jump line="146" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="57" column="48" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="71" column="50" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="59" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="74" column="50" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="149" column="14" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="203" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="12" column="33" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="205" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="66" column="9" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="67" column="72" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="79" column="9" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="80" column="74" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="159" column="9" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="160" column="92" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="196" column="9" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="197" column="94" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="203" column="11" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="204" column="12" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="9" column="30" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="9" column="2" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_kon_bug_brak_2.6.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_kon_bug_brak_2.6.json" />
+      <jump line="6" column="16" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_kon_bug_brak_2.6.json" />
+      <jump line="163" column="32" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="110" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/bugs/ogl_o_kon_bug_brak_2.6.json" />
+      <jump line="44" column="23" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="74" column="99" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="149" column="83" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="176" column="59" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="30" column="23" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,7 +329,7 @@
         <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtNTEwX0ExIiwKICAgICJ2YWx1ZSI6ICJBVTIiCiAgfSwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>20253059</text>
+        <text>afa87102</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -341,17 +340,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtNTEwX0ExIiwKICAgICJ2YWx1ZSI6ICJBVTIiCiAgfSwK</text>
+      <register name="+" type="4">
+        <text>Numer ogłoszenia</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>20253059</text>
+        <text>afa87102</text>
       </register>
       <register name="/" type="4">
-        <text>Numer ogłoszenia</text>
+        <text>4\.5</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -371,16 +370,309 @@
         <text>BT-701@1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXY3plnG5pZWpzemUgem1pYW55IHVtb3d5L3Vtb3d5IHJhbW93ZWosIG9ibGlndWq5Y2UgZG8gemFtaWVzemN6ZW5pYSBvZ7Nvc3plbmlhIG8gem1pYW5pZSB1bW93eQo=</text>
+        <text>[
+  {
+    &quot;id&quot;: &quot;BT-721&quot;,
+    &quot;value&quot;: &quot;Duży konkurs&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-04&quot;,
+    &quot;value&quot;: &quot;ocds-148610-02457af8-4467-11eb-9a49-0af4d26f8584&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-71@2&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-71@1&quot;,
+    &quot;value&quot;: &quot;art. 94 ust. 1 pkt 2) ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0710&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-722&quot;,
+    &quot;value&quot;: &quot;NAZWA UE&quot;
+  },
+  {
+    &quot;id&quot;: &quot;@IsTenderInitiated&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500@1&quot;,
+    &quot;value&quot;: &quot;ArtCompany&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16@1&quot;,
+    &quot;value&quot;: &quot;AC&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501@1&quot;,
+    &quot;value&quot;: &quot;REGON 234361722&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510@1&quot;,
+    &quot;value&quot;: &quot;Sowińskiego 22A&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513@1&quot;,
+    &quot;value&quot;: &quot;Świdry&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-512@1&quot;,
+    &quot;value&quot;: &quot;21-400&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0520@1&quot;,
+    &quot;value&quot;: &quot;Lubelskie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-514@1&quot;,
+    &quot;value&quot;: &quot;Polska&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-507@1&quot;,
+    &quot;value&quot;: &quot;PL815 - Puławski&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-503@1&quot;,
+    &quot;value&quot;: &quot;364534&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-739@1&quot;,
+    &quot;value&quot;: &quot;faksik&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506@1&quot;,
+    &quot;value&quot;: &quot;poczta@ewuir&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505@1&quot;,
+    &quot;value&quot;: &quot;www.stronapodmiotu.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-11&quot;,
+    &quot;value&quot;: &quot;Zamawiający publiczny - inny zamawiający (proszę określić)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-2228&quot;,
+    &quot;value&quot;: &quot;NOWY RODZAJ&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-10&quot;,
+    &quot;value&quot;: &quot;Porządek i bezpieczeństwo publiczne&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-08&quot;,
+    &quot;value&quot;: &quot;Konkurs prowadzą zamawiający wspólnie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;T-01&quot;,
+    &quot;value&quot;: &quot;1&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0740&quot;,
+    &quot;value&quot;: &quot;konkurs nieograniczony&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0720&quot;,
+    &quot;value&quot;: &quot;Konkurs jednoetapowy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-15&quot;,
+    &quot;value&quot;: &quot;www.web.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0540&quot;,
+    &quot;value&quot;: &quot;informacje&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-1020&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0940&quot;,
+    &quot;value&quot;: &quot;www.stronakom.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0550&quot;,
+    &quot;value&quot;: &quot;wymagania&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-124&quot;,
+    &quot;value&quot;: &quot;stronadd.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0551&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0552&quot;,
+    &quot;value&quot;: &quot;sposob&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-708&quot;,
+    &quot;value&quot;: &quot;{'polski'}&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0556&quot;,
+    &quot;value&quot;: &quot;rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0557&quot;,
+    &quot;value&quot;: &quot;rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-22&quot;,
+    &quot;value&quot;: &quot;23453254723547532&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0746&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-24&quot;,
+    &quot;value&quot;: &quot;krotki opis&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-262&quot;,
+    &quot;value&quot;: &quot;31712345-0 - Diody tunelowe&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-1025&quot;,
+    &quot;value&quot;: &quot;{'Zamawiający w opisie przedmiotu konkursu uwzględnił aspekty społeczne, w szczególności wymagania w zakresie dostępności dla osób niepełnosprawnych oraz projektowania z przeznaczeniem dla wszystkich użytkowników','Zamawiający w opisie przedmiotu konkursu uwzględnił aspekty innowacyjne'}&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0751&quot;,
+    &quot;value&quot;: &quot;Zaproszenie do negocjacji w celu wykonania usługi na podstawie wybranej pracy konkursowej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0752&quot;,
+    &quot;value&quot;: &quot;356&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0753&quot;,
+    &quot;value&quot;: &quot;234&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0754&quot;,
+    &quot;value&quot;: &quot;234&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-1052&quot;,
+    &quot;value&quot;: &quot;PLN&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-27&quot;,
+    &quot;value&quot;: &quot;23423423&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-105&quot;,
+    &quot;value&quot;: &quot;Negocjacje bez ogłoszenia&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-1030&quot;,
+    &quot;value&quot;: &quot;wymagania stary&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0770&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0771&quot;,
+    &quot;value&quot;: &quot;Tak&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0735&quot;,
+    &quot;value&quot;: &quot;wymagane cos&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0772&quot;,
+    &quot;value&quot;: &quot;wykaz czegos&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0782&quot;,
+    &quot;value&quot;: &quot;rodzaj i nazwa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0783&quot;,
+    &quot;value&quot;: &quot;znaczenie sample&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0784&quot;,
+    &quot;value&quot;: &quot;aspekty społeczne&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500_1&quot;,
+    &quot;value&quot;: &quot;Nazwa 2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16_1&quot;,
+    &quot;value&quot;: &quot;oddział 2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501_1&quot;,
+    &quot;value&quot;: &quot;numer krajowy 2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510_1&quot;,
+    &quot;value&quot;: &quot;street 2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513_1&quot;,
+    &quot;value&quot;: &quot;city 2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-512_1&quot;,
+    &quot;value&quot;: &quot;23-222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0520_1&quot;,
+    &quot;value&quot;: &quot;Kujawsko-Pomorskie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-514_1&quot;,
+    &quot;value&quot;: &quot;Algieria&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-507_1&quot;,
+    &quot;value&quot;: &quot;BE231 - Arr. Aalst&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-503_1&quot;,
+    &quot;value&quot;: &quot;675345734&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-739_1&quot;,
+    &quot;value&quot;: &quot;faks 2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506_1&quot;,
+    &quot;value&quot;: &quot;mail@ml.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505_1&quot;,
+    &quot;value&quot;: &quot;www.page.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0792&quot;,
+    &quot;value&quot;: &quot;2020-12-31 12:00&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0701&quot;,
+    &quot;value&quot;: &quot;dhfj&quot;
+  }
+]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiUktULTEwMTAtMV8wIiwKICAgICJ2YWx1ZSI6ICJSS1QtMTAxMC0xIgogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBXY3plnG5pZWpzemUgem1pYW55IHVtb3d5L3Vtb3d5IHJhbW93ZWosIG9ibGlndWq5Y2UgZG8gemFtaWVzemN6ZW5pYSBvZ7Nvc3plbmlhIG8gem1pYW5pZSB1bW93eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7CiAgICAiaWQiOiAiUktULTEwMTAtMV8wIiwKICAgICJ2YWx1ZSI6ICJSS1QtMTAxMC0xIgogIH0K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8I2lmIGVsZW0yLlJLVFwtMTAxMFwtMT9oYXNfY29udGVudD4KICAgICAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj43LjEuMSkgTmF6d3kgKGZpcm15KSBwb3pvc3Rhs3ljaCB3eWtvbmF3Y/N3IHdzcPNsbmllIHViaWVnYWq5Y3ljaCBzaeogbyB1ZHppZWxlbmllIHphbfN3aWVuaWE6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke2VsZW0yLlJLVFwtMTAxMFwtMX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgPC8jaWY+Cg==</text>
@@ -392,16 +684,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2gzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2gzPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2gzPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwjaWYgZWxlbS5SS1RcLTEwMTBcLTE/aGFzX2NvbnRlbnQ+CiAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzPSJtYi0wIj43LjEuMSkgTmF6d3kgKGZpcm15KSBwb3pvc3Rhs3ljaCB3eWtvbmF3Y/N3IHdzcPNsbmllIHViaWVnYWq5Y3ljaCBzaeogbyB1ZHppZWxlbmllIHphbfN3aWVuaWE6CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7ZWxlbS5SS1RcLTEwMTBcLTF9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICA8LyNpZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -410,9 +702,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Numer ogłoszenia</last-search>
+      <last-search>4\.5</last-search>
       <last-offset />
-      <last-pattern>Numer ogłoszenia</last-pattern>
+      <last-pattern>4\.5</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
