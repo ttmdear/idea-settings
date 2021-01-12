@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PRZ</entry>
-        <entry>Prz</entry>
-        <entry>Przed</entry>
         <entry>Cześć</entry>
         <entry>Czę</entry>
         <entry>Podstawowe</entry>
@@ -16,7 +13,6 @@
         <entry>dotyczy zmiany</entry>
         <entry>2\.3</entry>
         <entry>3.1.1</entry>
-        <entry>701</entry>
         <entry>0830</entry>
         <entry>123</entry>
         <entry>3\.2\.1</entry>
@@ -25,6 +21,10 @@
         <entry>0564</entry>
         <entry>Tak</entry>
         <entry>zm_um</entry>
+        <entry>Numer ogł</entry>
+        <entry>702</entry>
+        <entry>701</entry>
+        <entry>Okres realizacji zamówienia</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -161,9 +161,9 @@
         <mark key="^" line="50" column="24" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" timestamp="1610451044590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="835" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" timestamp="1610451191672">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="24" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1610451068944">
@@ -179,12 +179,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1610441600440">
-        <mark key="'" line="210" column="39" />
-        <mark key="[" line="93" column="77" />
-        <mark key="]" line="93" column="79" />
-        <mark key="." line="93" column="78" />
-        <mark key="^" line="93" column="79" />
+      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1610452305550">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="138" column="27" />
+        <mark key="]" line="138" column="27" />
+        <mark key="." line="138" column="26" />
+        <mark key="^" line="138" column="27" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" timestamp="1610450561472">
         <mark key="'" line="322" column="0" />
@@ -232,11 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="83" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="176" column="59" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="147" column="24" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
-      <jump line="8" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyk_um.json" />
-      <jump line="70" column="13" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyk_um.json" />
       <jump line="66" column="13" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyk_um.json" />
       <jump line="180" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="13" column="63" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
@@ -296,8 +291,6 @@
       <jump line="9" column="31" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="209" column="15" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="69" column="19" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
-      <jump line="77" column="21" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="210" column="39" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="5" column="16" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="30" column="23" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
@@ -332,6 +325,13 @@
       <jump line="20" column="3" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="402" column="10" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="7" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="77" column="27" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="93" column="29" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="96" column="29" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="6" column="17" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
+      <jump line="168" column="5" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,8 +339,8 @@
       <register name="a" type="2">
         <text encoding="base64">PCNpZiBCVFwtMTE/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjEuNy4pIFJvZHphaiB6YW1hd2lharljZWdvOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke0JUXC0xMX08L3NwYW4+PC9oMz4KICAgIDwjaWYgUktUXC0yMjI4P2hhc19jb250ZW50PgogICAgICAgIDxici8+JHtSS1RcLTIyMjh9CiAgICA8LyNpZj4KPC8jaWY+CjwjaWYgQlRcLTEwP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4xLjguKSBQcnplZG1pb3QgZHppYbNhbG5vnGNpIHphbWF3aWFquWNlZ286IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTEwfTwvc3Bhbj48L2gzPgogICAgPCNpZiBSS1RcLTIyMjk/aGFzX2NvbnRlbnQ+CiAgICAgICAgPGJyLz4ke1JLVFwtMjIyOX0KICAgIDwvI2lmPgo8LyNpZj4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJSS1QtMDUwMiIsCiAgICAidmFsdWUiOiAiWmFt83dpZW5pZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0wNCIsCiAgICAidmFsdWUiOiAib2Nkcy0xNDg2MTAtZDYwMzIwMWYtMjU4MS0xMWViLWE0NTItMjZjN2NhZGZlYTJmIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMEAxIiwKICAgICJ2YWx1ZSI6ICJBcnRDb21wYW55IgogIH0sCiAgewogICAgImlkIjogIkJULTE2QDEiLAogICAgInZhbHVlIjogIkFDIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMUAxIiwKICAgICJ2YWx1ZSI6ICIxMTYxMzA1OTY5IgogIH0sCiAgewogICAgImlkIjogIkJULTUxMEAxIiwKICAgICJ2YWx1ZSI6ICJTb3dp8XNraWVnbyAyMkEiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEzQDEiLAogICAgInZhbHVlIjogIox3aWRyeSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTJAMSIsCiAgICAidmFsdWUiOiAiMjEtNDAwIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTIwQDEiLAogICAgInZhbHVlIjogIkx1YmVsc2tpZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTRAMSIsCiAgICAidmFsdWUiOiAiUG9sc2thIgogIH0sCiAgewogICAgImlkIjogIkJULTUwN0AxIiwKICAgICJ2YWx1ZSI6ICJQdbNhd3NraSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDNAMSIsCiAgICAidmFsdWUiOiAiMTIzMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTUwNkAxIiwKICAgICJ2YWx1ZSI6ICIxMjNAMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTUwNUAxIiwKICAgICJ2YWx1ZSI6ICJ3d3cuYWMucGwiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTEiLAogICAgInZhbHVlIjogIlpBTUFXSUFKpUNZIFNFS1RPUk9XWSB3eWtvbnVquWN5IGR6aWGzYWxub5zmIHNla3Rvcm93uSB3IHpha3Jlc2llIChhcnQuIDUpIC0gQXJ0LiA1IHVzdC4gMSBwa3QgMyAtIHBvcnTzdywgcHJ6eXN0YW5pIGkgcG9ydPN3IGxvdG5pY3p5Y2giCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA3MTAiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJCVC0xMDUiLAogICAgInZhbHVlIjogIiAgLSBaYW3zd2llbmllIHVkemllbGFuZSBqZXN0IHcgdHJ5YmllIHBvZHN0YXdvd3ltIG5hIHBvZHN0YXdpZSAtIGFydC4gMjc1IHBrdCAyIHVzdGF3eSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0yMyIsCiAgICAidmFsdWUiOiAiVXOzdWdpIgogIH0sCiAgewogICAgImlkIjogIkJULTIxIiwKICAgICJ2YWx1ZSI6ICJQb3N06nBvd2FuaWUgcmV1v3l3YWxub5zmIDExMTExMSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0yNCIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTI2MiIsCiAgICAidmFsdWUiOiAiMDMzMzEwMDAtMCAtIIx3aWW/ZSBtbGVrbyBvd2llYyBpoGvzeiIKICB9LAogIHsKICAgICJpZCI6ICJCVC03MzlAMSIsCiAgICAidmFsdWUiOiAiMSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDcxMDEiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJCVC03MDFAMSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTcyMiIsCiAgICAidmFsdWUiOiAiMyIKICB9LAogIHsKICAgICJpZCI6ICJCVC0yNjMiLAogICAgInZhbHVlIjogInsnjHdpZb9lIG1sZWtvIG93aWVjIGmga/N6J30iCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTQ1IiwKICAgICJ2YWx1ZSI6ICIwMi4xMi4yMDIwIDAwOjAwOjAwIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNzEyIiwKICAgICJ2YWx1ZSI6ICI0IgogIH0sCiAgewogICAgImlkIjogIkJULTcwMUAyIiwKICAgICJ2YWx1ZSI6ICI1IgogIH0sCiAgewogICAgImlkIjogIkJULTUzNiIsCiAgICAidmFsdWUiOiAiMDMuMTIuMjAyMCAwMDowMDowMCIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MzciLAogICAgInZhbHVlIjogIjA0LjEyLjIwMjAgMDA6MDA6MDAiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAwQDIiLAogICAgInZhbHVlIjogIjYiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEwQDIiLAogICAgInZhbHVlIjogIjciCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEzQDIiLAogICAgInZhbHVlIjogIjgiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEyQDIiLAogICAgInZhbHVlIjogIjM0NS0wOSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUyMEAyIiwKICAgICJ2YWx1ZSI6ICJQb2RrYXJwYWNraWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTE0QDIiLAogICAgInZhbHVlIjogIkFybWVuaWEiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzE5IiwKICAgICJ2YWx1ZSI6ICIwNi4xMi4yMDIwIDAwOjAwOjAwIgogIH0sCiAgewogICAgImlkIjogIkJULTE0MCIsCiAgICAidmFsdWUiOiAiYXJ0LiA0NTUgdXN0LiAxIHBrdCAyIGxpdC4gYSB1c3Rhd3kiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzYyIiwKICAgICJ2YWx1ZSI6ICI3IgogIH0sCiAgewogICAgImlkIjogIkJULTE0MSIsCiAgICAidmFsdWUiOiAiOCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMTA1MSIsCiAgICAidmFsdWUiOiAiOSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMTA1MiIsCiAgICAidmFsdWUiOiAiQkJEIgogIH0sCiAgewogICAgImlkIjogIlJLVC0xMDUzIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTEwNTQiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJCVC03MDFAMyIsCiAgICAidmFsdWUiOiAiMTIiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA3MDEiLAogICAgInZhbHVlIjogIjExIgogIH0KXQo=</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -351,17 +351,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">PCNpZiBCVFwtNzAxQDI/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPgogICAgICAgIDQuNS4pIE51bWVyIG9ns29zemVuaWEgbyB3eW5pa3UgcG9zdOpwb3dh8TogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtNzAxQDJ9PC9zcGFuPgogICAgPC9oMz4KPC8jaWY+Cg==</text>
+      <register name="+" type="4">
+        <text>NUMER YY-67</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>6985ed72</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>zm_um</text>
+        <text>Okres realizacji zamówienia</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -692,9 +692,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>zm_um</last-search>
-      <last-offset />
-      <last-pattern>zm_um</last-pattern>
+      <last-search>Okres realizacji zamówienia</last-search>
+      <last-offset>umowy ramowej</last-offset>
+      <last-pattern>Okres realizacji zamówienia</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
