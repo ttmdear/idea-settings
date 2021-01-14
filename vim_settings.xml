@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>537</entry>
-        <entry>-36</entry>
-        <entry>0712</entry>
-        <entry>ogl_o_wyk_um</entry>
-        <entry>Krajowy numer identyfikacyjny</entry>
-        <entry>Podstawa prawna zmiany</entry>
         <entry>3\.8</entry>
         <entry>Wykona</entry>
         <entry>Nazwa</entry>
@@ -24,6 +18,12 @@
         <entry>zm_ogl</entry>
         <entry>zm_um</entry>
         <entry>5.7</entry>
+        <entry>Numer poprzedniego ogłoszenia w BZP</entry>
+        <entry>BZP</entry>
+        <entry encoding="base64">cG9wcnplZG5pZWdvIA==</entry>
+        <entry>poprzednie</entry>
+        <entry>wyniku postępowania</entry>
+        <entry>Numer ogłoszenia o wyniku postępowania w BZP</entry>
         <entry>701</entry>
       </history-search>
       <history-cmd>
@@ -121,6 +121,13 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" timestamp="1610610406582">
+        <mark key="'" line="94" column="105" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="94" column="110" />
+        <mark key="." line="94" column="109" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp/epzp-deployment-test2/values.yaml" timestamp="1610464733082">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="34" column="10" />
@@ -151,13 +158,6 @@
         <mark key="]" line="376" column="93" />
         <mark key="^" line="376" column="90" />
         <mark key="." line="376" column="58" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_kon.json" timestamp="1610461633554">
-        <mark key="'" line="112" column="11" />
-        <mark key="[" line="138" column="19" />
-        <mark key="]" line="138" column="21" />
-        <mark key="." line="138" column="20" />
-        <mark key="^" line="138" column="21" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1610463450673">
         <mark key="'" line="348" column="53" />
@@ -224,18 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="3" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="69" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="67" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="71" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="171" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="66" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="65" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="63" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="178" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="70" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="100" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="23" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="64" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl-1.0.0.ftl" />
       <jump line="82" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
@@ -324,6 +312,18 @@
       <jump line="318" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="337" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
       <jump line="213" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" />
+      <jump line="55" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="82" column="35" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="95" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="18" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="69" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="70" column="77" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="84" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="85" column="89" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="90" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="91" column="109" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="93" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
+      <jump line="94" column="105" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +332,7 @@
         <text>bugs/ogl_o_zm_ogl_correct_czesci.json</text>
       </register>
       <register name="&quot;" type="4">
-        <text>8fd3caed</text>
+        <text>Ogłoszenie o spełnieniu okoliczności</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -343,8 +343,8 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiUktULTIyMjVfMCIsCiAgICAidmFsdWUiOiAiRGF0YSBvZC1kbyIKICB9LAogIHsK</text>
+      <register name="+" type="4">
+        <text>Ogłoszenie o spełnieniu okoliczności</text>
       </register>
       <register name="k" type="4">
         <text />
