@@ -113,11 +113,11 @@
       <file name="/ogl_o_wyk_um-1.0.0.ftl" timestamp="1610627408607">
         <mark key="'" line="170" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610702336517">
+      <file name="/Dummy.txt" timestamp="1610702599383">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="23" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" timestamp="1610628943086">
         <mark key="[" line="0" column="34" />
@@ -164,7 +164,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1610630161588">
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1610702593757">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
@@ -189,17 +189,6 @@
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyk_um-1.0.0.ftl" timestamp="1610702330832">
         <mark key="'" line="341" column="9" />
-        <mark key="[" line="138" column="30" />
-        <mark key="]" line="139" column="12" />
-        <mark key="." line="139" column="11" />
-        <mark key="^" line="139" column="12" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1610701955758">
-        <mark key="'" line="154" column="52" />
-        <mark key="[" line="154" column="86" />
-        <mark key="]" line="154" column="81" />
-        <mark key="^" line="154" column="81" />
-        <mark key="." line="154" column="80" />
       </file>
       <file name="/fragment.java" timestamp="1610633406373">
         <mark key="[" line="0" column="0" />
@@ -313,8 +302,8 @@
       <register name="a" type="4">
         <text>Okres, na jaki została zawarta umowa</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJSS1QtMDUwMiIsCiAgICAidmFsdWUiOiAiWmFt83dpZW5pZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0wNCIsCiAgICAidmFsdWUiOiAib2Nkcy0xNDg2MTAtZDYwMzIwMWYtMjU4MS0xMWViLWE0NTItMjZjN2NhZGZlYTJmIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMEAxIiwKICAgICJ2YWx1ZSI6ICJBcnRDb21wYW55IgogIH0sCiAgewogICAgImlkIjogIkJULTE2QDEiLAogICAgInZhbHVlIjogIkFDIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMUAxIiwKICAgICJ2YWx1ZSI6ICIxMTYxMzA1OTY5IgogIH0sCiAgewogICAgImlkIjogIkJULTUxMEAxIiwKICAgICJ2YWx1ZSI6ICJTb3dp8XNraWVnbyAyMkEiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEzQDEiLAogICAgInZhbHVlIjogIox3aWRyeSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTJAMSIsCiAgICAidmFsdWUiOiAiMjEtNDAwIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTIwQDEiLAogICAgInZhbHVlIjogIkx1YmVsc2tpZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTRAMSIsCiAgICAidmFsdWUiOiAiUG9sc2thIgogIH0sCiAgewogICAgImlkIjogIkJULTUwN0AxIiwKICAgICJ2YWx1ZSI6ICJQdbNhd3NraSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDNAMSIsCiAgICAidmFsdWUiOiAiMTIzMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTUwNkAxIiwKICAgICJ2YWx1ZSI6ICIxMjNAMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTUwNUAxIiwKICAgICJ2YWx1ZSI6ICJ3d3cuYWMucGwiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTEiLAogICAgInZhbHVlIjogIlphbWF3aWFquWN5IHB1YmxpY3pueSAtIGplZG5vc3RrYSBzZWt0b3JhIGZpbmFuc/N3IHB1YmxpY3pueWNoIC0gc2Ftb2R6aWVsbnkgcHVibGljem55IHpha7NhZCBvcGlla2kgemRyb3dvdG5laiIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDcxMCIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIkJULTEwNSIsCiAgICAidmFsdWUiOiAiICAtIFphbfN3aWVuaWUgdWR6aWVsYW5lIGplc3QgdyB0cnliaWUgcG9kc3Rhd293eW0gbmEgcG9kc3Rhd2llIC0gYXJ0LiAyNzUgcGt0IDIgdXN0YXd5IgogIH0sCiAgewogICAgImlkIjogIkJULTIzIiwKICAgICJ2YWx1ZSI6ICJVc7N1Z2kiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjEiLAogICAgInZhbHVlIjogIlBvc3TqcG93YW5pZSByZXW/eXdhbG5vnOYgMTExMTExIgogIH0sCiAgewogICAgImlkIjogIkJULTI0IiwKICAgICJ2YWx1ZSI6ICIxMjMiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjYyIiwKICAgICJ2YWx1ZSI6ICKMd2llv2UgbWxla28gb3dpZWMgaaBr83oiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzM5QDEiLAogICAgInZhbHVlIjogIjEiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA3MTAxIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzAxQDEiLAogICAgInZhbHVlIjogIjIiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzIyIiwKICAgICJ2YWx1ZSI6ICIzIgogIH0sCiAgewogICAgImlkIjogIkJULTI2MyIsCiAgICAidmFsdWUiOiAieyeMd2llv2UgbWxla28gb3dpZWMgaaBr83onfSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0xNDUiLAogICAgInZhbHVlIjogIjAyLjEyLjIwMjAgMDA6MDA6MDAiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA3MTIiLAogICAgInZhbHVlIjogIjQiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzAxQDIiLAogICAgInZhbHVlIjogIjUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTM2IiwKICAgICJ2YWx1ZSI6ICIwMy4xMi4yMDIwIDAwOjAwOjAwIgogIH0sCiAgewogICAgImlkIjogIkJULTUzNyIsCiAgICAidmFsdWUiOiAiMDQuMTIuMjAyMCAwMDowMDowMCIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDBAMiIsCiAgICAidmFsdWUiOiAiNiIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTBAMiIsCiAgICAidmFsdWUiOiAiNyIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTNAMiIsCiAgICAidmFsdWUiOiAiOCIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTJAMiIsCiAgICAidmFsdWUiOiAiMzQ1LTA5IgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTIwQDIiLAogICAgInZhbHVlIjogIlBvZGthcnBhY2tpZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTRAMiIsCiAgICAidmFsdWUiOiAiQXJtZW5pYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC03MTkiLAogICAgInZhbHVlIjogIjA2LjEyLjIwMjAgMDA6MDA6MDAiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTQwIiwKICAgICJ2YWx1ZSI6ICJhcnQuIDQ1NSB1c3QuIDEgcGt0IDIgbGl0LiBhIHVzdGF3eSIKICB9LAogIHsKICAgICJpZCI6ICJCVC03NjIiLAogICAgInZhbHVlIjogIjciCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTQxIiwKICAgICJ2YWx1ZSI6ICI4IgogIH0sCiAgewogICAgImlkIjogIlJLVC0xMDUxIiwKICAgICJ2YWx1ZSI6ICI5IgogIH0sCiAgewogICAgImlkIjogIlJLVC0xMDUyIiwKICAgICJ2YWx1ZSI6ICJCQkQiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTEwNTMiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMTA1NCIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIkJULTcwMUAzIiwKICAgICJ2YWx1ZSI6ICIyMCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDcwMSIsCiAgICAidmFsdWUiOiAiMTEiCiAgfQpdCg==</text>
+      <register name="&quot;" type="4">
+        <text>376281a2</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -332,7 +321,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>376281a2</text>
       </register>
       <register name="/" type="4">
         <text>counter</text>
