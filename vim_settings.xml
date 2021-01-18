@@ -113,7 +113,7 @@
       <file name="/ogl_o_wyk_um-1.0.0.ftl" timestamp="1610627408607">
         <mark key="'" line="170" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610725591006">
+      <file name="/Dummy.txt" timestamp="1610960630284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -133,11 +133,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2325" />
         <mark key="^" line="237" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um.json" timestamp="1610622896363">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2195" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" timestamp="1610629652299">
@@ -195,23 +190,16 @@
         <mark key="^" line="140" column="75" />
         <mark key="." line="140" column="74" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1610717379004">
-        <mark key="'" line="376" column="41" />
-        <mark key="[" line="340" column="21" />
-        <mark key="]" line="340" column="62" />
-        <mark key="^" line="376" column="86" />
-        <mark key="." line="376" column="85" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1610958020433">
         <mark key="[" line="102" column="29" />
         <mark key="]" line="102" column="41" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" timestamp="1610960063736">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" timestamp="1610960370213">
         <mark key="'" line="375" column="35" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="." line="309" column="0" />
-        <mark key="^" line="307" column="21" />
+        <mark key="[" line="337" column="56" />
+        <mark key="]" line="337" column="73" />
+        <mark key="." line="337" column="72" />
+        <mark key="^" line="337" column="73" />
       </file>
       <file name="/fragment.java" timestamp="1610958693411">
         <mark key="[" line="0" column="0" />
@@ -325,8 +313,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhc3NlcnRpb25JbmRleCA9IGFzc2VydGlvbi5nZXRJbmRleCgpOwoKICAgICAgICAgICAgICAgIGlmIChhc3NlcnRpb25JbmRleCA8IDAgfHwgYXNzZXJ0aW9uSW5kZXggPj0gdmFsdWVzLnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIHRocm93Tm9Bc3NlcnRpb24odGVzdENhc2UsIGFzc2VydGlvbiwgZm9ybWF0KCJJbmRleCAnJXMnIG91dCBvZiByYW5nZS4iLCBhc3NlcnRpb25JbmRleCkpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGlmICghdmFsdWVzLmdldChhc3NlcnRpb25JbmRleCkuZXF1YWxzKGFzc2VydGlvbi5nZXRFeHBlY3RlZCgpKSkgewogICAgICAgICAgICAgICAgICAgIHRocm93Tm9Bc3NlcnRpb24odGVzdENhc2UsIGFzc2VydGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgZm9ybWF0KCJObyBhc3NlcnRpb24uIEV4cGVjdGVkICclcycgYW5kIGlzICclcycuIiwgYXNzZXJ0aW9uLmdldEV4cGVjdGVkKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZXMuZ2V0KGFzc2VydGlvbkluZGV4KSkpOwogICAgICAgICAgICAgICAgfQoKCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdENhc2UuCg==</text>
+      <register name="&quot;" type="4">
+        <text>valuesMap</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -344,7 +332,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGVzdENhc2Ug</text>
+        <text>valuesMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKU09OX0ZJTEVfUEFUVEVSTlw+</text>
