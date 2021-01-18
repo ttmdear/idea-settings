@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Umowa dla części</entry>
         <entry>24</entry>
         <entry>ogl_o_zm_um</entry>
         <entry>inowacy</entry>
@@ -25,6 +24,7 @@
         <entry>matche</entry>
         <entry encoding="base64">XDxwcmVwYXJlUXVlcnlWYWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVBc3NlcnRpb25zRmlsZVw+</entry>
+        <entry encoding="base64">XDxhc3NlcnRpb25RdWVyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>926</entry>
@@ -145,12 +145,11 @@
         <mark key="]" line="0" column="2176" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" timestamp="1610725424768">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="91" column="61" />
-        <mark key="]" line="91" column="59" />
-        <mark key="." line="91" column="58" />
-        <mark key="^" line="91" column="59" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" timestamp="1610956752646">
+        <mark key="[" line="339" column="67" />
+        <mark key="]" line="339" column="68" />
+        <mark key="^" line="339" column="68" />
+        <mark key="." line="339" column="67" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/test-cases/ogl_o_zam-1.0.0-1-assertions" timestamp="1610725202150">
         <mark key="[" line="2" column="63" />
@@ -194,9 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="206" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
-      <jump line="210" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="226" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="86" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="114" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
@@ -294,6 +290,9 @@
       <jump line="66" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="45" column="65" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
       <jump line="55" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
+      <jump line="169" column="24" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
+      <jump line="298" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
+      <jump line="300" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/TemplatesTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +301,7 @@
         <text>queryTokens.get(0)</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -320,10 +319,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>values</text>
+        <text>html.select().</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVBc3NlcnRpb25zRmlsZVw+</text>
+        <text encoding="base64">XDxhc3NlcnRpb25RdWVyeVw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -339,17 +338,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvd05vQXNzZXJ0aW9uKGNhc2VEYXRhLCBhc3NlcnRpb24sIGZvcm1hdCgiSW5kZXggJXMgb3V0IG9mIHJhbmdlLiIsIGFzc2VydGlvbkluZGV4KSk7Cg==</text>
+      <register name="0" type="4">
+        <text>resolvedValues</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,25 +357,25 @@
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHF1ZXJ5LmdldFR5cCgpLmVxdWFscyhRdWVyeVR5cGUuU0VMRUNUT1IpKSB7CgogICAgICAgICAgICB9IGVsc2UgaWYgKHF1ZXJ5LmdldFR5cCgpLmVxdWFscyhRdWVyeVR5cGUuTEFCRUwpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaT0wOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50KQo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -388,9 +387,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVBc3NlcnRpb25zRmlsZVw+</last-search>
+      <last-search encoding="base64">XDxhc3NlcnRpb25RdWVyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVBc3NlcnRpb25zRmlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NlcnRpb25RdWVyeVw+</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
