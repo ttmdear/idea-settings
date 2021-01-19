@@ -110,13 +110,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611049747761">
+      <file name="/Dummy.txt" timestamp="1611049892861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/util/DevUtil.java" timestamp="1610968425707">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="100" column="23" />
-        <mark key="." line="42" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1.json" timestamp="1611051758338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3861" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1610972189997">
         <mark key="[" line="0" column="0" />
@@ -143,7 +143,7 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611047858415">
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611049880779">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
@@ -213,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="32" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="284" column="55" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
       <jump line="117" column="36" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
       <jump line="377" column="35" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
       <jump line="294" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
@@ -313,6 +311,8 @@
       <jump line="594" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="447" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="586" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="6" column="4" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +321,7 @@
         <text>input_ogl_o_zam_bag.json</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTA0IiwKICAgICJ2YWx1ZSI6ICJvY2RzLTE0ODYxMC1mYTMyMWU5NS0yNzQ0LTExZWItYTQ1Mi0yNmM3Y2FkZmVhMmYiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMDgiLAogICAgInZhbHVlIjogIlphbWF3aWFquWN5IHBpZXJ3c3p5IgogIH0KXQo=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -339,7 +339,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Polski</text>
+        <text>59142916</text>
       </register>
       <register name="/" type="4">
         <text>4.2.2</text>
@@ -362,25 +362,25 @@
         <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtNzA4IiwKICAgICJ2YWx1ZSI6ICJ7J0FuZ2llbHNraScsICdQb2xza2knLCAnUm9zeWpza2knLCAnTmllbWllY2tpJ30iCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTA0IiwKICAgICJ2YWx1ZSI6ICJvY2RzLTE0ODYxMC1mYTMyMWU5NS0yNzQ0LTExZWItYTQ1Mi0yNmM3Y2FkZmVhMmYiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMDgiLAogICAgInZhbHVlIjogIlphbWF3aWFquWN5IHBpZXJ3c3p5IgogIH0KXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHtlbGVtLkJUXC0yNH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHtlbGVtLkJUXC0yNH0K</text>
       </register>
       <register name="s" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAke0JUXC0yNH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAke0JUXC0yNH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -389,13 +389,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHtCVFwtNzAxQDZ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHtCVFwtNzAxQDZ9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
