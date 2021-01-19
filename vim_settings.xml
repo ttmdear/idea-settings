@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Informacje o pozostałych zamawiających działających wspólnie</entry>
-        <entry>Jezyki</entry>
-        <entry>Języki</entry>
-        <entry>701</entry>
-        <entry>701@6</entry>
-        <entry encoding="base64">XDxsaXN0XD4=</entry>
-        <entry>708</entry>
         <entry>o_zam</entry>
         <entry>Informacje</entry>
         <entry encoding="base64">XDxwYXJ0c0NvdW50XD4=</entry>
@@ -25,27 +18,34 @@
         <entry>08</entry>
         <entry>-08</entry>
         <entry>0564</entry>
+        <entry>ogl_o_zam</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry>_0</entry>
+        <entry>_</entry>
+        <entry encoding="base64">XDxzY29wZVw+</entry>
+        <entry encoding="base64">XDxpbmxpbmVcPg==</entry>
+        <entry>-23</entry>
       </history-search>
       <history-cmd>
-        <entry>114</entry>
-        <entry>437</entry>
-        <entry>544</entry>
-        <entry>739</entry>
         <entry>57</entry>
         <entry>64</entry>
         <entry>46</entry>
-        <entry>e</entry>
         <entry>W</entry>
         <entry>325</entry>
         <entry>140</entry>
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>300</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>205</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>430</entry>
+        <entry>13</entry>
+        <entry>5</entry>
+        <entry>4</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>e</entry>
+        <entry>23</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -110,50 +110,58 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/macros-1.0.0.ftl" timestamp="1611058359295">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all-fields.json" timestamp="1611052943282">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2152" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami_2-assertions" timestamp="1610979970340">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="26" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-3.json" timestamp="1611051830692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1664" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" timestamp="1611053176286">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="1251" column="15" />
-        <mark key="]" line="1251" column="15" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" timestamp="1611059054497">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2149" column="1" />
         <mark key="^" line="1251" column="15" />
         <mark key="." line="1251" column="14" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami-assertions" timestamp="1610979752927">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="98" />
-        <mark key="]" line="7" column="98" />
-        <mark key="." line="7" column="97" />
-        <mark key="^" line="7" column="98" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/GeneratorTypeVersions.java" timestamp="1611060223496">
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="^" line="26" column="61" />
+        <mark key="." line="26" column="60" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami.json" timestamp="1611052383310">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" timestamp="1611046393513">
-        <mark key="]" line="188" column="3" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1611059747121">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="303" column="19" />
+        <mark key="]" line="303" column="23" />
+        <mark key="." line="303" column="22" />
+        <mark key="^" line="303" column="23" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1611053242167">
-        <mark key="'" line="165" column="37" />
-        <mark key="[" line="165" column="37" />
-        <mark key="]" line="165" column="114" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" timestamp="1611060288664">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="40" column="21" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1611058999852">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="938" column="6" />
         <mark key="." line="586" column="0" />
         <mark key="^" line="585" column="26" />
       </file>
@@ -164,12 +172,11 @@
         <mark key="." line="381" column="22" />
         <mark key="^" line="381" column="21" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" timestamp="1610979934639">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="161" column="16" />
-        <mark key="]" line="161" column="25" />
-        <mark key="." line="161" column="24" />
-        <mark key="^" line="161" column="25" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/style-1.0.0.ftl" timestamp="1611059342823">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1611049892861">
         <mark key="[" line="0" column="0" />
@@ -179,12 +186,11 @@
         <mark key="]" line="0" column="3861" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1610978408679">
-        <mark key="'" line="113" column="68" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
-        <mark key="^" line="253" column="20" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" timestamp="1611060018847">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields.json" timestamp="1611053069189">
         <mark key="'" line="1995" column="13" />
@@ -192,6 +198,13 @@
         <mark key="]" line="1251" column="15" />
         <mark key="." line="1251" column="14" />
         <mark key="^" line="1251" column="15" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611054073431">
+        <mark key="'" line="304" column="10" />
+        <mark key="[" line="312" column="69" />
+        <mark key="]" line="312" column="69" />
+        <mark key="^" line="312" column="69" />
+        <mark key="." line="312" column="68" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611049880779">
         <mark key="[" line="34" column="10" />
@@ -211,53 +224,25 @@
         <mark key="." line="65" column="4" />
         <mark key="^" line="65" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1610979885691">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/css-1.0.0.ftl" timestamp="1611059143054">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="62" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="274" column="41" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="292" column="59" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="301" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="359" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="114" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
-      <jump line="1" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami-assertions" />
-      <jump line="11" column="24" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami.json" />
-      <jump line="10" column="38" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami-assertions" />
-      <jump line="3" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami-assertions" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami-assertions" />
-      <jump line="7" column="32" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_bag.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_bag.json" />
-      <jump line="205" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_bag.json" />
-      <jump line="5" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_bag.json" />
-      <jump line="377" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="250" column="10" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="266" column="54" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="440" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="247" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
-      <jump line="30" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
-      <jump line="322" column="82" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
-      <jump line="113" column="68" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
-      <jump line="26" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="421" column="36" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="425" column="54" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="427" column="55" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="180" column="54" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="221" column="56" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="8" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2027" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="1284" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="432" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="18" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="200" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="23" column="11" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="9" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="311" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="133" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um.json" />
@@ -270,7 +255,6 @@
       <jump line="76" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="147" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="31" column="28" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="11" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="380" column="30" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="376" column="32" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="150" column="57" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
@@ -316,6 +300,37 @@
       <jump line="62" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
       <jump line="9" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" />
       <jump line="165" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="304" column="10" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="8" column="1" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="147" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="2" column="39" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="369" column="32" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="12" column="29" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="37" column="57" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="11" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="13" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="17" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="20" column="61" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="27" column="22" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="16" column="11" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="18" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="9" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="1" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="49" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/macros-1.0.0.ftl" />
+      <jump line="49" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="6" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="1" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="25" column="44" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="1264" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" />
+      <jump line="11" column="35" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/css-1.0.0.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" />
+      <jump line="8" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="49" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,8 +338,8 @@
       <register name="a" type="4">
         <text>input_ogl_o_zam_bag.json</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BT-08</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -335,17 +350,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="4">
-        <text>Postępowanie prowadzi podmiot, któremu powierzono przeprowadzenie postępowania</text>
+      <register name="+" type="2">
+        <text encoding="base64">PCNpbXBvcnQgImNvbW1vbi9tYWNyb3MtMS4wLjAuZnRsIiBhcyBtPgo=</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>BT-08</text>
+        <text>RKT-0502</text>
       </register>
       <register name="/" type="4">
-        <text>0564</text>
+        <text>-23</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -361,8 +376,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtNzA4IiwKICAgICJ2YWx1ZSI6ICJ7J0FuZ2llbHNraScsICdQb2xza2knLCAnUm9zeWpza2knLCAnTmllbWllY2tpJ30iCiAgfSwK</text>
+      <register name="0" type="4">
+        <text>Rola zamawiającego</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -371,28 +386,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMSVNUWQo=</text>
+        <text encoding="base64">PCNpZiBCVFwtMDg/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjEuMS4pIFJvbGEgemFtYXdpYWq5Y2VnbzwvaDM+CiAgICA8cCBjbGFzcz0ibWItMCI+JHtCVFwtMDh9PC9wPgo8LyNpZj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJSS1QtMDUwMiIsCiAgICAidmFsdWUiOiAiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyIKICB9LAogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAienp6IgogIH0sCiAgewogICAgImlkIjogIkJULTA0IiwKICAgICJ2YWx1ZSI6ICJvY2RzLTE0ODYxMC1kMzIzODRmNC00MzdmLTExZWItYjc0My0xYTk5YzNjZTc3NTkiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1MDlAMSIsCiAgICAidmFsdWUiOiAiTmllIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMEAxIiwKICAgICJ2YWx1ZSI6ICJCZWUgQ29tcGFueSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0xNkAxIiwKICAgICJ2YWx1ZSI6ICJCQyIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDFAMSIsCiAgICAidmFsdWUiOiAiUkVHT04gMjE1ODgyMjU1IgogIH0sCiAgewogICAgImlkIjogIkJULTUxMEAxIiwKICAgICJ2YWx1ZSI6ICJXeXN6efFza2llZ28gMjNCIgogIH0sCiAgewogICAgImlkIjogIkJULTUxM0AxIiwKICAgICJ2YWx1ZSI6ICJKYXJ6uWJrb3dpY2UiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEyQDEiLAogICAgInZhbHVlIjogIjA5LTIxMyIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUyMEAxIiwKICAgICJ2YWx1ZSI6ICKMbLlza2llIgogIH0sCiAgewogICAgImlkIjogIkJULTUxNEAxIiwKICAgICJ2YWx1ZSI6ICJQb2xza2EiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTA3QDEiLAogICAgInZhbHVlIjogIlBMMjJDIC0gVHlza2kiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTA1QDEiLAogICAgInZhbHVlIjogInd3dy5wYWdlLnBsIgogIH0sCiAgewogICAgImlkIjogIkJULTEwNSIsCiAgICAidmFsdWUiOiAiWmFt83dpZW5pZSB1ZHppZWxhbmUgamVzdCB3IHRyeWJpZSBwYXJ0bmVyc3R3YSBpbm5vd2FjeWpuZWdvIG5hIHBvZHN0YXdpZSA6IGFydC4gMjk3IHVzdGF3eSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDU2MiIsCiAgICAidmFsdWUiOiAiTmllIgogIH0sCiAgewogICAgImlkIjogIlJLVC0yMjYwX05vTG90cyIsCiAgICAidmFsdWUiOiAiYWhzZ2RmZ2hhcyIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMjI1NSIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNjkyIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA2MTEiLAogICAgInZhbHVlIjogIjIwMjAtMTItMjUgMTI6MDAiCiAgfSwKICB7CiAgICAiaWQiOiAiQENyaXRlcmlhV2VpZ2h0U3RyYXRlZ3lfTm9Mb3RzIiwKICAgICJ2YWx1ZSI6ICJQcm9jZW50b3dvIgogIH0sCiAgewogICAgImlkIjogIlJLVC0yMjc1X05vTG90cyIsCiAgICAidmFsdWUiOiAiS3J5dGVyaXVtIGNlbnkgb3JheiBrcnl0ZXJpYSBqYWtvnGNpb3dlIgogIH0sCiAgewogICAgImlkIjogIkBMb3RDcml0ZXJpYUNvdW50X05vTG90cyIsCiAgICAidmFsdWUiOiAiMSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDY4MCIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTEzMTEiLAogICAgInZhbHVlIjogIjIwMjAtMTItMjMgMTI6MDAiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA3NDUiLAogICAgInZhbHVlIjogIjEyMyIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDY4NCIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNjg1IiwKICAgICJ2YWx1ZSI6ICIxMjMiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA2ODYiLAogICAgInZhbHVlIjogIjEyMyIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDY4NyIsCiAgICAidmFsdWUiOiAiMjM0IgogIH0sCiAgewogICAgImlkIjogIkJULTczNF9Ob0xvdHNfMCIsCiAgICAidmFsdWUiOiAiQ2VuYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01NDIxX3BjdGdfTm9Mb3RzXzAiLAogICAgInZhbHVlIjogIjIiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTM5X05vTG90c18xIiwKICAgICJ2YWx1ZSI6ICJqYWtvnOYsIHcgdHltIGRvIHBhcmFtZXRyeSB0ZWNobmljem5lLCB3s2GcY2l3b5xjaSBlc3RldHljem5lIGkgZnVua2Nqb25hbG5lIHRha2llIGphayBkb3N06nBub5zmIGRsYSBvc/NiIG5pZXBls25vc3ByYXdueWNoIGx1YiB1d3pnbOpkbmlhbmllIHBvdHJ6ZWIgdb95dGtvd25pa/N3IgogIH0sCiAgewogICAgImlkIjogIkJULTczNF9Ob0xvdHNfMSIsCiAgICAidmFsdWUiOiAiMiIKICB9LAogIHsKICAgICJpZCI6ICJCVC01NDIxX3BjdGdfTm9Mb3RzXzEiLAogICAgInZhbHVlIjogIjEiCiAgfQpdCg==</text>
+        <text encoding="base64">PEBtLnByaW50UG9pbnQK</text>
       </register>
       <register name="s" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTA0IiwKICAgICJ2YWx1ZSI6ICJvY2RzLTE0ODYxMC1mYTMyMWU5NS0yNzQ0LTExZWItYTQ1Mi0yNmM3Y2FkZmVhMmYiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMDgiLAogICAgInZhbHVlIjogIlphbWF3aWFquWN5IHBpZXJ3c3p5IgogIH0KXQo=</text>
+        <text encoding="base64">PGgyIGNsYXNzPSJiZy1saWdodCBwLTMiPlNFS0NKQSBJIC0gWkFNQVdJQUqlQ1k8L2gyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ2ZXJzaW9uIjogewogICAgICAicHJlc2VudCI6IGZhbHNlCiAgICB9CiAgfQpdCg==</text>
+        <text encoding="base64">ICAgIDxoMSBjbGFzcz0idGV4dC1jZW50ZXIgbXQtNSBtYi01Ij4ke3RpdGxlfTxici8+CiAgICAgICAgPCNpZiBCVFwtMjM/aGFzX2NvbnRlbnQ+CiAgICAgICAgICAgICR7QlRcLTIzfTxici8+CiAgICAgICAgPC8jaWY+CiAgICAgICAgPCNpZiBCVFwtMjE/aGFzX2NvbnRlbnQ+CiAgICAgICAgICAgICR7QlRcLTIxfQogICAgICAgIDwvI2lmPgogICAgPC9oMT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">WwogIHsKICAgICJ0eXBlIjogIm9nbF9vX3phbSIsCg==</text>
+        <text encoding="base64">ICAgIHRlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTA0IiwKICAgICJ2YWx1ZSI6ICJvY2RzLTE0ODYxMC1mYTMyMWU5NS0yNzQ0LTExZWItYTQ1Mi0yNmM3Y2FkZmVhMmYiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMDgiLAogICAgInZhbHVlIjogIlphbWF3aWFquWN5IHBpZXJ3c3p5IgogIH0KXQo=</text>
+        <text encoding="base64">PGgxIGNsYXNzPSJ0ZXh0LWNlbnRlciBtdC01IG1iLTUiPiA8YnIvPgogICAgPCNpZiBCVFwtMjM/aGFzX2NvbnRlbnQ+CiAgICAgICAgJHtCVFwtMjN9PGJyLz4KICAgIDwvI2lmPgogICAgPCNpZiBCVFwtMjE/aGFzX2NvbnRlbnQ+CiAgICAgICAgJHtCVFwtMjF9CiAgICA8LyNpZj4KPC9oMT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJCVC0yMSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTA0IiwKICAgICJ2YWx1ZSI6ICJvY2RzLTE0ODYxMC1mYTMyMWU5NS0yNzQ0LTExZWItYTQ1Mi0yNmM3Y2FkZmVhMmYiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMDgiLAogICAgInZhbHVlIjogIlphbWF3aWFquWN5IHBpZXJ3c3p5IgogIH0KXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
@@ -410,9 +425,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>0564</last-search>
+      <last-search>-23</last-search>
       <last-offset />
-      <last-pattern>0564</last-pattern>
+      <last-pattern>-23</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
