@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2RlXD4=</entry>
-        <entry>_0</entry>
-        <entry>_</entry>
-        <entry encoding="base64">XDxzY29wZVw+</entry>
-        <entry encoding="base64">XDxpbmxpbmVcPg==</entry>
-        <entry>-23</entry>
-        <entry>SEKCJA</entry>
-        <entry>br</entry>
-        <entry encoding="base64">YnI+</entry>
-        <entry>code</entry>
-        <entry>Informacje o pozostałych zamawiających działających wspólnie</entry>
         <entry>Nazwa zamawiającego</entry>
         <entry>Adres zamawiającego</entry>
         <entry>BT-11</entry>
         <entry>parag</entry>
         <entry>-08</entry>
         <entry>printPo</entry>
-        <entry>para</entry>
         <entry>0715</entry>
         <entry>-71</entry>
+        <entry>3.14</entry>
+        <entry>para</entry>
+        <entry>4.2.3</entry>
+        <entry>1\.9</entry>
+        <entry>Podział obowiązków – zamówienie wspólne</entry>
+        <entry>2\.1&quot;</entry>
+        <entry>2\.1</entry>
+        <entry>3\.2</entry>
+        <entry>4\.1\.8</entry>
+        <entry>5\.</entry>
+        <entry>5\.1</entry>
+        <entry>4.3.1</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -115,16 +115,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all-fields.json" timestamp="1611052943282">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2152" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-3.json" timestamp="1611051830692">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1664" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" timestamp="1611067071268">
+        <mark key="'" line="266" column="29" />
+        <mark key="[" line="623" column="0" />
+        <mark key="]" line="625" column="131" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" timestamp="1611059054497">
         <mark key="'" line="0" column="0" />
@@ -139,16 +134,18 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/GeneratorTypeVersions.java" timestamp="1611060223496">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4-assertions" timestamp="1611068608402">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/GeneratorTypeVersions.java" timestamp="1611064636513">
         <mark key="[" line="26" column="61" />
         <mark key="]" line="26" column="61" />
         <mark key="^" line="26" column="61" />
         <mark key="." line="26" column="60" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-z_czesciami.json" timestamp="1611052383310">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="4" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1611063334387">
         <mark key="'" line="1594" column="24" />
@@ -157,19 +154,26 @@
         <mark key="." line="63" column="14" />
         <mark key="^" line="303" column="23" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" timestamp="1611063210527">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" timestamp="1611064907049">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="26" />
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="31" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1611062536224">
-        <mark key="'" line="109" column="39" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="938" column="6" />
-        <mark key="." line="586" column="0" />
-        <mark key="^" line="585" column="26" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1611067087700">
+        <mark key="'" line="376" column="26" />
+        <mark key="[" line="746" column="0" />
+        <mark key="]" line="746" column="0" />
+        <mark key="." line="746" column="0" />
+        <mark key="^" line="594" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" timestamp="1611068402033">
+        <mark key="'" line="194" column="17" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/style-1.0.0.ftl" timestamp="1611059342823">
         <mark key="[" line="3" column="5" />
@@ -177,25 +181,26 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1611049892861">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4.json" timestamp="1611068422312">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="8" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1611067306717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1.json" timestamp="1611051758338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3861" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" timestamp="1611064403230">
+        <mark key="[" line="165" column="25" />
+        <mark key="]" line="165" column="9" />
+        <mark key="^" line="165" column="9" />
+        <mark key="." line="165" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" timestamp="1611063290140">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields.json" timestamp="1611053069189">
-        <mark key="'" line="1995" column="13" />
-        <mark key="[" line="1251" column="14" />
-        <mark key="]" line="1251" column="15" />
-        <mark key="." line="1251" column="14" />
-        <mark key="^" line="1251" column="15" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts-assertions" timestamp="1611067125532">
+        <mark key="[" line="255" column="23" />
+        <mark key="]" line="255" column="24" />
+        <mark key="^" line="255" column="24" />
+        <mark key="." line="255" column="23" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611054073431">
         <mark key="'" line="304" column="10" />
@@ -204,63 +209,31 @@
         <mark key="^" line="312" column="69" />
         <mark key="." line="312" column="68" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611049880779">
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="10" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-2-assertions" timestamp="1611065795718">
+        <mark key="[" line="48" column="59" />
+        <mark key="]" line="48" column="58" />
+        <mark key="^" line="48" column="58" />
+        <mark key="." line="48" column="57" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" timestamp="1611053158727">
-        <mark key="'" line="62" column="17" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="92" />
-        <mark key="^" line="1251" column="15" />
-        <mark key="." line="63" column="14" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-2.json" timestamp="1611051806454">
-        <mark key="[" line="65" column="6" />
-        <mark key="]" line="65" column="5" />
-        <mark key="." line="65" column="4" />
-        <mark key="^" line="65" column="5" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts-assertions" timestamp="1611067129157">
+        <mark key="[" line="259" column="23" />
+        <mark key="]" line="259" column="24" />
+        <mark key="^" line="259" column="24" />
+        <mark key="." line="259" column="23" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/css-1.0.0.ftl" timestamp="1611059143054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-3-assertions" timestamp="1611067121769">
+        <mark key="[" line="71" column="22" />
+        <mark key="]" line="71" column="23" />
+        <mark key="^" line="71" column="23" />
+        <mark key="." line="71" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="594" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="447" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="586" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="6" column="4" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1.json" />
-      <jump line="3" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-2.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-2.json" />
-      <jump line="66" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-2.json" />
-      <jump line="4" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-3.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-3.json" />
-      <jump line="6" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all-fields.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all-fields.json" />
-      <jump line="2099" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields.json" />
-      <jump line="1995" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields.json" />
-      <jump line="10" column="10" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1251" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1249" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1658" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1659" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1662" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1663" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1666" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="1667" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="62" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_no_parts.json" />
-      <jump line="9" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-all_fields_parts.json" />
-      <jump line="165" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="304" column="10" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="8" column="1" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
-      <jump line="147" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2" column="39" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
-      <jump line="369" column="32" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="12" column="29" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="37" column="57" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="11" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="13" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
@@ -321,7 +294,6 @@
       <jump line="106" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="130" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="134" column="66" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="54" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="1598" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="1599" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
@@ -329,15 +301,48 @@
       <jump line="1603" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="1606" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="1594" column="24" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="160" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="95" column="38" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="341" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="340" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="173" column="10" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="387" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="338" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="388" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="80" column="31" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="415" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="86" column="22" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="11" column="28" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="120" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="91" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="97" column="32" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="81" column="29" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="189" column="39" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="318" column="31" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="182" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="228" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="266" column="29" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1-BETA.ftl" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="18" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="79" column="6" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="80" column="6" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="87" column="6" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="88" column="6" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="187" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="194" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" />
+      <jump line="9" column="2" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4.json" />
+      <jump line="16" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4-assertions" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">PEBtLnByaW50U2VjdGlvbiB0aXRsZT0iU0VLQ0pBIElJIJYgSU5GT1JNQUNKRSBQT0RTVEFXT1dFIiAvPgo=</text>
+        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjMuMi4iIGxhYmVsPSJaYW1hd2lharljeSB6YXN0cnplZ2EgZG9zdOpwIGRvIGRva3VtZW5083cgemFt83dpZW5pYSIgY29kZT0iUktULTIyMTEiIC8+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUT1IgcCAwID0gWmFt83dpZW5pYSBwdWJsaWN6bmVnbwpTRUxFQ1RPUiBwIDEgPSB6enoKU0VMRUNUT1IgaDIgMCA9IFNFS0NKQSBJIC0gWkFNQVdJQUqlQ1kKU0VMRUNUT1IgaDIgMSA9IFNFS0NKQSBJSSCWIElORk9STUFDSkUgUE9EU1RBV09XRQpTRUxFQ1RPUiBoMiAyID0gU0VLQ0pBIElJSSCWIFVET1NUylBOSUFOSUUgRE9LVU1FTlTTVyBaQU3TV0lFTklBIEkgS09NVU5JS0FDSkEKU0VMRUNUT1IgaDIgMyA9IFNFS0NKQSBJViCWIFBSWkVETUlPVCBaQU3TV0lFTklBClNFTEVDVE9SIGgyIDQgPSBTRUtDSkEgViAtIEtXQUxJRklLQUNKQSBXWUtPTkFXQ9NXClNFTEVDVE9SIGgyIDUgPSBTRUtDSkEgVkkgLSBXQVJVTktJIFpBTdNXSUVOSUEKU0VMRUNUT1IgaDIgNiA9IFNFS0NKQSBWSUkgLSBQUk9KRUtUT1dBTkUgUE9TVEFOT1dJRU5JQSBVTU9XWQpTRUxFQ1RPUiBoMiA3ID0gU0VLQ0pBIFZJSUkgliBQUk9DRURVUkEKU0VMRUNUT1IgaDEgMCA9IE9ns29zemVuaWUgbyB6YW3zd2llbml1IHp6egpTRUxFQ1RPUiBoMyAwID0gMS41LikgQWRyZXMgemFtYXdpYWq5Y2VnbwpTRUxFQ1RPUiBoMyAxID0gMi4xLikgT2ezb3N6ZW5pZSBkb3R5Y3p5ClNFTEVDVE9SIGgzIDIgPSAyLjMuKSBOYXp3YSB6YW3zd2llbmlhIGFsYm8gdW1vd3kgcmFtb3dlagpTRUxFQ1RPUiBoMyAzID0gNC4yLiBJbmZvcm1hY2plIHN6Y3plZ/Ozb3dlIG9kbm9zerljZSBzaeogZG8gcHJ6ZWRtaW90dSB6YW3zd2llbmlhOgpTRUxFQ1RPUiBoMyA0ID0gNC4zLikgS3J5dGVyaWEgb2Nlbnkgb2ZlcnQK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -349,16 +354,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>Adres zamawiającego</text>
+        <text>2021/BZP 00000223/01</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>RKT-05101</text>
+        <text>Identyfikator pozycji planu postępowań</text>
       </register>
       <register name="/" type="4">
-        <text>-71</text>
+        <text>4.3.1</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -375,10 +380,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjIuMTAuIiBsYWJlbD0iSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfEiIGNvZGU9IlJLVC0wNTEwMSIgLz4K</text>
+        <text encoding="base64">U0VMRUNUT1IgaDMgNCA9IDQuMy4pIEtyeXRlcmlhIG9jZW55IG9mZXJ0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUT1IgcCAwID0gWmFt83dpZW5pYSBwdWJsaWN6bmVnbwpTRUxFQ1RPUiBwIDEgPSB6enoKU0VMRUNUT1IgaDIgMCA9IFNFS0NKQSBJIC0gWkFNQVdJQUqlQ1kKU0VMRUNUT1IgaDIgMSA9IFNFS0NKQSBJSSCWIElORk9STUFDSkUgUE9EU1RBV09XRQpTRUxFQ1RPUiBoMiAyID0gU0VLQ0pBIElJSSCWIFVET1NUylBOSUFOSUUgRE9LVU1FTlTTVyBaQU3TV0lFTklBIEkgS09NVU5JS0FDSkEKU0VMRUNUT1IgaDIgMyA9IFNFS0NKQSBJViCWIFBSWkVETUlPVCBaQU3TV0lFTklBClNFTEVDVE9SIGgyIDQgPSBTRUtDSkEgViAtIEtXQUxJRklLQUNKQSBXWUtPTkFXQ9NXClNFTEVDVE9SIGgyIDUgPSBTRUtDSkEgVkkgLSBXQVJVTktJIFpBTdNXSUVOSUEKU0VMRUNUT1IgaDIgNiA9IFNFS0NKQSBWSUkgLSBQUk9KRUtUT1dBTkUgUE9TVEFOT1dJRU5JQSBVTU9XWQpTRUxFQ1RPUiBoMiA3ID0gU0VLQ0pBIFZJSUkgliBQUk9DRURVUkEKU0VMRUNUT1IgaDEgMCA9IE9ns29zemVuaWUgbyB6YW3zd2llbml1IHp6egpTRUxFQ1RPUiBoMyAwID0gMS41LikgQWRyZXMgemFtYXdpYWq5Y2VnbwpTRUxFQ1RPUiBoMyAxID0gMi4xLikgT2ezb3N6ZW5pZSBkb3R5Y3p5ClNFTEVDVE9SIGgzIDIgPSAyLjMuKSBOYXp3YSB6YW3zd2llbmlhIGFsYm8gdW1vd3kgcmFtb3dlagpTRUxFQ1RPUiBoMyAzID0gNC4yLiBJbmZvcm1hY2plIHN6Y3plZ/Ozb3dlIG9kbm9zerljZSBzaeogZG8gcHJ6ZWRtaW90dSB6YW3zd2llbmlhOgpTRUxFQ1RPUiBoMyA0ID0gNC4zLikgS3J5dGVyaWEgb2Nlbnkgb2ZlcnQK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -387,31 +392,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCNpZiBCVFwtNzE/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjIuMTIuKSA6IDwvaDM+CiAgICA8I2xpc3QgQlRcLTcxIGFzIHZhbD4KICAgICAgICA8cCBjbGFzcz0ibWItMCI+JHt2YWx9PC9wPgogICAgPC8jbGlzdD4KPC8jaWY+Cg==</text>
+        <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtMDQiLAogICAgInZhbHVlIjogIm9jZHMtMTQ4NjEwLWQzMjM4NGY0LTQzN2YtMTFlYi1iNzQzLTFhOTljM2NlNzc1OSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUwOUAxIiwKICAgICJ2YWx1ZSI6ICJOaWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAwQDEiLAogICAgInZhbHVlIjogIkJlZSBDb21wYW55IgogIH0sCiAgewogICAgImlkIjogIkJULTE2QDEiLAogICAgInZhbHVlIjogIkJDIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMUAxIiwKICAgICJ2YWx1ZSI6ICJSRUdPTiAyMTU4ODIyNTUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEwQDEiLAogICAgInZhbHVlIjogIld5c3p58XNraWVnbyAyM0IiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEzQDEiLAogICAgInZhbHVlIjogIkphcnq5Ymtvd2ljZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTJAMSIsCiAgICAidmFsdWUiOiAiMDktMjEzIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTIwQDEiLAogICAgInZhbHVlIjogIoxsuXNraWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTE0QDEiLAogICAgInZhbHVlIjogIlBvbHNrYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDdAMSIsCiAgICAidmFsdWUiOiAiUEwyMkMgLSBUeXNraSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDVAMSIsCiAgICAidmFsdWUiOiAid3d3LnBhZ2UucGwiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTA1IiwKICAgICJ2YWx1ZSI6ICJaYW3zd2llbmllIHVkemllbGFuZSBqZXN0IHcgdHJ5YmllIHBhcnRuZXJzdHdhIGlubm93YWN5am5lZ28gbmEgcG9kc3Rhd2llIDogYXJ0LiAyOTcgdXN0YXd5IgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTYyIiwKICAgICJ2YWx1ZSI6ICJOaWUiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTIyNjBfTm9Mb3RzIiwKICAgICJ2YWx1ZSI6ICJhaHNnZGZnaGFzIgogIH0sCiAgewogICAgImlkIjogIlJLVC0yMjU1IiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA2OTIiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDYxMSIsCiAgICAidmFsdWUiOiAiMjAyMC0xMi0yNSAxMjowMCIKICB9LAogIHsKICAgICJpZCI6ICJAQ3JpdGVyaWFXZWlnaHRTdHJhdGVneV9Ob0xvdHMiLAogICAgInZhbHVlIjogIlByb2NlbnRvd28iCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTIyNzVfTm9Mb3RzIiwKICAgICJ2YWx1ZSI6ICJLcnl0ZXJpdW0gY2VueSBvcmF6IGtyeXRlcmlhIGpha2+cY2lvd2UiCiAgfSwKICB7CiAgICAiaWQiOiAiQExvdENyaXRlcmlhQ291bnRfTm9Mb3RzIiwKICAgICJ2YWx1ZSI6ICIxIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNjgwIiwKICAgICJ2YWx1ZSI6ICIxMjMiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTMxMSIsCiAgICAidmFsdWUiOiAiMjAyMC0xMi0yMyAxMjowMCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDc0NSIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNjg0IiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA2ODUiLAogICAgInZhbHVlIjogIjEyMyIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDY4NiIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNjg3IiwKICAgICJ2YWx1ZSI6ICIyMzQiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzM0X05vTG90c18wIiwKICAgICJ2YWx1ZSI6ICJDZW5hIgogIH0sCiAgewogICAgImlkIjogIkJULTU0MjFfcGN0Z19Ob0xvdHNfMCIsCiAgICAidmFsdWUiOiAiMiIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MzlfTm9Mb3RzXzEiLAogICAgInZhbHVlIjogImpha2+c5iwgdyB0eW0gZG8gcGFyYW1ldHJ5IHRlY2huaWN6bmUsIHezYZxjaXdvnGNpIGVzdGV0eWN6bmUgaSBmdW5rY2pvbmFsbmUgdGFraWUgamFrIGRvc3TqcG5vnOYgZGxhIG9z82IgbmllcGWzbm9zcHJhd255Y2ggbHViIHV3emds6mRuaWFuaWUgcG90cnplYiB1v3l0a293bmlr83ciCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzM0X05vTG90c18xIiwKICAgICJ2YWx1ZSI6ICIyIgogIH0sCiAgewogICAgImlkIjogIkJULTU0MjFfcGN0Z19Ob0xvdHNfMSIsCiAgICAidmFsdWUiOiAiMSIKICB9Cg==</text>
       </register>
-      <register name="s" type="4">
-        <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
+      <register name="s" type="2">
+        <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUT1IgaDMgMTggPSAyLjQuKSBJZGVudHlmaWthdG9yIHBvc3TqcG93YW5pYTogb2Nkcy0xNDg2MTAtOGNmNDczMWUtNGYzYS0xMWViLWI3NDMtMWE5OWMzY2U3NzU5ClNFTEVDVE9SIGgzIDE5ID0gMi44LikgWmFt83dpZW5pZSBhbGJvIHVtb3dhIHJhbW93YSB6b3N0YbN5IHVq6nRlIHcgcGxhbmllIHBvc3TqcG93YfE6IE5pZQpTRUxFQ1RPUiBoMyAyMCA9IDIuMTEuKSBPIHVkemllbGVuaWUgemFt83dpZW5pYSBtb2e5IHViaWVnYeYgc2nqIHd5s7ljem5pZSB3eWtvbmF3Y3ksIG8ga3TzcnljaCBtb3dhIHcgYXJ0LiA5NCB1c3Rhd3k6IE5pZQpTRUxFQ1RPUiBoMyAyMSA9IDIuMTQuKSBDenkgemFt83dpZW5pZSBhbGJvIHVtb3dhIHJhbW93YSBkb3R5Y3p5IHByb2pla3R1IGx1YiBwcm9ncmFtdSB3c3Dzs2ZpbmFuc293YW5lZ28gemUgnHJvZGvzdyBVbmlpIEV1cm9wZWpza2llajogTmllClNFTEVDVE9SIGgzIDIyID0gMi4xNi4pIFRyeWIgdWR6aWVsZW5pYSB6YW3zd2llbmlhIHdyYXogeiBwb2RzdGF3uSBwcmF3brkKU0VMRUNUT1IgaDMgMjMgPSAzLjEuKSBBZHJlcyBzdHJvbnkgaW50ZXJuZXRvd2VqIHByb3dhZHpvbmVnbyBwb3N06nBvd2FuaWEKU0VMRUNUT1IgaDMgMjQgPSAzLjIuKSBaYW1hd2lharljeSB6YXN0cnplZ2EgZG9zdOpwIGRvIGRva3VtZW5083cgemFt83dpZW5pYTogTmllClNFTEVDVE9SIGgzIDI1ID0gMy40LikgV3lrb25hd2N5IHpvYm93abl6YW5pIHO5IGRvIHNrs2FkYW5pYSBvZmVydCwgd25pb3Nr83cgbyBkb3B1c3pjemVuaWUgZG8gdWR6aWGzdSB3IHBvc3TqcG93YW5pdSwgb5x3aWFkY3pl8SBvcmF6IGlubnljaCBkb2t1bWVudPN3IHd5s7ljem5pZSBwcnp5IHW/eWNpdSCccm9ka/N3IGtvbXVuaWthY2ppIGVsZWt0cm9uaWN6bmVqOiBOaWUKU0VMRUNUT1IgaDMgMjYgPSAzLjUuKSBJbmZvcm1hY2plIG8gnHJvZGthY2gga29tdW5pa2FjamkgZWxla3Ryb25pY3puZWosIHByenkgdb95Y2l1IGt083J5Y2ggemFtYXdpYWq5Y3kgYupkemllIGtvbXVuaWtvd2GzIHNp6iB6IHd5a29uYXdjYW1pIC0gYWRyZXMgc3Ryb255IGludGVybmV0b3dlajogMTIucGwKU0VMRUNUT1IgaDMgMjcgPSAzLjYuKSBXeW1hZ2FuaWEgdGVjaG5pY3puZSBpIG9yZ2FuaXphY3lqbmUgZG90eWN6uWNlIGtvcmVzcG9uZGVuY2ppIGVsZWt0cm9uaWN6bmVqOiAxMjMxMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9icj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCNpZiBCVFwtNzc4P2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj44LjIwLikgUHJ6ZXdpZHVqZSBzaeogb2dyYW5pY3plbmllIGxpY3pieSB1Y3plc3RuaWvzdyB1bW93eSByYW1vd2VqOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke0JUXC03Nzh9PC9zcGFuPjwvaDM+CjwvI2lmPgo8I2lmIEJUXC0xMTM/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjguMjEuKSBNYWtzeW1hbG5hIGxpY3piYSB3eWtvbmF3Y/N3LCB6IGt083J5bWkgemFtYXdpYWq5Y3kgemF3cnplIHVtb3fqIHJhbW93uTogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMTEzfTwvc3Bhbj48L2gzPgo8LyNpZj4KPCNpZiBCVFwtNzY1P2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj44LjIyLikgWmFtYXdpYWq5Y3kgdWR6aWVsYSB6YW3zd2ll8SBuYSBwb2RzdGF3aWUgYXJ0LiAzMTQgdXN0LiAxIHBrdCAxLCAyIGFsYm8gMyB1c3Rhd3k6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7QlRcLTc2NX08L3NwYW4+PC9oMz4KPC8jaWY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgOiA8L2gzPgogICAgPCNsaXN0ICBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
+        <text encoding="base64">PCNpZiBSS1RcLTA2ODY/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjguMTYuKSBNaW5pbWFsbmEgbGljemJhIHd5a29uYXdj83csIGt083J5Y2ggemFtYXdpYWq5Y3kgemFwcm9zaSBkbyBza7NhZGFuaWEgb2ZlcnQgd3N06nBueWNoOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke1JLVFwtMDY4Nn08L3NwYW4+PC9oMz4KPC8jaWY+CjwjaWYgUktUXC0wNjg3P2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj44LjE3KSBNYWtzeW1hbG5hIGxpY3piYSB3eWtvbmF3Y/N3LCBrdPNyeWNoIHphbWF3aWFquWN5IHphcHJvc2kgZG8gc2uzYWRhbmlhIG9mZXJ0IHdzdOpwbnljaDogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtSS1RcLTA2ODd9PC9zcGFuPjwvaDM+CjwvI2lmPgo8I2lmIFJLVFwtMDY5Mj9oYXNfY29udGVudD4KICAgIDxoMyBjbGFzcz0ibWItMCI+OC4xOC4pIFphbWF3aWFquWN5IHByemV3aWR1amUgcG9kemlhsyBuZWdvY2phY2ppIG5hIGV0YXB5IHcgY2VsdSBvZ3JhbmljemVuaWEgbGljemJ5IG9mZXJ0OiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke1JLVFwtMDY5Mn08L3NwYW4+PC9oMz4KPC8jaWY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCNpZiBSS1RcLTA2ODQ/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjguMTQuKSBaYW1hd2lharljeSB3eW1hZ2EgerNvv2VuaWEgb5x3aWFkY3plbmlhIG8gc3Bls25pYW5pdSBrcnl0ZXJp83cgc2VsZWtjamk6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7UktUXC0wNjg0fTwvc3Bhbj48L2gzPgo8LyNpZj4K</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCNpZiBCVFwtMjE/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjIuMy4pIDogPC9oMz4KICAgIDxwIGNsYXNzPSJtYi0wIj4KICAgICAgICAke30KICAgIDwvcD4KPC8jaWY+Cg==</text>
+        <text encoding="base64">PCNpZiBSS1RcLTA2ODA/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjguMTAuKSBNaWVqc2NlIHNrs2FkYW5pYSB3bmlvc2vzdyBvIGRvcHVzemN6ZW5pZSBkbyB1ZHppYbN1IHcgcG9zdOpwb3dhbml1OiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke1JLVFwtMDY4MH08L3NwYW4+PC9oMz4KPC8jaWY+CjwjaWYgUktUXC0wNjExP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj44LjExLikgVGVybWluIG90d2FyY2lhIHduaW9za/N3IG8gZG9wdXN6Y3plbmllIGRvIHVkemlhs3UgdyBwb3N06nBvd2FuaXU6IDxzcGFuIGNsYXNzPSJub3JtYWwiPiR7UktUXC0wNjExfTwvc3Bhbj48L2gzPgo8LyNpZj4KPCNpZiBSS1RcLTIyNTU/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPjguMTIuIFphbWF3aWFquWN5IHphbWllcnphIG9ncmFuaWN6eeYgbGljemLqIHd5a29uYXdj83csIGt083J5Y2ggemFwcm9zaSBkbyBza7NhZGFuaWEgb2ZlcnQgd3N06nBueWNoOiA8c3BhbiBjbGFzcz0ibm9ybWFsIj4ke1JLVFwtMjI1NX08L3NwYW4+PC9oMz4KPC8jaWY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -423,9 +428,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>-71</last-search>
+      <last-search>4.3.1</last-search>
       <last-offset />
-      <last-pattern>-71</last-pattern>
+      <last-pattern>4.3.1</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
