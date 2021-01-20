@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Nazw</entry>
-        <entry>ogl_o_zm</entry>
-        <entry>ogl_o_kon</entry>
         <entry>spel_oko</entry>
         <entry>br</entry>
         <entry>wyk_um</entry>
@@ -20,11 +17,14 @@
         <entry>zm_um</entry>
         <entry>1.4.9</entry>
         <entry>mt-3</entry>
-        <entry>SEKCJA</entry>
         <entry>Rodzaj</entry>
         <entry>Inny</entry>
         <entry>1.5</entry>
         <entry>2228</entry>
+        <entry>SEKCJA</entry>
+        <entry>SEKCJA -</entry>
+        <entry>III –</entry>
+        <entry>ogl_o</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -110,6 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/definitions/noticegen.yaml" timestamp="1611147961620">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="74" column="32" />
+        <mark key="." line="74" column="32" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" timestamp="1611143383596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="57" />
@@ -122,18 +127,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" timestamp="1611147488951">
-        <mark key="'" line="13" column="33" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/GeneratorTypeVersions.java" timestamp="1611140782759">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="29" column="72" />
-        <mark key="." line="29" column="72" />
-        <mark key="^" line="14" column="42" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" timestamp="1611147579013">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="36" />
+        <mark key="^" line="47" column="37" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_fakultat.json" timestamp="1611147349141">
         <mark key="'" line="75" column="14" />
@@ -147,6 +146,13 @@
         <mark key="]" line="3" column="48" />
         <mark key="^" line="7" column="50" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-1-assertions" timestamp="1611148603341">
+        <mark key="'" line="194" column="17" />
+        <mark key="[" line="251" column="9" />
+        <mark key="]" line="251" column="9" />
+        <mark key="^" line="251" column="9" />
+        <mark key="." line="251" column="9" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1611143882028">
         <mark key="'" line="46" column="18" />
         <mark key="[" line="238" column="16" />
@@ -154,17 +160,11 @@
         <mark key="." line="238" column="14" />
         <mark key="^" line="238" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1611144231819">
+      <file name="/Dummy.txt" timestamp="1611148972343">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="49" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/util/DevUtil.java" timestamp="1611135035165">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="50" column="60" />
-        <mark key="." line="60" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" timestamp="1611142547620">
         <mark key="'" line="52" column="9" />
@@ -172,8 +172,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" timestamp="1611147014120">
-        <mark key="'" line="195" column="28" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" timestamp="1611147549769">
+        <mark key="'" line="41" column="23" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="45" column="6" />
         <mark key="^" line="165" column="9" />
@@ -197,7 +197,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611143791266">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611147955262">
         <mark key="'" line="314" column="14" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" timestamp="1611142823002">
@@ -206,7 +206,13 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611144228327">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-2-assertions" timestamp="1611148643647">
+        <mark key="[" line="48" column="58" />
+        <mark key="]" line="48" column="59" />
+        <mark key="^" line="48" column="59" />
+        <mark key="." line="48" column="58" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611148968470">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
@@ -217,21 +223,8 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-swagger/target/generated-sources/openapi/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/model/NoticeData.java" timestamp="1611140745837">
-        <mark key="[" line="56" column="31" />
-        <mark key="]" line="56" column="31" />
-        <mark key="." line="56" column="30" />
-        <mark key="^" line="56" column="31" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="33" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="387" column="94" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="398" column="56" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="464" column="46" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="467" column="49" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="604" column="50" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="607" column="53" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="60" column="25" filename="C:/Projekty/tmp/210120 - Style ogloszenie.css" />
       <jump line="10355" column="11" filename="C:/Projekty/tmp/210120 - Style ogloszenie.css" />
       <jump line="10358" column="5" filename="C:/Projekty/tmp/210120 - Style ogloszenie.css" />
@@ -325,6 +318,13 @@
       <jump line="195" column="28" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
       <jump line="13" column="33" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" />
       <jump line="75" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_fakultat.json" />
+      <jump line="41" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" />
+      <jump line="57" column="38" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" />
+      <jump line="9" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" />
+      <jump line="12" column="27" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/definitions/noticegen.yaml" />
+      <jump line="72" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/definitions/noticegen.yaml" />
+      <jump line="19" column="0" filename="/Dummy.txt" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,8 +332,8 @@
       <register name="a" type="4">
         <text>input_ogl_o_wyk_kon.json</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c97d2975</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -351,10 +351,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Adres strony internetowej zamawiającego</text>
+        <text>c97d2975</text>
       </register>
       <register name="/" type="4">
-        <text>2228</text>
+        <text>ogl_o</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -370,11 +370,11 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjEuNC4xMC4iIGxhYmVsPSJBZHJlcyBzdHJvbnkgaW50ZXJuZXRvd2VqIHphbWF3aWFquWNlZ28iIGNvZGU9IkJULTUwNUAxIiAvPgo=</text>
+      <register name="0" type="4">
+        <text>ogl_fakultat</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W1NxdWFzaGVkIGNvbW1pdCBvZiB0aGUgZm9sbG93aW5nOgoKY29tbWl0IDdmZmQ2MmIyODg1OGFjODczYTZlMWY5NjljYTJmZmMwY2VlNjNkZTUKQXV0aG9yOiBQYXdlsyBCb2JyeWsgPGJvYnJ5ay5wYXdlbEBnbWFpbC5jb20+CkRhdGU6ICAgV2VkIEphbiAyMCAxNDoxOTowNiAyMDIxICswMTAwCgogICAgUHJ6eXJvc3QKCmNvbW1pdCBkNTg1NzI3Mjc1MGQyNTZhNWUzOTJjNzgzNzY1NmM1ZDkwNzU3ZTU4CkF1dGhvcjogUGF3ZbMgQm9icnlrIDxib2JyeWsucGF3ZWxAZ21haWwuY29tPgpEYXRlOiAgIFdlZCBKYW4gMjAgMTQ6MDE6MDYgMjAyMSArMDEwMAoKICAgIFByenlyb3N0Cgpjb21taXQgZWYyNjZjMmE4Yjg3ODczYzM3ODE4MDE3NmFiMzE1ZmM5NzMyYmI1NQpBdXRob3I6IFBhd2WzIEJvYnJ5ayA8Ym9icnlrLnBhd2VsQGdtYWlsLmNvbT4KRGF0ZTogICBXZWQgSmFuIDIwIDEyOjE5OjEwIDIwMjEgKzAxMDAKCiAgICBQcnp5cm9zdApd</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -398,16 +398,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC8jaWY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCNpZiBCVFwtMTE/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPgogICAgICAgIDEuNS4pIDogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMTF9PC9zcGFuPgogICAgPC9oMz4K</text>
+        <text encoding="base64">PC8jaWY+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjEuNi4iIGxhYmVsPSJQcnplZG1pb3QgZHppYbNhbG5vnGNpIHphbWF3aWFquWNlZ28iIGNvZGU9Ii4uLiIgcGFyYWdyYXBoPXRydWUgLz4K</text>
+        <text encoding="base64">PCNpZiBCVFwtMTE/aGFzX2NvbnRlbnQ+CiAgICA8aDMgY2xhc3M9Im1iLTAiPgogICAgICAgIDEuNS4pIDogPHNwYW4gY2xhc3M9Im5vcm1hbCI+JHtCVFwtMTF9PC9zcGFuPgogICAgPC9oMz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -419,9 +419,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>2228</last-search>
+      <last-search>ogl_o</last-search>
       <last-offset />
-      <last-pattern>2228</last-pattern>
+      <last-pattern>ogl_o</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
