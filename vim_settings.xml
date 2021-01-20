@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mt</entry>
         <entry>md-</entry>
         <entry>md-1</entry>
         <entry>mb-</entry>
@@ -25,6 +24,7 @@
         <entry>zm_um</entry>
         <entry>1.4.9</entry>
         <entry>mt-3</entry>
+        <entry>SEKCJA</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -122,11 +122,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" timestamp="1611141203512">
-        <mark key="[" line="5" column="71" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" timestamp="1611146268959">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="115" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/config/GeneratorTypeVersions.java" timestamp="1611140782759">
         <mark key="[" line="14" column="0" />
@@ -222,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4-assertions" />
-      <jump line="9" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4-assertions" />
-      <jump line="1" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/visualization-tests/ogl_o_zam-1.0.0-4-assertions" />
       <jump line="748" column="80" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="460" column="27" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="4" column="10" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
@@ -322,6 +320,9 @@
       <jump line="17" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="43" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
       <jump line="46" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" />
+      <jump line="14" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" />
+      <jump line="50" column="7" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" />
+      <jump line="60" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_fakultat-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,8 +330,8 @@
       <register name="a" type="4">
         <text>input_ogl_o_wyk_kon.json</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0aed3078</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgZG9sb3IgaW4gcmVwcmVoZW5kZXJpdCBpbiB2b2x1cHRhdGUgdmVsaXQgZXNzZSBjaWxsdW0gZG9sb3JlIGV1IGZ1Z2lhdCBudWxsYSBwYXJpYXR1ci4gRXhjZXB0ZXVyIHNpbnQgb2NjYWVjYXQgY3VwaWRhdGF0IG5vbiBwcm9pZGVudCwgc3VudCBpbiBjdWxwYSBxdWkgb2ZmaWNpYSBkZXNlcnVudCBtb2xsaXQgYW5pbSBpZCBlc3QgbGFib3J1bS4iCg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -348,10 +349,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>0aed3078</text>
+        <text>Termin składania wniosków lub ofert</text>
       </register>
       <register name="/" type="4">
-        <text>mt-3</text>
+        <text>SEKCJA</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -368,57 +369,57 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>Ogłoszenie o zmianie umowy</text>
+        <text>Informacje dla wykonawców dotyczące warunków zamówienia</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgxIGNsYXNzPSJ0ZXh0LWNlbnRlciBtdC01IG1iLTUiPk9ns29zemVuaWUgbyB6bWlhbmllIHVtb3d5PGJyLz4KICAgIDwjaWYgQlRcLTIzP2hhc19jb250ZW50PgogICAgICAgICR7QlRcLTIzfTxici8+CiAgICA8LyNpZj4KICAgIDwjaWYgQlRcLTIxP2hhc19jb250ZW50PgogICAgICAgICR7QlRcLTIxfQogICAgPC8jaWY+PC9oMT4K</text>
+        <text encoding="base64">IkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgZG9sb3IgaW4gcmVwcmVoZW5kZXJpdCBpbiB2b2x1cHRhdGUgdmVsaXQgZXNzZSBjaWxsdW0gZG9sb3JlIGV1IGZ1Z2lhdCBudWxsYSBwYXJpYXR1ci4gRXhjZXB0ZXVyIHNpbnQgb2NjYWVjYXQgY3VwaWRhdGF0IG5vbiBwcm9pZGVudCwgc3VudCBpbiBjdWxwYSBxdWkgb2ZmaWNpYSBkZXNlcnVudCBtb2xsaXQgYW5pbSBpZCBlc3QgbGFib3J1bS4iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">My43LikgSW5mb3JtYWNqZSBkbGEgd3lrb25hd2PzdyBkb3R5Y3q5Y2Ugd2FydW5r83cgemFt83dpZW5pYToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGgxIGNsYXNzPSJ0ZXh0LWNlbnRlciBtdC01IG1iLTUiPjxici8+CiAgICA8I2lmIEJUXC0yMz9oYXNfY29udGVudD4KICAgICAgICAke0JUXC0yM308YnIvPgogICAgPC8jaWY+CiAgICA8I2lmIEJUXC0yMT9oYXNfY29udGVudD4KICAgICAgICAke0JUXC0yMX0KICAgIDwvI2lmPgo8L2gxPgoKPCMtLSBTdHlsIHW/eXdhbnkgdyBwcmV6ZW50YWNqaSB3YXJ0b5xjaSAtLT4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KLm5vcm1hbCB7CmNvbG9yOiBibGFjazsKfQo8L3N0eWxlPgo=</text>
+        <text encoding="base64">IkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgZG9sb3IgaW4gcmVwcmVoZW5kZXJpdCBpbiB2b2x1cHRhdGUgdmVsaXQgZXNzZSBjaWxsdW0gZG9sb3JlIGV1IGZ1Z2lhdCBudWxsYSBwYXJpYXR1ci4gRXhjZXB0ZXVyIHNpbnQgb2NjYWVjYXQgY3VwaWRhdGF0IG5vbiBwcm9pZGVudCwgc3VudCBpbiBjdWxwYSBxdWkgb2ZmaWNpYSBkZXNlcnVudCBtb2xsaXQgYW5pbSBpZCBlc3QgbGFib3J1bS4iCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">My4zLikgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um9ib3R5IGJ1ZG93bGFuZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGgxIGNsYXNzPSJ0ZXh0LWNlbnRlciBtdC01IG1iLTUiPk9ns29zemVuaWUgbyB6YW3zd2llbml1IGJhZ2F0ZWxueW08YnIvPgogICAgPCNpZiBCVFwtMjM/aGFzX2NvbnRlbnQ+CiAgICAgICAgJHtCVFwtMjN9PGJyLz4KICAgIDwvI2lmPgogICAgPCNpZiBCVFwtMjE/aGFzX2NvbnRlbnQ+CiAgICAgICAgJHtCVFwtMjF9CiAgICA8LyNpZj4KPC9oMT4K</text>
+        <text encoding="base64">VXOzdWdpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RG9zdGF3eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxIGNsYXNzPSJ0ZXh0LWNlbnRlciBtdC01IG1iLTUiPk9ns29zemVuaWUgbyB3eW5pa3UgcG9zdOpwb3dhbmlhIDxici8+CiAgICA8I2lmIEJUXC0yMz9oYXNfY29udGVudD4KICAgICAgICAke0JUXC0yM308YnIvPgogICAgPC8jaWY+CiAgICA8I2lmIEJUXC0yMT9oYXNfY29udGVudD4KICAgICAgICAke0JUXC0yMX0KICAgIDwvI2lmPgo8L2gxPgoKPCMtLSBTdHlsIHW/eXdhbnkgdyBwcmV6ZW50YWNqaSB3YXJ0b5xjaSAtLT4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KLm5vcm1hbCB7CmNvbG9yOiBibGFjazsKfQo8L3N0eWxlPgo=</text>
+        <text encoding="base64">My4yLikgUm9kemFqIHphbfN3aWVuaWEgOgo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtMDQiLAogICAgInZhbHVlIjogIm9jZHMtMTQ4NjEwLTMwZTMxYTFiLTQ0M2YtMTFlYi05YTQ5LTBhZjRkMjZmODU4NCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUwOUAxIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiQElzVGVuZGVySW5pdGlhdGVkIiwKICAgICJ2YWx1ZSI6ICJOaWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAwQDEiLAogICAgInZhbHVlIjogIkNlbnRyYWxueSBQb2RtaW90IFphbWF3aWFquWN5IFMyIgogIH0sCiAgewogICAgImlkIjogIkJULTE2QDEiLAogICAgInZhbHVlIjogIkNQWlMyIgogIH0sCiAgewogICAgImlkIjogIkJULTUwMUAxIiwKICAgICJ2YWx1ZSI6ICJSRUdPTiA1MTI1Mzg4NDkiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEwQDEiLAogICAgInZhbHVlIjogIlByeW1hc2EgVHlzabljbGVjaWEgMjUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEzQDEiLAogICAgInZhbHVlIjogIldhcnN6YXdhIgogIH0sCiAgewogICAgImlkIjogIkJULTUxMkAxIiwKICAgICJ2YWx1ZSI6ICIwMS0yNDUiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1MjBAMSIsCiAgICAidmFsdWUiOiAiTWF6b3dpZWNraWUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTE0QDEiLAogICAgInZhbHVlIjogIlBvbHNrYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDdAMSIsCiAgICAidmFsdWUiOiAiUEw5MTEgLSBNaWFzdG8gV2Fyc3phd2EiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTA1QDEiLAogICAgInZhbHVlIjogInd3dy5zYW1wbGVwYWdlLmV1IgogIH0sCiAgewogICAgImlkIjogIkJULTIyIiwKICAgICJ2YWx1ZSI6ICJQQi0yMDEyMjItMSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDU2MiIsCiAgICAidmFsdWUiOiAiTmllIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTEwIiwKICAgICJ2YWx1ZSI6ICIyMDIwL0JaUCAwMDAwMDAzOS8wNi9QIgogIH0sCiAgewogICAgImlkIjogIlJLVC0wNTEwMSIsCiAgICAidmFsdWUiOiAieycxLjIuMSBQb3p5Y2phIDEnfSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDcwNSIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIlJLVC0yMjEwIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzEiLAogICAgInZhbHVlIjogInsnYXJ0LiA5NCB1c3QuIDEgcGt0IDQpIFB6cCcsJ2FydC4gOTQgdXN0LiAxIHBrdCA1KSBQenAnLCdhcnQuIDk0IHVzdC4gMSBwa3QgNykgUHpwJ30iCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1MTIiLAogICAgInZhbHVlIjogIk5pZSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDcxMCIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIkJULTcyMiIsCiAgICAidmFsdWUiOiAiTmF6d2EgcHJvamVrdHUgbHViIHByb2dyYW11IgogIH0sCiAgewogICAgImlkIjogIkJULTUwM0AxIiwKICAgICJ2YWx1ZSI6ICIxLTM0NS0yMzQiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzM5QDEiLAogICAgInZhbHVlIjogIjEtNTUzLTIzNCIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDZAMSIsCiAgICAidmFsdWUiOiAiMUBvMi5wbCIKICB9LAogIHsKICAgICJpZCI6ICJCVC0xMSIsCiAgICAidmFsdWUiOiAiWmFtYXdpYWq5Y3kgcHVibGljem55IC0gamVkbm9zdGthIHNla3RvcmEgZmluYW5z83cgcHVibGljbnp5Y2ggLSBvcmdhbiB3s2FkenkgcHVibGljem5laiAtIG9yZ2FuIGtvbnRyb2xpIHBh8XN0d293ZWogaSBvY2hyb255IHByYXdhIG9yYXogc7lkIGkgdHJ5YnVuYbMiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTAiLAogICAgInZhbHVlIjogIk9icm9uYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0wOCIsCiAgICAidmFsdWUiOiAiUG9zdOpwb3dhbmllIHByb3dhZHppIHphbWF3aWFquWN5IGNlbnRyYWxueSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0xNSIsCiAgICAidmFsdWUiOiAiczQucGwiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1NTgiLAogICAgInZhbHVlIjogIlRhayIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDU2MCIsCiAgICAidmFsdWUiOiAiVGFrIgogIH0sCiAgewogICAgImlkIjogIkJULTYzIiwKICAgICJ2YWx1ZSI6ICJUYWsiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA2MDEiLAogICAgInZhbHVlIjogImRvcHVzemN6YSB0eWxrbyB6IGplZG5vY3plc255bSB6s2+/ZW5pZW0gb2ZlcnR5IHBvZHN0YXdvd2VqIgogIH0sCiAgewogICAgImlkIjogIkJULTI3IiwKICAgICJ2YWx1ZSI6ICIxMDAwIgogIH0sCiAgewogICAgImlkIjogIlJLVC0xMDUyQDMiLAogICAgInZhbHVlIjogIkFGTiIKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="z" type="2">
-        <text encoding="base64">PCEtLSBTRUtDSkEgSSAtLT4K</text>
+        <text encoding="base64">PEBtLnByaW50U2VjdGlvbiB0aXRsZT0iU0VLQ0pBIEkgliBaQU1BV0lBSqVDWSIgLz4K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mt-3</last-search>
+      <last-search>SEKCJA</last-search>
       <last-offset />
-      <last-pattern>mt-3</last-pattern>
+      <last-pattern>SEKCJA</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
