@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Rodzaj</entry>
-        <entry>Inny</entry>
         <entry>1.5</entry>
         <entry>2228</entry>
         <entry>SEKCJA -</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx2ZXJzaW9uU2VydmljZVw+</entry>
         <entry encoding="base64">XDxURU1QTEFURV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxHZW5lcmF0aW9uRXhjZXB0aW9uXD4=</entry>
+        <entry encoding="base64">XDx0ZWRCYXNlUXVlcnlcPg==</entry>
+        <entry>query</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -124,6 +124,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" timestamp="1611300375218">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="56" column="51" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" timestamp="1611150935935">
         <mark key="'" line="687" column="23" />
         <mark key="[" line="652" column="35" />
@@ -137,24 +142,10 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.1.ftl" timestamp="1611147549769">
-        <mark key="'" line="41" column="23" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="45" column="6" />
-        <mark key="^" line="165" column="9" />
-        <mark key="." line="165" column="8" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_wyn_post_2czesci_2wyk.json" timestamp="1611150232025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_kon-1.0.0.ftl" timestamp="1611146327063">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="400" column="66" />
-        <mark key="]" line="400" column="9" />
-        <mark key="." line="400" column="8" />
-        <mark key="^" line="400" column="9" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611155290337">
         <mark key="'" line="264" column="0" />
@@ -188,12 +179,6 @@
         <mark key="]" line="0" column="5162" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_fakultat.json" timestamp="1611147349141">
-        <mark key="'" line="75" column="14" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="113" column="1" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/Dummy.groovy" timestamp="1611153947391">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,13 +192,6 @@
         <mark key="^" line="251" column="9" />
         <mark key="." line="251" column="9" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um-1.0.0.ftl" timestamp="1611143882028">
-        <mark key="'" line="46" column="18" />
-        <mark key="[" line="238" column="16" />
-        <mark key="]" line="238" column="15" />
-        <mark key="." line="238" column="14" />
-        <mark key="^" line="238" column="15" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1611154484923">
         <mark key="'" line="37" column="30" />
         <mark key="[" line="72" column="0" />
@@ -221,15 +199,23 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="70" column="8" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImpl.java" timestamp="1611300026917">
+        <mark key="[" line="84" column="32" />
+        <mark key="]" line="84" column="22" />
+        <mark key="^" line="84" column="22" />
+        <mark key="." line="84" column="21" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/ted/TEDConfiguration.java" timestamp="1611299633259" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1611299650765">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="42" column="11" />
+        <mark key="]" line="42" column="17" />
+      </file>
       <file name="/fragment.java" timestamp="1611153768927">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="36" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="376" column="59" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="382" column="54" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="384" column="55" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="405" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="358" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="8" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
@@ -326,6 +312,10 @@
       <jump line="286" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="264" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="4" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" />
+      <jump line="82" column="47" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" />
+      <jump line="28" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" />
+      <jump line="13" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +324,7 @@
         <text encoding="base64">ICAgICAgICBkZWYgVEFHX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoJ1xcPHRhZ1xcPig/PHRhZz5bXFx3XFxkXSopXFw8XFwvJykKICAgICAgICBkZWYgVEFHMV9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKCdcXDx0YWcxXFw+KD88dGFnPltcXHdcXGRdKilcXDxcXC8nKQogICAgICAgIGRlZiBUQUcyX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoJ1xcPHRhZzJcXD4oPzx0YWc+W1xcd1xcZF0qKVxcPFxcLycpCiAgICAgICAgZGVmIFRBRzNfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgnXFw8dGFnM1xcPig/PHRhZz5bXFx3XFxkXSopXFw8XFwvJykKICAgICAgICBkZWYgVEFHNF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKCdcXDx0YWc0XFw+KD88dGFnPltcXHdcXGRdKilcXDxcXC8nKQogICAgICAgIGRlZiBUQUc1X1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoJ1xcPHRhZzVcXD4oPzx0YWc+W1xcd1xcZF0qKVxcPFxcLycpCiAgICAgICAgZGVmIFRBRzZfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgnXFw8dGFnNlxcPig/PHRhZz5bXFx3XFxkXSopXFw8XFwvJykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e661950c</text>
+        <text encoding="base64">JXMgQU5EIE5EPVslcyA8PiAqLSVzXQ==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -346,7 +336,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>Visualisation</text>
+        <text encoding="base64">JXMgQU5EIE5EPVslcyA8PiAqLSVzXQ==</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -355,7 +345,7 @@
         <text>e661950c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZW5lcmF0aW9uRXhjZXB0aW9uXD4=</text>
+        <text>query</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -420,9 +410,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxHZW5lcmF0aW9uRXhjZXB0aW9uXD4=</last-search>
+      <last-search>query</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZW5lcmF0aW9uRXhjZXB0aW9uXD4=</last-pattern>
+      <last-pattern>query</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
