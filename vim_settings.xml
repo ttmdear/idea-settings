@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZWRCYXNlUXVlcnlcPg==</entry>
         <entry>query</entry>
         <entry>faku</entry>
         <entry>ogl_fakultat</entry>
@@ -24,6 +23,7 @@
         <entry>groxy</entry>
         <entry>grov</entry>
         <entry>groovy</entry>
+        <entry>groovy-all</entry>
         <entry>gma</entry>
       </history-search>
       <history-cmd>
@@ -153,12 +153,12 @@
         <mark key="." line="67" column="3" />
         <mark key="^" line="67" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611578206883">
-        <mark key="'" line="233" column="28" />
-        <mark key="[" line="233" column="28" />
-        <mark key="]" line="233" column="44" />
-        <mark key="^" line="168" column="25" />
-        <mark key="." line="168" column="24" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611579028662">
+        <mark key="'" line="33" column="17" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="247" column="48" />
+        <mark key="^" line="247" column="38" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/validator/impl/NoticeDataValidatorImplTest.groovy" timestamp="1611571638690">
         <mark key="[" line="47" column="0" />
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="54" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="284" column="56" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="4" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
@@ -304,6 +303,7 @@
       <jump line="168" column="24" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="232" column="38" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="233" column="28" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
+      <jump line="33" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,8 +311,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RlZEV4Y2VwdGlvbi5leHBlY3QoYWxsT2YoaW5zdGFuY2VPZihSdW50aW1lRXhjZXB0aW9uLmNsYXNzKSkpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>gmavenplus-plugin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLmdyb292eTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3Jvb3Z5LWFsbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4K</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -324,7 +324,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>gmavenplus-plugin</text>
+        <text>groovy-all</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -353,34 +353,34 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkICJ0ZXN0IGluY29ycmVjdCB2ZXJzaW9uIGZvcm1hdCAtIG5vIG51bWJlciIoKSB7CiAgICAgICAgdmVyc2lvblNlcnZpY2UgPSBuZXcgVmVyc2lvblNlcnZpY2VJbXBsKG5ldyBHZW5lcmF0b3JDb25maWcoCiAgICAgICAgICAgIHR5cGVzOiBbCiAgICAgICAgICAgICAgICAoTm90aWNlRGF0YS5UeXBlRW51bS5PR0xfT19aQU0pOiBuZXcgR2VuZXJhdG9yQ29uZmlnLlR5cGVDb25maWcoWwogICAgICAgICAgICAgICAgICAgICIxLjMuNC1hbHBoYSIsCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdCiAgICAgICAgKSkKCiAgICAgICAgZXhwZWN0ZWRFeGNlcHRpb24uZXhwZWN0KGFsbE9mKGluc3RhbmNlT2YoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKSkpCgogICAgICAgIHZlcnNpb25TZXJ2aWNlLnBvc3RDb250cnVjdCgpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLmdyb292eTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3Jvb3Z5LWFsbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE5hbWVWZXJzaW9uKFN0cmluZyBuYW1lLCBTdHJpbmcgdmVyc2lvbikgewogICAgICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE5hbWVWZXJzaW9uKFN0cmluZyBuYW1lLCBTdHJpbmcgdmVyc2lvbikgewogICAgICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
