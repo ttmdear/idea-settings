@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>2228</entry>
         <entry>SEKCJA -</entry>
         <entry>III –</entry>
         <entry>ogl_o</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0ZWRCYXNlUXVlcnlcPg==</entry>
         <entry>query</entry>
         <entry>faku</entry>
+        <entry>ogl_fakultat</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -118,7 +118,7 @@
         <mark key="]" line="74" column="32" />
         <mark key="." line="74" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1611328310268">
+      <file name="/Dummy.txt" timestamp="1611561981723">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -147,8 +147,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611561416222">
-        <mark key="'" line="9" column="20" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1611561649386">
+        <mark key="'" line="294" column="4" />
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="0" />
         <mark key="." line="308" column="0" />
@@ -169,7 +169,7 @@
         <mark key="^" line="48" column="59" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611155486542">
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611561975661">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
@@ -177,6 +177,11 @@
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" timestamp="1611150850430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5162" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_fakultat.json" timestamp="1611561709301">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="922" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1611153947391">
@@ -215,9 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="8" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
-      <jump line="213" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
       <jump line="58" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
       <jump line="52" column="9" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_spel_oko-1.0.0.ftl" />
@@ -315,6 +317,9 @@
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" />
       <jump line="13" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" />
       <jump line="9" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="294" column="4" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="60" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_fakultat.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_fakultat.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +328,7 @@
         <text encoding="base64">ICAgICAgICBkZWYgVEFHX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoJ1xcPHRhZ1xcPig/PHRhZz5bXFx3XFxkXSopXFw8XFwvJykKICAgICAgICBkZWYgVEFHMV9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKCdcXDx0YWcxXFw+KD88dGFnPltcXHdcXGRdKilcXDxcXC8nKQogICAgICAgIGRlZiBUQUcyX1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoJ1xcPHRhZzJcXD4oPzx0YWc+W1xcd1xcZF0qKVxcPFxcLycpCiAgICAgICAgZGVmIFRBRzNfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgnXFw8dGFnM1xcPig/PHRhZz5bXFx3XFxkXSopXFw8XFwvJykKICAgICAgICBkZWYgVEFHNF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKCdcXDx0YWc0XFw+KD88dGFnPltcXHdcXGRdKilcXDxcXC8nKQogICAgICAgIGRlZiBUQUc1X1BBVFRFUk4gPSBQYXR0ZXJuLmNvbXBpbGUoJ1xcPHRhZzVcXD4oPzx0YWc+W1xcd1xcZF0qKVxcPFxcLycpCiAgICAgICAgZGVmIFRBRzZfUEFUVEVSTiA9IFBhdHRlcm4uY29tcGlsZSgnXFw8dGFnNlxcPig/PHRhZz5bXFx3XFxkXSopXFw8XFwvJykK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Ogłoszenie fakultatywne</text>
+        <text>7e4a1938</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -341,10 +346,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Ogłoszenie fakultatywne</text>
+        <text>7e4a1938</text>
       </register>
       <register name="/" type="4">
-        <text>faku</text>
+        <text>ogl_fakultat</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -364,40 +369,40 @@
         <text encoding="base64">ICAgICAgICBkZWYgdmVyc2lvblNlcnZpY2UgPSBtb2NrKFZlcnNpb25TZXJ2aWNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WwogIHsKICAgICJpZCI6ICJCVC01MDBAMSIsCiAgICAidmFsdWUiOiAiQ2VudHJhbG55IFBvZG1pb3QgWmFtYXdpYWq5Y3kgJnF1b3Q7UzImcXVvdDsiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMTZAMSIsCiAgICAidmFsdWUiOiAiQ1BaUzIiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAxQDEiLAogICAgInZhbHVlIjogIlJFR09OIDUxMjUzODg0OSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTBAMSIsCiAgICAidmFsdWUiOiAiUHJ5bWFzYSBUeXNpuWNsZWNpYSAyNSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTNAMSIsCiAgICAidmFsdWUiOiAiV2Fyc3phd2EiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTEyQDEiLAogICAgInZhbHVlIjogIjAxLTI0NSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDUyMEAxIiwKICAgICJ2YWx1ZSI6ICJtYXpvd2llY2tpZSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MTRAMSIsCiAgICAidmFsdWUiOiAiUG9sc2thIgogIH0sCiAgewogICAgImlkIjogIkJULTUwN0AxIiwKICAgICJ2YWx1ZSI6ICJQTDkxMSAtIE1pYXN0byBXYXJzemF3YSIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDVAMSIsCiAgICAidmFsdWUiOiAid3d3LnNhbXBsZXBhZ2UuZXUiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNTAzQDEiLAogICAgInZhbHVlIjogIjIzMjMyMzIxIgogIH0sCiAgewogICAgImlkIjogIkJULTczOUAxIiwKICAgICJ2YWx1ZSI6ICIzOTQ4MjM5NCIKICB9LAogIHsKICAgICJpZCI6ICJCVC01MDZAMSIsCiAgICAidmFsdWUiOiAidGVzdEB0ZXN0LnBsIgogIH0sCiAgewogICAgImlkIjogIkJULTExIiwKICAgICJ2YWx1ZSI6ICJaYW1hd2lharljeSBwdWJsaWN6bnkgLSBpbm55IHphbWF3aWFquWN5IgogIH0sCiAgewogICAgImlkIjogIlJLVC0yMjI4IiwKICAgICJ2YWx1ZSI6ICJpbm55IHJvZHphaiB6YW1hd2lharljZWdvIgogIH0sCiAgewogICAgImlkIjogIkJULTEwIiwKICAgICJ2YWx1ZSI6ICJJbm5hIGR6aWGzYWxub5zmIgogIH0sCiAgewogICAgImlkIjogIlJLVC0yMjI5IiwKICAgICJ2YWx1ZSI6ICJpbm5hIGR6aWGzYWxub5zmIHphbWF3aWFquWNlZ28iCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjEiLAogICAgInZhbHVlIjogIm5hendhIHphbfN3aWVuaWEiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjMiLAogICAgInZhbHVlIjogIkRvc3Rhd3kiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtMjQiLAogICAgInZhbHVlIjogIkty83RraSBvcGlzIHByemVkbWlvdHUgemFt83dpZW5pYSIKICB9LAogIHsKICAgICJpZCI6ICJCVC0yNyIsCiAgICAidmFsdWUiOiAiMTAwMCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMTA1MiIsCiAgICAidmFsdWUiOiAiUExOIgogIH0sCiAgewogICAgImlkIjogIkJULTEzMSIsCiAgICAidmFsdWUiOiAiMjAyMS0wMS0yNSAxMjowMCIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDg4MSIsCiAgICAidmFsdWUiOiAiSW5mb3JtYWNqZSBkbGEgd3lrb25hd2PzdyBkb3R5Y3q5Y2Ugd2FydW5r83cgemFt83dpZW5pYSIKICB9LAogIHsKICAgICJpZCI6ICJSS1QtMDcwMSIsCiAgICAidmFsdWUiOiAiSW5mb3JtYWNqZSBkb2RhdGtvd2UiCiAgfSwKICB7CiAgICAiaWQiOiAiQlQtNzAxIiwKICAgICJ2YWx1ZSI6ICIkQnpwTm90aWNlTnVtYmVyIgogIH0sCiAgewogICAgImlkIjogIkJULTA1IiwKICAgICJ2YWx1ZSI6ICIkQnpwUHVibGljYXRpb25EYXRlIgogIH0sCiAgewogICAgImlkIjogIkJULTc1NyIsCiAgICAidmFsdWUiOiAiJEJ6cE5vdGljZVZlcnNpb24iCiAgfQpd</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZVZpc3VhbGl6YXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZVZpc3VhbGl6YXRpb24K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkICd0ZXN0IHRlbXBsYXRlUHJvY2Vzc2luZyBleGNlcHRpb24nKCkgewogICAgICAgIGRlZiBwYXJzZXJNb2NrID0gbW9jayhOb3RpY2VEYXRhUGFyc2VyKQogICAgICAgIGRlZiBmcmVlbWFya2VyU2VydmljZU1vY2sgPSBtb2NrKEZyZWVtYXJrZXJUZW1wbGF0ZVNlcnZpY2UpCiAgICAgICAgZGVmIHZhbGlkYXRvck1vY2sgPSBtb2NrKE5vdGljZURhdGFWYWxpZGF0b3IpCiAgICAgICAgZGVmIHZlcnNpb25TZXJ2aWNlID0gbW9jayhWZXJzaW9uU2VydmljZSkKCiAgICAgICAgZGVmIHNlcnZpY2UgPSBuZXcgTm90aWNlU2VydmljZUltcGwoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCBwYXJzZXJNb2NrLCB2YWxpZGF0b3JNb2NrLCB2ZXJzaW9uU2VydmljZSkKCiAgICAgICAgZGVmIG5vdGljZURhdGEgPSBuZXcgTm90aWNlRGF0YSh0eXBlOiBOT1RJQ0VfVFlQRSkKICAgICAgICBkZWYgcGFyc2VkRGF0YSA9IFsnY29kZTEnOiAndmFsdWUxJywgJ2NvZGUyJzogJ3ZhbHVlMiddIGFzIE1hcDxTdHJpbmcsIFN0cmluZz4KICAgICAgICB3aGVuKHBhcnNlck1vY2sucGFyc2Uobm90aWNlRGF0YSkpLnRoZW5SZXR1cm4ocGFyc2VkRGF0YSkKICAgICAgICB3aGVuKGZyZWVtYXJrZXJTZXJ2aWNlTW9jay5nZXRUZW1wbGF0ZU5hbWUoTk9USUNFX1RZUEUudmFsdWUpKS50aGVuUmV0dXJuKFRFTVBMQVRFX05BTUUpCiAgICAgICAgd2hlbihmcmVlbWFya2VyU2VydmljZU1vY2suYXBwbHlUZW1wbGF0ZShURU1QTEFURV9OQU1FLCBwYXJzZWREYXRhKSkudGhlblJldHVybihQUk9DRVNTRURfVEVNUExBVEUpCgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHNlcnZpY2UuZ2VuZXJhdGUoJ25vdGljZTEnLCBub3RpY2VEYXRhKQogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGFzc2VydFRoYXQgZSBpc0luc3RhbmNlT2YgR2VuZXJhdGlvbkV4Y2VwdGlvbgogICAgICAgIH0KCiAgICAgICAgdmVyaWZ5KHZhbGlkYXRvck1vY2ssIHRpbWVzKDEpKS52YWxpZGF0ZShub3RpY2VEYXRhKQogICAgICAgIHZlcmlmeShwYXJzZXJNb2NrLCB0aW1lcygxKSkucGFyc2Uobm90aWNlRGF0YSkKICAgICAgICB2ZXJpZnkoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCB0aW1lcygxKSkuZ2V0VGVtcGxhdGVOYW1lKE5PVElDRV9UWVBFLnZhbHVlKQogICAgICAgIHZlcmlmeShmcmVlbWFya2VyU2VydmljZU1vY2ssIHRpbWVzKDEpKS5hcHBseVRlbXBsYXRlKFRFTVBMQVRFX05BTUUsIHBhcnNlZERhdGEpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkICd0ZXN0IHRlbXBsYXRlUHJvY2Vzc2luZyBleGNlcHRpb24nKCkgewogICAgICAgIGRlZiBwYXJzZXJNb2NrID0gbW9jayhOb3RpY2VEYXRhUGFyc2VyKQogICAgICAgIGRlZiBmcmVlbWFya2VyU2VydmljZU1vY2sgPSBtb2NrKEZyZWVtYXJrZXJUZW1wbGF0ZVNlcnZpY2UpCiAgICAgICAgZGVmIHZhbGlkYXRvck1vY2sgPSBtb2NrKE5vdGljZURhdGFWYWxpZGF0b3IpCiAgICAgICAgZGVmIHZlcnNpb25TZXJ2aWNlID0gbW9jayhWZXJzaW9uU2VydmljZSkKCiAgICAgICAgZGVmIHNlcnZpY2UgPSBuZXcgTm90aWNlU2VydmljZUltcGwoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCBwYXJzZXJNb2NrLCB2YWxpZGF0b3JNb2NrLCB2ZXJzaW9uU2VydmljZSkKCiAgICAgICAgZGVmIG5vdGljZURhdGEgPSBuZXcgTm90aWNlRGF0YSh0eXBlOiBOT1RJQ0VfVFlQRSkKICAgICAgICBkZWYgcGFyc2VkRGF0YSA9IFsnY29kZTEnOiAndmFsdWUxJywgJ2NvZGUyJzogJ3ZhbHVlMiddIGFzIE1hcDxTdHJpbmcsIFN0cmluZz4KICAgICAgICB3aGVuKHBhcnNlck1vY2sucGFyc2Uobm90aWNlRGF0YSkpLnRoZW5SZXR1cm4ocGFyc2VkRGF0YSkKICAgICAgICB3aGVuKGZyZWVtYXJrZXJTZXJ2aWNlTW9jay5nZXRUZW1wbGF0ZU5hbWUoTk9USUNFX1RZUEUudmFsdWUpKS50aGVuUmV0dXJuKFRFTVBMQVRFX05BTUUpCiAgICAgICAgd2hlbihmcmVlbWFya2VyU2VydmljZU1vY2suYXBwbHlUZW1wbGF0ZShURU1QTEFURV9OQU1FLCBwYXJzZWREYXRhKSkudGhlblJldHVybihQUk9DRVNTRURfVEVNUExBVEUpCgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHNlcnZpY2UuZ2VuZXJhdGUoJ25vdGljZTEnLCBub3RpY2VEYXRhKQogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGFzc2VydFRoYXQgZSBpc0luc3RhbmNlT2YgR2VuZXJhdGlvbkV4Y2VwdGlvbgogICAgICAgIH0KCiAgICAgICAgdmVyaWZ5KHZhbGlkYXRvck1vY2ssIHRpbWVzKDEpKS52YWxpZGF0ZShub3RpY2VEYXRhKQogICAgICAgIHZlcmlmeShwYXJzZXJNb2NrLCB0aW1lcygxKSkucGFyc2Uobm90aWNlRGF0YSkKICAgICAgICB2ZXJpZnkoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCB0aW1lcygxKSkuZ2V0VGVtcGxhdGVOYW1lKE5PVElDRV9UWVBFLnZhbHVlKQogICAgICAgIHZlcmlmeShmcmVlbWFya2VyU2VydmljZU1vY2ssIHRpbWVzKDEpKS5hcHBseVRlbXBsYXRlKFRFTVBMQVRFX05BTUUsIHBhcnNlZERhdGEpCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgcGFyc2VkRGF0YSA9IFsnY29kZTEnOiAndmFsdWUxJywgJ2NvZGUyJzogJ3ZhbHVlMiddIGFzIE1hcDxTdHJpbmcsIFN0cmluZz4K</text>
+        <text encoding="base64">ICAgIEBJZ25vcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCB0aW1lcygwKSkuZ2V0VGVtcGxhdGVOYW1lKE5PVElDRV9UWVBFLnZhbHVlKQogICAgICAgIHZlcmlmeShmcmVlbWFya2VyU2VydmljZU1vY2ssIHRpbWVzKDApKS5hcHBseVRlbXBsYXRlKFRFTVBMQVRFX05BTUUsIHBhcnNlZERhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcGFyc2VkRGF0YSA9IFsnY29kZTEnOiAndmFsdWUxJywgJ2NvZGUyJzogJ3ZhbHVlMiddIGFzIE1hcDxTdHJpbmcsIFN0cmluZz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGZyZWVtYXJrZXJTZXJ2aWNlTW9jay5nZXRUZW1wbGF0ZU5hbWUoTk9USUNFX1RZUEUudmFsdWUpKS50aGVuUmV0dXJuKFRFTVBMQVRFX05BTUUpCiAgICAgICAgd2hlbihmcmVlbWFya2VyU2VydmljZU1vY2suYXBwbHlUZW1wbGF0ZShURU1QTEFURV9OQU1FLCBwYXJzZWREYXRhKSkudGhlblJldHVybihQUk9DRVNTRURfVEVNUExBVEUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCB0aW1lcygwKSkuZ2V0VGVtcGxhdGVOYW1lKE5PVElDRV9UWVBFLnZhbHVlKQogICAgICAgIHZlcmlmeShmcmVlbWFya2VyU2VydmljZU1vY2ssIHRpbWVzKDApKS5hcHBseVRlbXBsYXRlKFRFTVBMQVRFX05BTUUsIHBhcnNlZERhdGEpCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoZnJlZW1hcmtlclNlcnZpY2VNb2NrLCB0aW1lcygwKSkuZ2V0VGVtcGxhdGVOYW1lKE5PVElDRV9UWVBFLnZhbHVlKQogICAgICAgIHZlcmlmeShmcmVlbWFya2VyU2VydmljZU1vY2ssIHRpbWVzKDApKS5hcHBseVRlbXBsYXRlKFRFTVBMQVRFX05BTUUsIHBhcnNlZERhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGZyZWVtYXJrZXJTZXJ2aWNlTW9jay5nZXRUZW1wbGF0ZU5hbWUoTk9USUNFX1RZUEUudmFsdWUpKS50aGVuUmV0dXJuKFRFTVBMQVRFX05BTUUpCiAgICAgICAgd2hlbihmcmVlbWFya2VyU2VydmljZU1vY2suYXBwbHlUZW1wbGF0ZShURU1QTEFURV9OQU1FLCBwYXJzZWREYXRhKSkudGhlblJldHVybihQUk9DRVNTRURfVEVNUExBVEUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -409,9 +414,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>faku</last-search>
+      <last-search>ogl_fakultat</last-search>
       <last-offset />
-      <last-pattern>faku</last-pattern>
+      <last-pattern>ogl_fakultat</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
