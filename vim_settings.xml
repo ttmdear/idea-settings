@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>query</entry>
-        <entry>faku</entry>
         <entry>ogl_fakultat</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxQSURcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>groovy</entry>
         <entry>groovy-all</entry>
         <entry>gma</entry>
+        <entry encoding="base64">XDxzb25hclw+</entry>
+        <entry>sonar</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
@@ -113,6 +113,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" timestamp="1611579880263">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="84" column="21" />
+        <mark key="]" line="85" column="12" />
+        <mark key="." line="85" column="11" />
+        <mark key="^" line="85" column="12" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/Bootstrap.java" timestamp="1611564446186">
         <mark key="[" line="71" column="54" />
         <mark key="]" line="72" column="8" />
@@ -125,7 +132,6 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-podmioty/rest-api/src/main/resources/application.yaml" timestamp="1611564164716" />
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/util/XmlUtil.java" timestamp="1611570516402">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -138,7 +144,7 @@
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/freemarker/function/CountCodesInListTest.groovy" timestamp="1611577806496">
         <mark key="'" line="100" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1611576815017">
+      <file name="/Dummy.txt" timestamp="1611580400080">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -153,12 +159,12 @@
         <mark key="." line="67" column="3" />
         <mark key="^" line="67" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611579028662">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611580189704">
         <mark key="'" line="33" column="17" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="247" column="48" />
-        <mark key="^" line="247" column="38" />
-        <mark key="." line="245" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="263" column="12" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/validator/impl/NoticeDataValidatorImplTest.groovy" timestamp="1611571638690">
         <mark key="[" line="47" column="0" />
@@ -204,13 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="56" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="4" column="3" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="5" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="786" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="967" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
-      <jump line="652" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
       <jump line="687" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_post-1.0.0.ftl" />
       <jump line="31" column="27" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="92" column="22" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" />
@@ -304,15 +303,22 @@
       <jump line="232" column="38" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="233" column="28" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="33" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
+      <jump line="210" column="23" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
+      <jump line="57" column="21" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
+      <jump line="63" column="33" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
+      <jump line="64" column="32" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
+      <jump line="33" column="9" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
+      <jump line="41" column="10" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZEV4Y2VwdGlvbi5leHBlY3QoYWxsT2YoaW5zdGFuY2VPZihSdW50aW1lRXhjZXB0aW9uLmNsYXNzKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5qYWNvY288L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY29jby1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFwcGVuZD50cnVlPC9hcHBlbmQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tL3BlbnRhY29tcC9lemFtb3dpZW5pYS9tby9ub3RpY2VnZW4vY29uc3RzLyoqLyouY2xhc3M8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tL3BlbnRhY29tcC9lemFtb3dpZW5pYS9tby9ub3RpY2VnZW4vY29uZmlnLyoqLyouY2xhc3M8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tL3BlbnRhY29tcC9lemFtb3dpZW5pYS9tby9ub3RpY2VnZW4vdXRpbC9EZXZVdGlsLmNsYXNzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGNsdWRlcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5wcmVwYXJlLWFnZW50PC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnJlcG9ydDwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnByZXBhcmUtcGFja2FnZTwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5yZXBvcnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLmdyb292eTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3Jvb3Z5LWFsbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tICAgIGphY29jbyBXY29uZmlndXJhdGlvbi0tPgo=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -324,16 +330,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>groovy-all</text>
+        <text>pitest-maven</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>org.jacoco</text>
       </register>
       <register name="/" type="4">
-        <text>gma</text>
+        <text>sonar</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -349,17 +355,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkICJ0ZXN0IGluY29ycmVjdCB2ZXJzaW9uIGZvcm1hdCAtIG5vIG51bWJlciIoKSB7CiAgICAgICAgdmVyc2lvblNlcnZpY2UgPSBuZXcgVmVyc2lvblNlcnZpY2VJbXBsKG5ldyBHZW5lcmF0b3JDb25maWcoCiAgICAgICAgICAgIHR5cGVzOiBbCiAgICAgICAgICAgICAgICAoTm90aWNlRGF0YS5UeXBlRW51bS5PR0xfT19aQU0pOiBuZXcgR2VuZXJhdG9yQ29uZmlnLlR5cGVDb25maWcoWwogICAgICAgICAgICAgICAgICAgICIxLjMuNC1hbHBoYSIsCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICBdCiAgICAgICAgKSkKCiAgICAgICAgZXhwZWN0ZWRFeGNlcHRpb24uZXhwZWN0KGFsbE9mKGluc3RhbmNlT2YoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLmNsYXNzKSkpCgogICAgICAgIHZlcnNpb25TZXJ2aWNlLnBvc3RDb250cnVjdCgpCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>pitest-maven</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLmdyb292eTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3Jvb3Z5LWFsbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjc8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tICAgIGphY29jbyBXY29uZmlndXJhdGlvbi0tPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tICAgIGphY29jbyBXY29uZmlndXJhdGlvbi0tPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,25 +374,25 @@
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE5hbWVWZXJzaW9uKFN0cmluZyBuYW1lLCBTdHJpbmcgdmVyc2lvbikgewogICAgICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBqYWNvY28tbWF2ZW4tcGx1Z2luIC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5qYWNvY288L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYWNvY28tbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGFwcGVuZD50cnVlPC9hcHBlbmQ+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5jb20vcGVudGFjb21wL2V6YW1vd2llbmlhL210L2FkbWluaXN0cmF0aW9uL2F1ZGl0bG9nZ2VyLyoqLyouY2xhc3M8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdWRlcz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnByZXBhcmUtYWdlbnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnJlcG9ydDwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wcmVwYXJlLXBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5yZXBvcnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBEYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -398,9 +404,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>gma</last-search>
+      <last-search>sonar</last-search>
       <last-offset />
-      <last-pattern>gma</last-pattern>
+      <last-pattern>sonar</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
