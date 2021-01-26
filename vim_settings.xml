@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>groovy</entry>
         <entry>groovy-all</entry>
         <entry>gma</entry>
         <entry encoding="base64">XDxzb25hclw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpbXBvcnRlci13ZWJcPg==</entry>
         <entry encoding="base64">XDxhdWRpdExvZ2dlclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxhdWRpdExvZ0FkZGl0aW9uYWxQYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxhZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -113,24 +113,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/rest-api/src/main/resources/application.yaml" timestamp="1611654787295">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="43" column="36" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/audit-logger/src/main/java/com/pentacomp/ezamowienia/administration/auditlogger/service/AuditLoggerService.java" timestamp="1611663791477" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/ImmediateFileAppender.java" timestamp="1611662096546">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="46" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/audit-logger/src/main/java/com/pentacomp/ezamowienia/mt/managergui/auditlogger/service/MdcService.java" timestamp="1611658998841" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1611658151327">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="12" column="0" />
+      <file name="/a.dummy" timestamp="1611663017883">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/Bootstrap.java" timestamp="1611658554025">
-        <mark key="[" line="79" column="72" />
-        <mark key="]" line="80" column="8" />
-        <mark key="." line="80" column="7" />
-        <mark key="^" line="80" column="8" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/AuditLoggerConfiguration.java" timestamp="1611663619483">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+        <mark key="." line="9" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/admin/service/AdminService.java" timestamp="1611659130970">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/admin/service/AdminService.java" timestamp="1611663888734">
         <mark key="'" line="100" column="8" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogProperties.java" timestamp="1611662428335">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParametersFactoryService.java" timestamp="1611662251419">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="7" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/ImmediateResilientFileOutputStream.java" timestamp="1611660918569">
         <mark key="[" line="2" column="33" />
@@ -138,12 +150,10 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611657756415">
-        <mark key="'" line="232" column="28" />
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="27" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParametersBuilder.java" timestamp="1611663012172">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" timestamp="1611660935316">
         <mark key="[" line="2" column="33" />
@@ -151,51 +161,55 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="45" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/audit-logger/src/main/resources/logger.properties" timestamp="1611664080653" />
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogPropertiesMap.java" timestamp="1611661079389" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/administration/auditlogger/common/Category.java" timestamp="1611654944943">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="1" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/logger.yaml" timestamp="1611664623019">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/audit-logger/src/main/java/com/pentacomp/ezamowienia/mt/managergui/auditlogger/service/AuditLoggerService.java" timestamp="1611659015306" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/logback-spring.xml" timestamp="1611655272339">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="76" />
-        <mark key="." line="12" column="39" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParametersBuilderService.java" timestamp="1611663668604">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/rest-api/src/main/resources/logback-spring.xml" timestamp="1611654683981">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="22" column="67" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1611658456609">
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="51" column="58" />
-        <mark key="^" line="51" column="58" />
-        <mark key="." line="51" column="57" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LoginProperties.java" timestamp="1611660975658">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="43" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/registration/handler/AuthorizationRestTemplateResponseErrorHandler.java" timestamp="1611659049330">
-        <mark key="'" line="34" column="37" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1611655610379">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParameters.java" timestamp="1611664619139">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="15" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/config/AuthorizationApiClientConfig.java" timestamp="1611659016738">
-        <mark key="'" line="24" column="37" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParametersService.java" timestamp="1611662834737">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="8" column="62" />
       </file>
-      <file name="/fragment.java" timestamp="1611658488213">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogEventType.java" timestamp="1611664537582">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="6" column="33" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/logger.properties" timestamp="1611664572435">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="29" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LoginProperties.java" timestamp="1611662379829">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="24" column="25" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1611663541579">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
-      <jump line="4" column="59" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
-      <jump line="108" column="55" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
       <jump line="25" column="39" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
       <jump line="26" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
@@ -293,6 +307,9 @@
       <jump line="34" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/registration/handler/AuthorizationRestTemplateResponseErrorHandler.java" />
       <jump line="99" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/admin/service/AdminService.java" />
       <jump line="100" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/managergui/admin/service/AdminService.java" />
+      <jump line="9" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogEventType.java" />
+      <jump line="10" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogEventType.java" />
+      <jump line="5" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/logger.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,9 +317,8 @@
       <register name="a" type="4">
         <text>com.pentacomp.ezamowienia.mo.importer</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>administration
-administration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -314,16 +330,16 @@ administration</text>
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>logger.properties</text>
+        <text>ezamowienia.administration</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>importer-audit-logger</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdWRpdExvZ0FkZGl0aW9uYWxQYXJhbWV0ZXJzXD4=</text>
+        <text encoding="base64">XDxhZHNcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -340,48 +356,43 @@ administration</text>
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV2ZW50TmFtZTsKICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgcHJpdmF0ZSBTdHJpbmcgZXZlbnRDb250ZXh0SWQ7CiAgICBwcml2YXRlIFN0cmluZyBvY2lkOwogICAgcHJpdmF0ZSBTdHJpbmcgYXBwOwogICAgcHJpdmF0ZSBTdHJpbmcgdXNlcjsKICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50OwogICAgcHJpdmF0ZSBTdHJpbmcgbGV2ZWw7CiAgICBwcml2YXRlIFN0cmluZyBjYXRlZ29yeTsKICAgIHByaXZhdGUgU3RyaW5nIHJlc3VsdDsKICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>administration
-administration</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQXVkaXRMbwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxuYW1lPkF1ZGl0IGxvZ2dlcjwvbmFtZT4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
-      <register name="4" type="8">
-        <text>administration
-administration
-administration
-administration
-administration</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmltcG9ydGVyLWF1ZGl0LWxvZ2dlcjwvbW9kdWxlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">bXRBZG1pbkFjdGlvbi5kZXNjcmlwdGlvbj0tLQptdEFkbWluQWN0aW9uLmV2ZW50TmFtZT0tLQptdEFkbWluQWN0aW9uLm9jaWQ9LS0tCm10QWRtaW5BY3Rpb24ucGxhY2U9LS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5wZW50YWNvbXAuZXphbW93aWVuaWEubW8uaW1wb3J0ZXI8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">VEVNUE9SQVJZX1RFU1QuZGVzY3JpcHRpb249IFRlc3QgbG9n83cgYml6bmVzb3d5Y2ggdyBrb21vb25lbmNpZSBhZG1pbmlzdHJhY3lqbnltClRFTVBPUkFSWV9URVNULmV2ZW50TmFtZT0gVGVzdApURU1QT1JBUllfVEVTVC5vY2lkPS0tLQpURU1QT1JBUllfVEVTVC5wbGFjZT0gSG9ub2x1bHUKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVWRU5UX1RZUEUsCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -393,9 +404,9 @@ administration</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdWRpdExvZ0FkZGl0aW9uYWxQYXJhbWV0ZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxhZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWRpdExvZ0FkZGl0aW9uYWxQYXJhbWV0ZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZHNcPg==</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
