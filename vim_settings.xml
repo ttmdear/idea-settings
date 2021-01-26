@@ -114,10 +114,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/audit-logger/src/main/java/com/pentacomp/ezamowienia/administration/auditlogger/service/AuditLoggerService.java" timestamp="1611663791477" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/ImmediateFileAppender.java" timestamp="1611662096546">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="46" />
-      </file>
       <file name="/a.dummy" timestamp="1611663017883">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="27" />
@@ -144,25 +140,24 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/ImmediateResilientFileOutputStream.java" timestamp="1611660918569">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="33" />
-        <mark key="^" line="2" column="45" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/events/Event.java" timestamp="1611665880728">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParametersBuilder.java" timestamp="1611663012172">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" timestamp="1611660935316">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="33" />
-        <mark key="^" line="2" column="45" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/audit-logger/src/main/resources/logger.properties" timestamp="1611664080653" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogPropertiesMap.java" timestamp="1611661079389" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/events/RunNoticesImporterFromTEDEvent.java" timestamp="1611666084207">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/logger.yaml" timestamp="1611664623019">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -174,7 +169,7 @@
         <mark key="." line="18" column="7" />
         <mark key="^" line="18" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParameters.java" timestamp="1611664619139">
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/LogParameters.java" timestamp="1611665617238">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="8" column="14" />
@@ -198,6 +193,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="29" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/events/BaseEvent.java" timestamp="1611666073789">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="36" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LoginProperties.java" timestamp="1611662379829">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="24" column="25" />
@@ -208,9 +209,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="7" />
       </file>
+      <file name="/fragment.java" timestamp="1611665799895">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
       <jump line="25" column="39" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
       <jump line="26" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
       <jump line="34" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImpl.java" />
@@ -310,6 +313,7 @@
       <jump line="9" column="19" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogEventType.java" />
       <jump line="10" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/LogEventType.java" />
       <jump line="5" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/logger.properties" />
+      <jump line="3" column="22" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/events/RunNoticesImporterFromTEDEvent.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,7 +322,7 @@
         <text>com.pentacomp.ezamowienia.mo.importer</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV2ZW50TmFtZTsKICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgcHJpdmF0ZSBTdHJpbmcgZXZlbnRDb250ZXh0SWQ7CiAgICBwcml2YXRlIFN0cmluZyBvY2lkOwogICAgcHJpdmF0ZSBTdHJpbmcgYXBwOwogICAgcHJpdmF0ZSBTdHJpbmcgdXNlcjsKICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50OwogICAgcHJpdmF0ZSBTdHJpbmcgbGV2ZWw7CiAgICBwcml2YXRlIFN0cmluZyBjYXRlZ29yeTsKICAgIHByaXZhdGUgU3RyaW5nIHJlc3VsdDsKICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -336,7 +340,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">YWJzdHJhY3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZHNcPg==</text>
@@ -359,40 +363,40 @@
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV2ZW50TmFtZTsKICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgcHJpdmF0ZSBTdHJpbmcgZXZlbnRDb250ZXh0SWQ7CiAgICBwcml2YXRlIFN0cmluZyBvY2lkOwogICAgcHJpdmF0ZSBTdHJpbmcgYXBwOwogICAgcHJpdmF0ZSBTdHJpbmcgdXNlcjsKICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50OwogICAgcHJpdmF0ZSBTdHJpbmcgbGV2ZWw7CiAgICBwcml2YXRlIFN0cmluZyBjYXRlZ29yeTsKICAgIHByaXZhdGUgU3RyaW5nIHJlc3VsdDsKICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGV2ZW50TmFtZTsKICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgcHJpdmF0ZSBTdHJpbmcgZXZlbnRDb250ZXh0SWQ7CiAgICBwcml2YXRlIFN0cmluZyBvY2lkOwogICAgcHJpdmF0ZSBTdHJpbmcgYXBwOwogICAgcHJpdmF0ZSBTdHJpbmcgdXNlcjsKICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50OwogICAgcHJpdmF0ZSBTdHJpbmcgbGV2ZWw7CiAgICBwcml2YXRlIFN0cmluZyBjYXRlZ29yeTsKICAgIHByaXZhdGUgU3RyaW5nIHJlc3VsdDsKICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bXRBZG1pbkFjdGlvbi5kZXNjcmlwdGlvbj0tLQptdEFkbWluQWN0aW9uLmV2ZW50TmFtZT0tLQptdEFkbWluQWN0aW9uLm9jaWQ9LS0tCm10QWRtaW5BY3Rpb24ucGxhY2U9LS0tCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VEVNUE9SQVJZX1RFU1QuZGVzY3JpcHRpb249IFRlc3QgbG9n83cgYml6bmVzb3d5Y2ggdyBrb21vb25lbmNpZSBhZG1pbmlzdHJhY3lqbnltClRFTVBPUkFSWV9URVNULmV2ZW50TmFtZT0gVGVzdApURU1QT1JBUllfVEVTVC5vY2lkPS0tLQpURU1QT1JBUllfVEVTVC5wbGFjZT0gSG9ub2x1bHUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEVWRU5UX1RZUEUsCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZwo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
