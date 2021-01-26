@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>jac</entry>
         <entry>groxy</entry>
         <entry>grov</entry>
         <entry>groovy</entry>
@@ -25,6 +24,7 @@
         <entry>log</entry>
         <entry>sf4</entry>
         <entry encoding="base64">XDxpbXBvcnRlci13ZWJcPg==</entry>
+        <entry encoding="base64">XDxpbXBvcnRlci1hdWRpdC1sb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -126,11 +126,11 @@
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/util/DevUtil.java" timestamp="1611588740192">
         <mark key="^" line="67" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1611655862097">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="88" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1611656532349">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="66" column="8" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611588329684">
         <mark key="'" line="171" column="26" />
@@ -187,10 +187,10 @@
         <mark key="." line="47" column="56" />
         <mark key="^" line="47" column="57" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611656020957">
-        <mark key="'" line="232" column="28" />
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="37" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611656555328">
+        <mark key="'" line="20" column="16" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="37" />
         <mark key="." line="20" column="16" />
         <mark key="^" line="237" column="49" />
       </file>
@@ -208,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
-      <jump line="35" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
       <jump line="36" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
       <jump line="8" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/service/impl/VersionServiceImplTest.groovy" />
@@ -308,6 +306,8 @@
       <jump line="19" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="238" column="48" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="232" column="28" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="21" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="20" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,8 +315,8 @@
       <register name="a" type="4">
         <text>com.pentacomp.ezamowienia.mo.importer</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>importer-audit-logger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -337,7 +337,7 @@
         <text>importer-audit-logger</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRlci13ZWJcPg==</text>
+        <text encoding="base64">XDxpbXBvcnRlci1hdWRpdC1sb2dnZXJcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -353,17 +353,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>importer-audit-logger</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5wZW50YWNvbXAuZXphbW93aWVuaWEubW8uaW1wb3J0ZXI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -378,19 +378,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4zPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4wLjAuMzwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5hZG1pbmlzdHJhdGlvbi1jb21wb25lbnQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjAuMC4zPC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -402,9 +402,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRlci13ZWJcPg==</last-search>
+      <last-search encoding="base64">XDxpbXBvcnRlci1hdWRpdC1sb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRlci13ZWJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBvcnRlci1hdWRpdC1sb2dnZXJcPg==</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
