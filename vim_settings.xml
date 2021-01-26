@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0ZVZlcnNpb25Gb3JtYXRcPg==</entry>
-        <entry encoding="base64">XDxOYW1lVmVyc2lvblw+</entry>
         <entry>jacc</entry>
         <entry>jac</entry>
         <entry>groxy</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxMSVNUX1BBVFRFUk5cPg==</entry>
         <entry encoding="base64">XDxzcGxpdFw+</entry>
         <entry encoding="base64">XDxWZWN0b3JcPg==</entry>
+        <entry>log</entry>
+        <entry>sf4</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -210,6 +210,13 @@
         <mark key="." line="190" column="48" />
         <mark key="^" line="190" column="49" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611649745238">
+        <mark key="'" line="33" column="25" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="23" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" timestamp="1611588554523">
         <mark key="'" line="314" column="0" />
         <mark key="[" line="310" column="0" />
@@ -217,13 +224,8 @@
         <mark key="^" line="312" column="40" />
         <mark key="." line="310" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1611575844038">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-podmioty/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/podmioty/rest/RestExceptionHandler.java" />
-      <jump line="48" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-podmioty/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/podmioty/rest/RestExceptionHandler.java" />
       <jump line="26" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-podmioty/rest-api/src/main/java/com/pentacomp/ezamowienia/mt/podmioty/rest/RestExceptionHandler.java" />
       <jump line="10" column="7" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" />
       <jump line="12" column="81" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" />
@@ -322,6 +324,8 @@
       <jump line="310" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
       <jump line="36" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTestImpl.java" />
       <jump line="20" column="50" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTest.java" />
+      <jump line="12" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="33" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,8 +333,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5qYWNvY288L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY29jby1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGFwcGVuZD50cnVlPC9hcHBlbmQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tL3BlbnRhY29tcC9lemFtb3dpZW5pYS9tby9ub3RpY2VnZW4vY29uc3RzLyoqLyouY2xhc3M8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tL3BlbnRhY29tcC9lemFtb3dpZW5pYS9tby9ub3RpY2VnZW4vY29uZmlnLyoqLyouY2xhc3M8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+Y29tL3BlbnRhY29tcC9lemFtb3dpZW5pYS9tby9ub3RpY2VnZW4vdXRpbC9EZXZVdGlsLmNsYXNzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGNsdWRlcz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5wcmVwYXJlLWFnZW50PC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnJlcG9ydDwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBoYXNlPnByZXBhcmUtcGFja2FnZTwvcGhhc2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5yZXBvcnQ8L2dvYWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -348,10 +352,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWZWN0b3JcPg==</text>
+        <text>sf4</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -416,9 +420,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxWZWN0b3JcPg==</last-search>
+      <last-search>sf4</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWZWN0b3JcPg==</last-pattern>
+      <last-pattern>sf4</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
