@@ -129,25 +129,18 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="9" />
       </file>
-      <file name="/a.dummy" timestamp="1611737633180">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/common/Category.java" timestamp="1611741982931">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="48" />
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/controllers/LauncherControllerTest.groovy" timestamp="1611738592774" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/AuditLoggerConfiguration.java" timestamp="1611746642611">
-        <mark key="'" line="34" column="37" />
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="3" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/AuditLoggerConfiguration.java" timestamp="1611746820196">
+        <mark key="'" line="33" column="37" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/Bootstrap.java" timestamp="1611743937845">
         <mark key="'" line="82" column="118" />
@@ -160,6 +153,12 @@
         <mark key="'" line="25" column="29" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="41" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.properties" timestamp="1611746753876">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceBean.java" timestamp="1611738752384">
         <mark key="[" line="17" column="64" />
@@ -223,7 +222,7 @@
         <mark key="^" line="3" column="55" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1611746583144">
+      <file name="/fragment.java" timestamp="1611746802044">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -335,8 +334,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBtZW1vcnlBcHBlbmRlciA9IG5ldyBNZW1vcnlBcHBlbmRlcigpOwogICAgICAgIG1lbW9yeUFwcGVuZGVyLnNldENvbnRleHQoKExvZ2dlckNvbnRleHQpIExvZ2dlckZhY3RvcnkuZ2V0SUxvZ2dlckZhY3RvcnkoKSk7CiAgICAgICAgTG9nZ2VyIGxvZ2dlciA9IChMb2dnZXIpIExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKExPR0dFUl9OQU1FKTsKICAgICAgICBsb2dnZXIuYWRkQXBwZW5kZXIobWVtb3J5QXBwZW5kZXIpOwogICAgICAgIG1lbW9yeUFwcGVuZGVyLnN0YXJ0KCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>PropertySource</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -354,7 +353,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>PropertySource</text>
+        <text>yaml</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
@@ -374,34 +373,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBdWRpdExvZ2dlckNvbmZpZ3VyYXRpb24oZmluYWwgRW52aXJvbm1lbnQgZW52aXJvbm1lbnQpIHsKICAgICAgICB0aGlzLmVudmlyb25tZW50ID0gZW52aXJvbm1lbnQ7CiAgICB9Cg==</text>
+        <text encoding="base64">cGFyYW1ldGVycy5SVU5fTk9USUNFU19JTVBPUlRFUl9GUk9NX1RFRF9JTlBVVF9TVUNDRVNTLmRlc2NyaXB0aW9uOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbjogIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudE5hbWU6ICIiCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBdWRpdExvZ2dlckNvbmZpZ3VyYXRpb24oKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFJVTl9OT1RJQ0VTX0lNUE9SVEVSX0ZST01fVEVEX0lOUFVUX1NVQ0NFU1M6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">cGFyYW1ldGVyczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -410,7 +409,7 @@
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFyYW1ldGVycy5SVU5fTk9USUNFU19JTVBPUlRFUl9GUk9NX1RFRF9JTlBVVF9TVUNDRVNTLmRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBdWRpdExvZ2dlckNvbmZpZ3VyYXRpb24oKSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
