@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbWV0ZXJzXD4=</entry>
-        <entry encoding="base64">XDxSVU5fTk9USUNFU19JTVBPUlRFUl9GUk9NX1RFRF9JTlBVVF9TVUNDRVNTXD4=</entry>
-        <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
-        <entry encoding="base64">XDxUSU1FX0ZPUk1BVFRFUlw+</entry>
         <entry>uadi</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
         <entry encoding="base64">XDxBUFBfTkFNRVw+</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxJRFw+</entry>
         <entry encoding="base64">XDxMb2dCdWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxhdWRpdFw+</entry>
+        <entry>findByDocumentNumberFrom</entry>
+        <entry encoding="base64">XDxmZXRjaGVyXD4=</entry>
+        <entry encoding="base64">XDxsZWZ0XD4=</entry>
+        <entry>sonar</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -116,15 +116,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" timestamp="1611822476993">
-        <mark key="[" line="32" column="95" />
-        <mark key="]" line="32" column="122" />
-        <mark key="." line="32" column="121" />
-        <mark key="^" line="32" column="122" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/controllers/LauncherController.java" timestamp="1611759280473">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="25" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" timestamp="1611823867735">
+        <mark key="'" line="53" column="107" />
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="39" />
+        <mark key="^" line="66" column="40" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImplTest.groovy" timestamp="1611822514134">
         <mark key="'" line="20" column="0" />
@@ -168,6 +165,19 @@
         <mark key="^" line="29" column="108" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" timestamp="1611823968977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="1" />
+        <mark key="^" line="45" column="37" />
+        <mark key="." line="45" column="36" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611825221295">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/BaseCrudServiceImpl.java" timestamp="1611820294179">
         <mark key="'" line="11" column="36" />
       </file>
@@ -176,6 +186,13 @@
         <mark key="]" line="21" column="49" />
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="48" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611825125618">
+        <mark key="'" line="46" column="18" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="111" column="18" />
+        <mark key="." line="262" column="11" />
+        <mark key="^" line="262" column="12" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1611822741768">
         <mark key="[" line="4" column="0" />
@@ -190,21 +207,10 @@
         <mark key="^" line="34" column="39" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/ExporterServiceImpl.java" timestamp="1611821637689" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1611758683482">
-        <mark key="'" line="27" column="12" />
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="82" />
-        <mark key="." line="22" column="65" />
-        <mark key="^" line="22" column="67" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-swagger/pom.xml" timestamp="1611820009418">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1611759342114">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="36" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/config/PersistenceDbConfiguration.java" timestamp="1611820133924">
         <mark key="[" line="94" column="0" />
@@ -213,26 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="81" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="161" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="49" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="162" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="18" column="12" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/audit-logger/src/test/groovy/com/pentacomp/ezamowienia/administration/auditlogger/service/AuditLoggerServiceSpec.groovy" />
-      <jump line="41" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceTest.groovy" />
-      <jump line="25" column="29" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/audit-logger/src/test/groovy/com/pentacomp/ezamowienia/administration/auditlogger/service/AuditLoggerServiceSpec.groovy" />
-      <jump line="100" column="30" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="143" column="26" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="2" column="17" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="147" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="52" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceTest.groovy" />
-      <jump line="8" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/MemoryAppender.java" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/MemoryAppender.java" />
-      <jump line="14" column="49" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/Log.java" />
-      <jump line="4" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.yaml" />
-      <jump line="82" column="118" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/Bootstrap.java" />
-      <jump line="204" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
-      <jump line="32" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/AuditLoggerConfiguration.java" />
-      <jump line="33" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/AuditLoggerConfiguration.java" />
       <jump line="1" column="4" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.yaml" />
       <jump line="2" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.yaml" />
       <jump line="3" column="4" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.yaml" />
@@ -313,6 +299,26 @@
       <jump line="22" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ExporterServiceImplTest.groovy" />
       <jump line="27" column="103" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImplTest.groovy" />
       <jump line="19" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImplTest.groovy" />
+      <jump line="57" column="35" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
+      <jump line="42" column="91" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="45" column="39" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="11" column="36" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="17" column="59" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="24" column="70" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="28" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="59" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="21" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="27" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="57" column="27" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="73" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="49" column="65" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="50" column="46" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="59" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
+      <jump line="53" column="107" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
+      <jump line="10" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
+      <jump line="10" column="29" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="46" column="18" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +327,7 @@
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">eyJldmVudERhdGUiOiIyMDIxLTAxLTI4VDA5OjAzOjA2LjMwOCswMTowMCIsImV2ZW50TmFtZSI6Ilpha2/xY3pvbm8gaW1wb3J0IHogVEVELiIsImxldmVsIjoiSU5GTyIsImFwcCI6Ii0tLSIsImxldmVsIjoiSU5GTyIsImRlc2NyaXB0aW9uIjoiVUMuTU8uMjg0IiwiZXZlbnRDb250ZXh0SWQiOiI3NDAzNjI3ZC05MDIzLTQzYjgtOGRkOC1hYzIyNjc2Y2I3MmEiLCJyZXN1bHQiOiJTVUNDRVNTIiwiZW52aXJvbm1lbnQiOiItLS0iLCJldmVudE5hbWUiOiJaYWtv8WN6b25vIGltcG9ydCB6IFRFRC4iLCJwbGFjZSI6Ii0tLSIsImNhdGVnb3J5IjoiT1VUUFVUIiwib2NpZCI6Ii0tLSIsInVzZXIiOiItLS0iLCJldmVudERhdGUiOiIyMDIxLTAxLTI4VDA5OjAzOjA2LjMwOCswMTAwIiwiYXBwIjoibW8tbm90aWNlLWltcG9ydGVyIiwiZW52aXJvbm1lbnQiOiJMT0NBTCIsInBsYWNlIjoid2VzdGV1cm9wZSJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -333,16 +339,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">eyJldmVudERhdGUiOiIyMDIxLTAxLTI4VDA5OjAzOjA2LjMwOCswMTowMCIsImV2ZW50TmFtZSI6Ilpha2/xY3pvbm8gaW1wb3J0IHogVEVELiIsImxldmVsIjoiSU5GTyIsImFwcCI6Ii0tLSIsImxldmVsIjoiSU5GTyIsImRlc2NyaXB0aW9uIjoiVUMuTU8uMjg0IiwiZXZlbnRDb250ZXh0SWQiOiI3NDAzNjI3ZC05MDIzLTQzYjgtOGRkOC1hYzIyNjc2Y2I3MmEiLCJyZXN1bHQiOiJTVUNDRVNTIiwiZW52aXJvbm1lbnQiOiItLS0iLCJldmVudE5hbWUiOiJaYWtv8WN6b25vIGltcG9ydCB6IFRFRC4iLCJwbGFjZSI6Ii0tLSIsImNhdGVnb3J5IjoiT1VUUFVUIiwib2NpZCI6Ii0tLSIsInVzZXIiOiItLS0iLCJldmVudERhdGUiOiIyMDIxLTAxLTI4VDA5OjAzOjA2LjMwOCswMTAwIiwiYXBwIjoibW8tbm90aWNlLWltcG9ydGVyIiwiZW52aXJvbm1lbnQiOiJMT0NBTCIsInBsYWNlIjoid2VzdGV1cm9wZSJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPklULWZ1bGw8L2lkPgogICAgICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgICAgIDx0ZXN0Lmdyb3Vwcy5leGNsdWRlZD48L3Rlc3QuZ3JvdXBzLmV4Y2x1ZGVkPgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgPC9wcm9maWxlPgo=</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>auditLoggerService</text>
+        <text>Arrays.asList( ).iterator()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdWRpdFw+</text>
+        <text>sonar</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -359,19 +365,19 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpdCA9IG1vY2soQXVkaXRMb2dnZXJTZXJ2aWNlLmNsYXNzKQogICAgICAgIGxvZyA9IG1vY2soTG9nLmNsYXNzKQogICAgICAgIGxvZ0J1aWxkZXIgPSBtb2NrKExvZy5Mb2dCdWlsZGVyLmNsYXNzKQoKICAgICAgICBkb1JldHVybihsb2dCdWlsZGVyKS53aGVuKGF1ZGl0KS5nZXRMb2dCdWlsZGVyKGFueSgpLCBhbnkoKSwgYW55KCkpCiAgICAgICAgZG9SZXR1cm4obG9nQnVpbGRlcikud2hlbihhdWRpdCkuZ2V0TG9nQnVpbGRlcihhbnkoKSwgYW55KCksIGFueSgpLCBhbnkoKSkKICAgICAgICBkb1JldHVybihsb2cpLndoZW4obG9nQnVpbGRlcikuYnVpbGQoKQogICAgICAgIGRvTm90aGluZygpLndoZW4obG9nKS5pbmZvKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlTm90aWNlKDEpLAogICAgICAgICAgICBjcmVhdGVOb3RpY2UoMiksCiAgICAgICAgICAgIGNyZWF0ZU5vdGljZSgzKSwKICAgICAgICAgICAgY3JlYXRlTm90aWNlKDQpLAogICAgICAgICAgICBjcmVhdGVOb3RpY2UoNSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXVkaXRMb2dnZXJTZXJ2aWNlIGF1ZGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPnNvbmFyLWNvdmVyYWdlPC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvamVjdC5yZXBvcnRpbmcub3V0cHV0RW5jb2Rpbmc+VVRGLTg8L3Byb2plY3QucmVwb3J0aW5nLm91dHB1dEVuY29kaW5nPgogICAgICAgICAgICAgICAgPCEtLSBTT05BUiAtLT4KICAgICAgICAgICAgICAgIDxzb25hci5qdW5pdC5yZXBvcnRQYXRocz4ke3Byb2plY3QuYnVpbGQuZGlyZWN0b3J5fS9zdXJlZmlyZS1yZXBvcnRzPC9zb25hci5qdW5pdC5yZXBvcnRQYXRocz4KICAgICAgICAgICAgICAgIDxzb25hci5jb3ZlcmFnZS5qYWNvY28ueG1sUmVwb3J0UGF0aHM+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vc2l0ZS9qYWNvY28vamFjb2NvLnhtbAogICAgICAgICAgICAgICAgPC9zb25hci5jb3ZlcmFnZS5qYWNvY28ueG1sUmVwb3J0UGF0aHM+CiAgICAgICAgICAgICAgICA8IS0tIEludGVncmF0aW9uIHRlc3RzIC0tPgogICAgICAgICAgICAgICAgPHNvbmFyLmdyb292eS5iaW5hcmllcz50YXJnZXQvY2xhc3Nlczwvc29uYXIuZ3Jvb3Z5LmJpbmFyaWVzPgogICAgICAgICAgICA8L3Byb3BlcnRpZXM+CiAgICAgICAgICAgIDxidWlsZD4KICAgICAgICAgICAgICAgIDxwbHVnaW5NYW5hZ2VtZW50PgogICAgICAgICAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmphY29jbzwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY29jby1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2phY29jby1tYXZlbi1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDwvcGx1Z2lucz4KICAgICAgICAgICAgICAgIDwvcGx1Z2luTWFuYWdlbWVudD4KICAgICAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgPC9wbHVnaW5zPgogICAgICAgICAgICA8L2J1aWxkPgogICAgICAgIDwvcHJvZmlsZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdWRpdCA9IG1vY2soQXVkaXRMb2dnZXJTZXJ2aWNlLmNsYXNzKQogICAgICAgIGxvZyA9IG1vY2soTG9nLmNsYXNzKQogICAgICAgIGxvZ0J1aWxkZXIgPSBtb2NrKExvZy5Mb2dCdWlsZGVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzb25hci5leGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgICoqL0ltcG9ydGVyQXBwbGljYXRpb24uamF2YQogICAgICAgICAgICAgICAgPC9zb25hci5leGNsdXNpb25zPgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3TqcG93YfE6IDwvaDM+CiAgICA8I2xpc3QgUktUXC0wNTEwMSBhcyB2YWw+CiAgICAgICAgPHAgY2xhc3M9Im1iLTAiPiR7dmFsfTwvcD4KICAgIDwvI2xpc3Q+CjwvI2lmPgo=</text>
@@ -380,16 +386,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpdFV0aWwuY3JlYXRlQXVkaXRNb2NrKGF1ZGl0LCBsb2dCdWlsZGVyLCBsb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuamFjb2NvPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYWNvY28tbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcHBlbmQ+dHJ1ZTwvYXBwZW5kPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmNvbS9wZW50YWNvbXAvZXphbW93aWVuaWEvbW8vaW1wb3J0ZXIvSW1wb3J0ZXJBcHBsaWNhdGlvbi5jbGFzczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5jb20vcGVudGFjb21wL2V6YW1vd2llbmlhL21vL2ltcG9ydGVyL2RvbWFpbi8qKjwvZXhjbHVkZT4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBEYXRhL1NldHRlcnMvR2V0dGVycyAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi9URURBcGkkTm90aWNlU2VhcmNoUGFyYW1zKi5jbGFzczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi9CWlBDb25maWd1cmF0aW9uKi5jbGFzczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi9URURDb25maWd1cmF0aW9uKi5jbGFzczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+cHJlcGFyZS1hZ2VudDwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpZD5yZXBvcnQ8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wcmVwYXJlLXBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+cmVwb3J0PC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgICAgICA8ZXhjbHVzaW9ucz4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmp1bml0LnZpbnRhZ2U8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQtdmludGFnZS1lbmdpbmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgPC9leGNsdXNpb25zPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5iYXRjaDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJhdGNoLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcG9ja2ZyYW1ld29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3BvY2stY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtzcG9jay52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5jb2RlaGF1cy5ncm9vdnk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmdyb292eS1hbGw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7Z3Jvb3Z5LWFsbC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPGRlcGVuZGVuY3lNYW5hZ2VtZW50PgogICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1jbGk8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWNsaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuNDwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtbGFuZzM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2NvbW1vbi1sYW5nMy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5wZW50YWNvbXAuZXphbW93aWVuaWEubW8uaW1wb3J0ZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYi1tb2RlbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5wZW50YWNvbXAuZXphbW93aWVuaWEubW8uaW1wb3J0ZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5pbXBvcnRlci13ZWI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ucGVudGFjb21wLmV6YW1vd2llbmlhLm1vLmltcG9ydGVyPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXVkaXQtbG9nZ2VyPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnBlbnRhY29tcC5lemFtb3dpZW5pYS5tby5pbXBvcnRlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmltcG9ydGVyLXN3YWdnZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3Byb2plY3QudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcub3BlbmFwaXRvb2xzPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhYmluZC1udWxsYWJsZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7amFja3Nvbi1kYXRhYmluZC1udWxsYWJsZS52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmphdmF4LmFubm90YXRpb248L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYXZheC5hbm5vdGF0aW9uLWFwaTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7amF2YXgtYW5ub3RhdGlvbnMudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YXR5cGU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYWNrc29uLWRhdGF0eXBlLWpkazg8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2phY2tzb24tZGF0YXR5cGUtamRrOC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhdHlwZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tZGF0YXR5cGUtanNyMzEwPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtqYWNrc29uLWRhdGF0eXBlLWpzcjMxMC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5tb2R1bGU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYWNrc29uLW1vZHVsZS1wYXJhbWV0ZXItbmFtZXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2phY2tzb24tbW9kdWxlLXBhcmFtZXRlci1uYW1lcy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPCEtLSBIMiAtLT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uaDJkYXRhYmFzZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmgyPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtoMi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmlvLnN3YWdnZXIuY29yZS52MzwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnN3YWdnZXItYW5ub3RhdGlvbnM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3N3YWdnZXItYW5ub3RhdGlvbnMudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5pby5zcHJpbmdmb3g8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlcjI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke3NwcmluZ2ZveC1zd2FnZ2VyMi52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPC9kZXBlbmRlbmN5TWFuYWdlbWVudD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXVkaXRMb2dnZXJTZXJ2aWNlIGF1ZGl0CiAgICBwcml2YXRlIExvZyBsb2cKICAgIHByaXZhdGUgTG9nLkxvZ0J1aWxkZXIgbG9nQnVpbGRlcgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIEF1ZGl0IGxvZ2dlciBtb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzb25hci5leGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgICoqL0ltcG9ydGVyQXBwbGljYXRpb24uamF2YQogICAgICAgICAgICAgICAgPC9zb25hci5leGNsdXNpb25zPgo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
@@ -407,9 +413,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdWRpdFw+</last-search>
+      <last-search>sonar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWRpdFw+</last-pattern>
+      <last-pattern>sonar</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
