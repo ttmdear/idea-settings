@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>2216</entry>
         <entry>audit</entry>
         <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxFdmVudFR5cGVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxSZXN0VGVtcGxhdGVCdWlsZGVyXD4=</entry>
         <entry>pip</entry>
         <entry>pi</entry>
+        <entry>prod</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -116,7 +116,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611839143778">
+      <file name="/Dummy.txt" timestamp="1611841458282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" timestamp="1611823867735">
@@ -155,11 +155,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/pom.xml" timestamp="1611840132777">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="41" column="44" />
-        <mark key="." line="69" column="44" />
-        <mark key="^" line="69" column="45" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/pom.xml" timestamp="1611841124110">
+        <mark key="." line="132" column="44" />
+        <mark key="^" line="132" column="45" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImplTest.groovy" timestamp="1611826646504">
         <mark key="'" line="0" column="0" />
@@ -168,7 +166,7 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611839139714">
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611841453216">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
@@ -335,8 +333,8 @@
       <register name="a" type="4">
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRhc2tzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vdmUgZmlsZT0iJHtwcm9qZWN0LmJ1aWxkLm91dHB1dERpcmVjdG9yeX0vYXBwbGljYXRpb24ueWFtbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vYXBwbGljYXRpb24ueWFtbCIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vdmUgZmlsZT0iJHtwcm9qZWN0LmJ1aWxkLm91dHB1dERpcmVjdG9yeX0vdGVtcGxhdGVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9GaWxlPSIke3Byb2plY3QuYnVpbGQuZGlyZWN0b3J5fS90ZW1wbGF0ZXMiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YXNrcz4K</text>
+      <register name="&quot;" type="4">
+        <text>211dbc45</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -347,17 +345,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRhc2tzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vdmUgZmlsZT0iJHtwcm9qZWN0LmJ1aWxkLm91dHB1dERpcmVjdG9yeX0vYXBwbGljYXRpb24ueWFtbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vYXBwbGljYXRpb24ueWFtbCIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vdmUgZmlsZT0iJHtwcm9qZWN0LmJ1aWxkLm91dHB1dERpcmVjdG9yeX0vdGVtcGxhdGVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9GaWxlPSIke3Byb2plY3QuYnVpbGQuZGlyZWN0b3J5fS90ZW1wbGF0ZXMiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90YXNrcz4K</text>
+      <register name="+" type="4">
+        <text>/usr/mo-noticegen/templates</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>3b4347b9</text>
+        <text>211dbc45</text>
       </register>
       <register name="/" type="4">
-        <text>pi</text>
+        <text>prod</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -422,9 +420,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pi</last-search>
+      <last-search>prod</last-search>
       <last-offset />
-      <last-pattern>pi</last-pattern>
+      <last-pattern>prod</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
