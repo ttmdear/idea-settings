@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>audit</entry>
         <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxFdmVudFR5cGVcPg==</entry>
         <entry encoding="base64">XDxSVU5fTk9USUNFU19JTVBPUlRFUl9GUk9NX1RFRFw+</entry>
@@ -25,6 +24,7 @@
         <entry>pip</entry>
         <entry>pi</entry>
         <entry>prod</entry>
+        <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -343,7 +343,7 @@
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
       <register name="&quot;" type="4">
-        <text>211dbc45</text>
+        <text encoding="base64">QE5vdE51bGwg</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -361,10 +361,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>211dbc45</text>
+        <text encoding="base64">QE5vdE51bGwg</text>
       </register>
       <register name="/" type="4">
-        <text>prod</text>
+        <text encoding="base64">XDxOb3ROdWxsXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -384,7 +384,7 @@
         <text encoding="base64">ICAgICAgICB3aGVuKHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYWRkaXRpb25hbEludGVyY2VwdG9ycyhhbnkoKSBhcyBDbGllbnRIdHRwUmVxdWVzdEludGVyY2VwdG9yKSkudGhlblJldHVybigKICAgICAgICAgICAgcmVzdFRlbXBsYXRlQnVpbGRlcikKCiAgICAgICAgd2hlbihyZXN0VGVtcGxhdGVCdWlsZGVyLmJ1aWxkKCkpLnRoZW5SZXR1cm4ocmVzdFRlbXBsYXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtb3ZlIGZpbGU9IiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L3RlbXBsYXRlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vdGVtcGxhdGVzIi8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -393,7 +393,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtb3ZlIGZpbGU9IiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L3RlbXBsYXRlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vdGVtcGxhdGVzIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtb3ZlIGZpbGU9IiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L3RlbXBsYXRlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vdGVtcGxhdGVzIi8+Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
@@ -402,22 +402,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXVkaXQtbG9nZ2VyOgogIHBhcmFtZXRlcnM6CiAgICBldmVudE5hbWU6ICIiCiAgICBkZXNjcmlwdGlvbjogIiIKICAgIGV2ZW50Q29udGV4dElkOiAiIgogICAgb2NpZDogIiIKICAgIGFwcDogIiIKICAgIHVzZXI6ICIiCiAgICBlbnZpcm9ubWVudDogIiIKICAgIGxldmVsOiAiIgogICAgY2F0ZWdvcnk6ICIiCiAgICByZXN1bHQ6ICIiCiAgICBwbGFjZTogIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXVkaXQtbG9nZ2VyOgogIHBhcmFtZXRlcnM6CiAgICBldmVudE5hbWU6ICIiCiAgICBkZXNjcmlwdGlvbjogIiIKICAgIGV2ZW50Q29udGV4dElkOiAiIgogICAgb2NpZDogIiIKICAgIGFwcDogIiIKICAgIHVzZXI6ICIiCiAgICBlbnZpcm9ubWVudDogIiIKICAgIGxldmVsOiAiIgogICAgY2F0ZWdvcnk6ICIiCiAgICByZXN1bHQ6ICIiCiAgICBwbGFjZTogIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYnVpbGQoKSkudGhlblJldHVybihyZXN0VGVtcGxhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYnVpbGQoKSkudGhlblJldHVybihyZXN0VGVtcGxhdGUpCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWRDb25maWd1cmF0aW9uID0gTW9ja2l0by5tb2NrKFRFRENvbmZpZ3VyYXRpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
