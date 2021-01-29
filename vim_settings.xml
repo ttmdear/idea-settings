@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
         <entry>Vector</entry>
         <entry encoding="base64">XDxJRFw+</entry>
@@ -25,6 +24,7 @@
         <entry>PI</entry>
         <entry>test-c</entry>
         <entry>pite</entry>
+        <entry>impo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -122,7 +122,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611841458282">
+      <file name="/Dummy.txt" timestamp="1611909535822">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="12" />
@@ -166,10 +166,11 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611841453216">
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="10" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611909529022">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="62" column="10" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="10" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/ted/TEDApi.java" timestamp="1611826462646">
         <mark key="'" line="127" column="32" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="49" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/Bootstrap.java" />
       <jump line="40" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImpl.java" />
       <jump line="86" column="7" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
       <jump line="89" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
@@ -329,6 +329,7 @@
       <jump line="168" column="24" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="33" column="24" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
       <jump line="329" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/pom.xml" />
+      <jump line="35" column="0" filename="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,8 +337,8 @@
       <register name="a" type="4">
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6b346a34</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -355,10 +356,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QE5vdE51bGwg</text>
+        <text>6b346a34</text>
       </register>
       <register name="/" type="4">
-        <text>pite</text>
+        <text>impo</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -423,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pite</last-search>
+      <last-search>impo</last-search>
       <last-offset />
-      <last-pattern>pite</last-pattern>
+      <last-pattern>impo</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
