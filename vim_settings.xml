@@ -76,34 +76,10 @@
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed L</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
@@ -111,17 +87,47 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1611841458282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" timestamp="1611823867735">
         <mark key="'" line="51" column="107" />
         <mark key="[" line="64" column="40" />
@@ -129,62 +135,16 @@
         <mark key="." line="64" column="39" />
         <mark key="^" line="64" column="40" />
       </file>
+      <file name="/Jenkinsfile" timestamp="1611830591471">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImplTest.groovy" timestamp="1611822514134">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="27" column="103" />
         <mark key="]" line="27" column="130" />
         <mark key="." line="27" column="129" />
         <mark key="^" line="27" column="130" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ExporterServiceImplTest.groovy" timestamp="1611827191960">
-        <mark key="'" line="10" column="7" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="28" column="108" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" timestamp="1611823968977">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="77" column="1" />
-        <mark key="^" line="45" column="37" />
-        <mark key="." line="45" column="36" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApi.java" timestamp="1611826620301">
-        <mark key="[" line="36" column="42" />
-        <mark key="]" line="36" column="42" />
-        <mark key="." line="36" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1611866579173">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="51" column="40" />
-        <mark key="." line="51" column="40" />
-        <mark key="^" line="52" column="52" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611828304356">
-        <mark key="'" line="10" column="29" />
-        <mark key="[" line="255" column="21" />
-        <mark key="]" line="256" column="12" />
-        <mark key="." line="256" column="11" />
-        <mark key="^" line="256" column="12" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApiTest.groovy" timestamp="1611826898728">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="66" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1611841458282">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="/Jenkinsfile" timestamp="1611830591471">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611836036812">
         <mark key="'" line="72" column="23" />
@@ -223,10 +183,50 @@
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/ted/TEDApi.java" timestamp="1611826462646">
         <mark key="'" line="127" column="32" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ExporterServiceImplTest.groovy" timestamp="1611827191960">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="28" column="108" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1611866579173">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="51" column="40" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="52" column="52" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" timestamp="1611823968977">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="1" />
+        <mark key="^" line="45" column="37" />
+        <mark key="." line="45" column="36" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApi.java" timestamp="1611826620301">
+        <mark key="[" line="36" column="42" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611828304356">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="255" column="21" />
+        <mark key="]" line="256" column="12" />
+        <mark key="." line="256" column="11" />
+        <mark key="^" line="256" column="12" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/ted/TEDApiTest.groovy" timestamp="1611826924131">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApiTest.groovy" timestamp="1611826898728">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="66" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1611827040649">
         <mark key="[" line="12" column="0" />
