@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
         <entry>Vector</entry>
         <entry encoding="base64">XDxJRFw+</entry>
         <entry encoding="base64">XDxMb2dCdWlsZGVyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>test-c</entry>
         <entry>pite</entry>
         <entry>impo</entry>
+        <entry>0593</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -122,18 +122,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611909535822">
+      <file name="/Dummy.txt" timestamp="1611914935935">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" timestamp="1611823867735">
-        <mark key="'" line="51" column="107" />
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="64" column="40" />
-        <mark key="." line="64" column="39" />
-        <mark key="^" line="64" column="40" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" timestamp="1611907419764">
         <mark key="'" line="33" column="24" />
@@ -166,11 +159,11 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611909529022">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="62" column="10" />
-        <mark key="]" line="62" column="18" />
-        <mark key="." line="62" column="10" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1611914931494">
+        <mark key="'" line="57" column="7" />
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="10" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/ted/TEDApi.java" timestamp="1611826462646">
         <mark key="'" line="127" column="32" />
@@ -201,6 +194,13 @@
         <mark key="]" line="36" column="42" />
         <mark key="." line="36" column="42" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1611914862866">
+        <mark key="'" line="737" column="38" />
+        <mark key="[" line="723" column="22" />
+        <mark key="]" line="723" column="22" />
+        <mark key="." line="723" column="21" />
+        <mark key="^" line="723" column="22" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1611828304356">
         <mark key="'" line="10" column="29" />
         <mark key="[" line="255" column="21" />
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImpl.java" />
-      <jump line="86" column="7" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
       <jump line="89" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
       <jump line="24" column="41" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
       <jump line="47" column="24" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
@@ -330,6 +328,8 @@
       <jump line="33" column="24" filename="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" />
       <jump line="329" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/pom.xml" />
       <jump line="35" column="0" filename="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" />
+      <jump line="736" column="38" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
+      <jump line="57" column="7" filename="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +338,7 @@
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
       <register name="&quot;" type="4">
-        <text>6b346a34</text>
+        <text>85275553</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -356,10 +356,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>6b346a34</text>
+        <text>85275553</text>
       </register>
       <register name="/" type="4">
-        <text>impo</text>
+        <text>0593</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -379,16 +379,16 @@
         <text encoding="base64">ICAgICAgICB3aGVuKHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYWRkaXRpb25hbEludGVyY2VwdG9ycyhhbnkoKSBhcyBDbGllbnRIdHRwUmVxdWVzdEludGVyY2VwdG9yKSkudGhlblJldHVybigKICAgICAgICAgICAgcmVzdFRlbXBsYXRlQnVpbGRlcikKCiAgICAgICAgd2hlbihyZXN0VGVtcGxhdGVCdWlsZGVyLmJ1aWxkKCkpLnRoZW5SZXR1cm4ocmVzdFRlbXBsYXRlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjUuNy4iIGxhYmVsPSJXeWtheiBwb2RtaW90b3d5Y2ggnHJvZGvzdyBkb3dvZG93eWNoIG5hIHBvdHdpZXJkemVuaWUgbmllcG9kbGVnYW5pYSB3eWtsdWN6ZW5pdSIgY29kZT0iUktULTA1OTMiIC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtb3ZlIGZpbGU9IiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L3RlbXBsYXRlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vdGVtcGxhdGVzIi8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
@@ -397,22 +397,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtb3ZlIGZpbGU9IiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L3RlbXBsYXRlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vdGVtcGxhdGVzIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtb3ZlIGZpbGU9IiR7cHJvamVjdC5idWlsZC5vdXRwdXREaXJlY3Rvcnl9L3RlbXBsYXRlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvRmlsZT0iJHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX0vdGVtcGxhdGVzIi8+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXVkaXQtbG9nZ2VyOgogIHBhcmFtZXRlcnM6CiAgICBldmVudE5hbWU6ICIiCiAgICBkZXNjcmlwdGlvbjogIiIKICAgIGV2ZW50Q29udGV4dElkOiAiIgogICAgb2NpZDogIiIKICAgIGFwcDogIiIKICAgIHVzZXI6ICIiCiAgICBlbnZpcm9ubWVudDogIiIKICAgIGxldmVsOiAiIgogICAgY2F0ZWdvcnk6ICIiCiAgICByZXN1bHQ6ICIiCiAgICBwbGFjZTogIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXVkaXQtbG9nZ2VyOgogIHBhcmFtZXRlcnM6CiAgICBldmVudE5hbWU6ICIiCiAgICBkZXNjcmlwdGlvbjogIiIKICAgIGV2ZW50Q29udGV4dElkOiAiIgogICAgb2NpZDogIiIKICAgIGFwcDogIiIKICAgIHVzZXI6ICIiCiAgICBlbnZpcm9ubWVudDogIiIKICAgIGxldmVsOiAiIgogICAgY2F0ZWdvcnk6ICIiCiAgICByZXN1bHQ6ICIiCiAgICBwbGFjZTogIiIK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHJlc3RUZW1wbGF0ZUJ1aWxkZXIuYnVpbGQoKSkudGhlblJldHVybihyZXN0VGVtcGxhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -424,9 +424,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>impo</last-search>
+      <last-search>0593</last-search>
       <last-offset />
-      <last-pattern>impo</last-pattern>
+      <last-pattern>0593</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
