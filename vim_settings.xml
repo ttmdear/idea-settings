@@ -122,9 +122,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/e-pzp.repos/komponent_administracyjny/pom.xml" timestamp="1611907419764">
-        <mark key="'" line="33" column="24" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/main.js" timestamp="1612182451026" />
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1612175921333">
         <mark key="[" line="56" column="0" />
@@ -164,12 +161,17 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Poland/src/main/resources/conf/tmbo-tasks-conf.xml" timestamp="1612182575613">
         <mark key="'" line="119" column="41" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/resources/tm-bo.properties" timestamp="1612186436671" />
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" timestamp="1611925508253">
         <mark key="'" line="262" column="22" />
         <mark key="[" line="261" column="87" />
         <mark key="]" line="261" column="95" />
         <mark key="." line="261" column="94" />
         <mark key="^" line="261" column="95" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" timestamp="1612186867779">
+        <mark key="[" line="61" column="28" />
+        <mark key="]" line="61" column="49" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/pom.xml" timestamp="1611920296944">
         <mark key="." line="132" column="44" />
@@ -181,12 +183,8 @@
         <mark key="]" line="62" column="17" />
         <mark key="." line="62" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1611866579173">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="51" column="40" />
-        <mark key="." line="51" column="40" />
-        <mark key="^" line="52" column="52" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/tags" timestamp="1612186795084">
+        <mark key="'" line="20" column="21" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/java/com/pentacomp/ezamowienia/mo/noticegen/VisualizationTest.java" timestamp="1611925180814">
         <mark key="[" line="13" column="0" />
@@ -196,12 +194,8 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/trademark/basic_information/trademark_basic_information.ejs" timestamp="1612182546782">
         <mark key="'" line="27" column="105" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_tozsamosci-managergui/pom.xml" timestamp="1611907921252">
-        <mark key="'" line="329" column="12" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="14" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceTest.groovy" />
       <jump line="34" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceTest.groovy" />
       <jump line="48" column="51" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceTest.groovy" />
       <jump line="35" column="22" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/test/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerServiceTest.groovy" />
@@ -301,6 +295,7 @@
       <jump line="92" column="33" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Poland/src/main/resources/conf/tmbo-tasks-conf.xml" />
       <jump line="101" column="28" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Poland/src/main/resources/conf/tmbo-tasks-conf.xml" />
       <jump line="119" column="41" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Poland/src/main/resources/conf/tmbo-tasks-conf.xml" />
+      <jump line="20" column="21" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/tags" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +304,7 @@
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
       <register name="&quot;" type="4">
-        <text>applicationNumber</text>
+        <text>requirejs-maven-plugin</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -321,7 +316,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>applicationNumber</text>
+        <text>requirejs-maven-plugin</text>
       </register>
       <register name="k" type="4">
         <text />
