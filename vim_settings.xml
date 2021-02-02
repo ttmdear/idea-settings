@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZW1wbGF0ZV9wYXJ0aWFsc1w+</entry>
         <entry>aste</entry>
         <entry encoding="base64">XDxhc3Rlcmlza0hlbHBlclRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxjaGVja1Rlcm1TaXplXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>filter</entry>
         <entry>resou</entry>
         <entry>sonar</entry>
+        <entry>log.lev</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -128,6 +128,12 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="/Dummy.txt" timestamp="1612280148470">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1612267603990">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -150,24 +156,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="21" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1612279184730">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="8" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/domain/NoticePrepared.java" timestamp="1612272256457">
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="42" column="60" />
-        <mark key="^" line="42" column="60" />
-        <mark key="." line="42" column="59" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1612278064772">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/target/classes/audit-logback.xml" timestamp="1612268139043">
         <mark key="[" line="7" column="0" />
@@ -203,10 +191,23 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="47" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1612281141851">
+        <mark key="'" line="62" column="33" />
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="37" column="8" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="8" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1612268800041">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="36" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/domain/NoticePrepared.java" timestamp="1612272256457">
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="60" />
+        <mark key="^" line="42" column="60" />
+        <mark key="." line="42" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1612266300890">
         <mark key="[" line="0" column="0" />
@@ -224,9 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
-      <jump line="49" column="65" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
-      <jump line="50" column="46" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
       <jump line="59" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
       <jump line="53" column="107" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
       <jump line="10" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
@@ -324,6 +322,9 @@
       <jump line="26" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="20" column="15" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
       <jump line="7" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="34" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="62" column="33" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +354,7 @@
         <text>01b63756</text>
       </register>
       <register name="/" type="4">
-        <text>sonar</text>
+        <text>log.lev</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -418,9 +419,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sonar</last-search>
+      <last-search>log.lev</last-search>
       <last-offset />
-      <last-pattern>sonar</last-pattern>
+      <last-pattern>log.lev</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
