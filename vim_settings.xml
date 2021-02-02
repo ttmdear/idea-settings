@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Data</entry>
-        <entry>applica</entry>
-        <entry>tra</entry>
-        <entry>trade</entry>
         <entry encoding="base64">XDx0ZW1wbGF0ZV9wYXJ0aWFsc1w+</entry>
         <entry>aste</entry>
         <entry encoding="base64">XDxhc3Rlcmlza0hlbHBlclRlbXBsYXRlXD4=</entry>
@@ -25,6 +21,10 @@
         <entry>gu</entry>
         <entry encoding="base64">XDxTdHJpbmdzXD4=</entry>
         <entry>depe</entry>
+        <entry>fitler</entry>
+        <entry>filter</entry>
+        <entry>resou</entry>
+        <entry>sonar</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -122,35 +122,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/target/classes/audit.properties" timestamp="1612265085754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/main.js" timestamp="1612188215409">
         <mark key="'" line="787" column="25" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/trademark/basic_information/trademark_basic_information_section.js" timestamp="1612187736055" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1612189300143">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/pom.xml" timestamp="1612267603990">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="18" column="27" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/trademark/goods_and_services/edit_term_list.ejs" timestamp="1612188214654" />
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/design/notification/add_notifications_form.ejs" timestamp="1612187910714" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/audit.properties" timestamp="1612265393081">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.properties" timestamp="1612265139202">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfiguration.java" timestamp="1612189260232">
         <mark key="'" line="40" column="13" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/modules/template_partials.js" timestamp="1612188069972">
-        <mark key="'" line="261" column="35" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1612269109284">
+        <mark key="'" line="26" column="21" />
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="51" column="31" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/trademark/notification/add_notifications_form.js" timestamp="1612187822619" />
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/main.js" timestamp="1612187917030">
-        <mark key="'" line="353" column="25" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1612189206610">
-        <mark key="'" line="23" column="35" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="145" column="25" />
-        <mark key="." line="256" column="11" />
-        <mark key="^" line="256" column="12" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/mvn_install.bat" timestamp="1612187525160" />
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" timestamp="1612189396852">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="2" column="0" />
@@ -158,16 +165,17 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="174" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612189509573">
+      <file name="/Dummy.txt" timestamp="1612266300910">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/resources/tm-bo.properties" timestamp="1612186436671" />
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" timestamp="1612186867779">
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="49" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/target/classes/audit-logback.xml" timestamp="1612268139043">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1612189503699">
         <mark key="'" line="45" column="7" />
@@ -175,20 +183,36 @@
         <mark key="]" line="62" column="18" />
         <mark key="." line="62" column="10" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/tags" timestamp="1612186795084">
-        <mark key="'" line="20" column="21" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/trademark/goods_and_services/edit_term_list.js" timestamp="1612188656719">
         <mark key="'" line="54" column="35" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1612189267936">
-        <mark key="'" line="148" column="16" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1612267825651">
+        <mark key="'" line="116" column="16" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/app/base.js" timestamp="1612188573579" />
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1612267454241">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="47" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1612268800041">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1612266300890">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/target/classes/audit.properties" timestamp="1612265207001">
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="3" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="12" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
-      <jump line="21" column="20" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
       <jump line="27" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
       <jump line="57" column="27" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
       <jump line="73" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
@@ -287,6 +311,8 @@
       <jump line="33" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfiguration.java" />
       <jump line="40" column="13" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPConfiguration.java" />
       <jump line="148" column="16" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" />
+      <jump line="31" column="22" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="26" column="21" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +321,7 @@
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
       <register name="&quot;" type="4">
-        <text>b86001d8</text>
+        <text>DEBUG</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -307,16 +333,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>requirejs-maven-plugin</text>
+        <text>/mo-notice-importer</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>b86001d8</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text>depe</text>
+        <text>sonar</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -332,44 +358,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>StringUtils</text>
+      <register name="0" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgPGF1ZGl0Lm91dHB1dC5kaXI+bG9nczwvYXVkaXQub3V0cHV0LmRpcj4tLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmRhdGF0cmFuc2Zlci5TdHJpbmdTZWxlY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVXRpbHMuaXNOCg==</text>
+        <text encoding="base64">ICAgICAgICA8bG9nLmxldmVsPklORk88L2xvZy5sZXZlbD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIDxmaWxlTmFtZVBhdHRlcm4+bG9ncy9hdWRpdC4lZHt5eXl5LU1NLWRkfS5sb2c8L2ZpbGVOYW1lUGF0dGVybj4tLT4K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZXN0Lmdyb3Vwcy5leGNsdWRlZD48L3Rlc3QuZ3JvdXBzLmV4Y2x1ZGVkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtjb21tb24tbGFuZzMudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1jbGk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbnMtY2xpPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nU2VsZWN0aW9uLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZXN0Lmdyb3Vwcy5leGNsdWRlZD48L3Rlc3QuZ3JvdXBzLmV4Y2x1ZGVkPgo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS40PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+CiAgICAgICAgPGxvZy5sZXZlbD5JTkZPPC9sb2cubGV2ZWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -381,9 +407,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>depe</last-search>
+      <last-search>sonar</last-search>
       <last-offset />
-      <last-pattern>depe</last-pattern>
+      <last-pattern>sonar</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
