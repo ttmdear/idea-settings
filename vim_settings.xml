@@ -174,7 +174,7 @@
         <mark key="^" line="42" column="60" />
         <mark key="." line="42" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612272775512">
+      <file name="/Dummy.txt" timestamp="1612272863965">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -186,7 +186,7 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1612189503699">
+      <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1612272856304">
         <mark key="'" line="45" column="7" />
         <mark key="[" line="62" column="10" />
         <mark key="]" line="62" column="18" />
@@ -338,8 +338,8 @@
       <register name="a" type="4">
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIDxmaWxlTmFtZVBhdHRlcm4+bG9ncy9hdWRpdC4lZHt5eXl5LU1NLWRkfS5sb2c8L2ZpbGVOYW1lUGF0dGVybj4tLT4K</text>
+      <register name="&quot;" type="4">
+        <text>17e96caf</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -357,7 +357,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>17e96caf</text>
       </register>
       <register name="/" type="4">
         <text>sonar</text>
