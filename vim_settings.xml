@@ -186,6 +186,12 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/trademark/goods_and_services/edit_term_list.js" timestamp="1612188656719">
         <mark key="'" line="54" column="35" />
       </file>
+      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1612269972575">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="20" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1612267825651">
         <mark key="'" line="116" column="16" />
         <mark key="[" line="13" column="0" />
@@ -321,7 +327,7 @@
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>0001.init.xml</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -333,13 +339,13 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>/mo-notice-importer</text>
+        <text>0001.init.xml</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>11</text>
       </register>
       <register name="/" type="4">
         <text>sonar</text>
@@ -359,43 +365,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgPGF1ZGl0Lm91dHB1dC5kaXI+bG9nczwvYXVkaXQub3V0cHV0LmRpcj4tLT4K</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjAwMS5pbml0LnhtbCIgcmVsYXRpdmVUb0NoYW5nZWxvZ0ZpbGU9InRydWUiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjAwMy5pbml0LnhtbCIgcmVsYXRpdmVUb0NoYW5nZWxvZ0ZpbGU9InRydWUiLz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bG9nLmxldmVsPklORk88L2xvZy5sZXZlbD4K</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjAwMi5pbml0LnhtbCIgcmVsYXRpdmVUb0NoYW5nZWxvZ0ZpbGU9InRydWUiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIDxmaWxlTmFtZVBhdHRlcm4+bG9ncy9hdWRpdC4lZHt5eXl5LU1NLWRkfS5sb2c8L2ZpbGVOYW1lUGF0dGVybj4tLT4K</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjExLmluaXQueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0idHJ1ZSIvPgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjEwMDEuaW5pdC54bWwiIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZXN0Lmdyb3Vwcy5leGNsdWRlZD48L3Rlc3QuZ3JvdXBzLmV4Y2x1ZGVkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjEuY2hhbmdlbG9nLTEuMC54bWwiIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjIuY2hhbmdlbG9nLTEuMC54bWwiIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZXN0Lmdyb3Vwcy5leGNsdWRlZD48L3Rlc3QuZ3JvdXBzLmV4Y2x1ZGVkPgo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjExLmNoYW5nZWxvZy0xLjAueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0idHJ1ZSIvPgo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+CiAgICAgICAgPGxvZy5sZXZlbD5JTkZPPC9sb2cubGV2ZWw+Cg==</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9IjIxLnhtbCIgcmVsYXRpdmVUb0NoYW5nZWxvZ0ZpbGU9InRydWUiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
