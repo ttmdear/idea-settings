@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>model</entry>
-        <entry encoding="base64">XDxNb2RhbFZpZXdcPg==</entry>
-        <entry>google</entry>
-        <entry>common</entry>
         <entry>goog</entry>
         <entry>gua</entry>
         <entry>gu</entry>
@@ -25,6 +21,10 @@
         <entry>docker</entry>
         <entry>pbob</entry>
         <entry>portaldb</entry>
+        <entry>id</entry>
+        <entry>{id}</entry>
+        <entry>{id</entry>
+        <entry>Black</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -132,6 +132,12 @@
         <mark key="^" line="40" column="60" />
         <mark key="." line="40" column="59" />
       </file>
+      <file name="C:/Projekty/repository/snippets/java/thymeleaf/tag-include.html" timestamp="1612450626959">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="28" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pom.xml" timestamp="1612440579057">
         <mark key="'" line="2464" column="86" />
         <mark key="[" line="1780" column="16" />
@@ -149,6 +155,13 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="76" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" timestamp="1612450233080">
+        <mark key="'" line="413" column="25" />
+        <mark key="[" line="126" column="9" />
+        <mark key="]" line="127" column="8" />
+        <mark key="." line="127" column="7" />
+        <mark key="^" line="127" column="8" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-containers/all-dbs-localhost/readme.txt" timestamp="1612441330994">
         <mark key="[" line="12" column="0" />
@@ -175,29 +188,24 @@
         <mark key="." line="0" column="33" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-database-schema/readme.txt" timestamp="1612438076352" />
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/target/classes/audit-logback.xml" timestamp="1612268139043">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/epzp-deployment-test2/values.yaml" timestamp="1612278060106">
         <mark key="'" line="45" column="7" />
         <mark key="[" line="62" column="10" />
         <mark key="]" line="62" column="18" />
         <mark key="." line="62" column="10" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" timestamp="1612450655055">
+        <mark key="'" line="213" column="0" />
+        <mark key="[" line="207" column="6" />
+        <mark key="]" line="208" column="0" />
+        <mark key="^" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1612271820094">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="39" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="28" />
-      </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/pom.xml" timestamp="1612267825651">
-        <mark key="'" line="116" column="16" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1612277734721">
         <mark key="[" line="14" column="0" />
@@ -209,11 +217,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1612268800041">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" timestamp="1612272236774">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="33" />
@@ -222,11 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="79" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApiTest.groovy" />
-      <jump line="7" column="43" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/components/bzp/BZPApiTest.groovy" />
-      <jump line="11" column="7" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ExporterServiceImplTest.groovy" />
-      <jump line="160" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
-      <jump line="184" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="185" column="37" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="72" column="23" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/pom.xml" />
       <jump line="52" column="41" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -322,6 +320,11 @@
       <jump line="2406" column="44" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
       <jump line="2407" column="108" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
       <jump line="2464" column="86" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
+      <jump line="408" column="29" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
+      <jump line="413" column="25" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
+      <jump line="212" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
+      <jump line="3" column="1" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
+      <jump line="213" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,8 +332,8 @@
       <register name="a" type="4">
         <text>Wystąpił błąd podczas wywołania flush</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>BN_SERVICE_PROVIDER_FILTERED_NAMES</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -351,7 +354,7 @@
         <text>01b63756</text>
       </register>
       <register name="/" type="4">
-        <text>portaldb</text>
+        <text>Black</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -380,31 +383,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIEF1ZGl0IC0tPgogICAgICAgIDxhdWRpdC5vdXRwdXQuZGlyPi92YXIvbG9nL2F1ZGl0PC9hdWRpdC5vdXRwdXQuZGlyPgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIEJaUCAtLT4KICAgICAgICA8YnpwLmFwaS5qd3RUb2tlbi8+CiAgICAgICAgPGJ6cC5hcGkucHVibGlzaFVybC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIEJaUCAtLT4KICAgICAgICA8YnpwLmFwaS5qd3RUb2tlbi8+CiAgICAgICAgPGJ6cC5hcGkucHVibGlzaFVybC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIERhdGFic2UgLS0+CiAgICAgICAgPGRiLnBhc3N3b3JkLz4KICAgICAgICA8ZGIudXJsLz4KICAgICAgICA8ZGIudXNlcm5hbWUvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIEF1ZGl0IC0tPgogICAgICAgIDxhdWRpdC5vdXRwdXQuZGlyPi92YXIvbG9nL2F1ZGl0PC9hdWRpdC5vdXRwdXQuZGlyPgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIEJaUCAtLT4KICAgICAgICA8YnpwLmFwaS5qd3RUb2tlbi8+CiAgICAgICAgPGJ6cC5hcGkucHVibGlzaFVybC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -416,9 +419,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>portaldb</last-search>
+      <last-search>Black</last-search>
       <last-offset />
-      <last-pattern>portaldb</last-pattern>
+      <last-pattern>Black</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
