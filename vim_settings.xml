@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>aste</entry>
         <entry encoding="base64">XDxhc3Rlcmlza0hlbHBlclRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDxjaGVja1Rlcm1TaXplXD4=</entry>
         <entry encoding="base64">XDxuZXdUZXJtc1w+</entry>
@@ -25,6 +24,7 @@
         <entry>resou</entry>
         <entry>sonar</entry>
         <entry>log.lev</entry>
+        <entry>eid-repo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
@@ -151,6 +151,13 @@
         <mark key="^" line="40" column="60" />
         <mark key="." line="40" column="59" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pom.xml" timestamp="1612434773260">
+        <mark key="'" line="1789" column="53" />
+        <mark key="[" line="1789" column="57" />
+        <mark key="]" line="1789" column="57" />
+        <mark key="^" line="1789" column="57" />
+        <mark key="." line="1789" column="56" />
+      </file>
       <file name="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit.properties" timestamp="1612265139202">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="22" />
@@ -225,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="8" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
-      <jump line="53" column="107" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/test/groovy/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImplTest.groovy" />
       <jump line="10" column="5" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/util/PaginationFetcher.java" />
       <jump line="10" column="29" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
@@ -325,6 +330,8 @@
       <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="34" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="62" column="33" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="1788" column="60" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
+      <jump line="1789" column="53" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,7 +361,7 @@
         <text>01b63756</text>
       </register>
       <register name="/" type="4">
-        <text>log.lev</text>
+        <text>eid-repo</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -419,9 +426,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>log.lev</last-search>
+      <last-search>eid-repo</last-search>
       <last-offset />
-      <last-pattern>log.lev</last-pattern>
+      <last-pattern>eid-repo</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
