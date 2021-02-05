@@ -23,8 +23,8 @@
         <entry>alert</entry>
         <entry>hasE</entry>
         <entry>regon</entry>
-        <entry encoding="base64">XDxwcm92aWRlck5hbWVFcnJvclw+</entry>
         <entry encoding="base64">XDxMQUJFTF9EVVBMSUNBVEVERU5UUllcPg==</entry>
+        <entry encoding="base64">XDxwcm92aWRlck5hbWVFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -152,13 +152,6 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pom.xml" timestamp="1612440579057">
-        <mark key="'" line="2464" column="86" />
-        <mark key="[" line="1780" column="16" />
-        <mark key="]" line="1780" column="32" />
-        <mark key="^" line="1790" column="37" />
-        <mark key="." line="1790" column="36" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/header.html" timestamp="1612516142597">
         <mark key="[" line="69" column="7" />
         <mark key="]" line="69" column="8" />
@@ -182,7 +175,7 @@
         <mark key="]" line="22" column="76" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" timestamp="1612524107551">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" timestamp="1612526628717">
         <mark key="'" line="73" column="31" />
         <mark key="[" line="355" column="30" />
         <mark key="]" line="355" column="47" />
@@ -222,17 +215,18 @@
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" timestamp="1612523735022">
         <mark key="'" line="262" column="46" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" timestamp="1612524218588">
-        <mark key="'" line="47" column="66" />
-        <mark key="[" line="51" column="69" />
-        <mark key="]" line="51" column="69" />
-        <mark key="^" line="51" column="46" />
-        <mark key="." line="50" column="55" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" timestamp="1612526644970">
+        <mark key="'" line="53" column="49" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="31" column="24" />
+      </file>
+      <file name="/fragment.java" timestamp="1612526621398">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
-      <jump line="34" column="25" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="62" column="33" filename="C:/Projekty/workspace/e-pzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
       <jump line="1788" column="60" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
       <jump line="1789" column="53" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
@@ -331,6 +325,8 @@
       <jump line="385" column="23" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
       <jump line="372" column="69" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
       <jump line="73" column="31" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
+      <jump line="50" column="55" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
+      <jump line="53" column="49" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +335,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpvbmNsaWNrPSInZm9ybS5hY3Rpb249IFwnJyArIEB7L3NlcnZpY2VQcm92aWRlcnMvc2VydmljZVByb3ZpZGVyL25hbWVzRmlsdGVyL2RlbGV0ZShpbmRleCA9ICR7aXRlclN0YXQuaW5kZXh9KX0gKyAnXCcnIi8+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>providerNameError</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -357,10 +353,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>providerNameError</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMQUJFTF9EVVBMSUNBVEVERU5UUllcPg==</text>
+        <text encoding="base64">XDxwcm92aWRlck5hbWVFcnJvclw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -380,40 +376,40 @@
         <text>filterProviderName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRoOmVycm9ycz0iKntwcm92aWRlck5hbWV9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRoOmVycm9ycz0iKntwcm92aWRlck5hbWV9Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCBmb3JtLWlubGluZSIgdGg6Y2xhc3NhcHBlbmQ9IiR7ZmlsdGVyUHJvdmlkZXJOYW1lRXJyb3IgIT0gbnVsbH0gPyAnaGFzLWVycm9yJyI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmaWx0ZXJQcm92aWRlck5hbWUiIHRoOnRleHQ9IiN7bGFiZWwuc2VydmljZVByb3ZpZGVyLmZpbHRlck5hbWV9Ij5GaWx0ZXIgbmFtZTwvbGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9ImZpbHRlclByb3ZpZGVyTmFtZSIgbmFtZT0iZmlsdGVyUHJvdmlkZXJOYW1lIiB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIGNvbC0zIi8+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcm92aWNlciBuYW1lIGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIHRoOmlmPSIke3Byb3ZpZGVyTmFtZUVycm9yICE9IG51bGx9IiBjbGFzcz0ibGFiZWwgbGFiZWwtZGFuZ2VyIj5GaWx0ZXIgdmFsaWRhdGlvbiBlcnJvcjwvcD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGFiZWwuc2VydmljZVByb3ZpZGVyLmZpbHRlck5hbWU9TmF6d2EgZmlsdHJ1Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRoOmVycm9ycz0iKntwcm92aWRlck5hbWV9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGFiZWwuc2VydmljZVByb3ZpZGVyLnZhbGlkYXRlLmVycm9yLmR1cGxpY2F0ZWRFbnRyeT1Qb2RhbnkgZmlsdHIganW/IGlzdG5pZWplCmxhYmVsLnNlcnZpY2VQcm92aWRlci52YWxpZGF0ZS5lcnJvci5lbXB0eT1Qcm9zeuogcG9kYeYgd2FydG+c5iBmaWx0cnUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFiZWwuc2VydmljZVByb3ZpZGVyLnZhbGlkYXRlLmVycm9yLmR1cGxpY2F0ZWRFbnRyeT1Qb2RhbnkgZmlsdHIganW/IGlzdG5pZWplCmxhYmVsLnNlcnZpY2VQcm92aWRlci52YWxpZGF0ZS5lcnJvci5lbXB0eT1Qcm9zeuogcG9kYeYgd2FydG+c5iBmaWx0cnUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHRoOmVycm9ycz0iKntwcm92aWRlck5hbWV9Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQcm92aWNlciBuYW1lIGVycm9yCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIGNvbC04IiBuYW1lPSJwcm92aWRlck5hbWUiLz4tLT4K</text>
+        <text encoding="base64">bGFiZWwuc2VydmljZVByb3ZpZGVyLmZpbHRlck5hbWU9TmF6d2EgZmlsdHJ1Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -425,9 +421,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMQUJFTF9EVVBMSUNBVEVERU5UUllcPg==</last-search>
+      <last-search encoding="base64">XDxwcm92aWRlck5hbWVFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMQUJFTF9EVVBMSUNBVEVERU5UUllcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm92aWRlck5hbWVFcnJvclw+</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
