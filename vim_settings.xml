@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>error</entry>
-        <entry>alert</entry>
-        <entry>hasE</entry>
-        <entry>regon</entry>
-        <entry encoding="base64">XDxMQUJFTF9EVVBMSUNBVEVERU5UUllcPg==</entry>
         <entry encoding="base64">XDxwcm92aWRlck5hbWVFcnJvclw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJlZFByb3ZpZGVyTmFtZXNcPg==</entry>
         <entry>Edit</entry>
@@ -25,6 +20,11 @@
         <entry>display-no</entry>
         <entry>displa</entry>
         <entry>Certyfikaty</entry>
+        <entry>Lis</entry>
+        <entry>Lista filtrowanych</entry>
+        <entry>Lista</entry>
+        <entry>fil</entry>
+        <entry>Nazwa Dostawcy</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
@@ -133,6 +133,16 @@
         <mark key="." line="207" column="106" />
         <mark key="^" line="207" column="107" />
       </file>
+      <file name="/Dummy.txt" timestamp="1612535213978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providersModal.html" timestamp="1612531584380">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="95" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" timestamp="1612529438095">
         <mark key="'" line="252" column="13" />
         <mark key="[" line="256" column="13" />
@@ -153,6 +163,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/alert.html" timestamp="1612527646506">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/header.html" timestamp="1612516142597">
         <mark key="[" line="69" column="7" />
         <mark key="]" line="69" column="8" />
@@ -163,12 +179,25 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="84" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/enums/NamesFilterModeType.java" timestamp="1612535203968">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="8" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" timestamp="1612531438615">
         <mark key="'" line="142" column="8" />
         <mark key="[" line="977" column="8" />
         <mark key="]" line="977" column="15" />
         <mark key="^" line="977" column="15" />
         <mark key="." line="977" column="14" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" timestamp="1612535614586">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="21" />
+        <mark key="^" line="175" column="25" />
+        <mark key="." line="175" column="21" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-database-schema/pom.xml" timestamp="1612443393713">
         <mark key="'" line="1480" column="17" />
@@ -189,48 +218,19 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="79" column="22" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" timestamp="1612535758966">
+        <mark key="'" line="266" column="67" />
+        <mark key="[" line="261" column="62" />
+        <mark key="]" line="261" column="71" />
+        <mark key="^" line="261" column="71" />
+        <mark key="." line="261" column="70" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ServiceProviderDto.java" timestamp="1612513500169">
         <mark key="'" line="140" column="7" />
         <mark key="[" line="142" column="46" />
         <mark key="]" line="143" column="8" />
         <mark key="^" line="143" column="8" />
         <mark key="." line="143" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1612535213978">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providersModal.html" timestamp="1612531584380">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="95" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/alert.html" timestamp="1612527646506">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/enums/NamesFilterModeType.java" timestamp="1612535203968">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="8" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" timestamp="1612513053722">
-        <mark key="'" line="175" column="56" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="21" />
-        <mark key="^" line="175" column="25" />
-        <mark key="." line="175" column="21" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" timestamp="1612535182654">
-        <mark key="'" line="262" column="46" />
-        <mark key="[" line="270" column="34" />
-        <mark key="]" line="270" column="34" />
-        <mark key="^" line="270" column="34" />
-        <mark key="." line="270" column="33" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" timestamp="1612530472741">
         <mark key="'" line="3" column="21" />
@@ -244,13 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2399" column="44" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
-      <jump line="2406" column="44" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
-      <jump line="2407" column="108" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
-      <jump line="2464" column="86" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
-      <jump line="408" column="29" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
-      <jump line="413" column="25" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
-      <jump line="212" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
       <jump line="3" column="1" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
       <jump line="213" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
       <jump line="76" column="36" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
@@ -344,6 +337,13 @@
       <jump line="142" column="8" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
       <jump line="206" column="50" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderEdit.html" />
       <jump line="48" column="11" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/help/helpServiceProvider.html" />
+      <jump line="274" column="28" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
+      <jump line="5" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
+      <jump line="175" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
+      <jump line="262" column="32" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
+      <jump line="265" column="63" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
+      <jump line="266" column="67" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
+      <jump line="198" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,8 +351,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpvbmNsaWNrPSInZm9ybS5hY3Rpb249IFwnJyArIEB7L3NlcnZpY2VQcm92aWRlcnMvc2VydmljZVByb3ZpZGVyL25hbWVzRmlsdGVyL2RlbGV0ZShpbmRleCA9ICR7aXRlclN0YXQuaW5kZXh9KX0gKyAnXCcnIi8+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Dostawcy</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -370,10 +370,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Lista filtrowanych nazw Dostawców</text>
+        <text>Dostawcy</text>
       </register>
       <register name="/" type="4">
-        <text>Certyfikaty</text>
+        <text>Nazwa Dostawcy</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -438,9 +438,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Certyfikaty</last-search>
+      <last-search>fil</last-search>
       <last-offset />
-      <last-pattern>Certyfikaty</last-pattern>
+      <last-pattern>fil</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
