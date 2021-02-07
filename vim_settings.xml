@@ -45,8 +45,8 @@
         <entry>W</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
-        <entry>w</entry>
         <entry>;w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -223,11 +223,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="75" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1612655978037">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="29" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1612720965645">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="84" column="16" />
+        <mark key="]" line="84" column="22" />
+        <mark key="^" line="84" column="22" />
+        <mark key="." line="84" column="21" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" timestamp="1612535940426">
         <mark key="'" line="3" column="21" />
@@ -235,14 +236,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1612655624399">
+      <file name="/fragment.java" timestamp="1612719968315">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="21" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerFragments.html" />
-      <jump line="22" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
-      <jump line="195" column="22" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderEdit.html" />
       <jump line="27" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
       <jump line="961" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
       <jump line="23" column="4" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
@@ -340,6 +338,9 @@
       <jump line="51" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
       <jump line="68" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
       <jump line="57" column="24" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="4" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,7 +349,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpvbmNsaWNrPSInZm9ybS5hY3Rpb249IFwnJyArIEB7L3NlcnZpY2VQcm92aWRlcnMvc2VydmljZVByb3ZpZGVyL25hbWVzRmlsdGVyL2RlbGV0ZShpbmRleCA9ICR7aXRlclN0YXQuaW5kZXh9KX0gKyAnXCcnIi8+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tQWNjZXNzRmlsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -359,14 +360,14 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="4">
-        <text>readLine()</text>
+      <register name="+" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ubHZsLnF1b3RhdGlvbnM7CgppbXBvcnQgamF2YS5pby5GaWxlOwppbXBvcnQgamF2YS5pby5JT0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEuaW8uUmFuZG9tQWNjZXNzRmlsZTsKaW1wb3J0IGphdmEudGV4dC5QYXJzZUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5EYXRlOwppbXBvcnQgamF2YS51dGlsLkRlcXVlOwppbXBvcnQgamF2YS51dGlsLkxpbmtlZExpc3Q7CgppbXBvcnQgY29tLmx2bC51dGlsLkRhdGVVdGlsOwppbXBvcnQgbG9tYm9rLmV4dGVybi5zbGY0ai5TbGY0ajsKCkBTbGY0agpwdWJsaWMgY2xhc3MgTVQ0UXVvdGVzUHJvdmlkZXIgaW1wbGVtZW50cyBRdW90ZXNQcm92aWRlciB7CgogICAgLyoqCiAgICAgKiBGaWxlIHdpdGggZGF0YSBlbmNvZGVkIGluIENTVi4KICAgICAqLwogICAgcHJpdmF0ZSBmaW5hbCBGaWxlIGZpbGU7CgogICAgcHJpdmF0ZSBRdW90ZSBsYXN0UXVvdGU7CgogICAgLyoqCiAgICAgKiBRdWV1ZSBvZiBxdW90YXRpb25zLgogICAgICovCiAgICBwcml2YXRlIERlcXVlPFF1b3RlPiBxdW90ZXMgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICBwcml2YXRlIERhdGUgZnJvbURhdGU7CiAgICBwcml2YXRlIERhdGUgdG9EYXRlOwoKICAgIHByaXZhdGUgbG9uZyBxdW90ZXNGaWxlT2Zmc2V0ID0gMDsKCiAgICBwdWJsaWMgTVQ0UXVvdGVzUHJvdmlkZXIoRmlsZSBmaWxlKSB7CiAgICAgICAgdGhpcy5maWxlID0gZmlsZTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBRdW90ZSBnZXROZXdRdW90ZSgpIHsKICAgICAgICByZXR1cm4gcXVvdGVzLnJlbW92ZUZpcnN0KCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBpc05ld1F1b3RlKCkgewogICAgICAgIHJldHVybiAhcXVvdGVzLmlzRW1wdHkoKTsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgbG9hZFF1b3RlKCkgewogICAgICAgIGxvZy5pbmZvKCJTdGFydCBsb2FkaW5nIHF1b3Rlcy4iKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgLy8gSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpOwogICAgICAgICAgICAvLyBCdWZmZXJlZFJlYWRlciBidWZmZXJlZFJlYWRlciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoaW5wdXRTdHJlYW0pKTsKCiAgICAgICAgICAgIFJhbmRvbUFjY2Vzc0ZpbGUgcmFuZG9tQWNjZXNzRmlsZSA9IG5ldyBSYW5kb21BY2Nlc3NGaWxlKGZpbGUsICJyIik7CgogICAgICAgICAgICBpZiAocXVvdGVzRmlsZU9mZnNldCA9PSAwKSB7CiAgICAgICAgICAgICAgICAvLyAvLyBPbW1pdCBmaXJzdCBsaW5lIHdpdGggaGVhZGluZwogICAgICAgICAgICAgICAgLy8gcXVvdGVzRmlsZU9mZnNldCA9IGJ1ZmZlcmVkUmVhZGVyLnJlYWRMaW5lKCkuZ2V0Qnl0ZXMoKS5sZW5ndGggKyAxOwogICAgICAgICAgICAgICAgcXVvdGVzRmlsZU9mZnNldCA9IHJhbmRvbUFjY2Vzc0ZpbGUucmVhZExpbmUoKS5nZXRCeXRlcygpLmxlbmd0aCArIDE7CgogICAgICAgICAgICAgICAgbG9nLmluZm8oIlNraXAgaGVhZGluZyBsaW5lLiBCeXRlcyB0byBza2lwICd7fScuIiwgcXVvdGVzRmlsZU9mZnNldCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAvLyBpbnB1dFN0cmVhbS5za2lwKHF1b3Rlc0ZpbGVPZmZzZXQpOwogICAgICAgICAgICAgICAgcmFuZG9tQWNjZXNzRmlsZS5zZWVrKHF1b3Rlc0ZpbGVPZmZzZXQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBTdHJpbmcgbGluZTsKCiAgICAgICAgICAgIC8vIHdoaWxlICgobGluZSA9IGJ1ZmZlcmVkUmVhZGVyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICAgICAgd2hpbGUgKChsaW5lID0gcmFuZG9tQWNjZXNzRmlsZS5yZWFkTGluZSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiUmVhZCBsaW5lICd7fScuIiwgbGluZSk7CgogICAgICAgICAgICAgICAgcXVvdGVzRmlsZU9mZnNldCArPSBsaW5lLmdldEJ5dGVzKCkubGVuZ3RoICsgMTsKCiAgICAgICAgICAgICAgICBTdHJpbmdbXSBzcGxpdGVkID0gbGluZS5zcGxpdCgiOyIpOwoKICAgICAgICAgICAgICAgIERhdGUgdGltZSA9IERhdGVVdGlsLnBhcnNlKHNwbGl0ZWRbMF0pOwoKICAgICAgICAgICAgICAgIGlmIChsYXN0UXVvdGUgIT0gbnVsbCAmJiAhdGltZS5hZnRlcihsYXN0UXVvdGUuZ2V0VGltZSgpKSkgY29udGludWU7CiAgICAgICAgICAgICAgICBpZiAoZnJvbURhdGUgIT0gbnVsbCAmJiB0aW1lLmJlZm9yZShmcm9tRGF0ZSkpIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgaWYgKHRvRGF0ZSAhPSBudWxsICYmIHRpbWUuYWZ0ZXIodG9EYXRlKSkgY29udGludWU7CgogICAgICAgICAgICAgICAgUXVvdGUgcXVvdGUgPSBuZXcgUXVvdGUoCiAgICAgICAgICAgICAgICAgICAgdGltZSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFsyXSksCiAgICAgICAgICAgICAgICAgICAgRG91YmxlLnBhcnNlRG91YmxlKHNwbGl0ZWRbM10pLAogICAgICAgICAgICAgICAgICAgIERvdWJsZS5wYXJzZURvdWJsZShzcGxpdGVkWzFdKSwKICAgICAgICAgICAgICAgICAgICBEb3VibGUucGFyc2VEb3VibGUoc3BsaXRlZFs0XSkKICAgICAgICAgICAgICAgICk7CgogICAgICAgICAgICAgICAgcXVvdGVzLmFkZChxdW90ZSk7CgogICAgICAgICAgICAgICAgbGFzdFF1b3RlID0gcXVvdGU7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiB8IFBhcnNlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCByZWxvYWQoKSB7CiAgICAgICAgbG9hZFF1b3RlKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzZXRGcm9tRGF0ZShEYXRlIGZyb21EYXRlKSB7CiAgICAgICAgdGhpcy5mcm9tRGF0ZSA9IGZyb21EYXRlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0VG9EYXRlKERhdGUgdG9EYXRlKSB7CiAgICAgICAgdGhpcy50b0RhdGUgPSB0b0RhdGU7CiAgICB9Cn0K</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>bufferedReader</text>
+        <text>randomAccessFile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWJ1Z1w+</text>
@@ -386,43 +387,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKChsaW5lID0gYnVmZmVyZWRSZWFkZXIucmVhZExpbmUoKSkgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBmaWxlTGFzdE1vZGlmaWVkID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tQWNjZXNzRmlsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVMaW5lUG9pbnRlcisrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1b3Rlc0ZpbGVPZmZzZXQgKz0gbGluZS5nZXRCeXRlcygpLmxlbmd0aCArIDE7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd2hpbGUgKChsaW5lID0gYnVmZmVyZWRSZWFkZXIucmVhZExpbmUoKSkgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tQWNjZXNzRmlsZS5zZWUK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU3RhcnQgbG9hZGluZyBxdW90ZXMuIik7Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJSZWFkIGxpbmUgJ3t9Jy4iLCBsaW5lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW0uc2tpcChxdW90ZXNTa2lwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
