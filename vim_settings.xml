@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>findByDocumentNumberFrom</entry>
-        <entry encoding="base64">XDxmZXRjaGVyXD4=</entry>
         <entry encoding="base64">XDxsZWZ0XD4=</entry>
         <entry>sonar</entry>
         <entry>an</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhbmFseXplU3RvcFw+</entry>
         <entry encoding="base64">XDxwcmludFdyaXRlclw+</entry>
         <entry encoding="base64">XDxkZWJ1Z1w+</entry>
+        <entry encoding="base64">XDxsYXN0UXVvdGVcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>300</entry>
@@ -43,9 +43,9 @@
         <entry>194</entry>
         <entry>15</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>;w</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -146,18 +146,19 @@
         <mark key="^" line="256" column="14" />
         <mark key="." line="249" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1612650575187">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="3" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1612723664182">
+        <mark key="'" line="34" column="5" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="23" column="74" />
+        <mark key="." line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1612654226336">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1612722747621">
         <mark key="'" line="212" column="13" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="22" />
-        <mark key="^" line="53" column="23" />
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="76" column="11" />
+        <mark key="." line="76" column="10" />
+        <mark key="^" line="76" column="11" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProviderEdit.html" timestamp="1612531568012">
         <mark key="[" line="73" column="0" />
@@ -189,14 +190,14 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="79" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1612654191092">
-        <mark key="'" line="309" column="43" />
-        <mark key="[" line="289" column="61" />
-        <mark key="]" line="289" column="79" />
-        <mark key="." line="289" column="78" />
-        <mark key="^" line="289" column="79" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1612723264592">
+        <mark key="'" line="290" column="30" />
+        <mark key="[" line="288" column="8" />
+        <mark key="]" line="288" column="14" />
+        <mark key="." line="288" column="13" />
+        <mark key="^" line="288" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1612654150893">
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1612723239113">
         <mark key="[" line="45" column="41" />
         <mark key="]" line="45" column="42" />
         <mark key="^" line="45" column="42" />
@@ -216,19 +217,18 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1612653511900">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="75" column="52" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1612722837886">
+        <mark key="'" line="38" column="23" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="30" />
+        <mark key="." line="72" column="29" />
+        <mark key="^" line="72" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1612720965645">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="16" />
-        <mark key="]" line="84" column="22" />
-        <mark key="^" line="84" column="22" />
-        <mark key="." line="84" column="21" />
+      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1612723534341">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="66" column="8" />
+        <mark key="^" line="66" column="8" />
+        <mark key="." line="66" column="7" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" timestamp="1612535940426">
         <mark key="'" line="3" column="21" />
@@ -236,20 +236,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1612719968315">
+      <file name="/fragment.java" timestamp="1612721009768">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
-      <jump line="961" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
-      <jump line="23" column="4" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
-      <jump line="49" column="4" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
-      <jump line="737" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
-      <jump line="367" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
-      <jump line="356" column="32" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
-      <jump line="49" column="13" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
-      <jump line="354" column="16" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
       <jump line="261" column="46" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
       <jump line="196" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderEdit.html" />
       <jump line="105" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderEdit.html" />
@@ -317,7 +308,6 @@
       <jump line="198" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderView.html" />
       <jump line="263" column="52" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
       <jump line="211" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" />
-      <jump line="286" column="54" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="42" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="316" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="53" column="20" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
@@ -331,7 +321,6 @@
       <jump line="206" column="13" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" />
-      <jump line="289" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="311" column="8" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="309" column="43" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
@@ -341,6 +330,17 @@
       <jump line="53" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
       <jump line="4" column="19" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="87" column="53" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="103" column="16" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
+      <jump line="74" column="26" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
+      <jump line="289" column="22" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
+      <jump line="286" column="54" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
+      <jump line="60" column="46" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
+      <jump line="38" column="23" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="290" column="30" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
+      <jump line="34" column="5" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/Quotations.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,7 +349,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpvbmNsaWNrPSInZm9ybS5hY3Rpb249IFwnJyArIEB7L3NlcnZpY2VQcm92aWRlcnMvc2VydmljZVByb3ZpZGVyL25hbWVzRmlsdGVyL2RlbGV0ZShpbmRleCA9ICR7aXRlclN0YXQuaW5kZXh9KX0gKyAnXCcnIi8+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIERvZGFuaWUgd2FsaWRhY2ppIHNwcmF3ZHphasSFY2VqIGN6eSBub3Rvd2FuaWUgbmllIHpvc3RhxYJvIGRvZGFuZS4K</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -367,10 +367,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>randomAccessFile</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWJ1Z1w+</text>
+        <text encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -387,43 +387,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBmaWxlTGFzdE1vZGlmaWVkID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ09taXRTeW5jUHJpbnRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIERvZGFuaWUgd2FsaWRhY2ppIHNwcmF3ZHphasSFY2VqIGN6eSBub3Rvd2FuaWUgbmllIHpvc3RhxYJvIGRvZGFuZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVMaW5lUG9pbnRlcisrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1b3Rlc0ZpbGVPZmZzZXQgKz0gbGluZS5nZXRCeXRlcygpLmxlbmd0aCArIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXVvdGVzUHJvdmlkZXIgPT0gbnVsbCkgcmV0dXJuOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gd2hpbGUgKChsaW5lID0gYnVmZmVyZWRSZWFkZXIucmVhZExpbmUoKSkgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU3RhcnQgbG9hZGluZyBxdW90ZXMuIik7Cgo=</text>
+        <text encoding="base64">ICAgIEBTZXR0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJSZWFkIGxpbmUgJ3t9Jy4iLCBsaW5lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -435,9 +435,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZWJ1Z1w+</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWJ1Z1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
