@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZXRjaGVyXD4=</entry>
-        <entry encoding="base64">XDxsZWZ0XD4=</entry>
-        <entry>sonar</entry>
         <entry>an</entry>
         <entry encoding="base64">XDxhbnlcPg==</entry>
         <entry encoding="base64">XDxSZXN0VGVtcGxhdGVCdWlsZGVyXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxwcmludFdyaXRlclw+</entry>
         <entry encoding="base64">XDxkZWJ1Z1w+</entry>
         <entry>zafir.crypto-provider.pin</entry>
+        <entry>eid-repo</entry>
+        <entry>eid-</entry>
+        <entry>eid-rep</entry>
       </history-search>
       <history-cmd>
         <entry>300</entry>
@@ -149,8 +149,8 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pom.xml" timestamp="1612774548125">
-        <mark key="'" line="1791" column="35" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pom.xml" timestamp="1612775931583">
+        <mark key="'" line="1824" column="0" />
         <mark key="[" line="1836" column="44" />
         <mark key="]" line="1836" column="74" />
         <mark key="^" line="1836" column="74" />
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="22" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderEdit.html" />
       <jump line="27" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
       <jump line="961" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
       <jump line="23" column="4" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/css/common.css" />
@@ -343,6 +342,7 @@
       <jump line="57" column="24" filename="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
       <jump line="1794" column="62" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
       <jump line="1791" column="35" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
+      <jump line="1824" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -372,7 +372,7 @@
         <text>kireid_xidp_mock_local_extended_sig_2019</text>
       </register>
       <register name="/" type="4">
-        <text>zafir.crypto-provider.pin</text>
+        <text>eid-rep</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -437,9 +437,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>zafir.crypto-provider.pin</last-search>
+      <last-search>eid-rep</last-search>
       <last-offset />
-      <last-pattern>zafir.crypto-provider.pin</last-pattern>
+      <last-pattern>eid-rep</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
