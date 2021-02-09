@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmFseXplRmlsZU5hbWVSZWdleFw+</entry>
         <entry encoding="base64">XDxmcm9tRGF0ZVw+</entry>
         <entry encoding="base64">XDxyZWxvYWRBbmFseXNpc1Njb3Blc1w+</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>margin-bottom</entry>
         <entry>edit</entry>
         <entry>whiteList</entry>
+        <entry>whiteList\/edi</entry>
       </history-search>
       <history-cmd>
         <entry>300</entry>
@@ -122,7 +122,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1612865823645">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1612865909252">
         <mark key="'" line="347" column="102" />
         <mark key="[" line="311" column="55" />
         <mark key="]" line="312" column="8" />
@@ -361,7 +361,7 @@
         <text>WhiteListServiceProviderIndex()</text>
       </register>
       <register name="/" type="4">
-        <text>whiteList</text>
+        <text>whiteList\/edi</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -426,9 +426,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>whiteList</last-search>
-      <last-offset>edit</last-offset>
-      <last-pattern>whiteList</last-pattern>
+      <last-search>whiteList\/edi</last-search>
+      <last-offset />
+      <last-pattern>whiteList\/edi</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
