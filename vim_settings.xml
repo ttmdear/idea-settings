@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tRGF0ZVw+</entry>
         <entry encoding="base64">XDxyZWxvYWRBbmFseXNpc1Njb3Blc1w+</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
@@ -25,6 +24,7 @@
         <entry>edit</entry>
         <entry>whiteList</entry>
         <entry>whiteList\/edi</entry>
+        <entry encoding="base64">XDxwcm9jZXNzRmlsdGVyV2hpdGVMaXN0R2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>300</entry>
@@ -122,10 +122,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1612865909252">
-        <mark key="'" line="347" column="102" />
-        <mark key="[" line="311" column="55" />
-        <mark key="]" line="312" column="8" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1612866933754">
+        <mark key="'" line="300" column="19" />
+        <mark key="[" line="335" column="19" />
+        <mark key="]" line="335" column="44" />
         <mark key="." line="312" column="7" />
         <mark key="^" line="312" column="8" />
       </file>
@@ -195,19 +195,13 @@
         <mark key="." line="355" column="30" />
         <mark key="^" line="374" column="8" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" timestamp="1612866954261" />
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" timestamp="1612793252591">
         <mark key="'" line="211" column="0" />
         <mark key="[" line="264" column="40" />
         <mark key="]" line="264" column="47" />
         <mark key="^" line="264" column="47" />
         <mark key="." line="264" column="46" />
-      </file>
-      <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1612654226336">
-        <mark key="'" line="212" column="13" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="53" column="23" />
-        <mark key="." line="53" column="22" />
-        <mark key="^" line="53" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/lvl/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1612655978037">
         <mark key="[" line="68" column="0" />
@@ -232,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/serviceProviderEdit.html" />
       <jump line="148" column="31" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerFragments.html" />
       <jump line="47" column="66" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerEditFragments.html" />
       <jump line="187" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ServiceProvidersController.java" />
@@ -332,6 +325,7 @@
       <jump line="425" column="35" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProvidersServiceImpl.java" />
       <jump line="432" column="73" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProvidersServiceImpl.java" />
       <jump line="469" column="24" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProvidersServiceImpl.java" />
+      <jump line="300" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,8 +333,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpvbmNsaWNrPSInZm9ybS5hY3Rpb249IFwnJyArIEB7L3NlcnZpY2VQcm92aWRlcnMvc2VydmljZVByb3ZpZGVyL25hbWVzRmlsdGVyL2RlbGV0ZShpbmRleCA9ICR7aXRlclN0YXQuaW5kZXh9KX0gKyAnXCcnIi8+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3hpZWRJZHBDb3VudE1hcCIsIGlkZW50aXR5UHJvdmlkZXJzU2VydmljZS5yZXNvbHZlUHJveGllZElkcEJ5U2VydmljZVByb3ZpZGVyQ291bnRNYXAocHJvdmlkZXJEdG8pKTsK</text>
+      <register name="&quot;" type="4">
+        <text>processDeleteFromWhiteList</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -352,7 +346,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>BN_IDENTITY_PROVIDERS</text>
+        <text>processDeleteFromWhiteList</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -361,7 +355,7 @@
         <text>WhiteListServiceProviderIndex()</text>
       </register>
       <register name="/" type="4">
-        <text>whiteList\/edi</text>
+        <text encoding="base64">XDxwcm9jZXNzRmlsdGVyV2hpdGVMaXN0R2V0XD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -426,9 +420,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>whiteList\/edi</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzRmlsdGVyV2hpdGVMaXN0R2V0XD4=</last-search>
       <last-offset />
-      <last-pattern>whiteList\/edi</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzRmlsdGVyV2hpdGVMaXN0R2V0XD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
