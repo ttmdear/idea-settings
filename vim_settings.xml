@@ -122,12 +122,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1612873400081">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1612874947479">
         <mark key="'" line="297" column="10" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="125" column="14" />
+        <mark key="[" line="136" column="85" />
+        <mark key="]" line="136" column="117" />
+        <mark key="." line="136" column="116" />
+        <mark key="^" line="136" column="117" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/public/css/bootstrap.min.css" timestamp="1612793856912">
         <mark key="'" line="5" column="7655" />
@@ -208,9 +208,9 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" timestamp="1612871657069">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" timestamp="1612873909750">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="40" />
         <mark key="." line="16" column="7" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderEdit.html" timestamp="1612793731030">
@@ -218,7 +218,7 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1612871604127">
+      <file name="/fragment.java" timestamp="1612874941586">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -330,8 +330,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpvbmNsaWNrPSInZm9ybS5hY3Rpb249IFwnJyArIEB7L3NlcnZpY2VQcm92aWRlcnMvc2VydmljZVByb3ZpZGVyL25hbWVzRmlsdGVyL2RlbGV0ZShpbmRleCA9ICR7aXRlclN0YXQuaW5kZXh9KX0gKyAnXCcnIi8+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PROXY_IDENTITY_PROVIDER_LIST_ATTR</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -349,7 +349,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>WHITE_LIST_SESSION_ATTR</text>
+        <text>PROXY_IDENTITY_PROVIDER_LIST_ATTR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzRmlsdGVyV2hpdGVMaXN0R2V0XD4=</text>
@@ -378,34 +378,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2UK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLnNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvbi5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBzZQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkZW50aXR5UHJvdmlkZXIuZ2V0V2hpdGVMaXN0KCkgPT0gbnVsbCB8fCBpZGVudGl0eVByb3ZpZGVyLmdldFdoaXRlTGlzdCgpLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGZvcihTZXJ2aWNlUHJvdmlkZXIgc2VydmljZVByb3ZpZGVyOiBpZGVudGl0eVByb3ZpZGVyLmdldFdoaXRlTGlzdCgpKSB7CiAgICAgICAgICAgICAgICBpZiAocHJveGllZElkcENvdW50TWFwLmNvbnRhaW5zS2V5KHNlcnZpY2VQcm92aWRlci5nZXRJZCgpKSkgewogICAgICAgICAgICAgICAgICAgIEludGVnZXIgY291bnQgPSBwcm94aWVkSWRwQ291bnRNYXAuZ2V0KHNlcnZpY2VQcm92aWRlci5nZXRJZCgpKTsKICAgICAgICAgICAgICAgICAgICBwcm94aWVkSWRwQ291bnRNYXAucHV0KHNlcnZpY2VQcm92aWRlci5nZXRJZCgpLCArK2NvdW50KTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcHJveGllZElkcENvdW50TWFwLnB1dChzZXJ2aWNlUHJvdmlkZXIuZ2V0SWQoKSwgMSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBhYnN0cmFjdCBqayBiYWNrdXBXaGl0ZUxpc3RTZXJ2aWNlUHJvdmlkZXJEYXRhKElkZW50aXR5UHJvdmlkZXJEdG8gcHJvdmlkZXJEdG8sIEh0dHBTZXNzaW9uIHNlc3Npb24pOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
