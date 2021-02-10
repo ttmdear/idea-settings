@@ -133,11 +133,11 @@
         <mark key="." line="206" column="11" />
         <mark key="^" line="206" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" timestamp="1612966281942">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" timestamp="1612970627566">
         <mark key="'" line="229" column="109" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
+        <mark key="[" line="221" column="20" />
+        <mark key="]" line="221" column="20" />
+        <mark key="." line="221" column="20" />
         <mark key="^" line="231" column="24" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/js/common.js" timestamp="1612963369139">
@@ -147,11 +147,11 @@
         <mark key="." line="144" column="46" />
         <mark key="^" line="144" column="47" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerFragments.html" timestamp="1612966218402">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerFragments.html" timestamp="1612970629462">
         <mark key="'" line="262" column="55" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="298" column="27" />
-        <mark key="." line="295" column="33" />
+        <mark key="[" line="286" column="20" />
+        <mark key="]" line="286" column="20" />
+        <mark key="." line="286" column="20" />
         <mark key="^" line="295" column="34" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderWhiteListEdit.html" timestamp="1612966220635">
@@ -173,12 +173,12 @@
         <mark key="." line="50" column="41" />
         <mark key="^" line="50" column="42" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProvidersServiceImpl.java" timestamp="1612969507715">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProvidersServiceImpl.java" timestamp="1612970321308">
         <mark key="'" line="387" column="53" />
-        <mark key="[" line="417" column="53" />
-        <mark key="]" line="417" column="65" />
-        <mark key="^" line="417" column="65" />
-        <mark key="." line="417" column="64" />
+        <mark key="[" line="394" column="60" />
+        <mark key="]" line="394" column="61" />
+        <mark key="^" line="394" column="61" />
+        <mark key="." line="394" column="60" />
         <mark key="o" line="418" column="51" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/whiteListServiceProviderDataPreview.html" timestamp="1612964523123">
@@ -345,7 +345,7 @@
         <text>WhiteListServiceProviderDataPreview</text>
       </register>
       <register name="&quot;" type="4">
-        <text>kkkkkkkkkkkkkkkkkkkk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -363,7 +363,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>kkkkkkkkkkkkkkkkkkkk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>CountM</text>
@@ -382,44 +382,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>WhiteListServiceProviderData</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJveGllZElkcC5nZXRXaGl0ZUxpc3QoKS5yZW1vdmVJZihzIC0+IGlkZW50aXR5UHJvdmlkZXIuZ2V0V2hpdGVMaXN0KCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5ub25lTWF0Y2gocHAgLT4gcHAuZ2V0Q29kZSgpLmVxdWFscyhwcC5nZXRDb2RlKCkpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZW1vdmVTUEZyb21Qcm94ZWRJZHAuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBwcm94aWVkSWRwLmdldFdoaXRlTGlzdCgpLnJlbW92ZUFsbChyZW1vdmVTUEZyb21Qcm94ZWRJZHApOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJveGllZElkcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTZXJ2aWNlUHJvdmlkZXI+IHJlbW92ZVNQRnJvbVByb3hlZElkcCA9IHByb3hpZWRJZHAuZ2V0V2hpdGVMaXN0KCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5maWx0ZXIocCAtPiBpZGVudGl0eVByb3ZpZGVyLmdldFdoaXRlTGlzdCgpLnN0cmVhbSgpLm5vbmVNYXRjaChwcCAtPiBwcC5nZXRDb2RlKCkuZXF1YWxzKHAuZ2V0Q29kZSgpKSkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVtb3ZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTZXJ2aWNlUHJvdmlkZXIgc2VydmljZVByb3ZpZGVyIDogZGVsZXRlZFNQTGlzdCkgewogICAgICAgICAgICAgICAgaWYgKHByb3hpZWRJZHAuZ2V0V2hpdGVMaXN0KCkuc3RyZWFtKCkuYW55TWF0Y2gocCAtPiBwLmdldENvZGUoKS5lcXVhbHMoc2VydmljZVByb3ZpZGVyLmdldENvZGUoKSkpKSB7CiAgICAgICAgICAgICAgICAgICAgcHJveGllZElkcC5nZXRXaGl0ZUxpc3QoKS5yZW1vdmUoc2VydmljZVByb3ZpZGVyKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgZm9yIChTZXJ2aWNlUHJvdmlkZXIgc2VydmljZVByb3ZpZGVyIDogYWRkZWRTUExpc3QpIHsKICAgICAgICAgICAgICAgIGlmIChwcm94aWVkSWRwLmdldFdoaXRlTGlzdCgpLnN0cmVhbSgpLm5vbmVNYXRjaChwIC0+IHAuZ2V0Q29kZSgpLmVxdWFscyhzZXJ2aWNlUHJvdmlkZXIuZ2V0Q29kZSgpKSkpIHsKICAgICAgICAgICAgICAgICAgICBwcm94aWVkSWRwLmdldFdoaXRlTGlzdCgpLmFkZChzZXJ2aWNlUHJvdmlkZXIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRlbnRpdHlQcm92aWRlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKEkpCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFNlcnZpY2VQcm92aWRlcj4gZGVsZXRlZFNQTGlzdCA9IHdoaXRlTGlzdEJlZm9yZS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihzcCAtPiBpZGVudGl0eVByb3ZpZGVyLmdldFdoaXRlTGlzdCgpLnN0cmVhbSgpLm5vbmVNYXRjaChwIC0+IHAuZ2V0Q29kZSgpLmVxdWFscyhzcC5nZXRDb2RlKCkpKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICBMaXN0PFNlcnZpY2VQcm92aWRlcj4gYWRkZWRTUExpc3QgPSBpZGVudGl0eVByb3ZpZGVyLmdldFdoaXRlTGlzdCgpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHNwIC0+IHdoaXRlTGlzdEJlZm9yZS5zdHJlYW0oKS5ub25lTWF0Y2gocCAtPiBwLmdldENvZGUoKS5lcXVhbHMoc3AuZ2V0Q29kZSgpKSkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
