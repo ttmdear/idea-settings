@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Mappin</entry>
-        <entry>Mapping</entry>
-        <entry encoding="base64">XDxDRVJUSUZJQ0FURVNfU0VTU0lPTl9BVFRSXD4=</entry>
-        <entry>enableWhite</entry>
-        <entry>enable</entry>
-        <entry>whiteList</entry>
         <entry>Count</entry>
         <entry>Map</entry>
         <entry encoding="base64">XDxiYWNrdXBXaGl0ZUxpc3RTZXJ2aWNlUHJvdmlkZXJEYXRhXD4=</entry>
@@ -25,6 +19,12 @@
         <entry>redire</entry>
         <entry>identityProvider</entry>
         <entry>\/identityProvider</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0UGFyYW1cPg==</entry>
+        <entry>oncl</entry>
+        <entry>action</entry>
+        <entry>addM</entry>
+        <entry>model</entry>
+        <entry encoding="base64">XDxvbmNsaWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>205</entry>
@@ -129,20 +129,18 @@
         <mark key="]" line="436" column="0" />
         <mark key="." line="436" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1612863207043">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" timestamp="1612958514584">
+        <mark key="[" line="228" column="116" />
+        <mark key="]" line="228" column="116" />
+        <mark key="." line="228" column="116" />
+        <mark key="^" line="230" column="42" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" timestamp="1612956497198">
-        <mark key="'" line="227" column="29" />
-        <mark key="[" line="231" column="0" />
-        <mark key="]" line="231" column="0" />
-        <mark key="." line="231" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/js/common.js" timestamp="1612957004716">
-        <mark key="'" line="148" column="33" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/js/common.js" timestamp="1612958716931">
+        <mark key="'" line="150" column="33" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="16" />
+        <mark key="." line="134" column="15" />
+        <mark key="^" line="134" column="16" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerFragments.html" timestamp="1612956173580">
         <mark key="'" line="262" column="55" />
@@ -177,8 +175,8 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="20" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" timestamp="1612956369805">
-        <mark key="'" line="140" column="16" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" timestamp="1612957939358">
+        <mark key="'" line="166" column="6" />
         <mark key="[" line="95" column="99" />
         <mark key="]" line="96" column="8" />
         <mark key="." line="96" column="7" />
@@ -197,12 +195,12 @@
         <mark key="." line="59" column="9" />
         <mark key="^" line="59" column="44" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProxyIdentityProviderController.java" timestamp="1612956265611">
-        <mark key="'" line="148" column="42" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="163" column="8" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProxyIdentityProviderController.java" timestamp="1612957861328">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="84" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="71" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" timestamp="1612953463759">
         <mark key="'" line="22" column="47" />
@@ -214,37 +212,28 @@
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProviderWhiteListEdit.html" timestamp="1612877525924">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/identityProviderFragments.html" timestamp="1612958385202">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="132" />
+      </file>
       <file name="/fragment.java" timestamp="1612879117538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProvidersController.java" timestamp="1612956447261">
-        <mark key="'" line="71" column="33" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProvidersController.java" timestamp="1612957941698">
+        <mark key="'" line="63" column="52" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="114" column="33" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderView.html" timestamp="1612956451687">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderView.html" timestamp="1612957823588">
+        <mark key="'" line="149" column="79" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="101" />
         <mark key="." line="164" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="29" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="141" column="26" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="149" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="155" column="26" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="166" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="10" column="50" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="12" column="51" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="13" column="54" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="30" column="8" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="35" column="8" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="42" column="9" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="56" column="9" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
-      <jump line="72" column="9" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
       <jump line="79" column="9" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
       <jump line="89" column="12" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
       <jump line="101" column="12" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
@@ -332,6 +321,19 @@
       <jump line="71" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProvidersController.java" />
       <jump line="6" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/js/common.js" />
       <jump line="139" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/static/js/common.js" />
+      <jump line="37" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProxyIdentityProviderController.java" />
+      <jump line="84" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProxyIdentityProviderController.java" />
+      <jump line="36" column="9" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProxyIdentityProviderController.java" />
+      <jump line="38" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
+      <jump line="230" column="26" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
+      <jump line="149" column="84" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
+      <jump line="150" column="23" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
+      <jump line="148" column="65" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
+      <jump line="149" column="79" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderView.html" />
+      <jump line="166" column="6" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" />
+      <jump line="115" column="44" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProvidersController.java" />
+      <jump line="63" column="52" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProvidersController.java" />
+      <jump line="231" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,8 +341,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIndoaXRlTGlzdFNlcnZpY2VQcm92aWRlckRhdGEiLCBnZXRTZXNzaW9uT2JqZWN0KHNlc3Npb24sCiAgICAgICAgICAgIGdldFVuaXF1ZVNlc3Npb25JZChXSElURV9MSVNUX1NFUlZJQ0VfUFJPVklERVJfREFUQV9BVFRSLCBwcm92aWRlckR0by5nZXRVdWlkKCkpKSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>jQuery</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -352,16 +354,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>Mapping</text>
+        <text>/proxyIdentityProvider/whiteList/serviceProvider/dataPreview</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>jQuery</text>
       </register>
       <register name="/" type="4">
-        <text>\/identityProvider</text>
+        <text encoding="base64">XDxvbmNsaWNrXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -377,35 +379,35 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3h5SWRlbnRpdHlQcm92aWRlckxpc3QiLCBnZXRTZXNzaW9uT2JqZWN0KHNlc3Npb24sIFBST1hZX0lERU5USVRZX1BST1ZJREVSX0xJU1RfQVRUUikpOwo=</text>
+      <register name="0" type="4">
+        <text>displayModelTable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGg6b25jbGljaz0iZGlzcGxheU1vZGVsVGFibGUoIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">PCNpZiBSS1RcLTA1MTAxP2hhc19jb250ZW50PgogICAgPGgzIGNsYXNzPSJtYi0wIj4yLjEwLikgSWRlbnR5ZmlrYXRvciBwb3p5Y2ppIHBsYW51IHBvc3Tvv71wb3dh77+9OiA8L2gzPgogICAgPCNsaXN0IFJLVFwtMDUxMDEgYXMgdmFsPgogICAgICAgIDxwIGNsYXNzPSJtYi0wIj4ke3ZhbH08L3A+CiAgICA8LyNsaXN0Pgo8LyNpZj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2xpY2s9IiI+UE9LQVo8L3NwYW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2luZG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uICgpIHsKICAgIAp9KSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -414,7 +416,7 @@
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text>()();</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -426,9 +428,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\/identityProvider</last-search>
+      <last-search encoding="base64">XDxvbmNsaWNrXD4=</last-search>
       <last-offset />
-      <last-pattern>\/identityProvider</last-pattern>
+      <last-pattern encoding="base64">XDxvbmNsaWNrXD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
