@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>White</entry>
-        <entry>white</entry>
         <entry encoding="base64">XDxTZXJ2aWNlUHJvdmlkZXJJdGVtXD4=</entry>
         <entry encoding="base64">XDxwcmVwYXJlU2VydmljZVByb3ZpZGVySXRlbVw+</entry>
         <entry>whiteListServiceProviderData.getIden</entry>
@@ -25,6 +23,8 @@
         <entry>tm</entry>
         <entry>tmBo</entry>
         <entry>&quot;tmRegistrationNumber&quot;</entry>
+        <entry>node</entry>
+        <entry>node.version</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -145,9 +145,10 @@
       <file name="/a.dummy" timestamp="1613035025996">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" timestamp="1613124416046">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="32" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" timestamp="1613130446010">
+        <mark key="'" line="28" column="36" />
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="20" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerFragments.html" timestamp="1613037968926">
         <mark key="'" line="292" column="18" />
@@ -228,16 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="78" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="86" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="88" column="48" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="89" column="78" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="55" column="16" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="89" column="24" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="100" column="26" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="114" column="20" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="122" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="22" column="22" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
       <jump line="27" column="25" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
       <jump line="14" column="26" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/whiteListServiceProviderDataPreview.html" />
       <jump line="10" column="17" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/whiteListServiceProviderDataPreview.html" />
@@ -328,6 +319,16 @@
       <jump line="10" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
       <jump line="12" column="24" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
       <jump line="16" column="45" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="116" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="124" column="36" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="126" column="42" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="130" column="58" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="163" column="104" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="168" column="36" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="170" column="42" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="174" column="58" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="27" column="32" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
+      <jump line="28" column="36" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +337,7 @@
         <text>ipProxyWhiteList</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Unpacking C:\Users\pbobryk\.m2\repository\com\gitub\eiuprp.repos\cf-backoffice-8\ui\FrontEnd\node\node_modules</text>
+        <text>node.version</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -348,7 +349,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>sp-bo-ui-frontend</text>
+        <text>node.version</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -357,7 +358,7 @@
         <text>Unpacking C:\Users\pbobryk\.m2\repository\com\gitub\eiuprp.repos\cf-backoffice-8\ui\FrontEnd\node\node_modules</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;tmRegistrationNumber&quot;</text>
+        <text>node.version</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -425,9 +426,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;tmRegistrationNumber&quot;</last-search>
+      <last-search>node.version</last-search>
       <last-offset />
-      <last-pattern>&quot;tmRegistrationNumber&quot;</last-pattern>
+      <last-pattern>node.version</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
