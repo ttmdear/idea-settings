@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>edit</entry>
-        <entry>glyphicon-eye-open</entry>
-        <entry>CountM</entry>
-        <entry>\/identityProvider</entry>
         <entry>White</entry>
         <entry>white</entry>
         <entry encoding="base64">XDxTZXJ2aWNlUHJvdmlkZXJJdGVtXD4=</entry>
@@ -25,6 +21,10 @@
         <entry>\/edit</entry>
         <entry encoding="base64">XDxJZGVudGl0eVByb3ZpZGVyU3RhdGVEdG9cPg==</entry>
         <entry>Data de</entry>
+        <entry>Numer prawa ochronnego</entry>
+        <entry>tm</entry>
+        <entry>tmBo</entry>
+        <entry>&quot;tmRegistrationNumber&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -168,6 +168,13 @@
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProviderView.html" timestamp="1613037361321">
         <mark key="'" line="149" column="74" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" timestamp="1613117312057">
+        <mark key="'" line="16" column="45" />
+        <mark key="[" line="79" column="6" />
+        <mark key="]" line="80" column="31" />
+        <mark key="^" line="80" column="31" />
+        <mark key="." line="80" column="30" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/IPProxyWhiteList.java" timestamp="1613036615337">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="23" column="0" />
@@ -185,8 +192,10 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="24" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613054221347">
-        <mark key="'" line="1712" column="31" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613116645060">
+        <mark key="'" line="1428" column="20" />
+        <mark key="[" line="1428" column="20" />
+        <mark key="]" line="1428" column="39" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderController.java" timestamp="1613035000061">
         <mark key="[" line="128" column="106" />
@@ -223,13 +232,6 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="132" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProviderChangesProcessingServiceImpl.java" timestamp="1613030407188">
-        <mark key="'" line="54" column="19" />
-        <mark key="[" line="127" column="92" />
-        <mark key="]" line="128" column="8" />
-        <mark key="." line="128" column="7" />
-        <mark key="^" line="128" column="8" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderView.html" timestamp="1613036998160">
         <mark key="'" line="191" column="48" />
         <mark key="[" line="26" column="87" />
@@ -239,11 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="75" column="85" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="76" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="79" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
-      <jump line="81" column="48" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
       <jump line="82" column="78" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
       <jump line="86" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
       <jump line="88" column="48" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProvidersList.html" />
@@ -339,6 +336,11 @@
       <jump line="1396" column="37" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
       <jump line="1499" column="35" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
       <jump line="1712" column="31" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
+      <jump line="1167" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
+      <jump line="1428" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
+      <jump line="10" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="12" column="24" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="16" column="45" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,7 +349,7 @@
         <text>ipProxyWhiteList</text>
       </register>
       <register name="&quot;" type="4">
-        <text>th:if=&quot;${ipProxyWhiteList.isSelected(serviceProvider.id)}&quot;</text>
+        <text>tmRegistrationNumber</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -359,7 +361,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tZXllLW9wZW4iPjwvc3Bhbj4=</text>
+        <text>tmRegistrationNumber</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -368,7 +370,7 @@
         <text>th:if=&quot;${ipProxyWhiteList.isSelected(serviceProvider.id)}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Data de</text>
+        <text>&quot;tmRegistrationNumber&quot;</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -436,9 +438,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Data de</last-search>
+      <last-search>&quot;tmRegistrationNumber&quot;</last-search>
       <last-offset />
-      <last-pattern>Data de</last-pattern>
+      <last-pattern>&quot;tmRegistrationNumber&quot;</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
