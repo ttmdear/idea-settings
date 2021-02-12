@@ -122,11 +122,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1613055650133">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1613133855261">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" timestamp="1613041736529">
         <mark key="'" line="380" column="23" />
@@ -338,7 +338,7 @@
         <text>ipProxyWhiteList</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sp-bo-ui-frontend</text>
+        <text>Zmiany w GUI pod kątem edycji WhiteListy dla proxy.</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -356,7 +356,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Unpacking C:\Users\pbobryk\.m2\repository\com\gitub\eiuprp.repos\cf-backoffice-8\ui\FrontEnd\node\node_modules</text>
+        <text>Zmiany w GUI pod kątem edycji WhiteListy dla proxy.</text>
       </register>
       <register name="/" type="4">
         <text>node.version</text>
