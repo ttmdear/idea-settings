@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\identityProvider</entry>
         <entry encoding="base64">XDxwcm94eUlkZW50aXR5UHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxsb2FkZWRJZGVudGl0eVByb3ZpZGVyXD4=</entry>
         <entry>\/edit</entry>
@@ -25,6 +24,7 @@
         <entry>ipW</entry>
         <entry>ip</entry>
         <entry encoding="base64">XDxpcFByb3h5V2hpdGVMaXN0XD4=</entry>
+        <entry>veri</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -164,6 +164,11 @@
         <mark key="'" line="23" column="8" />
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="34" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/routers/details.js" timestamp="1613378548174">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="67" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProviderView.html" timestamp="1613037361321">
         <mark key="'" line="149" column="74" />
@@ -332,8 +337,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gV2N6eXR1amUgZGFuZSBJUFByb3h5V2hpdGVMaXN0LgogICAgICAgICAgICBJUFByb3h5V2hpdGVMaXN0IGlwUHJveHlXaGl0ZUxpc3QgPSBpZGVudGl0eVByb3ZpZGVyc1NlcnZpY2UuY3JlYXRlSVBQcm94eVdoaXRlTGlzdChwcm92aWRlckR0byk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sp-bo-ui-frontend</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJ2ZWZpciB0ZXN0Iik7Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -354,7 +359,7 @@
         <text>uwzględnienie listy przy proxy dla akcji z certyfikatami.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpcFByb3h5V2hpdGVMaXN0XD4=</text>
+        <text>veri</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -374,40 +379,40 @@
         <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImlwUHJveHlXaGl0ZUxpc3QiLCBnZXRTZXNzaW9uT2JqZWN0KHNlc3Npb24sCiAgICAgICAgICAgIGdldFVuaXF1ZVNlc3Npb25JZChJUF9QUk9YWV9XSElURV9MSVNUX0FUVFIsIHByb3ZpZGVyRHRvLmdldFV1aWQoKSkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>- poprawa WhiteListy w przypadku gdy tworzymy proxy.</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJ2ZWZpciB0ZXN0Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>- wyświetlenie przycisku USUN, DODAJ jednocześnie.</text>
+        <text>- poprawa WhiteListy w przypadku gdy tworzymy proxy.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>- wyświetlenie przycisku USUN, DODAJ jednocześnie.</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImlwUHJveHlXaGl0ZUxpc3QiLCBnZXRTZXNzaW9uT2JqZWN0KHNlc3Npb24sCiAgICAgICAgICAgIGdldFVuaXF1ZVNlc3Npb25JZChJUF9QUk9YWV9XSElURV9MSVNUX0FUVFIsIHByb3ZpZGVyRHRvLmdldFV1aWQoKSkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImlwUHJveHlXaGl0ZUxpc3QiLCBBQ0NFUFRBQkxFX0NFUlRJRklDQVRFX1JPTEVTX0ZPUl9JREVOVElUWV9QUk9WSURFUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImlwUHJveHlXaGl0ZUxpc3QiLCBBQ0NFUFRBQkxFX0NFUlRJRklDQVRFX1JPTEVTX0ZPUl9JREVOVElUWV9QUk9WSURFUik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJUFByb3h5V2hpdGVMaXN0IGlwUHJveHlXaGl0ZUxpc3QgPSBpZGVudGl0eVByb3ZpZGVyc1NlcnZpY2UuY3JlYXRlSVBQcm94eVdoaXRlTGlzdChwcm92aWRlckR0byk7CgogICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKGdldFVuaXF1ZVNlc3Npb25JZChJUF9QUk9YWV9XSElURV9MSVNUX0FUVFIsIHByb3ZpZGVyRHRvLmdldFV1aWQoKSksIGlwUHJveHlXaGl0ZUxpc3QpOwoKICAgICAgICAvLyBaYXBpc3VqZSBrb3Bp6iBhYnkgcHJ6eSB6YXBpc3l3YW5pdSBwb3Lzd25h5iBjbyBzaeogem1pZW5ps28uCiAgICAgICAgc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoZ2V0VW5pcXVlU2Vzc2lvbklkKElQX1BST1hZX1dISVRFX0xJU1RfT1JHSU5fQVRUUiwgcHJvdmlkZXJEdG8uZ2V0VXVpZCgpKSwKICAgICAgICAgICAgU2VyaWFsaXphdGlvblV0aWxzLmNsb25lKGlwUHJveHlXaGl0ZUxpc3QpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJUFByb3h5V2hpdGVMaXN0IGlwUHJveHlXaGl0ZUxpc3QgPSBpZGVudGl0eVByb3ZpZGVyc1NlcnZpY2UuY3JlYXRlSVBQcm94eVdoaXRlTGlzdChwcm92aWRlckR0byk7CgogICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKGdldFVuaXF1ZVNlc3Npb25JZChJUF9QUk9YWV9XSElURV9MSVNUX0FUVFIsIHByb3ZpZGVyRHRvLmdldFV1aWQoKSksIGlwUHJveHlXaGl0ZUxpc3QpOwoKICAgICAgICAvLyBaYXBpc3VqZSBrb3Bp6iBhYnkgcHJ6eSB6YXBpc3l3YW5pdSBwb3Lzd25h5iBjbyBzaeogem1pZW5ps28uCiAgICAgICAgc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoZ2V0VW5pcXVlU2Vzc2lvbklkKElQX1BST1hZX1dISVRFX0xJU1RfT1JHSU5fQVRUUiwgcHJvdmlkZXJEdG8uZ2V0VXVpZCgpKSwKICAgICAgICAgICAgU2VyaWFsaXphdGlvblV0aWxzLmNsb25lKGlwUHJveHlXaGl0ZUxpc3QpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImlwUHJveHlXaGl0ZUxpc3QiLCBpZGVudGl0eVByb3ZpZGVyc1NlcnZpY2UuY3JlYXRlSVBQcm94eVdoaXRlTGlzdChwcm92aWRlckR0bykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -422,9 +427,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpcFByb3h5V2hpdGVMaXN0XD4=</last-search>
+      <last-search>veri</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpcFByb3h5V2hpdGVMaXN0XD4=</last-pattern>
+      <last-pattern>veri</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
