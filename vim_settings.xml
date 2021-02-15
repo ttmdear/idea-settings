@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Data de</entry>
-        <entry>Numer prawa ochronnego</entry>
-        <entry>tm</entry>
-        <entry>tmBo</entry>
-        <entry>&quot;tmRegistrationNumber&quot;</entry>
-        <entry>node</entry>
-        <entry>node.version</entry>
         <entry encoding="base64">XDxJUF9QUk9YWV9XSElURV9MSVNUX09SR0lOX0FUVFJcPg==</entry>
         <entry>whote</entry>
         <entry>white</entry>
@@ -25,6 +18,13 @@
         <entry encoding="base64">XDxoYXNPcHBvc2l0aW9uc1w+</entry>
         <entry encoding="base64">XDxvcHBvc2l0aW9uc0lkXD4=</entry>
         <entry>Sygnatura skargi do WSA</entry>
+        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
+        <entry>Dis</entry>
+        <entry>dis</entry>
+        <entry encoding="base64">XDxkYXRlT2ZkZWNpc2lvbkRpc3BhdGNoZWRcPg==</entry>
+        <entry>dateOfdecisionDispatched</entry>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry encoding="base64">XDxkYXRlRmllbGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -122,12 +122,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1613382318150">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="1" column="2" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/common/vefi/vefi.ejs" timestamp="1613389498670">
         <mark key="'" line="32" column="15" />
       </file>
@@ -137,6 +131,27 @@
         <mark key="]" line="328" column="82" />
         <mark key="." line="327" column="0" />
         <mark key="^" line="301" column="8" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/common/vefi/vefi.js" timestamp="1613388924450">
+        <mark key="'" line="76" column="17" />
+        <mark key="[" line="457" column="0" />
+        <mark key="]" line="457" column="0" />
+        <mark key="." line="457" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierServiceBean/src/main/java/eu/ohim/fsp/bo/DossierMgmtService.java" timestamp="1613386196979">
+        <mark key="[" line="300" column="11" />
+        <mark key="]" line="300" column="27" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/dossier/DossierJPA.java" timestamp="1613386367523">
+        <mark key="'" line="1095" column="12" />
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1613382318150">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" timestamp="1613376570740">
         <mark key="'" line="28" column="36" />
@@ -152,52 +167,40 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/appeal/basic_information/appeal_basic_information.js" timestamp="1613394764789">
+        <mark key="'" line="53" column="20" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDao/src/main/java/eu/ohim/fsp/core/application/dao/DossierDAO.java" timestamp="1613383201039">
         <mark key="[" line="46" column="20" />
         <mark key="]" line="46" column="34" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" timestamp="1613391757987">
-        <mark key="'" line="16" column="45" />
-        <mark key="[" line="685" column="0" />
-        <mark key="]" line="685" column="0" />
-        <mark key="^" line="685" column="22" />
-        <mark key="." line="685" column="0" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" timestamp="1613394759010">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="684" column="105" />
+        <mark key="]" line="684" column="123" />
+        <mark key="^" line="680" column="6" />
+        <mark key="." line="684" column="105" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/models/common/vefi.js" timestamp="1613386952117" />
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/IPProxyWhiteList.java" timestamp="1613138341380">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="29" column="57" />
-        <mark key="^" line="29" column="58" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/conf/tmbo-opposition-conf.xml" timestamp="1613394041975">
+        <mark key="'" line="270" column="19" />
+        <mark key="[" line="279" column="19" />
+        <mark key="]" line="279" column="37" />
+        <mark key="." line="279" column="19" />
+        <mark key="^" line="279" column="25" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderWhiteListEdit.html" timestamp="1613138505954">
-        <mark key="'" line="33" column="91" />
-        <mark key="[" line="136" column="106" />
-        <mark key="]" line="136" column="109" />
-        <mark key="." line="136" column="108" />
-        <mark key="^" line="136" column="109" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/common/vefi/vefi.js" timestamp="1613388924450">
-        <mark key="'" line="76" column="17" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613390660139">
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613394182368">
         <mark key="'" line="1422" column="35" />
-        <mark key="[" line="1397" column="20" />
-        <mark key="]" line="1397" column="43" />
+        <mark key="[" line="1398" column="20" />
+        <mark key="]" line="1398" column="37" />
+        <mark key="." line="1398" column="63" />
+        <mark key="^" line="1398" column="64" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/messages.properties" timestamp="1613141105903">
         <mark key="[" line="219" column="44" />
         <mark key="]" line="219" column="44" />
         <mark key="^" line="219" column="44" />
         <mark key="." line="219" column="43" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierServiceBean/src/main/java/eu/ohim/fsp/bo/DossierMgmtService.java" timestamp="1613386196979">
-        <mark key="[" line="300" column="11" />
-        <mark key="]" line="300" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1613382318116">
         <mark key="[" line="0" column="0" />
@@ -206,29 +209,8 @@
         <mark key="[" line="128" column="11" />
         <mark key="]" line="128" column="20" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/dossier/DossierJPA.java" timestamp="1613386367523">
-        <mark key="'" line="1095" column="12" />
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="22" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="69" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProviderChangesProcessingServiceImpl.java" />
-      <jump line="34" column="32" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProviderChangesProcessingServiceImpl.java" />
-      <jump line="54" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/IdentityProviderChangesProcessingServiceImpl.java" />
-      <jump line="50" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProvidersController.java" />
-      <jump line="174" column="24" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderView.html" />
-      <jump line="235" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/identityProviderView.html" />
-      <jump line="202" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
-      <jump line="109" column="15" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="103" column="24" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="79" column="32" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="121" column="15" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="106" column="24" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="80" column="32" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/components/WhiteListServiceProviderData.java" />
-      <jump line="119" column="51" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderWhiteListEdit.html" />
-      <jump line="190" column="48" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/proxyIdentityProviderView.html" />
-      <jump line="250" column="39" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
       <jump line="253" column="45" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
       <jump line="254" column="45" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
       <jump line="255" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/fragments/providerViewFragments.html" />
@@ -313,6 +295,22 @@
       <jump line="76" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/common/vefi/vefi.js" />
       <jump line="1422" column="35" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
       <jump line="645" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" />
+      <jump line="698" column="16" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="109" column="24" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/conf/tmbo-opposition-conf.xml" />
+      <jump line="129" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="913" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="606" column="26" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="619" column="24" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="618" column="13" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="615" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="610" column="100" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="270" column="19" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/conf/tmbo-opposition-conf.xml" />
+      <jump line="614" column="18" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="681" column="28" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="689" column="41" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="706" column="33" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
+      <jump line="53" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/appeal/basic_information/appeal_basic_information.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,8 +318,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gV2N6eXR1amUgZGFuZSBJUFByb3h5V2hpdGVMaXN0LgogICAgICAgICAgICBJUFByb3h5V2hpdGVMaXN0IGlwUHJveHlXaGl0ZUxpc3QgPSBpZGVudGl0eVByb3ZpZGVyc1NlcnZpY2UuY3JlYXRlSVBQcm94eVdoaXRlTGlzdChwcm92aWRlckR0byk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Ryb25nPlRlc3QgQTwvc3Ryb25nPgo=</text>
+      <register name="&quot;" type="4">
+        <text>dateOfDecision</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -333,16 +331,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>dateOfDecisionDispatched</text>
+        <text>dateOfdecisionDispatched</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>vefir test</text>
+        <text>dateOfDecision</text>
       </register>
       <register name="/" type="4">
-        <text>Sygnatura skargi do WSA</text>
+        <text encoding="base64">XDxkYXRlRmllbGRcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -358,8 +356,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Ryb25nPlRlc3Q8L3N0cm9uZz4K</text>
+      <register name="0" type="4">
+        <text>dateOfSettlingCase</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8c3Ryb25nPlRlc3QgQTwvc3Ryb25nPgo=</text>
@@ -410,9 +408,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Sygnatura skargi do WSA</last-search>
+      <last-search encoding="base64">XDxkYXRlRmllbGRcPg==</last-search>
       <last-offset />
-      <last-pattern>Sygnatura skargi do WSA</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlRmllbGRcPg==</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
