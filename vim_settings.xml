@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNPcHBvc2l0aW9uc1w+</entry>
-        <entry encoding="base64">XDxvcHBvc2l0aW9uc0lkXD4=</entry>
-        <entry>Sygnatura skargi do WSA</entry>
-        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
-        <entry>dis</entry>
-        <entry>dateOfdecisionDispatched</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxkYXRlRmllbGRcPg==</entry>
         <entry encoding="base64">XDxvYmpcPg==</entry>
@@ -24,7 +18,13 @@
         <entry>Se</entry>
         <entry>Dis</entry>
         <entry encoding="base64">XDxkaXNwYXRjaGVkRGVjaXNpb25EYXRlXD4=</entry>
+        <entry>oposi</entry>
+        <entry>Opo</entry>
+        <entry>dozer.sourceforge.net</entry>
+        <entry encoding="base64">XDxPcHBvc2l0aW9uSlBBXD4=</entry>
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
+        <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
+        <entry>mapper</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -122,18 +122,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/trademark/TMOppositionManagementService.java" timestamp="1613463913715">
-        <mark key="[" line="98" column="61" />
-        <mark key="]" line="98" column="79" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/trademark/TMOppositionManagementService.java" timestamp="1613465757575">
+        <mark key="[" line="99" column="33" />
+        <mark key="]" line="99" column="73" />
         <mark key="." line="84" column="45" />
         <mark key="^" line="84" column="46" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/adapters/TMOppositionAdapter.java" timestamp="1613463336753">
-        <mark key="'" line="227" column="48" />
-        <mark key="[" line="227" column="11" />
-        <mark key="]" line="227" column="29" />
-        <mark key="." line="242" column="88" />
-        <mark key="^" line="242" column="89" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/adapters/TMOppositionAdapter.java" timestamp="1613466370025">
+        <mark key="'" line="228" column="48" />
+        <mark key="[" line="121" column="68" />
+        <mark key="]" line="121" column="89" />
+        <mark key="." line="121" column="88" />
+        <mark key="^" line="121" column="89" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" timestamp="1613463124338">
         <mark key="'" line="162" column="17" />
@@ -146,20 +146,28 @@
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="24" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" timestamp="1613460544201" />
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" timestamp="1613463978861">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" timestamp="1613465242228" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" timestamp="1613465218726">
+        <mark key="'" line="107" column="12" />
+        <mark key="[" line="132" column="56" />
+        <mark key="]" line="132" column="68" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Poland/src/main/resources/conf/tmbo-opposition-design-conf.xml" timestamp="1613395933775">
         <mark key="[" line="279" column="0" />
         <mark key="]" line="287" column="0" />
         <mark key="." line="279" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDao/src/main/resources/META-INF/oracle/orm.xml" timestamp="1613464750339">
+        <mark key="'" line="309" column="45" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/models/opposition/opposition.js" timestamp="1613460049422">
         <mark key="[" line="59" column="12" />
         <mark key="]" line="59" column="30" />
         <mark key="^" line="58" column="12" />
         <mark key="." line="59" column="12" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/FilingDomain/src/main/resources/dozer/tm/dozerMapping.xml" timestamp="1613464707876">
+        <mark key="'" line="12" column="31" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/app/fields/date_field.ejs" timestamp="1613397453790">
         <mark key="'" line="32" column="25" />
@@ -168,20 +176,16 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/OppositionService.java" timestamp="1613466067899">
+        <mark key="[" line="192" column="4" />
+        <mark key="]" line="192" column="16" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" timestamp="1613462295987">
         <mark key="'" line="82" column="3" />
         <mark key="[" line="832" column="0" />
         <mark key="]" line="832" column="0" />
         <mark key="^" line="831" column="11" />
         <mark key="." line="832" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/routers/details.js" timestamp="1613389722394">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/appeal/basic_information/appeal_basic_information.js" timestamp="1613394764789">
-        <mark key="'" line="53" column="20" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" timestamp="1613401195849">
         <mark key="'" line="0" column="0" />
@@ -196,19 +200,12 @@
         <mark key="." line="287" column="7" />
         <mark key="^" line="287" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/tmbo/ui/controller/OppositionController.java" timestamp="1613463692030">
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/tmbo/ui/controller/OppositionController.java" timestamp="1613466446061">
         <mark key="'" line="164" column="23" />
-        <mark key="[" line="149" column="8" />
-        <mark key="]" line="149" column="26" />
+        <mark key="[" line="169" column="33" />
+        <mark key="]" line="169" column="44" />
         <mark key="^" line="150" column="8" />
         <mark key="." line="150" column="7" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/conf/tmbo-opposition-conf.xml" timestamp="1613395525879">
-        <mark key="'" line="270" column="19" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="286" column="16" />
-        <mark key="." line="279" column="19" />
-        <mark key="^" line="279" column="25" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613460045244">
         <mark key="'" line="1422" column="35" />
@@ -227,16 +224,6 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/OppositionDossier.java" timestamp="1613463717275" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1079" column="15" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1094" column="37" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1396" column="37" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1499" column="35" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1712" column="31" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1167" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="1428" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
-      <jump line="10" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
-      <jump line="12" column="24" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
       <jump line="16" column="45" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" />
       <jump line="116" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
       <jump line="124" column="36" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/pom.xml" />
@@ -324,9 +311,19 @@
       <jump line="830" column="14" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" />
       <jump line="162" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" />
+      <jump line="24" column="15" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/FilingDomain/src/main/resources/dozer/tm/dozerMapping.xml" />
+      <jump line="11" column="24" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/FilingDomain/src/main/resources/dozer/tm/dozerMapping.xml" />
+      <jump line="12" column="31" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/FilingDomain/src/main/resources/dozer/tm/dozerMapping.xml" />
+      <jump line="309" column="45" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDao/src/main/resources/META-INF/oracle/orm.xml" />
       <jump line="132" column="33" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
       <jump line="155" column="28" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
+      <jump line="90" column="34" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
+      <jump line="112" column="51" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
+      <jump line="108" column="37" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
+      <jump line="121" column="31" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
+      <jump line="107" column="12" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/adapters/OppositionDossierDbAdapter.java" />
+      <jump line="82" column="38" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/tmbo/ui/controller/OppositionController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +332,7 @@
         <text>dateOfSettlingCase</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TMOppositionDossier</text>
+        <text>getDispatchedDecisionDate</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -347,16 +344,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>TMOppositionDossier</text>
+        <text>fromCoreToUi</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getDateOfdecisionDispatched</text>
+        <text>getDispatchedDecisionDate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBwZXJcPg==</text>
+        <text>mapper</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -373,7 +370,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JlT2JqZWN0LmdldFRtT3Bwb3NpdGlvbigpLnNldERpc3BhdGNoZWREZWNpc2lvbkRhdGUodWlPYmplY3QuZ2V0RGF0ZU9mZGVjaXNpb25EaXNwYXRjaGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1aU9iamVjdC5zZXREYXRlT2ZkZWNpc2lvbkRpc3BhdGNoZWQoY29yZU9iamVjdC5nZXRUbU9wcG9zaXRpb24oKS5nZXREaXNwYXRjaGVkRGVjaXNpb25EYXRlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb3JlT2JqZWN0LmdldFRtT3Bwb3NpdGlvbigpLnNldCh1aU9iamVjdC5nZXREYXRlT2ZkZWNpc2lvblJlY2VpdmVkKCkpOwo=</text>
@@ -424,9 +421,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYXBwZXJcPg==</last-search>
+      <last-search>mapper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBwZXJcPg==</last-pattern>
+      <last-pattern>mapper</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
