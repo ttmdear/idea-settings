@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Re</entry>
         <entry>rece</entry>
         <entry>Se</entry>
         <entry encoding="base64">XDxkaXNwYXRjaGVkRGVjaXNpb25EYXRlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>domain</entry>
         <entry>dateOfSettlingCase</entry>
         <entry>dateO</entry>
+        <entry encoding="base64">XDxzZXR0bGluZ0Nhc2VEYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -200,21 +200,18 @@
         <mark key="^" line="150" column="8" />
         <mark key="." line="150" column="7" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" timestamp="1613463214378">
-        <mark key="'" line="124" column="25" />
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="50" column="44" />
-        <mark key="." line="124" column="24" />
-        <mark key="^" line="124" column="25" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" timestamp="1613481467699">
+        <mark key="[" line="509" column="47" />
+        <mark key="]" line="509" column="44" />
+        <mark key="^" line="509" column="44" />
+        <mark key="." line="509" column="43" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/OppositionDossier.java" timestamp="1613463717275" />
-      <file name="/fragment.java" timestamp="1613480945368">
+      <file name="/fragment.java" timestamp="1613481321359">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
-      <jump line="1095" column="12" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/dossier/DossierJPA.java" />
       <jump line="31" column="10" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/common/vefi/vefi.ejs" />
       <jump line="79" column="12" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/common/vefi/vefi.ejs" />
       <jump line="23" column="22" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/views/common/vefi/vefi.js" />
@@ -313,15 +310,17 @@
       <jump line="799" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
       <jump line="80" column="23" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
       <jump line="168" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
+      <jump line="127" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" />
+      <jump line="1056" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="4">
-        <text>dateOfSettlingCase</text>
+      <register name="a" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getSettlingCaseDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gc2V0dGxpbmcgZGF0ZQo=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -339,10 +338,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>getSettlingCaseDate</text>
+        <text>Gets</text>
       </register>
       <register name="/" type="4">
-        <text>dateO</text>
+        <text encoding="base64">XDxzZXR0bGluZ0Nhc2VEYXRlXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -359,43 +358,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlckR0by5zZXRXaGl0ZUxpc3Qod2hpdGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0cyBzZXR0bGluZyBkYXRlLgogICAgICogCiAgICAgKiBAcmV0dXJuIHNldHRsaW5nIGRhdGUKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBldS5vaGltLmZzcC5iby5kb21haW4udWkuVE1PcHBvc2l0aW9uVUkK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gc2V0dGxpbmcgZGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGVuYWJsZVdoaXRlTGlzdCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwod2hpdGVMaXN0KSkgewogICAgICAgICAgICB3aGl0ZUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB9CgogICAgICAgIHByb3ZpZGVyRHRvLnNldFdoaXRlTGlzdCh3aGl0ZUxpc3QpOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEYXRlIGdldFNldHRsaW5nQ2FzZURhdGUoKSB7CiAgICAgICAgcmV0dXJuIHNldHRsaW5nQ2FzZURhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U2V0dGxpbmdDYXNlRGF0ZShEYXRlIHNldHRsaW5nQ2FzZURhdGUpIHsKICAgICAgICB0aGlzLnNldHRsaW5nQ2FzZURhdGUgPSBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldS5vaGltLmZzcC5iby5kb21haW4udWkuVE1PcHBvc2l0aW9uVUkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGVuYWJsZVdoaXRlTGlzdCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwod2hpdGVMaXN0KSkgewogICAgICAgICAgICB3aGl0ZUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB9CgogICAgICAgIHByb3ZpZGVyRHRvLnNldFdoaXRlTGlzdCh3aGl0ZUxpc3QpOwogICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm92aWRlckR0by5wcm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -410,9 +409,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dateO</last-search>
+      <last-search encoding="base64">XDxzZXR0bGluZ0Nhc2VEYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>dateO</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR0bGluZ0Nhc2VEYXRlXD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
