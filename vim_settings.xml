@@ -142,13 +142,13 @@
         <mark key="." line="840" column="30" />
         <mark key="^" line="840" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613472434373">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="2" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="2" />
+      <file name="/Dummy.txt" timestamp="1613550731174">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/TMOpposition.java" timestamp="1613549242174">
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/TMOpposition.java" timestamp="1613549469318">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="24" />
       </file>
@@ -168,6 +168,9 @@
         <mark key="]" line="255" column="59" />
         <mark key="." line="255" column="58" />
         <mark key="^" line="255" column="59" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" timestamp="1613549552680">
+        <mark key="'" line="39" column="14" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/.gitignore" timestamp="1613548807748">
         <mark key="'" line="11" column="12" />
@@ -203,6 +206,11 @@
         <mark key="." line="150" column="37" />
         <mark key="^" line="150" column="38" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/sql/mysql/pl_48_add_dopposition_dtsettlingcasedate.sql" timestamp="1613550421488">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="111" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" timestamp="1613549315288">
         <mark key="'" line="512" column="0" />
         <mark key="[" line="50" column="35" />
@@ -218,11 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/app/fields/date_field.ejs" />
-      <jump line="22" column="84" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/app/fields/date_field.ejs" />
-      <jump line="30" column="80" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/app/fields/date_field.ejs" />
-      <jump line="31" column="15" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/app/fields/date_field.ejs" />
-      <jump line="32" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/app/fields/date_field.ejs" />
       <jump line="101" column="16" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/tmbo/ui/controller/OppositionController.java" />
       <jump line="820" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
       <jump line="204" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
@@ -318,6 +321,11 @@
       <jump line="162" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" />
       <jump line="512" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" />
       <jump line="1326" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
+      <jump line="25" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" />
+      <jump line="33" column="15" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" />
+      <jump line="39" column="14" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" />
+      <jump line="2" column="10" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/sql/mysql/pl_48_add_dopposition_dtsettlingcasedate.sql" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/sql/mysql/pl_48_add_dopposition_dtsettlingcasedate.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,8 +333,10 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DossierJPA</text>
+      <register name="&quot;" type="2">
+        <text>insert into PCONFIGPARAM (IdParam, DscParam, IsHidden, NmParam, PrmSource, TyParam, IdComponent) values ((SELECT MAX(aux.IdParam)+1 FROM PCONFIGPARAM aux), 'Poland messages property file', 0, 'fsp-common-messages_pl.properties', 1, 4, (select IdComponent from CCOMPONENT c where c.NmComponent='eu.ohim.fsp.tmbo'));
+insert into DCONFIGSETTING (IdConfigSetting, IdParam, LogModifiedBy, DtValidFrom, DtValidTo, DtCreated) values ((SELECT MAX(aux.IdConfigSetting)+1 FROM DCONFIGSETTING aux), (select cp.IdParam from PCONFIGPARAM cp, CCOMPONENT c where cp.IdComponent = c.IdComponent and cp.NmParam = 'fsp-common-messages_pl.properties'), null, '2019-10-29', null, '2019-10-29');
+insert into DSETTINGVALUE (IdValue, TxtValue, IdConfigSetting, DtCreated) values ((SELECT MAX(aux.IdValue)+1 FROM DSETTINGVALUE aux), '/share/FSP/integrationbo3/configuration/modules/tm-bo/message-resources/fsp-common-messages_pl.properties', (select cs.IDCONFIGSETTING from PCONFIGPARAM cp, dconfigsetting cs where cp.IDPARAM = cs.IDPARAM and NmParam = 'fsp-common-messages_pl.properties'), '2019-10-29');</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -344,7 +354,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>getDecisionDispachedDate</text>
+        <text>poland-messages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0bU9wcG9zaXRpb25cPg==</text>
@@ -367,40 +377,42 @@
         <text encoding="base64">ICAgICAgICBvcHBvc2l0aW9uRG9zc2llci5nZXRUbU9wcG9zaXRpb24oKS5zZXREaXNwYXRjaGVkRGVjaXNpb25EYXRlKGRiT2JqZWN0LmdldERlY2lzaW9uRGlzcGFjaGVkRGF0ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gc2V0dGxpbmcgZGF0ZQo=</text>
+        <text>insert into PCONFIGPARAM (IdParam, DscParam, IsHidden, NmParam, PrmSource, TyParam, IdComponent) values ((SELECT MAX(aux.IdParam)+1 FROM PCONFIGPARAM aux), 'Poland messages property file', 0, 'fsp-common-messages_pl.properties', 1, 4, (select IdComponent from CCOMPONENT c where c.NmComponent='eu.ohim.fsp.tmbo'));
+insert into DCONFIGSETTING (IdConfigSetting, IdParam, LogModifiedBy, DtValidFrom, DtValidTo, DtCreated) values ((SELECT MAX(aux.IdConfigSetting)+1 FROM DCONFIGSETTING aux), (select cp.IdParam from PCONFIGPARAM cp, CCOMPONENT c where cp.IdComponent = c.IdComponent and cp.NmParam = 'fsp-common-messages_pl.properties'), null, '2019-10-29', null, '2019-10-29');
+insert into DSETTINGVALUE (IdValue, TxtValue, IdConfigSetting, DtCreated) values ((SELECT MAX(aux.IdValue)+1 FROM DSETTINGVALUE aux), '/share/FSP/integrationbo3/configuration/modules/tm-bo/message-resources/fsp-common-messages_pl.properties', (select cs.IDCONFIGSETTING from PCONFIGPARAM cp, dconfigsetting cs where cp.IDPARAM = cs.IDPARAM and NmParam = 'fsp-common-messages_pl.properties'), '2019-10-29');</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gc2V0dGxpbmcgZGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEYXRlIGdldFNldHRsaW5nQ2FzZURhdGUoKSB7CiAgICAgICAgcmV0dXJuIHNldHRsaW5nQ2FzZURhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U2V0dGxpbmdDYXNlRGF0ZShEYXRlIHNldHRsaW5nQ2FzZURhdGUpIHsKICAgICAgICB0aGlzLnNldHRsaW5nQ2FzZURhdGUgPSBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldS5vaGltLmZzcC5iby5kb21haW4udWkuVE1PcHBvc2l0aW9uVUkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEYXRlIGdldFNldHRsaW5nQ2FzZURhdGUoKSB7CiAgICAgICAgcmV0dXJuIHNldHRsaW5nQ2FzZURhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U2V0dGxpbmdDYXNlRGF0ZShEYXRlIHNldHRsaW5nQ2FzZURhdGUpIHsKICAgICAgICB0aGlzLnNldHRsaW5nQ2FzZURhdGUgPSBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGVuYWJsZVdoaXRlTGlzdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBldS5vaGltLmZzcC5iby5kb21haW4udWkuVE1PcHBvc2l0aW9uVUkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGVuYWJsZVdoaXRlTGlzdCA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwod2hpdGVMaXN0KSkgewogICAgICAgICAgICB3aGl0ZUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB9CgogICAgICAgIHByb3ZpZGVyRHRvLnNldFdoaXRlTGlzdCh3aGl0ZUxpc3QpOwogICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT2JqZWN0cy5pc051bGwod2hpdGVMaXN0KSkgewogICAgICAgICAgICB3aGl0ZUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB9CgogICAgICAgIHByb3ZpZGVyRHRvLnNldFdoaXRlTGlzdCh3aGl0ZUxpc3QpOwogICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -415,9 +427,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Dis</last-search>
+      <last-search encoding="base64">XDx0bU9wcG9zaXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>Dis</last-pattern>
+      <last-pattern encoding="base64">XDx0bU9wcG9zaXRpb25cPg==</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
