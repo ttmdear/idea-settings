@@ -45,8 +45,8 @@
         <entry>355</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>252</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,10 +129,6 @@
         <mark key="." line="840" column="30" />
         <mark key="^" line="840" column="31" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/TMOpposition.java" timestamp="1613549469318">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="24" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/adapters/DSOppositionAdapter.java" timestamp="1613651264010">
         <mark key="[" line="115" column="68" />
         <mark key="]" line="115" column="89" />
@@ -142,15 +138,21 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" timestamp="1613549552680">
         <mark key="'" line="39" column="14" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/adapters/OppositionDesignDossierDbAdapter.java" timestamp="1613651340163">
-        <mark key="[" line="265" column="73" />
-        <mark key="]" line="265" column="94" />
-        <mark key="." line="265" column="93" />
-        <mark key="^" line="265" column="94" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/adapters/OppositionDesignDossierDbAdapter.java" timestamp="1613652465890">
+        <mark key="[" line="325" column="66" />
+        <mark key="]" line="325" column="87" />
+        <mark key="." line="325" column="86" />
+        <mark key="^" line="325" column="87" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOppositionDossier.java" timestamp="1613649041119">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="57" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/DSOppositionService.java" timestamp="1613652930295">
+        <mark key="[" line="356" column="42" />
+        <mark key="]" line="356" column="63" />
+        <mark key="." line="356" column="62" />
+        <mark key="^" line="356" column="63" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" timestamp="1613650641910">
         <mark key="'" line="8" column="25" />
@@ -169,11 +171,11 @@
         <mark key="]" line="0" column="111" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613550731174">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1613653242989">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" timestamp="1613651170059">
         <mark key="'" line="332" column="7" />
@@ -181,13 +183,6 @@
         <mark key="]" line="32" column="26" />
         <mark key="." line="1522" column="45" />
         <mark key="^" line="1522" column="46" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" timestamp="1613549354939">
-        <mark key="'" line="1326" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
         <mark key="'" line="65" column="40" />
@@ -223,12 +218,9 @@
         <mark key="." line="61" column="29" />
         <mark key="^" line="61" column="30" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" timestamp="1613549315288">
-        <mark key="'" line="512" column="0" />
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="50" column="44" />
-        <mark key="^" line="509" column="44" />
-        <mark key="." line="509" column="43" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/DSOppositionManagementService.java" timestamp="1613652085490" />
+      <file name="/fragment.java" timestamp="1613652689141">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -340,7 +332,7 @@
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getDecisionDispachedDate</text>
+        <text>Implementacją pola data załatwienia sprawy dla sprzeciwu.</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -358,7 +350,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>getDecisionDispachedDate</text>
+        <text>Implementacją pola data załatwienia sprawy dla sprzeciwu.</text>
       </register>
       <register name="/" type="4">
         <text>OfSe</text>
@@ -378,7 +370,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcHBvc2l0aW9uRG9zc2llci5nZXREc09wcG9zaXRpb24oKS5zZXREaXNwYXRjaGVkRGVjaXNpb25EYXRlKGRiT2JqZWN0LmdldERlY2lzaW9uRGlzcGFjaGVkRGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tRGIuc2V0RGVjaXNpb25EaXNwYWNoZWREYXRlKGZyb21VSS5nZXREZWNpc2lvbkRpc3BhY2hlZERhdGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1aU9iamVjdC5nZXREYVMK</text>
@@ -422,7 +414,7 @@ insert into DSETTINGVALUE (IdValue, TxtValue, IdConfigSetting, DtCreated) values
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">PEBtLnByaW50U2VjdGlvbiB0aXRsZT0iU0VLQ0pBIEkg77+9IFpBTUFXSUFK77+9Q1kiIC8+Cg==</text>
