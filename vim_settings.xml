@@ -122,6 +122,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzer.java" timestamp="1613941441341">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" timestamp="1613649131518">
         <mark key="'" line="35" column="13" />
         <mark key="[" line="840" column="30" />
@@ -129,14 +134,40 @@
         <mark key="." line="840" column="30" />
         <mark key="^" line="840" column="31" />
       </file>
+      <file name="/Dummy.txt" timestamp="1613861566522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/adapters/DSOppositionAdapter.java" timestamp="1613651264010">
         <mark key="[" line="115" column="68" />
         <mark key="]" line="115" column="89" />
         <mark key="^" line="115" column="89" />
         <mark key="." line="115" column="88" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/TMOppositionDossier.java" timestamp="1613549552680">
-        <mark key="'" line="39" column="14" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" timestamp="1613651170059">
+        <mark key="'" line="332" column="7" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="1522" column="45" />
+        <mark key="^" line="1522" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerTemplate.java" timestamp="1613941349702">
+        <mark key="[" line="11" column="35" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
+        <mark key="'" line="65" column="40" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" timestamp="1613648383983">
+        <mark key="'" line="104" column="7" />
+        <mark key="[" line="679" column="0" />
+        <mark key="]" line="694" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1613941463387">
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/adapters/OppositionDesignDossierDbAdapter.java" timestamp="1613652465890">
         <mark key="[" line="325" column="66" />
@@ -147,49 +178,6 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOppositionDossier.java" timestamp="1613649041119">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="57" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/DSOppositionService.java" timestamp="1613652930295">
-        <mark key="[" line="356" column="42" />
-        <mark key="]" line="356" column="63" />
-        <mark key="." line="356" column="62" />
-        <mark key="^" line="356" column="63" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" timestamp="1613650641910">
-        <mark key="'" line="8" column="25" />
-        <mark key="[" line="640" column="0" />
-        <mark key="]" line="640" column="0" />
-        <mark key="." line="640" column="0" />
-        <mark key="^" line="645" column="226" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOpposition.java" timestamp="1613649109943">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="43" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/sql/mysql/pl_48_add_dopposition_dtsettlingcasedate.sql" timestamp="1613550421488">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="111" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1613861566522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" timestamp="1613651170059">
-        <mark key="'" line="332" column="7" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="1522" column="45" />
-        <mark key="^" line="1522" column="46" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
-        <mark key="'" line="65" column="40" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/opposition/basic_information/basic_information.ejs" timestamp="1613648383983">
-        <mark key="'" line="104" column="7" />
-        <mark key="[" line="679" column="0" />
-        <mark key="]" line="694" column="10" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/tmbo/ui/controller/OppositionController.java" timestamp="1613648085400">
         <mark key="'" line="135" column="14" />
@@ -205,11 +193,33 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="35" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/DSOppositionService.java" timestamp="1613652930295">
+        <mark key="[" line="356" column="42" />
+        <mark key="]" line="356" column="63" />
+        <mark key="." line="356" column="62" />
+        <mark key="^" line="356" column="63" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" timestamp="1613650641910">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="640" column="0" />
+        <mark key="]" line="640" column="0" />
+        <mark key="." line="640" column="0" />
+        <mark key="^" line="645" column="226" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613650244739">
         <mark key="'" line="1398" column="20" />
         <mark key="[" line="1099" column="0" />
         <mark key="]" line="1099" column="66" />
         <mark key="." line="1099" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOpposition.java" timestamp="1613649109943">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="43" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Default/src/main/resources/sql/mysql/pl_48_add_dopposition_dtsettlingcasedate.sql" timestamp="1613550421488">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="111" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/models/ds_opposition/ds_opposition.js" timestamp="1613650450035">
         <mark key="[" line="61" column="36" />
