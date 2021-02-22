@@ -76,34 +76,10 @@
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed L</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
@@ -112,21 +88,40 @@
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzer.java" timestamp="1613941441341">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" timestamp="1613649131518">
         <mark key="'" line="35" column="13" />
         <mark key="[" line="840" column="30" />
@@ -134,30 +129,22 @@
         <mark key="." line="840" column="30" />
         <mark key="^" line="840" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613861566522">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/adapters/DSOppositionAdapter.java" timestamp="1613651264010">
         <mark key="[" line="115" column="68" />
         <mark key="]" line="115" column="89" />
         <mark key="^" line="115" column="89" />
         <mark key="." line="115" column="88" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" timestamp="1613651170059">
-        <mark key="'" line="332" column="7" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="1522" column="45" />
-        <mark key="^" line="1522" column="46" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzer.java" timestamp="1613941441341">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerTemplate.java" timestamp="1613941349702">
-        <mark key="[" line="11" column="35" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
-        <mark key="'" line="65" column="40" />
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/adapters/OppositionDesignDossierDbAdapter.java" timestamp="1613652465890">
+        <mark key="[" line="325" column="66" />
+        <mark key="]" line="325" column="87" />
+        <mark key="." line="325" column="86" />
+        <mark key="^" line="325" column="87" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1613947936351">
         <mark key="'" line="25" column="16" />
@@ -166,22 +153,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="83" column="42" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/adapters/OppositionDesignDossierDbAdapter.java" timestamp="1613652465890">
-        <mark key="[" line="325" column="66" />
-        <mark key="]" line="325" column="87" />
-        <mark key="." line="325" column="86" />
-        <mark key="^" line="325" column="87" />
-      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOppositionDossier.java" timestamp="1613649041119">
         <mark key="[" line="17" column="41" />
         <mark key="]" line="17" column="57" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Finland/src/main/resources/conf/tmbo-opposition-design-columns-conf.xml" timestamp="1613648672258">
-        <mark key="'" line="19" column="35" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="34" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerTemplate.java" timestamp="1613941349702">
+        <mark key="[" line="11" column="35" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/DSOppositionService.java" timestamp="1613652930295">
         <mark key="[" line="356" column="42" />
@@ -196,15 +173,38 @@
         <mark key="." line="640" column="0" />
         <mark key="^" line="645" column="226" />
       </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOpposition.java" timestamp="1613649109943">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1613948433575">
+        <mark key="'" line="79" column="15" />
+        <mark key="[" line="151" column="54" />
+        <mark key="]" line="151" column="54" />
+        <mark key="." line="151" column="53" />
+        <mark key="^" line="151" column="54" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1613861566522">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" timestamp="1613651170059">
+        <mark key="'" line="332" column="7" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="1522" column="45" />
+        <mark key="^" line="1522" column="46" />
+      </file>
+      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
+        <mark key="'" line="65" column="40" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613650244739">
         <mark key="'" line="1398" column="20" />
         <mark key="[" line="1099" column="0" />
         <mark key="]" line="1099" column="66" />
         <mark key="." line="1099" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOpposition.java" timestamp="1613649109943">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="43" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/models/ds_opposition/ds_opposition.js" timestamp="1613650450035">
         <mark key="[" line="61" column="36" />
@@ -215,14 +215,6 @@
       <file name="/fragment.java" timestamp="1613948337286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1613948433575">
-        <mark key="'" line="79" column="15" />
-        <mark key="[" line="151" column="54" />
-        <mark key="]" line="151" column="54" />
-        <mark key="." line="151" column="53" />
-        <mark key="^" line="151" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1613948350727" />
     </filemarks>
     <jumps>
       <jump line="194" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
