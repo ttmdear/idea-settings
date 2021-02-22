@@ -153,10 +153,6 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="83" column="42" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOppositionDossier.java" timestamp="1613649041119">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="57" />
-      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerTemplate.java" timestamp="1613941349702">
         <mark key="[" line="11" column="35" />
       </file>
@@ -184,7 +180,7 @@
         <mark key="." line="151" column="53" />
         <mark key="^" line="151" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613861566522">
+      <file name="/Dummy.txt" timestamp="1613990154093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -200,6 +196,11 @@
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
         <mark key="'" line="65" column="40" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613990374217">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="470" />
+      </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613650244739">
         <mark key="'" line="1398" column="20" />
         <mark key="[" line="1099" column="0" />
@@ -212,12 +213,11 @@
         <mark key="." line="61" column="29" />
         <mark key="^" line="61" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1613948337286">
+      <file name="/fragment.java" timestamp="1613990154049">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
       <jump line="195" column="12" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
       <jump line="198" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
       <jump line="336" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
@@ -317,6 +317,7 @@
       <jump line="37" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
       <jump line="75" column="15" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="24" column="16" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
+      <jump line="1" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +326,7 @@
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyJldmVudERhdGUiOiIyMDIxLTAyLTIyVDExOjM4OjM2LjEzNCswMTowMCIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImxldmVsIjoiSU5GTyIsInJlc3VsdCI6IlNVQ0NFU1MiLCJhcHAiOiItLS0iLCJlbnZpcm9ubWVudCI6Ii0tLSIsImxldmVsIjoiSU5GTyIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImRlc2NyaXB0aW9uIjoiVUMuTU8uMjg0IiwiZXZlbnRDb250ZXh0SWQiOiI2NmYwMGQ1OS1hNzdhLTQyZmUtOGFiZi00MmQzYWRjYjY1ODQiLCJwbGFjZSI6Ii0tLSIsImNhdGVnb3J5IjoiSU5QVVQiLCJvY2lkIjoiLS0tIiwidXNlciI6Ii0tLSIsImV2ZW50RGF0ZSI6IjIwMjEtMDItMjJUMTE6Mzg6MzYuMTI3KzAxMDAiLCJhcHAiOiJtby1ub3RpY2UtaW1wb3J0ZXIiLCJlbnZpcm9ubWVudCI6IkxPQ0FMIiwicGxhY2UiOiJ3ZXN0ZXVyb3BlIn0K</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -336,8 +337,8 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="4">
-        <text>DSOppositionUI</text>
+      <register name="+" type="2">
+        <text encoding="base64">eyJldmVudERhdGUiOiIyMDIxLTAyLTIyVDExOjM4OjM2LjEzNCswMTowMCIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImxldmVsIjoiSU5GTyIsInJlc3VsdCI6IlNVQ0NFU1MiLCJhcHAiOiItLS0iLCJlbnZpcm9ubWVudCI6Ii0tLSIsImxldmVsIjoiSU5GTyIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImRlc2NyaXB0aW9uIjoiVUMuTU8uMjg0IiwiZXZlbnRDb250ZXh0SWQiOiI2NmYwMGQ1OS1hNzdhLTQyZmUtOGFiZi00MmQzYWRjYjY1ODQiLCJwbGFjZSI6Ii0tLSIsImNhdGVnb3J5IjoiSU5QVVQiLCJvY2lkIjoiLS0tIiwidXNlciI6Ii0tLSIsImV2ZW50RGF0ZSI6IjIwMjEtMDItMjJUMTE6Mzg6MzYuMTI3KzAxMDAiLCJhcHAiOiJtby1ub3RpY2UtaW1wb3J0ZXIiLCJlbnZpcm9ubWVudCI6IkxPQ0FMIiwicGxhY2UiOiJ3ZXN0ZXVyb3BlIn0K</text>
       </register>
       <register name="k" type="4">
         <text />
