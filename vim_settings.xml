@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0bU9wcG9zaXRpb25cPg==</entry>
-        <entry>dateOfdecisionDispatched</entry>
         <entry encoding="base64">XDxjb25mRmlsZVw+</entry>
         <entry encoding="base64">XDxvcHBvc2l0aW9uLWRlc2lnblw+</entry>
         <entry>se</entry>
@@ -25,12 +23,13 @@
         <entry>Set</entry>
         <entry>OfSe</entry>
         <entry encoding="base64">XDxpbnNpZGVzXD4=</entry>
+        <entry encoding="base64">XDxmaWxlTmFtZVBhdHRlcm5cPg==</entry>
+        <entry encoding="base64">XDxyb2xsaW5nUG9saWN5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
         <entry>5</entry>
         <entry>4</entry>
-        <entry>e</entry>
         <entry>23</entry>
         <entry>13</entry>
         <entry>311</entry>
@@ -40,12 +39,13 @@
         <entry>194</entry>
         <entry>15</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>;w</entry>
         <entry>355</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>252</entry>
+        <entry>e</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -122,29 +122,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" timestamp="1613649131518">
-        <mark key="'" line="35" column="13" />
-        <mark key="[" line="840" column="30" />
-        <mark key="]" line="840" column="31" />
-        <mark key="." line="840" column="30" />
-        <mark key="^" line="840" column="31" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/adapters/DSOppositionAdapter.java" timestamp="1613651264010">
-        <mark key="[" line="115" column="68" />
-        <mark key="]" line="115" column="89" />
-        <mark key="^" line="115" column="89" />
-        <mark key="." line="115" column="88" />
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" timestamp="1613994461327">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzer.java" timestamp="1613941441341">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/design/adapters/OppositionDesignDossierDbAdapter.java" timestamp="1613652465890">
-        <mark key="[" line="325" column="66" />
-        <mark key="]" line="325" column="87" />
-        <mark key="." line="325" column="86" />
-        <mark key="^" line="325" column="87" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1613995792554">
+        <mark key="'" line="5" column="9" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/Log.java" timestamp="1613995501050">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1613947936351">
         <mark key="'" line="25" column="16" />
@@ -153,8 +148,16 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="83" column="42" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/nbkpcsi244-20210222122323" timestamp="1613993040634">
+        <mark key="'" line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerTemplate.java" timestamp="1613941349702">
         <mark key="[" line="11" column="35" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" timestamp="1613996376661">
+        <mark key="[" line="62" column="10" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="10" />
       </file>
       <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/DSOppositionService.java" timestamp="1613652930295">
         <mark key="[" line="356" column="42" />
@@ -162,16 +165,12 @@
         <mark key="." line="356" column="62" />
         <mark key="^" line="356" column="63" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" timestamp="1613650641910">
-        <mark key="'" line="8" column="25" />
-        <mark key="[" line="640" column="0" />
-        <mark key="]" line="640" column="0" />
-        <mark key="." line="640" column="0" />
-        <mark key="^" line="645" column="226" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/dossier/DSOpposition.java" timestamp="1613649109943">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="43" />
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/TimeBasedRollingPolicy.java" timestamp="1613992244059" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" timestamp="1613995894654">
+        <mark key="'" line="213" column="51" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1613948433575">
         <mark key="'" line="79" column="15" />
@@ -180,68 +179,35 @@
         <mark key="." line="151" column="53" />
         <mark key="^" line="151" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613990154093">
+      <file name="/Dummy.txt" timestamp="1613996390015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" timestamp="1613651170059">
-        <mark key="'" line="332" column="7" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="1522" column="45" />
-        <mark key="^" line="1522" column="46" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/config/ImmediateFileAppender.java" timestamp="1613994204978" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/logback-spring.xml" timestamp="1613992044371" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613995981472">
+        <mark key="'" line="95" column="18" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="320" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" timestamp="1613651219787">
-        <mark key="'" line="65" column="40" />
+      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.4/logstash-logback-encoder-6.4-sources.jar!/net/logstash/logback/encoder/LogstashEncoder.java" timestamp="1613994682399">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="27" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613990374217">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="470" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImpl.java" timestamp="1613992496906">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="12" />
+        <mark key="^" line="43" column="12" />
+        <mark key="." line="43" column="11" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" timestamp="1613650244739">
-        <mark key="'" line="1398" column="20" />
-        <mark key="[" line="1099" column="0" />
-        <mark key="]" line="1099" column="66" />
-        <mark key="." line="1099" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/models/ds_opposition/ds_opposition.js" timestamp="1613650450035">
-        <mark key="[" line="61" column="36" />
-        <mark key="]" line="61" column="30" />
-        <mark key="." line="61" column="29" />
-        <mark key="^" line="61" column="30" />
-      </file>
-      <file name="/fragment.java" timestamp="1613990154049">
+      <file name="/fragment.java" timestamp="1613991754315">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="12" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
-      <jump line="198" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
-      <jump line="336" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
-      <jump line="268" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
-      <jump line="255" column="17" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/IdentityProviderControllerBase.java" />
-      <jump line="833" column="21" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="818" column="22" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="90" column="10" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="828" column="4" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="834" column="34" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="206" column="9" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="207" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="824" column="14" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="826" column="43" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="827" column="13" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="799" column="20" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="80" column="23" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="168" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/TMOppositionUI.java" />
-      <jump line="127" column="17" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" />
-      <jump line="1056" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/DossierDomain/src/main/java/eu/ohim/fsp/domain/design/OppositionJPA.java" />
-      <jump line="27" column="26" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
-      <jump line="28" column="50" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
-      <jump line="42" column="30" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
-      <jump line="61" column="31" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
       <jump line="72" column="30" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
       <jump line="85" column="31" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
       <jump line="147" column="43" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/pom.xml" />
@@ -318,6 +284,30 @@
       <jump line="75" column="15" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="24" column="16" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
       <jump line="1" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="43" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/LauncherServiceImpl.java" />
+      <jump line="48" column="32" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="7" column="46" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/nbkpcsi244-20210222122323" />
+      <jump line="43" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="99" column="30" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="1" column="9" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" />
+      <jump line="25" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" />
+      <jump line="2" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" />
+      <jump line="56" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="98" column="8" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="7" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" />
+      <jump line="5" column="9" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" />
+      <jump line="136" column="23" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="150" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="151" column="12" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="165" column="60" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="166" column="79" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="174" column="15" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="46" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
+      <jump line="213" column="51" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" />
+      <jump line="95" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,8 +315,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyJldmVudERhdGUiOiIyMDIxLTAyLTIyVDExOjM4OjM2LjEzNCswMTowMCIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImxldmVsIjoiSU5GTyIsInJlc3VsdCI6IlNVQ0NFU1MiLCJhcHAiOiItLS0iLCJlbnZpcm9ubWVudCI6Ii0tLSIsImxldmVsIjoiSU5GTyIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImRlc2NyaXB0aW9uIjoiVUMuTU8uMjg0IiwiZXZlbnRDb250ZXh0SWQiOiI2NmYwMGQ1OS1hNzdhLTQyZmUtOGFiZi00MmQzYWRjYjY1ODQiLCJwbGFjZSI6Ii0tLSIsImNhdGVnb3J5IjoiSU5QVVQiLCJvY2lkIjoiLS0tIiwidXNlciI6Ii0tLSIsImV2ZW50RGF0ZSI6IjIwMjEtMDItMjJUMTE6Mzg6MzYuMTI3KzAxMDAiLCJhcHAiOiJtby1ub3RpY2UtaW1wb3J0ZXIiLCJlbnZpcm9ubWVudCI6IkxPQ0FMIiwicGxhY2UiOiJ3ZXN0ZXVyb3BlIn0K</text>
+      <register name="&quot;" type="4">
+        <text>1025f4bf</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -338,16 +328,16 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">eyJldmVudERhdGUiOiIyMDIxLTAyLTIyVDExOjM4OjM2LjEzNCswMTowMCIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImxldmVsIjoiSU5GTyIsInJlc3VsdCI6IlNVQ0NFU1MiLCJhcHAiOiItLS0iLCJlbnZpcm9ubWVudCI6Ii0tLSIsImxldmVsIjoiSU5GTyIsImV2ZW50TmFtZSI6IlBhcmFtZXRyeSB3eXdvs2FuaWE6IFtTRVJWRVJdLiIsImRlc2NyaXB0aW9uIjoiVUMuTU8uMjg0IiwiZXZlbnRDb250ZXh0SWQiOiI2NmYwMGQ1OS1hNzdhLTQyZmUtOGFiZi00MmQzYWRjYjY1ODQiLCJwbGFjZSI6Ii0tLSIsImNhdGVnb3J5IjoiSU5QVVQiLCJvY2lkIjoiLS0tIiwidXNlciI6Ii0tLSIsImV2ZW50RGF0ZSI6IjIwMjEtMDItMjJUMTE6Mzg6MzYuMTI3KzAxMDAiLCJhcHAiOiJtby1ub3RpY2UtaW1wb3J0ZXIiLCJlbnZpcm9ubWVudCI6IkxPQ0FMIiwicGxhY2UiOiJ3ZXN0ZXVyb3BlIn0K</text>
+        <text encoding="base64">eyJyZXN1bHQiOiJTVUNDRVNTIiwibGV2ZWwiOiJJTkZPIiwiZXZlbnROYW1lIjoiUGFyYW1ldHJ5IHd5d2+zYW5pYTogW1NFUlZFUl0uIiwiZGVzY3JpcHRpb24iOiJVQy5NTy4yODQiLCJldmVudENvbnRleHRJZCI6ImM0NjA5NjJjLTBkYmMtNDYzYy1iYmRiLTRmYjg1NDkzM2E1MiIsImNhdGVnb3J5IjoiSU5QVVQiLCJvY2lkIjoiLS0tIiwidXNlciI6Ii0tLSIsImV2ZW50RGF0ZSI6IjIwMjEtMDItMjJUMTM6MTA6MjkuNDE4KzAxMDAiLCJhcHAiOiJtby1ub3RpY2UtaW1wb3J0ZXIiLCJlbnZpcm9ubWVudCI6IkxPQ0FMIiwicGxhY2UiOiJ3ZXN0ZXVyb3BlIn0K</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IWluc2lkZUFuYWx5emVySGVscGVyLmlzQnJva2VuQ29uc2lzdGVudCgpIHx8IA==</text>
+        <text>1025f4bf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnNpZGVzXD4=</text>
+        <text encoding="base64">XDxyb2xsaW5nUG9saWN5XD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -364,43 +354,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmFscy5hZGQobmV3IFNpZ25hbChTaWduYWxUeXBlLlNFTEwsIGFuYWx5emVRdW90ZSwgU2lnbmFsVHJpZ2dlci5NQVQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aHJlYWQ+W2lnbm9yZV08L3RocmVhZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZXZlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zaWRlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX1BMQUNFLCBob2xkZXJJZkVtcHR5KGxvZy5nZXRQbGFjZSgpKSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zaWRlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlua2VyU2VydmljZXMK</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX0VOVklST05NRU5ULCBob2xkZXJJZkVtcHR5KGxvZy5nZXRFbnZpcm9ubWVudCgpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwcDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX0FQUCwgaG9sZGVySWZFbXB0eShsb2cuZ2V0QXBwKCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXNzYWdlPmV2ZW50TmFtZTwvbWVzc2FnZT4K</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -415,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbnNpZGVzXD4=</last-search>
+      <last-search encoding="base64">XDxyb2xsaW5nUG9saWN5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnNpZGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb2xsaW5nUG9saWN5XD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
