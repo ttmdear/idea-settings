@@ -130,11 +130,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1613995792554">
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1613998826675">
         <mark key="'" line="5" column="9" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/Log.java" timestamp="1613995501050">
         <mark key="[" line="26" column="0" />
@@ -159,12 +160,6 @@
         <mark key="]" line="62" column="18" />
         <mark key="." line="62" column="10" />
       </file>
-      <file name="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/DSOppositionService.java" timestamp="1613652930295">
-        <mark key="[" line="356" column="42" />
-        <mark key="]" line="356" column="63" />
-        <mark key="." line="356" column="62" />
-        <mark key="^" line="356" column="63" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/TimeBasedRollingPolicy.java" timestamp="1613992244059" />
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/java/com/pentacomp/ezamowienia/mo/importer/auditlogger/service/AuditLoggerService.java" timestamp="1613995894654">
         <mark key="'" line="213" column="51" />
@@ -179,7 +174,7 @@
         <mark key="." line="151" column="53" />
         <mark key="^" line="151" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613996390015">
+      <file name="/Dummy.txt" timestamp="1613998889088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
@@ -203,6 +198,7 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="43" column="11" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1613997626159" />
       <file name="/fragment.java" timestamp="1613991754315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -316,7 +312,7 @@
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1025f4bf</text>
+        <text>audit</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -334,7 +330,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>1025f4bf</text>
+        <text>audit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb2xsaW5nUG9saWN5XD4=</text>
@@ -353,44 +349,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aHJlYWQ+W2lnbm9yZV08L3RocmVhZD4K</text>
+      <register name="0" type="4">
+        <text>${HOSTNAME}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZXZlCg==</text>
+        <text encoding="base64">ICAgIDx0aW1lc3RhbXAga2V5PSJ0aW1lc3RhbXAiIGRhdGVQYXR0ZXJuPSJ5eXl5TU1kZHNzIi8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX1BMQUNFLCBob2xkZXJJZkVtcHR5KGxvZy5nZXRQbGFjZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGltZXN0YW1wIGtleT0idGltZXN0YW1wIiBkYXRlUGF0dGVybj0ieXl5eU1NZGRzcyIvPgo=</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50Owo=</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX0VOVklST05NRU5ULCBob2xkZXJJZkVtcHR5KGxvZy5nZXRFbnZpcm9ubWVudCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZXZlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX0FQUCwgaG9sZGVySWZFbXB0eShsb2cuZ2V0QXBwKCkpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBsYWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KEZJRUxEX1BMQUNFLCBob2xkZXJJZkVtcHR5KGxvZy5nZXRQbGFjZSgpKSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtZXNzYWdlPmV2ZW50TmFtZTwvbWVzc2FnZT4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVudmlyb25tZW50Owo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
