@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Set</entry>
-        <entry>OfSe</entry>
-        <entry encoding="base64">XDxpbnNpZGVzXD4=</entry>
-        <entry encoding="base64">XDxmaWxlTmFtZVBhdHRlcm5cPg==</entry>
-        <entry encoding="base64">XDxyb2xsaW5nUG9saWN5XD4=</entry>
         <entry>ogl_o_zam</entry>
         <entry>ogl_o_zam'</entry>
         <entry>05101</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxwZW50YWlkLWR0b1w+</entry>
         <entry>ogl_o_zm_ogl&quot;</entry>
         <entry>ogl_o_zm_ogl'</entry>
+        <entry>4210</entry>
+        <entry>4.1.10</entry>
+        <entry>4.2.10</entry>
+        <entry encoding="base64">IE9rcmVzIHJlYWxpemFjamkgLSBkbmkg</entry>
+        <entry>Okres realizacji - dni</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -122,15 +122,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" timestamp="1613994461327">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1613999503681">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1613998826675">
         <mark key="'" line="5" column="9" />
         <mark key="[" line="3" column="33" />
@@ -150,11 +141,6 @@
         <mark key="." line="1214" column="29" />
         <mark key="^" line="1214" column="37" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613995981472">
-        <mark key="'" line="95" column="18" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="320" />
-      </file>
       <file name="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614246374403">
         <mark key="'" line="153" column="8" />
         <mark key="[" line="151" column="55" />
@@ -162,20 +148,11 @@
         <mark key="." line="151" column="53" />
         <mark key="^" line="151" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.4/logstash-logback-encoder-6.4-sources.jar!/net/logstash/logback/encoder/LogstashEncoder.java" timestamp="1613994682399">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="27" />
-      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl-1.0.0.ftl" timestamp="1614257662326" />
       <file name="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" timestamp="1613999498780">
         <mark key="[" line="62" column="10" />
         <mark key="]" line="62" column="18" />
         <mark key="." line="62" column="10" />
-      </file>
-      <file name="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1614242776385">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="27" column="63" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/idwall/src/app/components/mojeid/mojeid.component.html" timestamp="1614253354753">
         <mark key="[" line="28" column="35" />
@@ -189,11 +166,38 @@
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1614257480162">
+        <mark key="'" line="139" column="8" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" timestamp="1614257684285">
+        <mark key="'" line="72" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5425" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1613999503681">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613995981472">
+        <mark key="'" line="95" column="18" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="320" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.4/logstash-logback-encoder-6.4-sources.jar!/net/logstash/logback/encoder/LogstashEncoder.java" timestamp="1613994682399">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="27" />
+      </file>
+      <file name="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1614242776385">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="63" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1614077308750">
         <mark key="'" line="723" column="21" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1614256662525">
-        <mark key="'" line="139" column="8" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/pom.xml" timestamp="1614255800952">
         <mark key="'" line="455" column="26" />
@@ -209,18 +213,8 @@
       <file name="/fragment.java" timestamp="1614243329981">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" timestamp="1614256764263">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5425" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" />
-      <jump line="8" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/templates/ds_opposition/basic_information/ds_opp_basic_information.ejs" />
-      <jump line="18" column="28" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Finland/src/main/resources/conf/tmbo-opposition-design-columns-conf.xml" />
-      <jump line="19" column="35" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/conf/releases/Finland/src/main/resources/conf/tmbo-opposition-design-columns-conf.xml" />
-      <jump line="58" column="25" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/BackEnd/src/main/java/eu/ohim/fsp/dsbo/ui/controller/DesignOppositionController.java" />
       <jump line="35" column="13" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/CoreDomain/src/main/java/eu/ohim/fsp/core/domain/v3/opposition/Opposition.java" />
       <jump line="41" column="37" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/UiDomain/src/main/java/eu/ohim/fsp/bo/domain/ui/design/DSOppositionUI.java" />
       <jump line="1464" column="21" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/ui/FrontEnd/src/js/nls/i18n.es6.js" />
@@ -316,6 +310,11 @@
       <jump line="16" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
       <jump line="334" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="8" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="23" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="39" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="71" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="72" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,7 +344,7 @@
         <text>frontend</text>
       </register>
       <register name="/" type="4">
-        <text>ogl_o_zm_ogl'</text>
+        <text>Okres realizacji - dni</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -650,9 +649,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ogl_o_zm_ogl'</last-search>
+      <last-search>Okres realizacji - dni</last-search>
       <last-offset />
-      <last-pattern>ogl_o_zm_ogl'</last-pattern>
+      <last-pattern>Okres realizacji - dni</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
