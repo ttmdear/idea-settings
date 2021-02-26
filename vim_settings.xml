@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ogl_o_zm_ogl&quot;</entry>
-        <entry>ogl_o_zm_ogl'</entry>
-        <entry>4210</entry>
-        <entry>4.1.10</entry>
         <entry>4.2.10</entry>
         <entry encoding="base64">IE9rcmVzIHJlYWxpemFjamkgLSBkbmkg</entry>
         <entry>Okres realizacji - dni</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDx0b0xpc3RcPg==</entry>
         <entry encoding="base64">XDxjb2xsZWN0XD4=</entry>
         <entry>noti</entry>
+        <entry>group</entry>
+        <entry>grou</entry>
+        <entry encoding="base64">XDxOUV9ERVRBQ0hfUFJPVklERVJTXD4=</entry>
+        <entry encoding="base64">XDxOUV9BVFRBQ0hfUFJPVklERVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -122,16 +122,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/test/groovy/pl/pentacomp/pentaid/controller/IDWallControllerTest.groovy" timestamp="1614328016230" />
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1614336531400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32527" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/IdentityProvider.java" timestamp="1614342368232">
+        <mark key="[" line="153" column="29" />
+        <mark key="]" line="153" column="29" />
+        <mark key="." line="153" column="28" />
+        <mark key="^" line="153" column="29" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" timestamp="1614335366529">
         <mark key="[" line="28" column="40" />
         <mark key="]" line="28" column="57" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dao/bn/impl/ProviderGroupDaoImpl.java" timestamp="1614342535567" />
       <file name="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" timestamp="1614338736490">
         <mark key="'" line="71" column="17" />
         <mark key="[" line="34" column="10" />
@@ -151,7 +157,6 @@
       <file name="/Dummy.groovy" timestamp="1614336775314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderSummaryDto.java" timestamp="1614328134497" />
       <file name="C:/Projekty/workspace/eid.repos/wb/log-exporter/pom.xml" timestamp="1614334643249" />
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1614336303674">
         <mark key="'" line="289" column="19" />
@@ -175,14 +180,7 @@
         <mark key="^" line="79" column="8" />
         <mark key="." line="79" column="7" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" timestamp="1614328696097">
-        <mark key="'" line="1" column="38" />
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="58" />
-        <mark key="^" line="0" column="58" />
-        <mark key="." line="0" column="57" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/IdentityProviderServiceImpl.java" timestamp="1614341717117">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/IdentityProviderServiceImpl.java" timestamp="1614342286145">
         <mark key="[" line="70" column="28" />
         <mark key="]" line="70" column="28" />
         <mark key="." line="70" column="27" />
@@ -194,6 +192,11 @@
         <mark key="]" line="567" column="43" />
         <mark key="^" line="567" column="43" />
         <mark key="." line="567" column="42" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" timestamp="1614342621135">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="72" column="1" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/pom.xml" timestamp="1614334685642" />
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" timestamp="1614341395292">
@@ -208,12 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
-      <jump line="173" column="8" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" />
-      <jump line="13" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" />
-      <jump line="2" column="49" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
-      <jump line="3" column="36" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
-      <jump line="4" column="48" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
       <jump line="66" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
       <jump line="25" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
       <jump line="1" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
@@ -308,6 +305,12 @@
       <jump line="194" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
       <jump line="98" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
       <jump line="71" column="17" filename="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" />
+      <jump line="21" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
+      <jump line="33" column="68" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
+      <jump line="25" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
+      <jump line="34" column="67" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
+      <jump line="8" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,8 +318,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>cc9a866f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kb21haW4uYm47CgppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CmltcG9ydCBvcmcuaGliZXJuYXRlLmFubm90YXRpb25zLkdlbmVyaWNHZW5lcmF0b3I7CgppbXBvcnQgamF2YXgucGVyc2lzdGVuY2UuKjsKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCmltcG9ydCBzdGF0aWMgamF2YXgucGVyc2lzdGVuY2UuQ2FzY2FkZVR5cGUuREVUQUNIOwoKLyoqCiAqIEBhdXRob3IgUGF0cnlrIE9wYXNlaywgUGVudGFjb21wIFN5c3RlbXkgSW5mb3JtYXR5Y3puZSBTLkEuCiAqLwpARW50aXR5CkBUYWJsZShuYW1lID0gIkJOX1BST1ZJREVSU19HUk9VUFMiKQpAR2V0dGVyCkBTZXR0ZXIKQE5hbWVkUXVlcmllcyh7CiAgICAgICAgQE5hbWVkUXVlcnkobmFtZSA9IFByb3ZpZGVyR3JvdXAuTlFfREVUQUNIX1BST1ZJREVSUywKICAgICAgICAgICAgICAgIHF1ZXJ5ID0gIlVQREFURSBJZGVudGl0eVByb3ZpZGVyIGlwICIgKwogICAgICAgICAgICAgICAgICAgICAgICAiU0VUIGlwLmltcG9ydGFuY2UgPSBudWxsLCBpcC5wcm92aWRlckdyb3VwID0gbnVsbCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIldIRVJFIGlwLnByb3ZpZGVyR3JvdXAgaXMgbm90IG51bGwgYW5kIGlwLnByb3ZpZGVyR3JvdXAuaWQgPSA6aWQiKSwKICAgICAgICBATmFtZWRRdWVyeShuYW1lID0gUHJvdmlkZXJHcm91cC5OUV9BVFRBQ0hfUFJPVklERVIsCiAgICAgICAgICAgICAgICBxdWVyeSA9ICJVUERBVEUgSWRlbnRpdHlQcm92aWRlciBpcCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIlNFVCBpcC5pbXBvcnRhbmNlID0gOmltcG9ydGFuY2UsIGlwLnByb3ZpZGVyR3JvdXAuaWQgPSA6aWQgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICJXSEVSRSBpcC5pZCA9IDppZHBJZCIpLAp9KQpATm9BcmdzQ29uc3RydWN0b3IKcHVibGljIGNsYXNzIFByb3ZpZGVyR3JvdXAgewoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5RX0RFVEFDSF9QUk9WSURFUlMgPSAiUHJvdmlkZXJHcm91cC5OUV9ERVRBQ0hfUFJPVklERVJTIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5RX0FUVEFDSF9QUk9WSURFUiA9ICJQcm92aWRlckdyb3VwLk5RX0FUVEFDSF9QUk9WSURFUiI7CgogICAgQElkCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUl9JRCIpCiAgICBAR2VuZXJhdGVkVmFsdWUoZ2VuZXJhdG9yID0gImJucl9pZF9nZW4iKQogICAgQEdlbmVyaWNHZW5lcmF0b3IobmFtZSA9ICJibnJfaWRfZ2VuIiwgc3RyYXRlZ3kgPSAicGwucGVudGFjb21wLnBlbnRhaWQuZG9tYWluLklkR2VuZXJhdG9yIikKICAgIHByaXZhdGUgTG9uZyBpZDsKCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUl9OQU1FIikKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgQENvbHVtbihuYW1lID0gIlBSR1JfSU1QT1JUQU5DRSIpCiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKCiAgICBATG9iCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUl9MT0dPIikKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287CgogICAgQENvbHVtbihuYW1lID0gIlBSR1JfR1JPVVBfSURFTlRJRklFUiIpCiAgICBwcml2YXRlIEludGVnZXIgZ3JvdXBJZGVudGlmaWVyOwoKICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgTG9uZyBwcm92aWRlckNvdW50OwoKICAgIEBPbmVUb01hbnkoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSwgY2FzY2FkZSA9IERFVEFDSCwgbWFwcGVkQnkgPSAicHJvdmlkZXJHcm91cCIpCiAgICBwcml2YXRlIExpc3Q8SWRlbnRpdHlQcm92aWRlcj4gaWRlbnRpdHlQcm92aWRlcnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBAVHJhbnNpZW50CiAgICBwcml2YXRlIExpc3Q8SWRlbnRpdHlQcm92aWRlcj4gaWRlbnRpdHlQcm92aWRlcnNJbkdyb3VwOwoKICAgIHB1YmxpYyBQcm92aWRlckdyb3VwKExvbmcgaWQsIFN0cmluZyBuYW1lLCBJbnRlZ2VyIGltcG9ydGFuY2UsIGJ5dGVbXSBsb2dvLCBMb25nIHByb3ZpZGVyQ291bnQsIEludGVnZXIgZ3JvdXBJZGVudGlmaWVyKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICAgICAgdGhpcy5pbXBvcnRhbmNlID0gaW1wb3J0YW5jZTsKICAgICAgICB0aGlzLmxvZ28gPSBsb2dvOwogICAgICAgIHRoaXMucHJvdmlkZXJDb3VudCA9IHByb3ZpZGVyQ291bnQ7CiAgICAgICAgdGhpcy5ncm91cElkZW50aWZpZXIgPSBncm91cElkZW50aWZpZXI7CiAgICB9Cn0K</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -327,17 +330,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="4">
-        <text>findAllActiveAsDTO</text>
+      <register name="+" type="2">
+        <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kb21haW4uYm47CgppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CmltcG9ydCBvcmcuaGliZXJuYXRlLmFubm90YXRpb25zLkdlbmVyaWNHZW5lcmF0b3I7CgppbXBvcnQgamF2YXgucGVyc2lzdGVuY2UuKjsKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCmltcG9ydCBzdGF0aWMgamF2YXgucGVyc2lzdGVuY2UuQ2FzY2FkZVR5cGUuREVUQUNIOwoKLyoqCiAqIEBhdXRob3IgUGF0cnlrIE9wYXNlaywgUGVudGFjb21wIFN5c3RlbXkgSW5mb3JtYXR5Y3puZSBTLkEuCiAqLwpARW50aXR5CkBUYWJsZShuYW1lID0gIkJOX1BST1ZJREVSU19HUk9VUFMiKQpAR2V0dGVyCkBTZXR0ZXIKQE5hbWVkUXVlcmllcyh7CiAgICAgICAgQE5hbWVkUXVlcnkobmFtZSA9IFByb3ZpZGVyR3JvdXAuTlFfREVUQUNIX1BST1ZJREVSUywKICAgICAgICAgICAgICAgIHF1ZXJ5ID0gIlVQREFURSBJZGVudGl0eVByb3ZpZGVyIGlwICIgKwogICAgICAgICAgICAgICAgICAgICAgICAiU0VUIGlwLmltcG9ydGFuY2UgPSBudWxsLCBpcC5wcm92aWRlckdyb3VwID0gbnVsbCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIldIRVJFIGlwLnByb3ZpZGVyR3JvdXAgaXMgbm90IG51bGwgYW5kIGlwLnByb3ZpZGVyR3JvdXAuaWQgPSA6aWQiKSwKICAgICAgICBATmFtZWRRdWVyeShuYW1lID0gUHJvdmlkZXJHcm91cC5OUV9BVFRBQ0hfUFJPVklERVIsCiAgICAgICAgICAgICAgICBxdWVyeSA9ICJVUERBVEUgSWRlbnRpdHlQcm92aWRlciBpcCAiICsKICAgICAgICAgICAgICAgICAgICAgICAgIlNFVCBpcC5pbXBvcnRhbmNlID0gOmltcG9ydGFuY2UsIGlwLnByb3ZpZGVyR3JvdXAuaWQgPSA6aWQgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICJXSEVSRSBpcC5pZCA9IDppZHBJZCIpLAp9KQpATm9BcmdzQ29uc3RydWN0b3IKcHVibGljIGNsYXNzIFByb3ZpZGVyR3JvdXAgewoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5RX0RFVEFDSF9QUk9WSURFUlMgPSAiUHJvdmlkZXJHcm91cC5OUV9ERVRBQ0hfUFJPVklERVJTIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5RX0FUVEFDSF9QUk9WSURFUiA9ICJQcm92aWRlckdyb3VwLk5RX0FUVEFDSF9QUk9WSURFUiI7CgogICAgQElkCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUl9JRCIpCiAgICBAR2VuZXJhdGVkVmFsdWUoZ2VuZXJhdG9yID0gImJucl9pZF9nZW4iKQogICAgQEdlbmVyaWNHZW5lcmF0b3IobmFtZSA9ICJibnJfaWRfZ2VuIiwgc3RyYXRlZ3kgPSAicGwucGVudGFjb21wLnBlbnRhaWQuZG9tYWluLklkR2VuZXJhdG9yIikKICAgIHByaXZhdGUgTG9uZyBpZDsKCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUl9OQU1FIikKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgQENvbHVtbihuYW1lID0gIlBSR1JfSU1QT1JUQU5DRSIpCiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKCiAgICBATG9iCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUl9MT0dPIikKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287CgogICAgQENvbHVtbihuYW1lID0gIlBSR1JfR1JPVVBfSURFTlRJRklFUiIpCiAgICBwcml2YXRlIEludGVnZXIgZ3JvdXBJZGVudGlmaWVyOwoKICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgTG9uZyBwcm92aWRlckNvdW50OwoKICAgIEBPbmVUb01hbnkoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSwgY2FzY2FkZSA9IERFVEFDSCwgbWFwcGVkQnkgPSAicHJvdmlkZXJHcm91cCIpCiAgICBwcml2YXRlIExpc3Q8SWRlbnRpdHlQcm92aWRlcj4gaWRlbnRpdHlQcm92aWRlcnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBAVHJhbnNpZW50CiAgICBwcml2YXRlIExpc3Q8SWRlbnRpdHlQcm92aWRlcj4gaWRlbnRpdHlQcm92aWRlcnNJbkdyb3VwOwoKICAgIHB1YmxpYyBQcm92aWRlckdyb3VwKExvbmcgaWQsIFN0cmluZyBuYW1lLCBJbnRlZ2VyIGltcG9ydGFuY2UsIGJ5dGVbXSBsb2dvLCBMb25nIHByb3ZpZGVyQ291bnQsIEludGVnZXIgZ3JvdXBJZGVudGlmaWVyKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICAgICAgdGhpcy5pbXBvcnRhbmNlID0gaW1wb3J0YW5jZTsKICAgICAgICB0aGlzLmxvZ28gPSBsb2dvOwogICAgICAgIHRoaXMucHJvdmlkZXJDb3VudCA9IHByb3ZpZGVyQ291bnQ7CiAgICAgICAgdGhpcy5ncm91cElkZW50aWZpZXIgPSBncm91cElkZW50aWZpZXI7CiAgICB9Cn0K</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>cc9a866f</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>noti</text>
+        <text encoding="base64">XDxOUV9BVFRBQ0hfUFJPVklERVJcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -405,9 +408,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>noti</last-search>
+      <last-search encoding="base64">XDxOUV9BVFRBQ0hfUFJPVklERVJcPg==</last-search>
       <last-offset />
-      <last-pattern>noti</last-pattern>
+      <last-pattern encoding="base64">XDxOUV9BVFRBQ0hfUFJPVklERVJcPg==</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
