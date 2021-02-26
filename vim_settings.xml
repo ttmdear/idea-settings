@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">IE9rcmVzIHJlYWxpemFjamkgLSBkbmkg</entry>
-        <entry>Okres realizacji - dni</entry>
-        <entry>Post</entry>
-        <entry encoding="base64">XDxzZXJ2ZXJCYXNlVXJsXD4=</entry>
         <entry encoding="base64">XDxnZXRBY3RpdmVJRFBzXD4=</entry>
         <entry encoding="base64">XDxhY3RpdmVJRFBzUmVzdFVybFw+</entry>
         <entry>ogl_o_zam'</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxOUV9ERVRBQ0hfUFJPVklERVJTXD4=</entry>
         <entry encoding="base64">XDxOUV9BVFRBQ0hfUFJPVklERVJcPg==</entry>
         <entry encoding="base64">XDxyZWRpcmVjdEF0dHJpYnV0ZXNcPg==</entry>
+        <entry encoding="base64">XDxtYVw+</entry>
+        <entry encoding="base64">XDxyZXNldFRlc3RpbmdDb3VudGVyXD4=</entry>
+        <entry encoding="base64">XDxpbml0TWFcPg==</entry>
+        <entry encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -122,16 +122,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1614336531400">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32527" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/IdentityProvider.java" timestamp="1614342368232">
         <mark key="[" line="153" column="29" />
         <mark key="]" line="153" column="29" />
         <mark key="." line="153" column="28" />
         <mark key="^" line="153" column="29" />
+      </file>
+      <file name="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614349706188">
+        <mark key="'" line="99" column="49" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dao/bn/impl/ProviderGroupDaoImpl.java" timestamp="1614342535567" />
       <file name="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" timestamp="1614338736490">
@@ -146,9 +147,6 @@
         <mark key="]" line="68" column="8" />
         <mark key="^" line="68" column="8" />
         <mark key="." line="68" column="7" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1614336775314">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1614338331592">
         <mark key="'" line="98" column="13" />
@@ -171,18 +169,23 @@
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" timestamp="1614343603017">
         <mark key="'" line="63" column="38" />
       </file>
+      <file name="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" timestamp="1614349644482">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="18" />
+        <mark key="^" line="63" column="19" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/IdentityProviderServiceImpl.java" timestamp="1614342286145">
         <mark key="[" line="70" column="28" />
         <mark key="]" line="70" column="28" />
         <mark key="." line="70" column="27" />
         <mark key="^" line="70" column="28" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1614336526506">
-        <mark key="'" line="432" column="33" />
-        <mark key="[" line="567" column="38" />
-        <mark key="]" line="567" column="43" />
-        <mark key="^" line="567" column="43" />
-        <mark key="." line="567" column="42" />
+      <file name="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/chart/chartobjects/LineIndicator.java" timestamp="1614348907208">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroupLogo.java" timestamp="1614346637897">
         <mark key="[" line="26" column="20" />
@@ -216,22 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="25" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/test/groovy/pl/pentacomp/pentaid/services/IdentityProviderServiceTest.groovy" />
-      <jump line="77" column="10" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" />
-      <jump line="130" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" />
-      <jump line="70" column="47" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/test/groovy/pl/pentacomp/pentaid/mapper/IdentityProviderMapperTest.groovy" />
-      <jump line="40" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderLoader.java" />
-      <jump line="16" column="0" filename="C:/Projekty/workspace/eid.repos/wb/.gitignore" />
-      <jump line="48" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" />
-      <jump line="289" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="138" column="16" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="246" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="567" column="38" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="841" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="562" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="570" column="37" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
-      <jump line="432" column="33" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" />
       <jump line="4" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="702" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="750" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
@@ -316,6 +303,22 @@
       <jump line="71" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
       <jump line="63" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
       <jump line="141" column="43" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
+      <jump line="66" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="95" column="18" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="24" column="16" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="65" column="0" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="247" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="234" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="239" column="16" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="172" column="12" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="296" column="0" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="28" column="26" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="233" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="67" column="17" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="53" column="0" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="61" column="12" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="230" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="99" column="49" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,7 +327,7 @@
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVkaXJlY3RBdHRyaWJ1dGVzIHJlZGlyZWN0QXR0cmlidXRlcywg</text>
+        <text>i</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -342,10 +345,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVkaXJlY3RBdHRyaWJ1dGVzIHJlZGlyZWN0QXR0cmlidXRlcywg</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWRpcmVjdEF0dHJpYnV0ZXNcPg==</text>
+        <text encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -361,8 +364,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>PRGR_ID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGluZUluZGljYXRvciBtYUNoYXJ0SW5kaWNhdG9yOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -371,34 +374,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0TWEoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0TWEoKSB7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm92aWRlckdyb3VwTG9nbyhMb25nIGlkLCBTdHJpbmcgbmFtZSwgSW50ZWdlciBpbXBvcnRhbmNlLCBieXRlW10gbG9nbywgTG9uZyBwcm92aWRlckNvdW50LCBJbnRlZ2VyIGdyb3VwSWRlbnRpZmllcikgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgIHRoaXMuaW1wb3J0YW5jZSA9IGltcG9ydGFuY2U7CiAgICAgICAgdGhpcy5sb2dvID0gbG9nbzsKICAgICAgICB0aGlzLnByb3ZpZGVyQ291bnQgPSBwcm92aWRlckNvdW50OwogICAgICAgIHRoaXMuZ3JvdXBJZGVudGlmaWVyID0gZ3JvdXBJZGVudGlmaWVyOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0TWEoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm92aWRlckdyb3VwTG9nbyhMb25nIGlkLCBTdHJpbmcgbmFtZSwgSW50ZWdlciBpbXBvcnRhbmNlLCBieXRlW10gbG9nbywgTG9uZyBwcm92aWRlckNvdW50LCBJbnRlZ2VyIGdyb3VwSWRlbnRpZmllcikgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgIHRoaXMuaW1wb3J0YW5jZSA9IGltcG9ydGFuY2U7CiAgICAgICAgdGhpcy5sb2dvID0gbG9nbzsKICAgICAgICB0aGlzLnByb3ZpZGVyQ291bnQgPSBwcm92aWRlckNvdW50OwogICAgICAgIHRoaXMuZ3JvdXBJZGVudGlmaWVyID0gZ3JvdXBJZGVudGlmaWVyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtYSA9IG5ldyBTTUEoZ2V0UXVvdGF0aW9ucygpLCBwYXJhbWV0ZXJzLmdldEFuYWx5emVNQVNNQVBlcmlvZCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb01hbnkoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSwgY2FzY2FkZSA9IERFVEFDSCwgbWFwcGVkQnkgPSAicHJvdmlkZXJHcm91cCIpCiAgICBwcml2YXRlIExpc3Q8SWRlbnRpdHlQcm92aWRlcj4gaWRlbnRpdHlQcm92aWRlcnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBAVHJhbnNpZW50CiAgICBwcml2YXRlIExpc3Q8SWRlbnRpdHlQcm92aWRlcj4gaWRlbnRpdHlQcm92aWRlcnNJbkdyb3VwOwoK</text>
+        <text encoding="base64">ICAgICAgICBtYSA9IG5ldyBTTUEoZ2V0UXVvdGF0aW9ucygpLCBwYXJhbWV0ZXJzLmdldEFuYWx5emVNQVNNQVBlcmlvZCgpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgTG9uZyBwcm92aWRlckNvdW50OwoK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGluZUluZGljYXRvciBtYUNoYXJ0SW5kaWNhdG9yOwo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -413,9 +416,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWRpcmVjdEF0dHJpYnV0ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWRpcmVjdEF0dHJpYnV0ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>naza 4</last-substitute>
       <last-dir>1</last-dir>
