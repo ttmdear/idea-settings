@@ -144,9 +144,6 @@
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="10" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/.gitignore" timestamp="1614330392671">
-        <mark key="'" line="16" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderLoader.java" timestamp="1614341599948">
         <mark key="'" line="40" column="19" />
         <mark key="[" line="67" column="31" />
@@ -157,7 +154,6 @@
       <file name="/Dummy.groovy" timestamp="1614336775314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/log-exporter/pom.xml" timestamp="1614334643249" />
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1614336303674">
         <mark key="'" line="289" column="19" />
         <mark key="[" line="151" column="54" />
@@ -174,11 +170,16 @@
       <file name="/Dummy.txt" timestamp="1614338741719">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/IdentityProviderToDtoConverter.java" timestamp="1614343400364" />
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" timestamp="1614340457247">
         <mark key="'" line="77" column="10" />
         <mark key="]" line="79" column="8" />
         <mark key="^" line="79" column="8" />
         <mark key="." line="79" column="7" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/GenerateAuthnRequestController.java" timestamp="1614343181057" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" timestamp="1614343603017">
+        <mark key="'" line="63" column="38" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/IdentityProviderServiceImpl.java" timestamp="1614342286145">
         <mark key="[" line="70" column="28" />
@@ -193,7 +194,7 @@
         <mark key="^" line="567" column="43" />
         <mark key="." line="567" column="42" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" timestamp="1614342621135">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" timestamp="1614343498409">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="1" />
@@ -211,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
-      <jump line="25" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
-      <jump line="1" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/resources/application.properties" />
       <jump line="20" column="24" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IDPForUIDto.java" />
       <jump line="199" column="25" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/test/groovy/pl/pentacomp/pentaid/services/IdentityProviderServiceTest.groovy" />
       <jump line="77" column="10" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" />
@@ -311,6 +309,9 @@
       <jump line="34" column="67" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
       <jump line="8" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
+      <jump line="67" column="64" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
+      <jump line="71" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
+      <jump line="63" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
