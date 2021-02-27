@@ -122,12 +122,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1614459332769">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/audit-logger/src/main/resources/audit-logback.xml" timestamp="1613998826675">
         <mark key="'" line="5" column="9" />
         <mark key="[" line="3" column="33" />
@@ -140,13 +134,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613995981472">
-        <mark key="'" line="95" column="18" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="320" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/nbkpcsi244-20210222122323" timestamp="1613993040634">
-        <mark key="'" line="7" column="46" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1614465051900">
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="26" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" timestamp="1613999498780">
         <mark key="[" line="62" column="10" />
@@ -159,12 +152,12 @@
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614460786740">
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614464948480">
         <mark key="'" line="7" column="25" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="24" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.4/logstash-logback-encoder-6.4-sources.jar!/net/logstash/logback/encoder/LogstashEncoder.java" timestamp="1613994682399">
         <mark key="[" line="26" column="13" />
@@ -177,36 +170,49 @@
         <mark key="^" line="207" column="42" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/awt/BasicStroke.class" timestamp="1614459258492" />
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/rolling/RollingFileAppender.java" timestamp="1613994461327">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1614464877977">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="42" />
+        <mark key="." line="56" column="41" />
+        <mark key="^" line="56" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1614456885910">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="61" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614465033597">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="62" column="78" />
+        <mark key="]" line="62" column="118" />
+        <mark key="." line="62" column="117" />
+        <mark key="^" line="62" column="118" />
+      </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1614460490660" />
+      <file name="/Dummy.txt" timestamp="1614459332769">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/logs/audit.log" timestamp="1613995981472">
+        <mark key="'" line="95" column="18" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="320" />
+      </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1614464986945">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java" timestamp="1614457470228">
         <mark key="[" line="186" column="11" />
         <mark key="]" line="186" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1614463262679">
+      <file name="/fragment.java" timestamp="1614464501414">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614463385804">
-        <mark key="'" line="44" column="19" />
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="62" />
-        <mark key="." line="125" column="61" />
-        <mark key="^" line="125" column="62" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614464918437">
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="93" column="75" />
+        <mark key="^" line="92" column="37" />
+        <mark key="." line="92" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614457226650">
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="89" column="34" />
-        <mark key="." line="89" column="33" />
-        <mark key="^" line="89" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1614460490660" />
     </filemarks>
     <jumps>
       <jump line="278" column="22" filename="C:/Projekty/workspace/uprp.repos/cf-backoffice-8/core/DossierMgmt/DossierService/OppositionDossierService/OppositionDossierServiceBean/src/main/java/eu/ohim/fsp/core/opposition/service/OppositionService.java" />
@@ -316,8 +322,8 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgRGF0ZSBnZXRTZXR0bGluZ0Nhc2VEYXRlKCkgewogICAgICAgIHJldHVybiBzZXR0bGluZ0Nhc2VEYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFNldHRsaW5nQ2FzZURhdGUoRGF0ZSBzZXR0bGluZ0Nhc2VEYXRlKSB7CiAgICAgICAgdGhpcy5zZXR0bGluZ0Nhc2VEYXRlID0gc2V0dGxpbmdDYXNlRGF0ZTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -335,7 +341,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Att</text>
@@ -354,44 +360,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzaXN0YW5jZSA9IGFuYWx5emVDYW5kbGUuZ2V0Qm9keVRvcFZhbHVlKCkgPCBtYVZhbHVlOwogICAgICAgICAgICBzdXBwb3J0ID0gYW5hbHl6ZUNhbmRsZS5nZXRCb2R5Qm90dG9tVmFsdWUoKSA+PSBtYVZhbHVlOwo=</text>
+      <register name="0" type="4">
+        <text>insideMaxSize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1cHBvcnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHN1cHBvcnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc2lzdGFuY2UgPSBhbmFseXplQ2FuZGxlLmdldEJvZHlUb3BWYWx1ZSgpIDwgbWFWYWx1ZTsKICAgICAgICBib29sZWFuIHN1cHBvcnQgPSBhbmFseXplQ2FuZGxlLmdldEJvZHlCb3R0b21WYWx1ZSgpID4gbWFWYWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuID0gcmUK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc2lzdGFuY2UgPSBhbmFseXplQ2FuZGxlLmdldEJvZHlUb3BWYWx1ZSgpIDwgbWFWYWx1ZTsKICAgICAgICBib29sZWFuIHN1cHBvcnQgPSBhbmFseXplQ2FuZGxlLmdldEJvZHlCb3R0b21WYWx1ZSgpID4gbWFWYWx1ZTsK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuIikK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
