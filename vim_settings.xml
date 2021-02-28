@@ -13,7 +13,6 @@
         <entry encoding="base64">XDxtYU10VmFsdWVcPg==</entry>
         <entry>Attr</entry>
         <entry>Att</entry>
-        <entry encoding="base64">XDxWZWN0b3JcPg==</entry>
         <entry>Vec</entry>
         <entry encoding="base64">XDxUUGxcPg==</entry>
         <entry encoding="base64">XDxPUFRJTUlaQVRJT05fUkVTVUxUX1BBVEhcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxBTkFMWVpFX01BX01JTl9XQVZFX01PTUVOVFVNXD4=</entry>
         <entry encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</entry>
         <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</entry>
+        <entry encoding="base64">XDxWZWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -150,17 +150,24 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1614509387965">
+        <mark key="'" line="84" column="49" />
+        <mark key="[" line="131" column="61" />
+        <mark key="]" line="131" column="88" />
+        <mark key="." line="131" column="87" />
+        <mark key="^" line="131" column="88" />
+      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1614464986945">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614465436602">
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614508176014">
         <mark key="'" line="8" column="25" />
-        <mark key="[" line="50" column="28" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1614507901928">
         <mark key="'" line="53" column="91" />
@@ -195,10 +202,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0-sources.jar!/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java" timestamp="1614457470228">
-        <mark key="[" line="186" column="11" />
-        <mark key="]" line="186" column="32" />
-      </file>
       <file name="/fragment.java" timestamp="1614503572272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -217,11 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2238" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2286" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2334" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2382" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2430" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2478" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2526" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2574" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
@@ -317,6 +315,11 @@
       <jump line="36" column="10" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
       <jump line="89" column="50" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="53" column="91" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="86" column="35" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
+      <jump line="3" column="17" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
+      <jump line="38" column="48" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
+      <jump line="87" column="49" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +328,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJS41ZiIsIHZhbHVlKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>stopLossNew</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -343,10 +346,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>stopLossNew</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</text>
+        <text encoding="base64">XDxWZWN0b3JcPg==</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -363,43 +366,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBPUFRJTUlaQVRJT05fUkVTVUxUX1BBVEggPSAib3B0aW1pemF0aW9uLXJlc3VsdC5jc3YiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICAgICBvcmRlci5zZXRTdG9wTG9zcyhzdG9wTG9zc05ldyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsb2cuaW5mbygiT3BlbiBvcmRlciB7fSBhdCB7fSBwcmljZS4iLCBvcmRlci5nZXRPcmRlclR5cGUoKSwgb3JkZXIuZ2V0T3BlblByaWNlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5WZWN0b3I7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBzdG9wID0gZmFsc2U7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoQ29udHJvbGxlciBjb250cm9sbGVyOiBjb250cm9sbGVycykgewogICAgICAgICAgICBjb250cm9sbGVyLnJlbG9hZCgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBzdG9wID0gZmFsc2U7Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -414,9 +417,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</last-search>
+      <last-search encoding="base64">XDxWZWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</last-pattern>
+      <last-pattern encoding="base64">XDxWZWN0b3JcPg==</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
