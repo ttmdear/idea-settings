@@ -5,15 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYU10VmFsdWVcPg==</entry>
-        <entry>Attr</entry>
-        <entry>Att</entry>
-        <entry>Vec</entry>
-        <entry encoding="base64">XDxUUGxcPg==</entry>
-        <entry encoding="base64">XDxPUFRJTUlaQVRJT05fUkVTVUxUX1BBVEhcPg==</entry>
-        <entry encoding="base64">XDxzdG9wXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</entry>
-        <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTlVNQkVSXD4=</entry>
         <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUlOX0dBUF9UT19TSUdOQUxcPg==</entry>
         <entry encoding="base64">XDxBTkFMWVpFX01BX01BWF9HQVBfVE9fTUFcPg==</entry>
         <entry encoding="base64">XDxBTkFMWVpFX01BX01JTl9XQVZFX01PTUVOVFVNXD4=</entry>
@@ -22,9 +13,18 @@
         <entry encoding="base64">XDxWZWN0b3JcPg==</entry>
         <entry>Tp</entry>
         <entry>Inse</entry>
-        <entry>Mar</entry>
         <entry>Insi</entry>
         <entry encoding="base64">PjI=</entry>
+        <entry encoding="base64">XDxtYVpUMUNoYXJ0SW5kaWNhdG9yXD4=</entry>
+        <entry encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</entry>
+        <entry encoding="base64">XDxtYVpUMVZhbHVlXD4=</entry>
+        <entry encoding="base64">XDxtYVRiVmFsdWVcPg==</entry>
+        <entry encoding="base64">XDxtYUJ0VmFsdWVJbmRpY2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxtYUJiVmFsdWVJbmRpY2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxtYVphdFZhbHVlSW5kaWNhdG9yXD4=</entry>
+        <entry encoding="base64">XDxtYVpiYlZhbHVlSW5kaWNhdG9yXD4=</entry>
+        <entry>Bre</entry>
+        <entry>Mar</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -45,8 +45,8 @@
         <entry>355</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>252</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,14 +170,14 @@
         <mark key="^" line="228" column="24" />
         <mark key="." line="228" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1614528914429">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="31" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1614530562313">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614526081170">
-        <mark key="'" line="46" column="6" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614530424080">
+        <mark key="'" line="0" column="29" />
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="26" />
         <mark key="." line="11" column="25" />
@@ -212,11 +212,11 @@
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorRaport.java" timestamp="1614526491211">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1614526096488">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="31" />
-        <mark key="." line="61" column="40" />
-        <mark key="^" line="61" column="41" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1614529577201">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="3" />
+        <mark key="^" line="56" column="4" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/bootstrap/CommandName.java" timestamp="1614526421330">
         <mark key="[" line="3" column="21" />
@@ -230,41 +230,22 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614529105823">
-        <mark key="'" line="165" column="58" />
-        <mark key="[" line="157" column="8" />
-        <mark key="]" line="157" column="11" />
-        <mark key="." line="157" column="10" />
-        <mark key="^" line="157" column="11" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614530699342">
+        <mark key="'" line="81" column="12" />
+        <mark key="[" line="188" column="71" />
+        <mark key="]" line="189" column="12" />
+        <mark key="." line="189" column="11" />
+        <mark key="^" line="189" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614526128928">
-        <mark key="'" line="89" column="50" />
-        <mark key="[" line="112" column="38" />
-        <mark key="]" line="112" column="37" />
-        <mark key="." line="112" column="36" />
-        <mark key="^" line="112" column="37" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614529564801">
+        <mark key="'" line="105" column="68" />
+        <mark key="[" line="109" column="52" />
+        <mark key="]" line="109" column="68" />
+        <mark key="." line="108" column="34" />
+        <mark key="^" line="108" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3438" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="126" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="174" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="222" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="270" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="318" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="366" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="414" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="462" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="510" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="558" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="606" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="654" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="194" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
-      <jump line="98" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
-      <jump line="71" column="17" filename="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" />
-      <jump line="21" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
-      <jump line="33" column="68" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
-      <jump line="25" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
       <jump line="34" column="67" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
       <jump line="8" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
@@ -335,7 +316,6 @@
       <jump line="25" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="20" column="14" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="19" column="23" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="10" column="9" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="45" column="6" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/Application.java" />
@@ -346,15 +326,35 @@
       <jump line="61" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
       <jump line="59" column="22" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="32" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="74" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="258" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="105" column="68" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="113" column="22" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="114" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="250" column="84" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="33" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="78" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="34" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="79" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="35" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="80" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="36" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="81" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
+      <jump line="0" column="29" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJS41ZiIsIHZhbHVlKTsK</text>
+      <register name="a" type="4">
+        <text>getChart().createLineIndicator(&quot;MA-ZT1&quot;, Color.GRAY, msStroke);</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YW5hbHl6ZU1hTWluV2F2ZU1vbWVudHVtPTAuMDAwMgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -372,10 +372,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>optimizer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PjI=</text>
+        <text>Mar</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -392,49 +392,52 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW5hbHl6ZU1hTWluV2F2ZU1vbWVudHVtPTAuMDAwMgo=</text>
+        <text encoding="base64">ICAgICAgICBtYVpUMUNoYXJ0SW5kaWNhdG9yLmdldFZhbHVlcygpLmFkZChuZXcgUG9pbnQoYW5hbHl6ZVF1b3RlLmdldFRpbWUoKS5nZXRUaW1lKCksIG1hQnRWYWx1ZSkpOwogICAgICAgIG1hWkIxQ2hhcnRJbmRpY2F0b3IuZ2V0VmFsdWVzKCkuYWRkKG5ldyBQb2ludChhbmFseXplUXVvdGUuZ2V0VGltZSgpLmdldFRpbWUoKSwgbWFCYlZhbHVlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVnaXN0ZXJSZXN1bHQobmV3IE9wdGltaXplci5SZXN1bHQoc3VwZXJ2aXNvciwgYmFsYW5jZSwgdmFsdWVMaXN0LCBzaWduYWxOdW1iZXIsIGNsb3NlZE9uU0wsIGNsb3NlZE9uVFApKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3UK</text>
+        <text encoding="base64">YW5hbHl6ZU1hWm9uZUI9MTUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJpdmF0ZSBkb3VibGUgbWFWYWx1ZTsKICAgICAgICAgICAgLy8gcHJpdmF0ZSBkb3VibGUgbWFCdFZhbHVlOwogICAgICAgICAgICAvLyBwcml2YXRlIGRvdWJsZSBtYUJiVmFsdWU7CiAgICAgICAgICAgIC8vIHByaXZhdGUgZG91YmxlIG1hWmF0VmFsdWU7CiAgICAgICAgICAgIC8vIHByaXZhdGUgZG91YmxlIG1hWmJiVmFsdWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybWF0KCJEYXRlIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFaVDFDaGFydEluZGljYXRvciA9IGdldENoYXJ0KCkuY3JlYXRlTGluZUluZGljYXRvcigiTUEtWlQxIiwgQ29sb3IuR1JBWSwgbXNTdHJva2UpOwogICAgICAgICAgICBtYVpUMkNoYXJ0SW5kaWNhdG9yID0gZ2V0Q2hhcnQoKS5jcmVhdGVMaW5lSW5kaWNhdG9yKCJNQS1aVDIiLCBDb2xvci5HUkFZLCBtc1N0cm9rZSk7CgogICAgICAgICAgICBtYVpCMUNoYXJ0SW5kaWNhdG9yID0gZ2V0Q2hhcnQoKS5jcmVhdGVMaW5lSW5kaWNhdG9yKCJNQS1aQjEiLCBDb2xvci5HUkFZLCBtc1N0cm9rZSk7CiAgICAgICAgICAgIG1hWkIyQ2hhcnRJbmRpY2F0b3IgPSBnZXRDaGFydCgpLmNyZWF0ZUxpbmVJbmRpY2F0b3IoIk1BLVpCMiIsIENvbG9yLkdSQVksIG1zU3Ryb2tlKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="8">
+        <text encoding="base64">cHJpdmF0ZSBMaW5lSW5kaWNhdG9yIApwcml2YXRlIExpbmVJbmRpY2F0b3IgCnByaXZhdGUgTGluZUluZGljYXRvciAKcHJpdmF0ZSBMaW5lSW5kaWNhdG9yIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGluZUluZGljYXRvciBtYVpUMUNoYXJ0SW5kaWNhdG9yOwogICAgcHJpdmF0ZSBMaW5lSW5kaWNhdG9yIG1hWmF0Q2hhcnRJbmRpY2F0b3I7CgogICAgcHJpdmF0ZSBMaW5lSW5kaWNhdG9yIG1hWkIxQ2hhcnRJbmRpY2F0b3I7CiAgICBwcml2YXRlIExpbmVJbmRpY2F0b3IgbWFaYWJDaGFydEluZGljYXRvcjsK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>double
+double
+double
+double</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">PEBtLnByaW50U2VjdGlvbiB0aXRsZT0iU0VLQ0pBIEkg77+9IFpBTUFXSUFK77+9Q1kiIC8+Cg==</text>
@@ -443,9 +446,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PjI=</last-search>
+      <last-search>Mar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PjI=</last-pattern>
+      <last-pattern>Mar</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
