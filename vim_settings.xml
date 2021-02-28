@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</entry>
-        <entry>SmaPer</entry>
-        <entry encoding="base64">XDxtYVZhbHVlXD4=</entry>
         <entry encoding="base64">XDxtYU10VmFsdWVcPg==</entry>
         <entry>Attr</entry>
         <entry>Att</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxWZWN0b3JcPg==</entry>
         <entry>Tp</entry>
         <entry>Inse</entry>
+        <entry>Mar</entry>
+        <entry>Insi</entry>
+        <entry encoding="base64">PjI=</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -143,11 +143,11 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1614512642627">
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1614525775918">
         <mark key="'" line="27" column="86" />
         <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="22" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
         <mark key="^" line="60" column="23" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1614510404219">
@@ -169,12 +169,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614512775831">
-        <mark key="'" line="51" column="26" />
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="17" />
-        <mark key="^" line="58" column="18" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614526081170">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1614507901928">
         <mark key="'" line="53" column="91" />
@@ -204,10 +204,11 @@
         <mark key="." line="207" column="41" />
         <mark key="^" line="207" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1614465339657">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParameterName.java" timestamp="1614526096488">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="61" column="40" />
+        <mark key="^" line="61" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1614511319882">
         <mark key="[" line="0" column="0" />
@@ -215,24 +216,22 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614512627789">
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614526203714">
         <mark key="'" line="165" column="58" />
-        <mark key="[" line="165" column="58" />
-        <mark key="]" line="165" column="59" />
-        <mark key="." line="165" column="58" />
-        <mark key="^" line="165" column="59" />
+        <mark key="[" line="166" column="56" />
+        <mark key="]" line="167" column="12" />
+        <mark key="." line="167" column="11" />
+        <mark key="^" line="167" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614507753978">
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614526128928">
         <mark key="'" line="89" column="50" />
+        <mark key="[" line="112" column="38" />
+        <mark key="]" line="112" column="37" />
+        <mark key="." line="112" column="36" />
+        <mark key="^" line="112" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2814" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2862" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2910" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2958" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="3006" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="3054" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="3102" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="3150" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="3198" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
@@ -327,6 +326,12 @@
       <jump line="165" column="58" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="27" column="86" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" />
       <jump line="51" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="25" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="20" column="14" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="19" column="23" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="10" column="9" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="45" column="6" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,8 +339,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJS41ZiIsIHZhbHVlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2ltdWxhdG9yVHA9MC4wMDMwCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -353,10 +358,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Inse</text>
+        <text encoding="base64">PjI=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -372,8 +377,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2ltdWxhdG9yVHA9MC4wMDMwCg==</text>
+      <register name="0" type="4">
+        <text>ANALYZE_MA_INSIDE_MIN_LENGTH</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -424,9 +429,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Inse</last-search>
+      <last-search encoding="base64">PjI=</last-search>
       <last-offset />
-      <last-pattern>Inse</last-pattern>
+      <last-pattern encoding="base64">PjI=</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
