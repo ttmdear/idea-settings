@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlT2ZEZWNpc2lvbkRpc3BhdGNoZWRcPg==</entry>
-        <entry>PUT</entry>
-        <entry>Disa</entry>
-        <entry>Se</entry>
-        <entry>set</entry>
-        <entry>Set</entry>
         <entry>OfSe</entry>
         <entry encoding="base64">XDxpbnNpZGVzXD4=</entry>
         <entry encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDxPUFRJTUlaQVRJT05fUkVTVUxUX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxzdG9wXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTlVNQkVSXD4=</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUlOX0dBUF9UT19TSUdOQUxcPg==</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX01BWF9HQVBfVE9fTUFcPg==</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX01JTl9XQVZFX01PTUVOVFVNXD4=</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</entry>
+        <entry encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</entry>
       </history-search>
       <history-cmd>
         <entry>430</entry>
@@ -162,12 +162,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1614506012400">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="122" column="34" />
-        <mark key="]" line="122" column="35" />
-        <mark key="." line="122" column="34" />
-        <mark key="^" line="122" column="35" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1614507901928">
+        <mark key="'" line="53" column="91" />
+        <mark key="[" line="46" column="84" />
+        <mark key="]" line="46" column="84" />
+        <mark key="." line="46" column="83" />
+        <mark key="^" line="46" column="84" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/Application.java" timestamp="1614505771763">
         <mark key="'" line="56" column="20" />
@@ -205,33 +205,18 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614465033597">
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614507750171">
         <mark key="'" line="44" column="19" />
-        <mark key="[" line="62" column="78" />
-        <mark key="]" line="62" column="118" />
-        <mark key="." line="62" column="117" />
-        <mark key="^" line="62" column="118" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="137" column="66" />
+        <mark key="." line="137" column="65" />
+        <mark key="^" line="137" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614465685654">
-        <mark key="'" line="55" column="0" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614507753978">
+        <mark key="'" line="89" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1518" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1566" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1614" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1662" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1710" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1758" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1806" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1854" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1902" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1950" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="1998" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2046" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2094" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2142" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="2190" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2238" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2286" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
       <jump line="2334" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
@@ -317,6 +302,21 @@
       <jump line="45" column="20" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="41" column="23" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="72" column="16" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="46" column="17" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="44" column="20" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="97" column="50" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="37" column="20" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="50" column="83" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="93" column="50" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="39" column="25" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="77" column="52" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="49" column="93" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="81" column="52" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="101" column="50" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="36" column="10" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
+      <jump line="89" column="50" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="53" column="91" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/Optimizer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,8 +324,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyaW5nLmZvcm1hdCgiJS41ZiIsIHZhbHVlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -343,10 +343,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</text>
+        <text encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -366,13 +366,13 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBPUFRJTUlaQVRJT05fUkVTVUxUX1BBVEggPSAib3B0aW1pemF0aW9uLXJlc3VsdC5jc3YiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBzdG9wID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,22 +384,22 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoQ29udHJvbGxlciBjb250cm9sbGVyOiBjb250cm9sbGVycykgewogICAgICAgICAgICBjb250cm9sbGVyLnJlbG9hZCgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqbwo=</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIEBTZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBzdG9wID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0QW5hbHl6ZVBvaW50ZXIoKSB7CiAgICAgICAgcmV0dXJuIGNvbnRyb2xsZXJzLnN0cmVhbSgpCiAgICAgICAgICAgIC5tYXAoQ29udHJvbGxlcjo6Z2V0QW5hbHl6ZVBvaW50ZXIpCiAgICAgICAgICAgIC5tYXgoSW50ZWdlcjo6Y29tcGFyZVRvKQogICAgICAgICAgICAub3JFbHNlKDApOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QmFsYW5jZTtTaWduYWxzIG51bWJlcjtTTDtUUDtBTkFMWVpFX01BX01JTl9XQVZFX01PTUVOVFVNO0FOQUxZWkVfTUFfTUFYX0dBUF9UT19NQQo0NTc7MzYzOzI2Njs3Nzs4LjBFLTQ7MC4wCjQ0NTszNTI7MjU5Ozc1OzguMEUtNDs3LjBFLTQKNDI5OzM0OTsyNTc7NzQ7OC4wRS00OzUuOTk5OTk5N0UtNAo0Mjg7MzQ0OzI1Mzs3Mzs4LjBFLTQ7NC45OTk5OTk3RS00CjQxODszNTY7MjYzOzc1OzguMEUtNDs4LjBFLTQKNDExOzM1NzsyNjQ7NzU7OC4wRS00OzkuMEUtNAo0MTE7MzU4OzI2NDs3NTs4LjBFLTQ7OS45OTk5OTlFLTQKNDExOzM1OTsyNjQ7NzU7OC4wRS00OzAuMDAxMDk5OTk5OQo0MDQ7Mzc3OzI3ODs3ODswLjA7MC4wCjQwNDszNzY7Mjc4Ozc4OzIuMEUtNDswLjAKQmFsYW5jZTtTaWduYWxzIG51bWJlcjtTTDtUUDtBTkFMWVpFX01BX01JTl9XQVZFX01PTUVOVFVNO0FOQUxZWkVfTUFfTUFYX0dBUF9UT19NQQo0NTc7MzYzOzI2Njs3Nzs4LjBFLTQ7MC4wCjQ0NTszNTI7MjU5Ozc1OzguMEUtNDs3LjBFLTQKNDI5OzM0OTsyNTc7NzQ7OC4wRS00OzUuOTk5OTk5N0UtNAo0Mjg7MzQ0OzI1Mzs3Mzs4LjBFLTQ7NC45OTk5OTk3RS00CjQxODszNTY7MjYzOzc1OzguMEUtNDs4LjBFLTQKNDExOzM1NzsyNjQ7NzU7OC4wRS00OzkuMEUtNAo0MTE7MzU4OzI2NDs3NTs4LjBFLTQ7OS45OTk5OTlFLTQKNDExOzM1OTsyNjQ7NzU7OC4wRS00OzAuMDAxMDk5OTk5OQo0MDQ7Mzc3OzI3ODs3ODswLjA7MC4wCjQwNDszNzY7Mjc4Ozc4OzIuMEUtNDswLjAKMzk1OzM3MjsyNzU7Nzc7NS45OTk5OTk3RS00OzAuMAozOTM7MzY2OzI3MTs3NjswLjA7Ny4wRS00CjM5MzszNjU7MjcxOzc2OzIuMEUtNDs3LjBFLTQKMzg4OzM3MzsyNzY7Nzc7NC4wRS00OzAuMAozODg7MzU3OzI2Mzs3NDs5Ljk5OTk5OUUtNDswLjAKMzg0OzM2MTsyNjg7NzU7NS45OTk5OTk3RS00OzcuMEUtNAozNzc7MzYyOzI2OTs3NTs0LjBFLTQ7Ny4wRS00CjM3NjszNjM7MjY5Ozc1OzAuMDs1Ljk5OTk5OTdFLTQKMzc2OzM2MjsyNjk7NzU7Mi4wRS00OzUuOTk5OTk5N0UtNAozNzY7MzQ2OzI1Njs3Mjs5Ljk5OTk5OUUtNDs3LjBFLTQKMzc1OzM1ODsyNjU7NzQ7MC4wOzQuOTk5OTk5N0UtNAozNzU7MzU3OzI2NTs3NDsyLjBFLTQ7NC45OTk5OTk3RS00CjM2NzszNTg7MjY2Ozc0OzUuOTk5OTk5N0UtNDs1Ljk5OTk5OTdFLTQKMzY2OzM1MzsyNjI7NzM7NS45OTk5OTk3RS00OzQuOTk5OTk5N0UtNAozNjU7MzcwOzI3NTs3NjswLjA7OC4wRS00CjM2NTszNjk7Mjc1Ozc2OzIuMEUtNDs4LjBFLTQKMzYwOzM1OTsyNjc7NzQ7NC4wRS00OzUuOTk5OTk5N0UtNAozNjA7MzQzOzI1NDs3MTs5Ljk5OTk5OUUtNDs1Ljk5OTk5OTdFLTQKMzU5OzM1NDsyNjM7NzM7NC4wRS00OzQuOTk5OTk5N0UtNAozNTk7MzM4OzI1MDs3MDs5Ljk5OTk5OUUtNDs0Ljk5OTk5OTdFLTQKMzU4OzM3MTsyNzY7NzY7MC4wOzkuMEUtNAozNTg7MzcwOzI3Njs3NjsyLjBFLTQ7OS4wRS00CjM1ODszNzI7Mjc2Ozc2OzAuMDs5Ljk5OTk5OUUtNAozNTg7MzcxOzI3Njs3NjsyLjBFLTQ7OS45OTk5OTlFLTQKMzU4OzM3MzsyNzY7NzY7MC4wOzAuMDAxMDk5OTk5OQozNTg7MzcyOzI3Njs3NjsyLjBFLTQ7MC4wMDEwOTk5OTk5CjM1NzszMzM7MjQ2OzY5OzAuMDAxNDs3LjBFLTQKMzU2OzM2NTsyNzI7NzU7NS45OTk5OTk3RS00OzguMEUtNAozNTM7MzIxOzIzODs2NzswLjAwMTY7Ny4wRS00CjM0OTszNjY7MjczOzc1OzQuMEUtNDs4LjBFLTQKMzQ5OzM1MDsyNjA7NzI7OS45OTk5OTlFLTQ7OC4wRS00CjM0OTszNjY7MjczOzc1OzUuOTk5OTk5N0UtNDs5LjBFLTQKMzQ5OzM2NzsyNzM7NzU7NS45OTk5OTk3RS00OzkuOTk5OTk5RS00CjM0OTszNjg7MjczOzc1OzUuOTk5OTk5N0UtNDswLjAwMTA5OTk5OTkKMzQ2OzM0MjsyNTI7NzA7MC4wMDE0OzAuMAozNDI7MzI5OzI0NDs2ODswLjAwMTY7MC4wCjM0MjszNjc7Mjc0Ozc1OzQuMEUtNDs5LjBFLTQKMzQyOzM1MTsyNjE7NzI7OS45OTk5OTlFLTQ7OS4wRS00CjM0MjszNjg7Mjc0Ozc1OzQuMEUtNDs5Ljk5OTk5OUUtNAozNDI7MzUyOzI2MTs3Mjs5Ljk5OTk5OUUtNDs5Ljk5OTk5OUUtNAozNDI7MzY5OzI3NDs3NTs0LjBFLTQ7MC4wMDEwOTk5OTk5CjM0MjszNTM7MjYxOzcyOzkuOTk5OTk5RS00OzAuMDAxMDk5OTk5OQozNDE7MzMwOzI0NDs2ODswLjAwMTQ7NS45OTk5OTk3RS00CjMzOTszMjU7MjQwOzY3OzAuMDAxNDs0Ljk5OTk5OTdFLTQKMzM4OzMxODsyMzY7NjY7MC4wMDE4OzcuMEUtNAozMzc7MzE4OzIzNjs2NjswLjAwMTY7NS45OTk5OTk3RS00CjMzNzszMzY7MjQ5OzY5OzAuMDAxNDs4LjBFLTQKMzMzOzMyNTsyNDE7Njc7MC4wMDE4OzAuMAozMzM7MzI0OzI0MTs2NzswLjAwMTY7OC4wRS00CjMzMDszMzc7MjUwOzY5OzAuMDAxNDs5LjBFLTQKMzMwOzMzODsyNTA7Njk7MC4wMDE0OzkuOTk5OTk5RS00CjMzMDszMzk7MjUwOzY5OzAuMDAxNDswLjAwMTA5OTk5OTkKMzI5OzMxNDsyMzM7NjU7MC4wMDE2OzQuOTk5OTk5N0UtNAozMjY7MzI1OzI0Mjs2NzswLjAwMTY7OS4wRS00CjMyNjszMjY7MjQyOzY3OzAuMDAxNjs5Ljk5OTk5OUUtNAozMjY7MzI2OzI0Mjs2NzswLjAwMTY7MC4wMDEwOTk5OTk5CjMyNDszMjA7MjM4OzY2OzAuMDAxODs4LjBFLTQKMzIyOzMxNTsyMzQ7NjU7MC4wMDE4OzUuOTk5OTk5N0UtNAozMTc7MzIxOzIzOTs2NjswLjAwMTg7OS4wRS00CjMxNzszMjI7MjM5OzY2OzAuMDAxODs5Ljk5OTk5OUUtNAozMTc7MzIyOzIzOTs2NjswLjAwMTg7MC4wMDEwOTk5OTk5CjMxNjszMDE7MjIyOzYyOzAuMDAyMTk5OTk5ODswLjAKMzE0OzMxMTsyMzE7NjQ7MC4wMDE4OzQuOTk5OTk5N0UtNAozMTM7MzUyOzI2MTs3MTswLjAwMTE5OTk5OTk7MC4wCjMxMjszMzQ7MjQ4OzY4OzguMEUtNDs0LjBFLTQKMzA3OzI5NjsyMTk7NjE7MC4wMDIxOTk5OTk4OzcuMEUtNAozMDE7MzQxOzI1NDs2OTswLjAwMTE5OTk5OTk7Ny4wRS00CjMwMDsyOTc7MjIwOzYxOzAuMDAyMTk5OTk5ODs4LjBFLTQKMzAwOzI5NzsyMjA7NjE7MC4wMDIxOTk5OTk4OzkuMEUtNAozMDA7Mjk4OzIyMDs2MTswLjAwMjE5OTk5OTg7OS45OTk5OTlFLTQKMzAwOzI5ODsyMjA7NjE7MC4wMDIxOTk5OTk4OzAuMDAxMDk5OTk5OQoyOTc7MzA4OzIyOTs2Mzs4LjBFLTQ7Mi4wRS00CjI5NTszMDQ7MjI1OzYyOzAuMDAxOTk5OTk5OTswLjAKMjkxOzI5MzsyMTc7NjA7MC4wMDIxOTk5OTk4OzUuOTk5OTk5N0UtNAoyODc7MzI3OzI0Mzs2Njs4LjBFLTQ7Mi45OTk5OTk5RS00CjI4NjsyOTk7MjIyOzYxOzAuMDAxOTk5OTk5OTs3LjBFLTQKMjg1OzMzODsyNTI7Njg7MC4wMDExOTk5OTk5OzUuOTk5OTk5N0UtNAoyODM7MzMzOzI0ODs2NzswLjAwMTE5OTk5OTk7NC45OTk5OTk3RS00CjI4MzsyODk7MjE0OzU5OzAuMDAyMTk5OTk5ODs0Ljk5OTk5OTdFLTQKMjgyOzI2NzsxOTc7NTU7OC4wRS00OzEuMEUtNAoyODI7MjY3OzE5Nzs1NTs5Ljk5OTk5OUUtNDsxLjBFLTQKMjgwOzM0NTsyNTc7Njk7MC4wOzQuMEUtNAoyODA7MzQ0OzI1Nzs2OTsyLjBFLTQ7NC4wRS00CjI3OTszMDA7MjIzOzYxOzAuMDAxOTk5OTk5OTs4LjBFLTQKMjc5OzMwMDsyMjM7NjE7MC4wMDE5OTk5OTk5OzkuMEUtNAoyNzk7MzAxOzIyMzs2MTswLjAwMTk5OTk5OTk7OS45OTk5OTlFLTQKMjc5OzMwMTsyMjM7NjE7MC4wMDE5OTk5OTk5OzAuMDAxMDk5OTk5OQoyNzQ7MzQ1OzI1ODs2OTswLjAwMTE5OTk5OTk7OC4wRS00Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoQ29udHJvbGxlciBjb250cm9sbGVyOiBjb250cm9sbGVycykgewogICAgICAgICAgICBjb250cm9sbGVyLnJlbG9hZCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -414,11 +414,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</last-search>
+      <last-search encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50Q29udHJvbGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxBTkFMWVpFX01BX1RFU1RJTkdfTUFYX0dBUFw+</last-pattern>
       <last-replace>contractor</last-replace>
-      <last-substitute>naza 4</last-substitute>
+      <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
