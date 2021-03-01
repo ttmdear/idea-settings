@@ -136,6 +136,13 @@
         <mark key="[" line="1156" column="16" />
         <mark key="]" line="1156" column="38" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" timestamp="1614603240903">
+        <mark key="'" line="66" column="20" />
+        <mark key="[" line="71" column="39" />
+        <mark key="]" line="71" column="49" />
+        <mark key="." line="71" column="48" />
+        <mark key="^" line="71" column="49" />
+      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1614535652283">
         <mark key="'" line="27" column="86" />
         <mark key="[" line="95" column="38" />
@@ -193,9 +200,6 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorRaport.java" timestamp="1614526491211">
-        <mark key="[" line="2" column="25" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614602238762">
         <mark key="'" line="72" column="40" />
         <mark key="[" line="63" column="82" />
@@ -238,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="26" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="233" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="67" column="17" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="53" column="0" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
@@ -338,6 +341,7 @@
       <jump line="68" column="32" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
       <jump line="69" column="26" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
       <jump line="70" column="40" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
+      <jump line="66" column="20" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,8 +349,8 @@
       <register name="a" type="4">
         <text>getChart().createLineIndicator(&quot;MA-ZT1&quot;, Color.GRAY, msStroke);</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFByb3ZpZGVyR3JvdXBMb2dvIHsKCiAgICBASWQKICAgIEBDb2x1bW4obmFtZSA9ICJQUkdSTE9fSUQiKQogICAgQEdlbmVyYXRlZFZhbHVlKGdlbmVyYXRvciA9ICJibl9pZF9nZW4iKQogICAgQEdlbmVyaWNHZW5lcmF0b3IobmFtZSA9ICJibl9pZF9nZW4iLCBzdHJhdGVneSA9ICJwbC5wZW50YWNvbXAucGVudGFpZC5kb21haW4uSWRHZW5lcmF0b3IiKQogICAgcHJpdmF0ZSBMb25nIGlkOwoKICAgIEBPbmVUb09uZShvcHRpb25hbCA9IGZhbHNlLCBmZXRjaCA9IEZldGNoVHlwZS5MQVpZKQogICAgQEpvaW5Db2x1bW4obmFtZSA9ICJQUkdSTE9fUFJHUl9JRCIpCiAgICBwcml2YXRlIFByb3ZpZGVyR3JvdXAgcHJvdmlkZXJHcm91cDsKCiAgICBATG9iCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUkxPX0RBVEEiKQogICAgcHJpdmF0ZSBieXRlW10gZGF0YTsKfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T2JqZWN0cy5ub25OdWxsKHByb3ZpZGVyR3JvdXAuZ2V0TG9nbygpKSAmJiA=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -364,7 +368,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>referencedColumnName = &quot;PRGRLO_PRGR_ID&quot;</text>
+        <text encoding="base64">T2JqZWN0cy5ub25OdWxsKHByb3ZpZGVyR3JvdXAuZ2V0TG9nbygpKSAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text>providerGroup</text>
@@ -383,44 +387,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb09uZShmZXRjaCA9IEZldGNoVHlwZS5MQVpZLCBjYXNjYWRlID0gQUxMKQo=</text>
+      <register name="0" type="4">
+        <text>new ImageMultipartFile(imageBytes, name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJQUkdSTE9fUFJHUl9JRCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPbmVUb09uZShmZXRjaCA9IEZldGNoVHlwZS5MQVpZLCBjYXNjYWRlID0gQUxMKQo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gaW1hZ2VCeXRlcyA9IHByb3ZpZGVyR3JvdXAuZ2V0TG9nbygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gIlBSR1JMT19QUkdSX0lEIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJQUkdSTE9fUFJHUl9JRCIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbXVsdGlwYXJ0RmlsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKCkK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
