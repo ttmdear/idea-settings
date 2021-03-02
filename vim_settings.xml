@@ -19,12 +19,12 @@
         <entry>th:obj</entry>
         <entry>fields</entry>
         <entry>error</entry>
-        <entry>save</entry>
         <entry>name</entry>
         <entry encoding="base64">XDxwcm92aWRlckdyb3VwRHRvXD4=</entry>
         <entry encoding="base64">XDxwcm92aWRlckdyb3VwTG9nb0R0b1w+</entry>
         <entry encoding="base64">XDxsb2dvXD4=</entry>
         <entry encoding="base64">XDxpZGVudGl0eVByb3ZpZGVyc1w+</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -193,12 +193,12 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614680792778">
-        <mark key="'" line="64" column="28" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="65" column="12" />
-        <mark key="." line="67" column="0" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614681455981">
+        <mark key="'" line="62" column="30" />
+        <mark key="[" line="278" column="31" />
+        <mark key="]" line="278" column="51" />
+        <mark key="^" line="278" column="51" />
+        <mark key="." line="278" column="50" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupLogoDto.java" timestamp="1614680401810">
         <mark key="'" line="16" column="21" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
       <jump line="59" column="22" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
@@ -335,6 +334,7 @@
       <jump line="66" column="75" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/resources/templates/providerGroupAdd.html" />
       <jump line="64" column="28" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
       <jump line="188" column="28" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
+      <jump line="62" column="30" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,8 +342,8 @@
       <register name="a" type="4">
         <text>providerGroupLogoDto</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>providerGroupDto</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -361,10 +361,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>providerGroupDto</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZGVudGl0eVByb3ZpZGVyc1w+</text>
+        <text>save</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -380,8 +380,8 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>providerGroupFormDto</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBATW9kZWxBdHRyaWJ1dGUgUHJvdmlkZXJHcm91cER0byBwcm92aWRlckdyb3VwRHRvLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,34 +390,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3ZpZGVyR3JvdXBGb3JtRHRvIiwgbmV3IFByb3ZpZGVyR3JvdXBGb3JtRHRvKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBATW9kZWxBdHRyaWJ1dGUgUHJvdmlkZXJHcm91cER0byBwcm92aWRlckdyb3VwRHRvLAo=</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3ZpZGVyR3JvdXBGb3JtRHRvIiwgbmV3IFByb3ZpZGVyR3JvdXBGb3JtRHRvKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm92aWRlckdyb3VwTG9nb0R0bygpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHV1aWQ7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQcm92aWRlckdyb3VwTG9nb0R0bygpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -432,9 +432,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZGVudGl0eVByb3ZpZGVyc1w+</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZGVudGl0eVByb3ZpZGVyc1w+</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
