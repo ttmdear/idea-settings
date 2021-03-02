@@ -27,7 +27,6 @@
         <entry>save</entry>
       </history-search>
       <history-cmd>
-        <entry>4</entry>
         <entry>e</entry>
         <entry>23</entry>
         <entry>13</entry>
@@ -46,6 +45,7 @@
         <entry>wa</entry>
         <entry>72</entry>
         <entry>71</entry>
+        <entry>145</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -193,12 +193,12 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614683255162">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614691312593">
         <mark key="'" line="62" column="30" />
-        <mark key="[" line="278" column="31" />
-        <mark key="]" line="278" column="51" />
-        <mark key="^" line="278" column="51" />
-        <mark key="." line="278" column="50" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="152" column="12" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupLogoDto.java" timestamp="1614680401810">
         <mark key="'" line="16" column="21" />
@@ -342,8 +342,8 @@
       <register name="a" type="4">
         <text>providerGroupLogoDto</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>providerGroupDto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -384,16 +384,16 @@
         <text encoding="base64">ICAgICAgICBATW9kZWxBdHRyaWJ1dGUgUHJvdmlkZXJHcm91cER0byBwcm92aWRlckdyb3VwRHRvLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBATW9kZWxBdHRyaWJ1dGUgUHJvdmlkZXJHcm91cER0byBwcm92aWRlckdyb3VwRHRvLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
@@ -402,22 +402,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3ZpZGVyR3JvdXBGb3JtRHRvIiwgbmV3IFByb3ZpZGVyR3JvdXBGb3JtRHRvKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBATW9kZWxBdHRyaWJ1dGUgUHJvdmlkZXJHcm91cER0byBwcm92aWRlckdyb3VwRHRvLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3ZpZGVyR3JvdXBGb3JtRHRvIiwgbmV3IFByb3ZpZGVyR3JvdXBGb3JtRHRvKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm92aWRlckdyb3VwTG9nb0R0bygpIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
