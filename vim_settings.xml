@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dvSXNDaG9zZW5cPg==</entry>
         <entry encoding="base64">XDxsb2dvQWxyZWFkeUNob3Nlblw+</entry>
         <entry>logoA</entry>
         <entry>&quot;logoUploadedFromDB&quot;</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpZGVudGl0eVByb3ZpZGVyc1w+</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxmaW5kUHJvdmlkZXJHcm91cExvZ29EdG9cPg==</entry>
+        <entry encoding="base64">XDxzYXZlUHJvdmlkZXJHcm91cFw+</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -126,12 +126,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/log-exporter/src/main/java/pl/pentacomp/pentaid/logexporter/WebSecurityConfig.java" timestamp="1614672309047" />
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/ProviderGroupLogosServiceImpl.java" timestamp="1614670543821">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/services/impl/ProviderGroupLogosServiceImpl.java" timestamp="1614694636354">
         <mark key="'" line="19" column="46" />
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="28" column="21" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="35" column="8" />
+        <mark key="^" line="35" column="8" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupFormDto.java" timestamp="1614693076479">
         <mark key="'" line="24" column="2" />
@@ -146,9 +146,9 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupDto.java" timestamp="1614692814526">
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="43" column="8" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupDto.java" timestamp="1614693855500">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="40" column="36" />
         <mark key="." line="43" column="7" />
         <mark key="^" line="43" column="8" />
       </file>
@@ -156,18 +156,17 @@
         <mark key="[" line="1156" column="16" />
         <mark key="]" line="1156" column="38" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" timestamp="1614692906462">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" timestamp="1614694769361">
         <mark key="'" line="64" column="33" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="122" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="64" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1614581029009">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="31" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupLogoConverter.java" timestamp="1614695077306">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/WebSecurityConfig.java" timestamp="1614673853923" />
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToEntityConverter.java" timestamp="1614595105843">
@@ -194,18 +193,18 @@
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="38" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614692936719">
-        <mark key="'" line="175" column="33" />
-        <mark key="[" line="182" column="36" />
-        <mark key="]" line="175" column="37" />
-        <mark key="^" line="175" column="37" />
-        <mark key="." line="175" column="36" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614694216257">
+        <mark key="'" line="240" column="18" />
+        <mark key="[" line="269" column="60" />
+        <mark key="]" line="269" column="61" />
+        <mark key="^" line="269" column="61" />
+        <mark key="." line="269" column="60" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupLogoDto.java" timestamp="1614691960631">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/ProviderGroupLogoDto.java" timestamp="1614694967031">
         <mark key="'" line="16" column="21" />
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="13" column="89" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="13" column="90" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" timestamp="1614601845057">
@@ -236,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="22" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
-      <jump line="32" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="74" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="258" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="47" column="19" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
@@ -336,6 +332,9 @@
       <jump line="62" column="30" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
       <jump line="64" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
       <jump line="175" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
+      <jump line="257" column="8" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
+      <jump line="239" column="27" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
+      <jump line="240" column="18" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +343,7 @@
         <text>providerGroupLogoDto</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm92aWRlckdyb3VwRHRvLnNldExvZ28oZ2V0TXVsdGlwYXJ0RmlsZUZyb21CeXRlQXJyYXkocHJvdmlkZXJHcm91cCkpOwogICAgICAgIC8vIHByb3ZpZGVyR3JvdXBEdG8uc2V0TG9nb1VwbG9hZGVkRnJvbURCKGlzTG9nb1VwbG9hZGVkKHByb3ZpZGVyR3JvdXApKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -355,17 +354,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFByb3ZpZGVyR3JvdXBMb2dvIHsKCiAgICBASWQKICAgIEBDb2x1bW4obmFtZSA9ICJQUkdSTE9fSUQiKQogICAgQEdlbmVyYXRlZFZhbHVlKGdlbmVyYXRvciA9ICJibl9pZF9nZW4iKQogICAgQEdlbmVyaWNHZW5lcmF0b3IobmFtZSA9ICJibl9pZF9nZW4iLCBzdHJhdGVneSA9ICJwbC5wZW50YWNvbXAucGVudGFpZC5kb21haW4uSWRHZW5lcmF0b3IiKQogICAgcHJpdmF0ZSBMb25nIGlkOwoKICAgIEBPbmVUb09uZShvcHRpb25hbCA9IGZhbHNlLCBmZXRjaCA9IEZldGNoVHlwZS5MQVpZKQogICAgQEpvaW5Db2x1bW4obmFtZSA9ICJQUkdSTE9fUFJHUl9JRCIpCiAgICBwcml2YXRlIFByb3ZpZGVyR3JvdXAgcHJvdmlkZXJHcm91cDsKCiAgICBATG9iCiAgICBAQ29sdW1uKG5hbWUgPSAiUFJHUkxPX0RBVEEiKQogICAgcHJpdmF0ZSBieXRlW10gZGF0YTsKfQo=</text>
+      <register name="+" type="4">
+        <text>ProviderGroupLogo</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>providerGroupDto</text>
+        <text>ProviderGroupDto</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kUHJvdmlkZXJHcm91cExvZ29EdG9cPg==</text>
+        <text encoding="base64">XDxzYXZlUHJvdmlkZXJHcm91cFw+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -381,35 +380,35 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>providerGroupFormDto</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTXVsdGlwYXJ0RmlsZSBsb2dvOwoKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ29CYWNrdXA7CgogICAgcHJpdmF0ZSBib29sZWFuIGxvZ29VcGxvYWRlZEZyb21EQjsKCiAgICBwcml2YXRlIGJvb2xlYW4gbG9nb0FscmVhZHlDaG9zZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm92aWRlckdyb3VwRHRvLnNldExvZ28oZ2V0TXVsdGlwYXJ0RmlsZUZyb21CeXRlQXJyYXkocHJvdmlkZXJHcm91cCkpOwogICAgICAgIC8vIHByb3ZpZGVyR3JvdXBEdG8uc2V0TG9nb1VwbG9hZGVkRnJvbURCKGlzTG9nb1VwbG9hZGVkKHByb3ZpZGVyR3JvdXApKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm92aWRlckdyb3VwRHRvKCkgewogICAgICAgIHRoaXMudXVpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm92aWRlckdyb3VwTG9nb0R0by5zZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHV1aWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoInByb3ZpZGVyR3JvdXBMb2dvRHRvIiwgcHJvdmlkZXJHcm91cExvZ29EdG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -418,7 +417,7 @@
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm92aWRlckdyb3VwTG9nb0R0byBwcm92aWRlckdyb3VwTG9nb0R0byA9IGdldFByb3ZpZGVyR3JvdXBMb2dvRHRvKHByb3ZpZGVyR3JvdXBEdG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -433,9 +432,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmaW5kUHJvdmlkZXJHcm91cExvZ29EdG9cPg==</last-search>
+      <last-search encoding="base64">XDxzYXZlUHJvdmlkZXJHcm91cFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kUHJvdmlkZXJHcm91cExvZ29EdG9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlUHJvdmlkZXJHcm91cFw+</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
