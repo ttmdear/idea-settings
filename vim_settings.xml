@@ -122,18 +122,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/consts/Alias.java" timestamp="1614864725633">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="72" />
+        <mark key="." line="13" column="71" />
+        <mark key="^" line="13" column="72" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" timestamp="1614929595347">
+        <mark key="'" line="229" column="36" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="16" />
+        <mark key="." line="103" column="16" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/dao/bn/ProviderGroupLogoDao.java" timestamp="1614862775703">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/IdentityProvider.java" timestamp="1614860616435">
-        <mark key="'" line="153" column="17" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/config/CacheConfig.java" timestamp="1614867198225">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderListForIdWallDto.java" timestamp="1614866617127">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" timestamp="1614865820089">
         <mark key="'" line="74" column="22" />
@@ -142,7 +157,16 @@
         <mark key="^" line="74" column="8" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/mapper/IdentityProviderMapper.java" timestamp="1614860684445" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/ProviderGroupLogosServiceImpl.java" timestamp="1614862757997">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/GroupForUIDto.java" timestamp="1614929175651">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderAggregatedDto.java" timestamp="1614868045911">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -155,36 +179,26 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/SingleSignOnService.java" timestamp="1614866170488" />
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/consts/Alias.java" timestamp="1614864725633">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="72" />
-        <mark key="." line="13" column="71" />
-        <mark key="^" line="13" column="72" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupDto.java" timestamp="1614929308159">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" timestamp="1614865856909">
-        <mark key="'" line="221" column="36" />
-        <mark key="[" line="216" column="96" />
-        <mark key="]" line="217" column="39" />
-        <mark key="^" line="217" column="39" />
-        <mark key="." line="217" column="38" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderListForIdWallDto.java" timestamp="1614866617127">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="30" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/ProviderGroupLogosServiceImpl.java" timestamp="1614862757997">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/DataForIDWallDto.java" timestamp="1614929540555">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderSummaryAggregatedDto.java" timestamp="1614868039259">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="92" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupLogoDto.java" timestamp="1614929320107">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="24" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroupLogo.java" timestamp="1614860737927">
         <mark key="[" line="24" column="13" />
@@ -197,29 +211,22 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="24" column="64" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" timestamp="1614860720317">
-        <mark key="'" line="61" column="24" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="75" column="84" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" timestamp="1614868156060">
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" timestamp="1614928512777">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="81" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1614867250966">
+      <file name="/fragment.java" timestamp="1614929214871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/ProviderGroupLogosService.java" timestamp="1614860633095">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/GroupLogoForUIDto.java" timestamp="1614929329011">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -331,7 +338,7 @@
         <text>ProviderGroupLogo</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZGVudGl0eVByb3ZpZGVyTG9hZGVyLmxvYWRBY3RpdmVJRFBzKCkuZ2V0SWRlbnRpdHlQcm92aWRlckxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ncm91cExvZ29zKGdyb3VwTG9nb3NGb3JVSSkK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -349,7 +356,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxJZGVudGl0eVByb3ZpZGVyU3VtbWFyeUR0bz4=</text>
+        <text>logos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBY3RpdmVJRFBzXD4=</text>
@@ -368,44 +375,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>identityProviderLoader.loadActiveIDPs().getIdentityProviderList()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxHcm91cEZvclVJRHRvPiBncm91cHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZGVudGl0eVByb3ZpZGVyTG9hZGVyLmxvYWRBY3RpdmVJRFBzKCkuZ2V0SWRlbnRpdHlQcm92aWRlckxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ncm91cExvZ29zKGdyb3VwTG9nb3NGb3JVSSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ncm91cExvZ29zKGdyb3VwTG9nb3NGb3JVSSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihPYmplY3RzOjpub25OdWxsKQo=</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBY3RpdmVJRFBzKCkuc3RyZWFtKCkKICAgICAgICAgICAgLmZpbHRlcihpZHAgLT4gIWlkcC5pc1Byb3h5SURQKCkpCiAgICAgICAgICAgIC5maWx0ZXIodGhpczo6ZmlsdGVyQnlBY3RpdmVQcm94eUlmRXhpc3RzKQogICAgICAgICAgICAuZmlsdGVyKGlkcCAtPiBmaWx0ZXJCeVByb3RvY29sKGlkcCwgcHJvdG9jb2wpKQogICAgICAgICAgICAuZmlsdGVyKHRoaXM6OmNoZWNrQ2VydGlmaWNhdGVWYWxpZGl0eSkKICAgICAgICAgICAgLmZpbHRlcihpZHAgLT4gZmlsdGVyQnlMT0EoaWRwLCBsZXZlbE9mQXNzdXJhbmNlKSkKICAgICAgICAgICAgLmZpbHRlcihpZHAgLT4gZmlsdGVyQnlDb250ZXh0Q2xhc3MoaWRwLCBjb250ZXh0Q2xhc3MpKQogICAgICAgICAgICAubWFwKG1hcHBlcjo6bWFwKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChQcm92aWRlckdyb3VwRHRvOjpnZXROYW1lLCAoZ3JvdXApIC0+IGdyb3VwLCAocGcxLCBwZzIpIC0+IHBnMSkpCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ZmluYWwgCmZpbmFsIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ZmluYWwgCmZpbmFsIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsKICAgIHByaXZhdGUgTG9uZyBwcm92aWRlckdyb3VwSWQ7CiAgICBwcml2YXRlIGJ5dGVbXSBkYXRhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgSHViZXJ0IFBhbHVjaCwgUGVudGFjb21wIFN5c3RlbXkgSW5mb3JtYXR5Y3puZSBTLkEuCiAqLwo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
