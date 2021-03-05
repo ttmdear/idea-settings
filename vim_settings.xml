@@ -185,6 +185,11 @@
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="30" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/test/groovy/pl/pentacomp/pentaid/mapper/IdentityProviderMapperTest.groovy" timestamp="1614940609877">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupDto.java" timestamp="1614929308159">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="31" />
@@ -202,11 +207,11 @@
         <mark key="." line="139" column="47" />
         <mark key="^" line="139" column="48" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" timestamp="1614928512777">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="81" column="36" />
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" timestamp="1614940684512">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="79" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1614935792667">
         <mark key="[" line="0" column="0" />
@@ -324,7 +329,7 @@
         <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kdG87CgppbXBvcnQgbG9tYm9rLkFsbEFyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5CdWlsZGVyOwppbXBvcnQgbG9tYm9rLkVxdWFsc0FuZEhhc2hDb2RlOwppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CgpAR2V0dGVyCkBTZXR0ZXIKQEJ1aWxkZXIKQEFsbEFyZ3NDb25zdHJ1Y3RvcgpARXF1YWxzQW5kSGFzaENvZGUKcHVibGljIGNsYXNzIEdyb3VwRm9yVUlEdG8gewoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287Cn0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQcnplY2hvd3VqZSBsaXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsLnBlbnRhY29tcC5wZW50YWlkLmR0by5JZGVudGl0eVByb3ZpZGVyU3VtbWFyeUR0bzsK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -365,40 +370,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdyb3VwRm9yVUlEdG9MaXN0LmFkZChuZXcgR3JvdXBGb3JVSUR0byhwcm92aWRlckdyb3VwRHRvLmdldE5hbWUoKSwgcHJvdmlkZXJHcm91cER0by5nZXRJbXBvcnRhbmNlKCksCiAgICAgICAgICAgICAgICAgICAgcHJvdmlkZXJHcm91cExvZ29EdG8uZ2V0RGF0YSgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQcnplY2hvd3VqZSBsaXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBsLnBlbnRhY29tcC5wZW50YWlkLmR0by5JZGVudGl0eVByb3ZpZGVyU3VtbWFyeUR0bzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gWmFwaQo=</text>
+        <text encoding="base64">aW1wb3J0IHBsLnBlbnRhY29tcC5wZW50YWlkLmRvbWFpbi5ibi5JZGVudGl0eVByb3ZpZGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gSmWcbGkgbmllIG1hIGdydXB5Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGR0by5wcm92aWRlckdyb3VwLmxvZ28pLmlzRXF1YWxUbyhpZHAucHJvdmlkZXJHcm91cC5sb2dvKQo=</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBQcnplY2hvd3VqZSBsaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gWmFwaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRG9kYWplIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSmWcbGkgbmllIG1hIGdydXB5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogU3RydWt0cmEgamVzdCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxHcm91cExvZ29Gb3JVSUR0bz4gZ3JvdXBMb2dvczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRG9kYWplIAo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
