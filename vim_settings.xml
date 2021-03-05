@@ -45,8 +45,8 @@
         <entry>72</entry>
         <entry>71</entry>
         <entry>145</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,17 +122,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/consts/Alias.java" timestamp="1614931453409">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" timestamp="1614932628067">
-        <mark key="[" line="245" column="13" />
-        <mark key="]" line="245" column="20" />
-        <mark key="." line="245" column="19" />
-        <mark key="^" line="245" column="20" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/dao/bn/ProviderGroupLogoDao.java" timestamp="1614862775703">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -143,23 +132,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderListForIdWallDto.java" timestamp="1614866617127">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="30" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" timestamp="1614931489729">
         <mark key="'" line="69" column="22" />
         <mark key="[" line="38" column="11" />
         <mark key="]" line="38" column="40" />
         <mark key="^" line="38" column="40" />
         <mark key="." line="38" column="39" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/ProviderGroupLogosServiceImpl.java" timestamp="1614862757997">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/GroupForUIDto.java" timestamp="1614929175651">
         <mark key="[" line="16" column="0" />
@@ -178,30 +156,53 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupDto.java" timestamp="1614929308159">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/DataForIDWallDto.java" timestamp="1614929540555">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="46" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupLogoDto.java" timestamp="1614929320107">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="24" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/GroupLogoForUIDto.java" timestamp="1614929329011">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/consts/Alias.java" timestamp="1614931453409">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/controller/IDWallController.java" timestamp="1614932628067">
+        <mark key="[" line="245" column="13" />
+        <mark key="]" line="245" column="20" />
+        <mark key="." line="245" column="19" />
+        <mark key="^" line="245" column="20" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderListForIdWallDto.java" timestamp="1614866617127">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="30" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/services/impl/ProviderGroupLogosServiceImpl.java" timestamp="1614862757997">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupDto.java" timestamp="1614929308159">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/IdentityProviderSummaryAggregatedDto.java" timestamp="1614868039259">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="92" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/ProviderGroupLogoDto.java" timestamp="1614929320107">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="24" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroupLogo.java" timestamp="1614860737927">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="29" />
       </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/mapper/ProviderGroupLogoMapper.java" timestamp="1614860859725">
         <mark key="'" line="20" column="52" />
@@ -210,22 +211,23 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="24" column="64" />
       </file>
+      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" timestamp="1614933551214">
+        <mark key="[" line="139" column="48" />
+        <mark key="]" line="139" column="48" />
+        <mark key="." line="139" column="47" />
+        <mark key="^" line="139" column="48" />
+      </file>
       <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-frontend/src/main/java/pl/pentacomp/pentaid/services/IdentityProviderService.java" timestamp="1614928512777">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="81" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1614932106262">
+      <file name="/fragment.java" timestamp="1614933478452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
-      </file>
-      <file name="C:/Projekty/workspace/eid.repos/wb/pentaid-dto/src/main/java/pl/pentacomp/pentaid/dto/GroupLogoForUIDto.java" timestamp="1614929329011">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -337,7 +339,7 @@
         <text>ProviderGroupLogo</text>
       </register>
       <register name="&quot;" type="4">
-        <text>anyMatch</text>
+        <text>providerGroupLogoDto.getData()</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -375,7 +377,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>identityProviderSummaryDto.getProviderGroup()</text>
+        <text>providerGroupLogoDto.getData()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmFueU1hdGNoKGxvZ28gLT4gZ3JvdXBGaWx0ZXJlZElkTGlzdC5jb250YWlucyhsb2dvLmdldElkKCkpKQo=</text>
@@ -417,7 +419,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">PEBtLnByaW50U2VjdGlvbiB0aXRsZT0iU0VLQ0pBIEkg77+9IFpBTUFXSUFK77+9Q1kiIC8+Cg==</text>
