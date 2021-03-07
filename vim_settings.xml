@@ -137,18 +137,12 @@
         <mark key="]" line="37" column="44" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/test/java/com/lvl/util/CSVWriterTest.groovy" timestamp="1614466459849">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" timestamp="1615147821681">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="73" column="54" />
-        <mark key="]" line="73" column="60" />
-        <mark key="." line="73" column="59" />
-        <mark key="^" line="73" column="60" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" timestamp="1615151871583">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="80" column="30" />
+        <mark key="]" line="80" column="48" />
+        <mark key="." line="80" column="47" />
+        <mark key="^" line="80" column="48" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1614535652283">
         <mark key="'" line="27" column="86" />
@@ -243,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="95" column="18" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="24" column="16" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="65" column="0" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
@@ -343,6 +336,7 @@
       <jump line="7" column="24" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" />
       <jump line="57" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" />
+      <jump line="509" column="12" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ResourceBundle.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -350,8 +344,8 @@
       <register name="a" type="4">
         <text>getChart().createLineIndicator(&quot;MA-ZT1&quot;, Color.GRAY, msStroke);</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN1YlJlc291cmNlLmdldEtleXMoKS4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>Collections.emptyList();</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -369,7 +363,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>= Integer.parseInt(&quot;10&quot;);</text>
+        <text>Collections.emptyList();</text>
       </register>
       <register name="/" type="4">
         <text>Mar</text>
@@ -388,44 +382,44 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHZhbHVlVG9TZXQgPSBiYXNlUmVzb3VyY2UuZ2V0U3RyaW5nKG5hbWUpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">TGlzdDxTdHJpbmc+IHN1YlJlc291cmNlS2V5cw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN1YlJlc291cmNlLmdldEtleXMoKS4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlVG9TZXQgPT0gbnVsbCkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB2YWx1ZVRvU2V0ID0gYmFzZVJlc291cmNlLmdldFN0cmluZyhuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3ViUmVzb3VyY2VLZXlzID0gQ29sbGVjdGlvbnMubGlzdChzdWJSZXNvdXJjZS5nZXRLZXlzKCkpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN1YlJlc291cmNlLmdldEtleXMoKS4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlVG9TZXQgPT0gbnVsbCkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci5wYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB2YWx1ZVRvU2V0ID0gYmFzZVJlc291cmNlLmdldFN0cmluZyhuYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xzLmdldE1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlci5wYXIK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
