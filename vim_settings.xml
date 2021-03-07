@@ -122,15 +122,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1615145348525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/util/CSVWriter.java" timestamp="1614505816508">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="47" column="55" />
         <mark key="]" line="47" column="61" />
         <mark key="." line="47" column="60" />
         <mark key="^" line="47" column="61" />
-      </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/javax/sql/rowset/RowSetMetaDataImpl.class" timestamp="1614466313728">
-        <mark key="'" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/FloatValue.java" timestamp="1614504169139">
         <mark key="[" line="37" column="0" />
@@ -142,6 +142,13 @@
         <mark key="]" line="7" column="4" />
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" timestamp="1615146124054">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/InsideAnalyzerHelper.java" timestamp="1614535652283">
         <mark key="'" line="27" column="86" />
@@ -163,16 +170,17 @@
         <mark key="^" line="228" column="24" />
         <mark key="." line="228" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1614581029009">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="31" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1615146039459">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1614532383064">
-        <mark key="'" line="0" column="29" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" timestamp="1615145843816">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="54" column="23" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="24" />
       </file>
@@ -217,7 +225,7 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1614536022095">
+      <file name="/fragment.java" timestamp="1615146147626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -225,13 +233,9 @@
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1614536066961">
         <mark key="'" line="81" column="12" />
-        <mark key="[" line="189" column="89" />
-        <mark key="]" line="189" column="83" />
-        <mark key="." line="189" column="82" />
-        <mark key="^" line="189" column="83" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1614532938658">
-        <mark key="'" line="105" column="68" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1615145759475">
+        <mark key="'" line="129" column="11" />
         <mark key="[" line="112" column="46" />
         <mark key="]" line="112" column="45" />
         <mark key="." line="112" column="44" />
@@ -239,10 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-model/src/main/java/pl/pentacomp/pentaid/domain/bn/ProviderGroup.java" />
-      <jump line="67" column="64" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
-      <jump line="71" column="37" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
       <jump line="63" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/converters/ProviderGroupToDtoConverter.java" />
       <jump line="141" column="43" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
       <jump line="66" column="8" filename="C:/Projekty/workspace/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
@@ -307,7 +307,6 @@
       <jump line="51" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="25" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="20" column="14" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
-      <jump line="19" column="23" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="10" column="9" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="45" column="6" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/Application.java" />
@@ -337,8 +336,13 @@
       <jump line="80" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="36" column="26" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
       <jump line="81" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" />
-      <jump line="0" column="29" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
       <jump line="52" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
+      <jump line="129" column="11" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" />
+      <jump line="19" column="19" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters.properties" />
+      <jump line="0" column="16" filename="$USER_HOME$/projects/lvl/lvl/src/main/resources/parameters_eurusd_15.properties" />
+      <jump line="4" column="4" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" />
+      <jump line="20" column="18" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV2.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,8 +350,8 @@
       <register name="a" type="4">
         <text>getChart().createLineIndicator(&quot;MA-ZT1&quot;, Color.GRAY, msStroke);</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWFWYWx1ZSwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YW5hbHl6ZU1hV2F2ZU1pbkxlbmd0aFRvU2lnbmFsPTEwCmFuYWx5emVNYU1heEdhcFRvTWE9MC4wMDA3CiMgYW5hbHl6ZU1hTWluV2F2ZU1vbWVudHVtPTAuMDAwMgphbmFseXplTWFNaW5XYXZlTW9tZW50dW09MC4wMDEwCmFuYWx5emVNYVNtYVBlcmlvZD01NgphbmFseXplTWFab25lQT0wLjAwMTAKYW5hbHl6ZU1hSW5zaWRlTWF4U2l6ZT01CmFuYWx5emVNYUluc2lkZUxlbmd0aFRvU2lnbmFsPTUK</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -358,8 +362,8 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="4">
-        <text>PRGR_DATA</text>
+      <register name="+" type="2">
+        <text encoding="base64">YW5hbHl6ZU1hV2F2ZU1pbkxlbmd0aFRvU2lnbmFsPTEwCmFuYWx5emVNYU1heEdhcFRvTWE9MC4wMDA3CiMgYW5hbHl6ZU1hTWluV2F2ZU1vbWVudHVtPTAuMDAwMgphbmFseXplTWFNaW5XYXZlTW9tZW50dW09MC4wMDEwCmFuYWx5emVNYVNtYVBlcmlvZD01NgphbmFseXplTWFab25lQT0wLjAwMTAKYW5hbHl6ZU1hSW5zaWRlTWF4U2l6ZT01CmFuYWx5emVNYUluc2lkZUxlbmd0aFRvU2lnbmFsPTUK</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -385,7 +389,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGxlbmd0aENvbmRpdGlvbiA9IGluc2lkZUFuYWx5emVySGVscGVyLmdldEluc2lkZUxlbmd0aCgpID09IHBhcmFtZXRlcnMuZ2V0QW5hbHl6ZU1hSW5zaWRlTWluTGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">IyBzdXBwcmVzcyBpbnNwZWN0aW9uICJVbnVzZWRQcm9wZXJ0eSIgZm9yIHdob2xlIGZpbGUKCiMgQW5hbHl6ZSBNQQphbmFseXplTWFTbWFQZXJpb2Q9NTYKYW5hbHl6ZU1hVGVzdGluZ01heEdhcD0zCmFuYWx5emVNYVRlc3RpbmdNaW5HYXBUb1NpZ25hbD01CmFuYWx5emVNYVdhdmVNaW5MZW5ndGhUb1NpZ25hbD00CmFuYWx5emVNYVRlc3RpbmdOdW1iZXI9MQphbmFseXplTWFNYXhHYXBUb01hPTAuMDAwOAphbmFseXplTWFNaW5XYXZlTW9tZW50dW09MC4wMDA4CmFuYWx5emVNYUluc2lkZU1heFNpemU9NQphbmFseXplTWFJbnNpZGVNaW5MZW5ndGg9MwphbmFseXplTGV2ZWwwPXRydWUKYW5hbHl6ZUxldmVsWm9uZVNpemU9MAphbmFseXplTGV2ZWxab25lVGVzdGluZ1NpemU9CmFuYWx5emVab25lU2FtZUxldmVsU2l6ZT0wCmFuYWx5emVUZXN0aW5nTWF4R2FwPTMKYW5hbHl6ZVpvbmVUZXN0aW5nTWF4R2FwPTUKYW5hbHl6ZVNwaW5uaW5nTWF4R2FwPTAKYW5hbHl6ZVRyZW5kU21hUGVyaW9kPTYwCmFuYWx5emVNYUJyZWFrTWFyZ2luPTAuMDAwMgphbmFseXplTWFjZExvbmdTbWFQZXJpb2Q9MjYKYW5hbHl6ZU1hY2RTaG9ydFNtYVBlcmlvZD0xMgphbmFseXplTWFjZFNpZ25hbFNtYVBlcmlvZD05CmFuYWx5emVBdHJQZXJpb2Q9MTQKYW5hbHl6ZUxldmVsc051bWJlcj0zCiMgU2lnbmFscwpzaWduYWxBdHJNaW5WYWx1ZT0wLjAwMDQKc2lnbmFsTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbFRlc3Rpbmc9ZmFsc2UKc2lnbmFsVGVzdGluZ0xpbmVXaXRoVHJlbmQ9ZmFsc2UKc2lnbmFsVGVzdGluZ01pbk51bWJlcj0yCnNpZ25hbFpvbmVUZXN0aW5nPWZhbHNlCnNpZ25hbFpvbmVUZXN0aW5nTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbFpvbmVUZXN0aW5nTWluTnVtYmVyPTQKc2lnbmFsU3Bpbm5pbmc9ZmFsc2UKc2lnbmFsU3Bpbm5pbmdMaW5lV2l0aFRyZW5kPXRydWUKc2lnbmFsU3Bpbm5pbmdNaW5OdW1iZXI9MQpzaWduYWxFbmd1bGZpbmc9ZmFsc2UKc2lnbmFsRW5ndWxmaW5nTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbENvdmVyPWZhbHNlCnNpZ25hbENvdmVyTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbEluc2lkZT1mYWxzZQpzaWduYWxJbnNpZGVMaW5lV2l0aFRyZW5kPXRydWUKIyBDaGFydApjaGFydERyYXdMZXZlbD10cnVlCmNoYXJ0RHJhd1NpZ25hbHM9dHJ1ZQpjaGFydERyYXdQcmljZU1vdmVtZW50PXRydWUKY2hhcnREcmF3QW5hbHl6ZVBvaW50ZXI9dHJ1ZQojIFNpbXVsYXRvcgpzaW11bGF0b3JBY3RpdmU9dHJ1ZQpzaW11bGF0b3JTbD0wLjAwMDcKIyBzaW11bGF0b3JUcD0wLjAwMzAKc2ltdWxhdG9yVHA9MC4wMDQwCnNpbXVsYXRvclBvaW50ZXI9MC4wMDAxCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
