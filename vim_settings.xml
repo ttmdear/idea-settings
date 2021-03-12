@@ -137,11 +137,11 @@
         <mark key="]" line="0" column="21317" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1615467352064">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="196" column="11" />
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1615474640284">
+        <mark key="[" line="201" column="8" />
+        <mark key="]" line="201" column="11" />
+        <mark key="." line="201" column="8" />
+        <mark key="^" line="201" column="11" />
       </file>
       <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" timestamp="1615471270294">
         <mark key="'" line="50" column="29" />
@@ -340,8 +340,8 @@
       <register name="a" type="2">
         <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kdG87CgppbXBvcnQgbG9tYm9rLkFsbEFyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5CdWlsZGVyOwppbXBvcnQgbG9tYm9rLkVxdWFsc0FuZEhhc2hDb2RlOwppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CgpAR2V0dGVyCkBTZXR0ZXIKQEJ1aWxkZXIKQEFsbEFyZ3NDb25zdHJ1Y3RvcgpARXF1YWxzQW5kSGFzaENvZGUKcHVibGljIGNsYXNzIEdyb3VwRm9yVUlEdG8gewoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZWRPblNMID0gMDsK</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKICAgCi8vIAogICAKLy8gCi8vIAovLyAKICAgCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -381,42 +381,42 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjbG9zZWRPblNMID0gMDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAoKXsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKICAgCi8vIAogICAKLy8gCi8vIAovLyAKICAgCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAoKXsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRDU1YucHV0KG1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRDU1YucHV0KG1hcCk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBtYXAucHV0KEZJRUxEX1NJR05BTFMsIFN0cmluZy52YWx1ZU9mKHNpZ25hbE51bWJlcikpOwogICAgICAgIG1hcC5wdXQoRklFTERfU0wsIFN0cmluZy52YWx1ZU9mKGNsb3NlZE9uU0wpKTsKICAgICAgICBtYXAucHV0KEZJRUxEX0JFLCBTdHJpbmcudmFsdWVPZihjbG9zZWRPbkJFKSk7CiAgICAgICAgbWFwLnB1dChGSUVMRF9UUCwgU3RyaW5nLnZhbHVlT2YoY2xvc2VkT25UUCkpOwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>HEADER
 HEADER</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaW11bGF0b3IuZ2V0Q2xvc2VkT25CRSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
