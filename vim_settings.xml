@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBY3RpdmVJRFBzXD4=</entry>
-        <entry encoding="base64">XDxhY3RpdmVJRFBzUmVzdFVybFw+</entry>
         <entry encoding="base64">XDxtYXBUb0dyb3VwVUlhdGFcPg==</entry>
         <entry>any</entry>
         <entry>logo</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxDU1ZXcml0ZXJcPg==</entry>
         <entry encoding="base64">XDxjbG9zZVByaWNlXD4=</entry>
         <entry encoding="base64">XDxjbG9zZWRPbkJFXD4=</entry>
+        <entry>jsp</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>23</entry>
@@ -169,8 +169,8 @@
         <mark key="." line="28" column="79" />
         <mark key="^" line="28" column="80" />
       </file>
-      <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/pom.xml" timestamp="1615543364254">
-        <mark key="'" line="343" column="32" />
+      <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/pom.xml" timestamp="1615559490836">
+        <mark key="'" line="5" column="27" />
         <mark key="[" line="324" column="32" />
         <mark key="]" line="324" column="49" />
       </file>
@@ -191,7 +191,6 @@
       <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/pom.xml" timestamp="1615543447394">
         <mark key="'" line="107" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/war/src/main/webapp/WEB-INF/jboss-web.xml" timestamp="1615543806144" />
       <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/RELEASE_NOTES.txt" timestamp="1615543333454">
         <mark key="'" line="7" column="18" />
       </file>
@@ -221,13 +220,8 @@
         <mark key="." line="23" column="10" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/war/src/main/webapp/WEB-INF/web.xml" timestamp="1615543723574" />
     </filemarks>
     <jumps>
-      <jump line="67" column="44" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
-      <jump line="34" column="36" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
-      <jump line="48" column="54" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
-      <jump line="37" column="36" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
       <jump line="72" column="33" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
       <jump line="40" column="35" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
       <jump line="61" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-backend/src/main/java/pl/pentacomp/pentaid/controller/IdentityProviderController.java" />
@@ -324,6 +318,10 @@
       <jump line="19" column="0" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/RELEASE_NOTES" />
       <jump line="7" column="18" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/RELEASE_NOTES.txt" />
       <jump line="107" column="12" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/pom.xml" />
+      <jump line="154" column="10" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/pom.xml" />
+      <jump line="160" column="21" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/pom.xml" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/pom.xml" />
+      <jump line="5" column="27" filename="C:/Projekty/workspace/mrg.repos/trunk/trunk/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +351,7 @@
         <text encoding="base64">b3JkZXIuZ2V0T3JkZXJUeXBlKCkuZXF1YWxzKE9yZGVyVHlwZS5TRUxMKSAmJiBvcmRlci5nZXRPcGVuUHJpY2UoKSA+PSBvcmRlci5nZXRDbG9zZVByaWNlKCk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9zZWRPbkJFXD4=</text>
+        <text>version</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -422,9 +420,9 @@ HEADER</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjbG9zZWRPbkJFXD4=</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9zZWRPbkJFXD4=</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
