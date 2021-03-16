@@ -135,10 +135,10 @@
         <mark key="." line="270" column="11" />
         <mark key="^" line="270" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1615881028740">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1615882251681">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/Projekty/tmp/lvl/lvl/src/main/resources/parameters.properties" timestamp="1615474440155">
         <mark key="'" line="16" column="12" />
@@ -195,9 +195,9 @@
       <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/pom.xml" timestamp="1615543447394">
         <mark key="'" line="107" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_kon-1.0.0.ftl" timestamp="1615881010091">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="47" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_kon-1.0.0.ftl" timestamp="1615882181199">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="49" />
       </file>
       <file name="C:/Projekty/workspace/mrg.repos/trunk/trunk/spzd/RELEASE_NOTES.txt" timestamp="1615543333454">
         <mark key="'" line="7" column="18" />
@@ -337,8 +337,8 @@
       <register name="a" type="2">
         <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kdG87CgppbXBvcnQgbG9tYm9rLkFsbEFyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5CdWlsZGVyOwppbXBvcnQgbG9tYm9rLkVxdWFsc0FuZEhhc2hDb2RlOwppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CgpAR2V0dGVyCkBTZXR0ZXIKQEJ1aWxkZXIKQEFsbEFyZ3NDb25zdHJ1Y3RvcgpARXF1YWxzQW5kSGFzaENvZGUKcHVibGljIGNsYXNzIEdyb3VwRm9yVUlEdG8gewoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287Cn0K</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKICAgCi8vIAogICAKLy8gCi8vIAovLyAKICAgCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -350,13 +350,13 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>Kanały aktywne oznacza</text>
+        <text>ogl_o_konc</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3JkZXIuZ2V0T3JkZXJUeXBlKCkuZXF1YWxzKE9yZGVyVHlwZS5TRUxMKSAmJiBvcmRlci5nZXRPcGVuUHJpY2UoKSA+PSBvcmRlci5nZXRDbG9zZVByaWNlKCk=</text>
+        <text>SEKCJA I  ZAMAWIAJĄCY</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -376,44 +376,43 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZWRPblNMID0gMDsK</text>
+        <text encoding="base64">PEBtLnByaW50U2VjdGlvbiB0aXRsZT0iU0VLQ0pBIEkgIFpBTUFXSUFKpUNZIiAvPgo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKICAgCi8vIAogICAKLy8gCi8vIAovLyAKICAgCi8vIAovLyAKLy8gCi8vIAovLyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAoKXsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRDU1YucHV0KG1hcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KEZJRUxEX1NJR05BTFMsIFN0cmluZy52YWx1ZU9mKHNpZ25hbE51bWJlcikpOwogICAgICAgIG1hcC5wdXQoRklFTERfU0wsIFN0cmluZy52YWx1ZU9mKGNsb3NlZE9uU0wpKTsKICAgICAgICBtYXAucHV0KEZJRUxEX0JFLCBTdHJpbmcudmFsdWVPZihjbG9zZWRPbkJFKSk7CiAgICAgICAgbWFwLnB1dChGSUVMRF9UUCwgU3RyaW5nLnZhbHVlT2YoY2xvc2VkT25UUCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>HEADER
-HEADER</text>
+      <register name="8" type="2">
+        <text encoding="base64">T2ezb3N6ZW5pZSB3IEJaUDogaHR0cHM6Ly9ienAuZXphbW93aWVuaWEucGwvdWRsP3VyaT0gMjg5NDUzLTIwMjAKCk9ns29zemVuaWUgbyBrb25jZWNqaQooTmF6d2EgemFt83dpZW5pYSkK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
