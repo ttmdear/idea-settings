@@ -139,10 +139,10 @@
         <mark key="]" line="32" column="25" />
         <mark key="." line="54" column="40" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1616064756011">
-        <mark key="'" line="87" column="15" />
-        <mark key="[" line="80" column="16" />
-        <mark key="]" line="80" column="16" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1616065863563">
+        <mark key="'" line="72" column="15" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="63" />
         <mark key="." line="80" column="16" />
         <mark key="^" line="77" column="16" />
       </file>
@@ -201,7 +201,7 @@
         <mark key="[" line="157" column="0" />
         <mark key="]" line="160" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1616056508236">
+      <file name="/Dummy.txt" timestamp="1616065128107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1616063901491">
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" />
       <jump line="59" column="46" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" />
       <jump line="51" column="88" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" />
       <jump line="49" column="116" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" />
@@ -328,6 +327,7 @@
       <jump line="22" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="29" column="137" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="124" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl_konc.json" />
+      <jump line="72" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +336,7 @@
         <text>input_ogl_o_zm_ogl_konc.json</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BT-141_0_0</text>
+        <text>Ogłoszenie o zmianie ogłoszenia o koncesji</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -347,8 +347,8 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiQlQtMTQxQDFfNF8zIiwKICAgICJ2YWx1ZSI6ICJXeWtheiBpbm55Y2ggd3ltYWdhbnljaCBvnHdpYWRjemXxIGx1YiBkb2t1bWVudPN3IgogIH0sCg==</text>
+      <register name="+" type="4">
+        <text>Ogłoszenie o zmianie ogłoszenia o koncesji</text>
       </register>
       <register name="k" type="4">
         <text />
