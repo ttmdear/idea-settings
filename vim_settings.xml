@@ -168,9 +168,10 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="89" column="18" />
       </file>
-      <file name="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" timestamp="1616154804408">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="20" />
+      <file name="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" timestamp="1616163052216">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="57" />
       </file>
       <file name="/Dummy.groovy" timestamp="1616075592569">
         <mark key="[" line="0" column="0" />
@@ -204,7 +205,6 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/resources/META-INF/application.properties" timestamp="1616154498709" />
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1616145597660">
         <mark key="'" line="346" column="20" />
         <mark key="[" line="337" column="0" />
@@ -224,13 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="42" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="46" column="9" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
-      <jump line="623" column="27" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
-      <jump line="642" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
-      <jump line="239" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
-      <jump line="240" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
-      <jump line="74" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="43" column="8" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="58" column="172" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="683" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
@@ -324,6 +317,13 @@
       <jump line="338" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="342" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="346" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
+      <jump line="10" column="25" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
+      <jump line="11" column="16" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
+      <jump line="74" column="21" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
+      <jump line="7" column="18" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
+      <jump line="17" column="15" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
+      <jump line="16" column="22" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
+      <jump line="21" column="32" filename="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +332,7 @@
         <text>input_ogl_o_zm_ogl_konc.json</text>
       </register>
       <register name="&quot;" type="4">
-        <text>config.cas.userIdAttr</text>
+        <text>/srv/usosadm/EPWprivate.pem</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -344,7 +344,7 @@
         <text>jjjjj</text>
       </register>
       <register name="+" type="4">
-        <text>config.cas.userIdAttr</text>
+        <text>/srv/usosadm/EPWprivate.pem</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -353,7 +353,7 @@
         <text>BT-141_0_0</text>
       </register>
       <register name="/" type="4">
-        <text>Lot</text>
+        <text>bzwb</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -421,9 +421,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Lot</last-search>
+      <last-search>bzwb</last-search>
       <last-offset />
-      <last-pattern>Lot</last-pattern>
+      <last-pattern>bzwb</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute>0564</last-substitute>
       <last-dir>1</last-dir>
