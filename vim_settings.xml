@@ -168,6 +168,10 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="89" column="18" />
       </file>
+      <file name="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/filters/build.properties" timestamp="1616154804408">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="20" />
+      </file>
       <file name="/Dummy.groovy" timestamp="1616075592569">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,16 +204,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/usos.repos/usosadm/usosmain/src/main/resources/META-INF/application.properties" timestamp="1616154498709" />
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1616145597660">
         <mark key="'" line="346" column="20" />
         <mark key="[" line="337" column="0" />
         <mark key="]" line="352" column="4" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/definitions/noticegen.yaml" timestamp="1616052539377">
-        <mark key="[" line="71" column="28" />
-        <mark key="]" line="71" column="28" />
-        <mark key="." line="71" column="28" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" timestamp="1616077278570">
         <mark key="[" line="0" column="34" />
@@ -331,8 +331,8 @@
       <register name="a" type="4">
         <text>input_ogl_o_zm_ogl_konc.json</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiUktULTIwMTFfTG90MCIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTI2Ml9Mb3QwIiwKICAgICJ2YWx1ZSI6ICIzMTcxMjM0NS0wIC0gRGlvZHkgdHVuZWxvd2UiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1NzBfTG90MCIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTUzX0xvdDAiLAogICAgInZhbHVlIjogIlRhayIKICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>config.cas.userIdAttr</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -343,8 +343,8 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiUktULTIwMTFfTG90MCIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTI2Ml9Mb3QwIiwKICAgICJ2YWx1ZSI6ICIzMTcxMjM0NS0wIC0gRGlvZHkgdHVuZWxvd2UiCiAgfSwKICB7CiAgICAiaWQiOiAiUktULTA1NzBfTG90MCIsCiAgICAidmFsdWUiOiAiMTIzIgogIH0sCiAgewogICAgImlkIjogIkJULTUzX0xvdDAiLAogICAgInZhbHVlIjogIlRhayIKICB9LAo=</text>
+      <register name="+" type="4">
+        <text>config.cas.userIdAttr</text>
       </register>
       <register name="k" type="4">
         <text />
