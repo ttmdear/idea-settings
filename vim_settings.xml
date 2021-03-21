@@ -184,23 +184,15 @@
         <mark key="^" line="74" column="71" />
         <mark key="." line="74" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/ParametersV1.java" timestamp="1615235099533">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="112" column="37" />
-        <mark key="]" line="112" column="37" />
-        <mark key="^" line="112" column="37" />
-        <mark key="." line="112" column="36" />
-      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/.gitignore" timestamp="1615239348889">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/api/UserController.java" timestamp="1616279675502">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="22" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/api/UserController.java" timestamp="1616280070929">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/BooleanValue.java" timestamp="1615237457695">
         <mark key="'" line="8" column="29" />
@@ -222,16 +214,21 @@
         <mark key="^" line="27" column="80" />
         <mark key="." line="27" column="79" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/dto/UserDto.java" timestamp="1616279855195">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/dto/UserDto.java" timestamp="1616280059860">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/pom.xml" timestamp="1616279614071">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/mappers/UserMapper.java" timestamp="1616280027678">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1616279397490">
         <mark key="[" line="0" column="0" />
@@ -348,8 +345,8 @@
       <register name="a" type="2">
         <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kdG87CgppbXBvcnQgbG9tYm9rLkFsbEFyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5CdWlsZGVyOwppbXBvcnQgbG9tYm9rLkVxdWFsc0FuZEhhc2hDb2RlOwppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CgpAR2V0dGVyCkBTZXR0ZXIKQEJ1aWxkZXIKQEFsbEFyZ3NDb25zdHJ1Y3RvcgpARXF1YWxzQW5kSGFzaENvZGUKcHVibGljIGNsYXNzIEdyb3VwRm9yVUlEdG8gewoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287Cn0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>post</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -367,7 +364,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>UserDto</text>
       </register>
       <register name="/" type="4">
         <text>notice</text>
@@ -387,10 +384,10 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxhc3ROYW1lOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRHRvIG1hcChVc2VyIHVzZXIpIHsKICAgICAgICBVc2VyRHRvIHVzZXJEdG8gPSBuZXcgVXNlckR0bygpOwoKICAgICAgICB1c2VyLnNldElkKHVzZXIuZ2V0SWQoKSk7CiAgICAgICAgdXNlci5zZXRJZCh1c2VyLmdldElkKCkpOwogICAgICAgIHVzZXIuc2V0SWQodXNlci5nZXRJZCgpKTsKICAgICAgICAKICAgICAgICByZXR1cm4gdXNlckR0bzsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -399,7 +396,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVXNlckR0byBtYXAoVXNlciB1c2VyKSB7CiAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
@@ -411,19 +408,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyRHRvIHVzZXJEdG8gPSBuZXcgVXNlckR0bygpOwoKICAgICAgICB1c2VyLnNldElkKHVzZXIuZ2V0SWQoKSk7CiAgICAgICAgdXNlci5zZXRJZCh1c2VyLmdldElkKCkpOwogICAgICAgIHVzZXIuc2V0SWQodXNlci5nZXRJZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
