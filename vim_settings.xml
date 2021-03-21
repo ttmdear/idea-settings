@@ -128,21 +128,28 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/listeners/UserListener.java" timestamp="1616363511252">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="63" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/listeners/UserListener.java" timestamp="1616364558656">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/resources/application.properties" timestamp="1616364550570">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="2" />
       </file>
       <file name="/a.dummy" timestamp="1616361758667">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/config/KafkaConsumerConfig.java" timestamp="1616363651595">
-        <mark key="'" line="35" column="41" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/config/KafkaConsumerConfig.java" timestamp="1616364591121">
+        <mark key="'" line="33" column="41" />
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="52" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="52" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/configuration/KafkaConfig.java" timestamp="1616362908937">
         <mark key="[" line="21" column="65" />
@@ -167,13 +174,6 @@
         <mark key="]" line="21" column="80" />
         <mark key="^" line="21" column="80" />
         <mark key="." line="21" column="79" />
-      </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1615242179058">
-        <mark key="'" line="81" column="12" />
-        <mark key="[" line="188" column="57" />
-        <mark key="]" line="188" column="79" />
-        <mark key="." line="188" column="78" />
-        <mark key="^" line="188" column="79" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/Application.java" timestamp="1616363036666">
         <mark key="[" line="7" column="0" />
@@ -219,14 +219,13 @@
       <file name="/fragment.java" timestamp="1616360711944">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/pom.xml" timestamp="1616363761494">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/pom.xml" timestamp="1616364605706">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="100" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/validators/MultipartPropertiesValidator.java" />
       <jump line="339" column="22" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
       <jump line="54" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/validators/MultipartPropertiesValidator.java" />
       <jump line="19" column="38" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/validators/MultipartPropertiesValidator.java" />
@@ -326,6 +325,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/Application.java" />
       <jump line="31" column="7" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/config/KafkaConsumerConfig.java" />
       <jump line="34" column="41" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/java/spring5kafkanotifier/config/KafkaConsumerConfig.java" />
+      <jump line="1" column="15" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-notifier/src/main/resources/application.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +334,7 @@
         <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kdG87CgppbXBvcnQgbG9tYm9rLkFsbEFyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5CdWlsZGVyOwppbXBvcnQgbG9tYm9rLkVxdWFsc0FuZEhhc2hDb2RlOwppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CgpAR2V0dGVyCkBTZXR0ZXIKQEJ1aWxkZXIKQEFsbEFyZ3NDb25zdHJ1Y3RvcgpARXF1YWxzQW5kSGFzaENvZGUKcHVibGljIGNsYXNzIEdyb3VwRm9yVUlEdG8gewoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287Cn0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -345,14 +345,14 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="+" type="4">
+        <text>KafkaListener</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;Me&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>11</text>
@@ -372,16 +372,16 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>baeldung</text>
+        <text>172.17.0.1:9092</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">Ly8gCi8vIA==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -390,10 +390,10 @@
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWU6IHlvdXItYXBwLW5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEthZmthTGlzdGVuZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -402,13 +402,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">c3ByaW5nLnBvcnQK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
