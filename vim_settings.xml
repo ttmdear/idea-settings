@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYVRiVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxtYUJ0VmFsdWVJbmRpY2F0b3JcPg==</entry>
         <entry encoding="base64">XDxtYUJiVmFsdWVJbmRpY2F0b3JcPg==</entry>
         <entry encoding="base64">XDxtYVphdFZhbHVlSW5kaWNhdG9yXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxSZXN1bHRcPg==</entry>
         <entry>result</entry>
         <entry encoding="base64">XDxPUFRJTUlaQVRJT05fUkVTVUxUX1BBVEhcPg==</entry>
+        <entry>11</entry>
       </history-search>
       <history-cmd>
         <entry>4</entry>
@@ -129,15 +129,23 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/Application.java" timestamp="1616360226776">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1615238878607">
         <mark key="'" line="59" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1616359555577">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/configuration/KafkaConfig.java" timestamp="1616359247966">
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="21" column="80" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/configuration/KafkaConfig.java" timestamp="1616360506822">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="36" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/domain/User.java" timestamp="1616279754031">
         <mark key="[" line="6" column="0" />
@@ -169,18 +177,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/api/UserController.java" timestamp="1616359540551">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/optimization/BooleanValue.java" timestamp="1615237457695">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/api/UserController.java" timestamp="1616360751094">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/simulator/Simulator.java" timestamp="1615242483135">
         <mark key="[" line="78" column="63" />
@@ -200,11 +201,18 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/pom.xml" timestamp="1616359920075">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/pom.xml" timestamp="1616360943499">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/resources/http/users.http" timestamp="1616360601990">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/mappers/UserMapper.java" timestamp="1616280027678">
         <mark key="[" line="5" column="0" />
@@ -212,7 +220,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1616279397490">
+      <file name="/fragment.java" timestamp="1616360711944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1615239412960">
@@ -220,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="41" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/controllers/ProviderGroupsController.java" />
-      <jump line="62" column="63" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/validators/MultipartPropertiesValidator.java" />
       <jump line="40" column="36" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/validators/MultipartPropertiesValidator.java" />
       <jump line="98" column="4" filename="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar!/org/apache/commons/beanutils/PropertyUtils.class" />
       <jump line="56" column="100" filename="C:/Projekty/workspace/eid.repos/wb/pentaid-adminpanel/src/main/java/pl/pentacomp/pentaid/adminpanel/dto/validators/MultipartPropertiesValidator.java" />
@@ -320,6 +326,8 @@
       <jump line="31" column="0" filename="C:/Projekty/workspace/epzp.repos/epzp-deployment-test2/values.yaml" />
       <jump line="19" column="54" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/configuration/KafkaProducerConfig.java" />
       <jump line="27" column="43" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/configuration/KafkaProducerConfig.java" />
+      <jump line="18" column="17" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/pom.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/repository/java/spring5-kafka/spring5-kafka-user-crud/src/main/java/spring5kafkausercrud/Application.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,8 +335,8 @@
       <register name="a" type="2">
         <text encoding="base64">cGFja2FnZSBwbC5wZW50YWNvbXAucGVudGFpZC5kdG87CgppbXBvcnQgbG9tYm9rLkFsbEFyZ3NDb25zdHJ1Y3RvcjsKaW1wb3J0IGxvbWJvay5CdWlsZGVyOwppbXBvcnQgbG9tYm9rLkVxdWFsc0FuZEhhc2hDb2RlOwppbXBvcnQgbG9tYm9rLkdldHRlcjsKaW1wb3J0IGxvbWJvay5TZXR0ZXI7CgpAR2V0dGVyCkBTZXR0ZXIKQEJ1aWxkZXIKQEFsbEFyZ3NDb25zdHJ1Y3RvcgpARXF1YWxzQW5kSGFzaENvZGUKcHVibGljIGNsYXNzIEdyb3VwRm9yVUlEdG8gewoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CiAgICBwcml2YXRlIEludGVnZXIgaW1wb3J0YW5jZTsKICAgIHByaXZhdGUgYnl0ZVtdIGxvZ287Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>repo.spring5.kafka.user.crud</text>
       </register>
       <register name="c" type="2">
         <text>o1.getId().compareTo(o2.getId())</text>
@@ -339,17 +347,17 @@
       <register name="j" type="4">
         <text>jjjjj</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIHRhZzogIjU1YjFkZTAxIgo=</text>
+      <register name="+" type="4">
+        <text>repo.spring5.kafka.user.crud</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?id=99</text>
       </register>
       <register name="/" type="4">
-        <text>notice</text>
+        <text>11</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -366,7 +374,7 @@
         </keys>
       </register>
       <register name="0" type="4">
-        <text>&quot;172.17.0.1:9092&quot;</text>
+        <text>baeldung</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -375,34 +383,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>settlingCaseDate</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">Ly8gCi8vIAogICAKLy8g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjguUkVMRUFTRTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2Etc3RyZWFtczwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>bugs/ogl_o_wyn_kon_EPZPTS-1339.json</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -417,9 +425,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>notice</last-search>
+      <last-search>11</last-search>
       <last-offset />
-      <last-pattern>notice</last-pattern>
+      <last-pattern>11</last-pattern>
       <last-replace>contractor</last-replace>
       <last-substitute encoding="base64">XDxBTkFMWVpFX01BX1dBVkVfTUlOX0xFTkdUSF9UT19TSUdOQUxcPg==</last-substitute>
       <last-dir>1</last-dir>
