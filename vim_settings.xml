@@ -16,6 +16,10 @@
         <entry>zam_zaw_um_ko</entry>
         <entry encoding="base64">XDxtYUJ0VmFsdWVcPg==</entry>
         <entry>Wave</entry>
+        <entry encoding="base64">XDxtYUxldmVsMXRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxtYUxldmVsMnRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxtYUxldmVsMXRJbmRpY2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxsZXZlbDF0VmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -96,6 +100,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/LevelZone.java" timestamp="1616512393285">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="11" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-swagger/target/generated-sources/openapi/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/model/NoticeData.java" timestamp="1616493096920">
         <mark key="[" line="50" column="23" />
         <mark key="]" line="50" column="39" />
@@ -113,11 +123,12 @@
       <file name="C:/Projekty/tmp/lvl/lvl/src/test/resources/parameters.properties" timestamp="1616505527013">
         <mark key="[" line="19" column="20" />
       </file>
-      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1616506266524">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1616512954039">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="59" column="65" />
+        <mark key="]" line="60" column="8" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="60" column="7" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/MovingAverageAnalyzer.java" timestamp="1616445424913">
         <mark key="'" line="63" column="29" />
@@ -131,13 +142,6 @@
         <mark key="]" line="342" column="84" />
         <mark key="^" line="343" column="53" />
         <mark key="." line="343" column="52" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1616421776840">
-        <mark key="'" line="159" column="33" />
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="45" column="49" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="39" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1616422530370">
         <mark key="v" line="0" column="4685" />
@@ -164,19 +168,19 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1616505984073">
-        <mark key="'" line="287" column="23" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
-        <mark key="^" line="293" column="8" />
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1616510679914">
+        <mark key="'" line="76" column="12" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="^" line="279" column="8" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um_konc.json" timestamp="1616493248964">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1616505642958">
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1616508477834">
         <mark key="[" line="83" column="7" />
         <mark key="]" line="83" column="38" />
         <mark key="^" line="83" column="38" />
@@ -191,7 +195,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1616505683298">
+      <file name="/fragment.java" timestamp="1616510651970">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -215,13 +219,27 @@
       <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
       <jump line="61" column="19" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="136" column="0" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
-      <jump line="52" column="19" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="183" column="18" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="271" column="24" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="274" column="27" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="276" column="27" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="285" column="23" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="287" column="23" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="298" column="0" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="279" column="43" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="283" column="84" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="0" column="0" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="270" column="30" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="316" column="66" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="317" column="66" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="319" column="25" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="52" column="19" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="120" column="8" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="121" column="11" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="185" column="73" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="50" column="0" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="76" column="12" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="18" column="19" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -230,46 +248,46 @@
         <text>MovingAverageAnalyzer</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gRW50ZXJJbkxldmVsMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>MovingAverageAnalyzer</text>
       </register>
       <register name="-" type="4">
-        <text>Event</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Wave</text>
+        <text encoding="base64">XDxsZXZlbDF0VmFsdWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gRW50ZXJJbkxldmVsMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sZXZlbFpvbmUgPSBsZXZlbFpvbmU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gU3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gU3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXNvbHZlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -278,9 +296,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Wave</last-search>
+      <last-search encoding="base64">XDxsZXZlbDF0VmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern>Wave</last-pattern>
+      <last-pattern encoding="base64">XDxsZXZlbDF0VmFsdWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
