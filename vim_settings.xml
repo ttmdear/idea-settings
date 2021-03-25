@@ -17,6 +17,13 @@
         <entry encoding="base64">XDxjaGVja01pbmltdW1Nb21lbnR1bVw+</entry>
         <entry encoding="base64">XDxsZXZlbEV2ZW50TGlzdFw+</entry>
         <entry encoding="base64">XDxtYUxldmVsTUluZGljYXRvclw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzU2lnbmFsc1w+</entry>
+        <entry encoding="base64">XDxsZXZlbEV2ZW50TGFzdFw+</entry>
+        <entry encoding="base64">XDxEdXBsaWNhdGVkQ29kZVw+</entry>
+        <entry encoding="base64">XDxtYVZhbHVlTGlzdFw+</entry>
+        <entry encoding="base64">XDxxdW90ZXNcPg==</entry>
+        <entry encoding="base64">XDxtaW5pbXVtTW9tZW50dW1cPg==</entry>
+        <entry encoding="base64">XDxtYVZhbHVlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -115,18 +122,23 @@
         <mark key="^" line="152" column="30" />
         <mark key="." line="152" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/EventsInterpreter.java" timestamp="1616702741008">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+        <mark key="." line="48" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/LevelZone.java" timestamp="1616620717923">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1616627137575">
-        <mark key="'" line="205" column="12" />
-        <mark key="[" line="136" column="42" />
-        <mark key="]" line="136" column="46" />
-        <mark key="." line="136" column="45" />
-        <mark key="^" line="136" column="46" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1616703622208">
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="3" />
+        <mark key="^" line="49" column="4" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-macros-1.0.0.ftl" timestamp="1616590065704">
         <mark key="[" line="2" column="36" />
@@ -198,11 +210,12 @@
         <mark key="^" line="10" column="88" />
         <mark key="." line="10" column="87" />
       </file>
-      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1616701973176">
-        <mark key="'" line="216" column="26" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1616702666737">
+        <mark key="'" line="211" column="11" />
+        <mark key="[" line="161" column="9" />
+        <mark key="]" line="162" column="8" />
+        <mark key="." line="162" column="7" />
+        <mark key="^" line="162" column="8" />
       </file>
       <file name="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1616619273922">
         <mark key="[" line="80" column="34" />
@@ -212,30 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="12" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
-      <jump line="18" column="19" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="343" column="31" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="325" column="10" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="285" column="53" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="327" column="53" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="278" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="161" column="35" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="6" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
-      <jump line="12" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
-      <jump line="32" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
-      <jump line="159" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
-      <jump line="77" column="27" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_kon-1.0.0.ftl" />
-      <jump line="164" column="9" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="13" column="16" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
-      <jump line="91" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="93" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="95" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="99" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="113" column="23" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="120" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="123" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="124" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="128" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="130" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="132" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="135" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
@@ -312,6 +301,30 @@
       <jump line="152" column="12" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="173" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="27" column="31" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
+      <jump line="149" column="34" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="42" column="32" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="210" column="11" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="143" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="145" column="31" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="160" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="161" column="27" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="39" column="23" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="158" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="159" column="22" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="189" column="33" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="11" column="19" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="220" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="73" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="112" column="15" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="44" column="24" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="70" column="8" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="103" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="106" column="12" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="52" column="20" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="46" column="19" filename="$USER_HOME$/projects/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,46 +333,46 @@
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQYXJ0IG5vPWtleSAvPgo=</text>
+        <text encoding="base64">ICAgIGtrawo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">PEBtLnByaW50RGF0ZVBlcmlvZCBubz0iNC4xMiIgbGFiZWw9IlByemV3aWR5d2FueSBva3JlcyBvYm93ae+/vXp5d2FuaWEgdW1vd3kga29uY2VzamkiIGZyb21Db2RlPSJCVC01MzYiIHRvQ29kZT0iQlQtNTM3IgogICAgcGVyaW9kQ29kZT0iQlQtMzYiIHBlcmlvZFR5cGVDb2RlPSJSS1QtMjIyNSIgLz4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9AbS5wcmludFBhcnQ+</text>
+        <text>exiting from zone.</text>
       </register>
       <register name="/" type="4">
-        <text>Przed</text>
+        <text encoding="base64">XDxtYVZhbHVlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQYXJ0IG5vPWtleSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZWdpc3RlciBldmVudCBhYm91dCBleGl0aW5nIGZyb20gem9uZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRSb3c+CiAgICAgICAgICAgIEN677+977+9IG5yICR7a2V5fQogICAgICAgIDwvQG0ucHJpbnRSb3c+Cg==</text>
+        <text encoding="base64">ICAgIGtrawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRSb3c+CiAgICAgICAgICAgIDxici8+CiAgICAgICAgICAgIEN677+977+9IG5yICR7a2V5fQogICAgICAgIDwvQG0ucHJpbnRSb3c+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRSb3c+CiAgICAgICAgICAgIDxici8+CiAgICAgICAgICAgIEN677+977+9IG5yICR7a2V5fQogICAgICAgIDwvQG0ucHJpbnRSb3c+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIG1hVmFsdWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMyBjbGFzcz0ibWItMCI+PCNuZXN0ZWQ+PC9oMz4K</text>
+        <text encoding="base64">ICAgICAgICBtYVZhbHVlTGlzdC5hZGQobWFWYWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJyLz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxEb3VibGU+IG1hVmFsdWVMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7CiAgICAiaWQiOiAiUktULTA1NjQiLAogICAgInZhbHVlIjogIjAiCiAgfSwK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJEdXBsaWNhdGVkQ29kZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -368,9 +381,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Przed</last-search>
+      <last-search encoding="base64">XDxtYVZhbHVlXD4=</last-search>
       <last-offset />
-      <last-pattern>Przed</last-pattern>
+      <last-pattern encoding="base64">XDxtYVZhbHVlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
