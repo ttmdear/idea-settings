@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>514</entry>
-        <entry>503</entry>
         <entry>506</entry>
         <entry>505</entry>
         <entry>739</entry>
@@ -25,6 +23,8 @@
         <entry>code</entry>
         <entry>list</entry>
         <entry encoding="base64">PCNsaXN0</entry>
+        <entry>BT-541</entry>
+        <entry>541</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -158,8 +158,8 @@
         <mark key="^" line="62" column="99" />
         <mark key="." line="62" column="98" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" timestamp="1616664619906">
-        <mark key="'" line="10" column="12" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" timestamp="1616679522676">
+        <mark key="'" line="99" column="19" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -216,10 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="43" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="179" column="12" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="156" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="100" column="34" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="180" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="111" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
@@ -316,6 +312,10 @@
       <jump line="110" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
       <jump line="97" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
       <jump line="111" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
+      <jump line="33" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
+      <jump line="52" column="65" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
+      <jump line="88" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
+      <jump line="99" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +333,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCNsaXN0</text>
+        <text>541</text>
       </register>
       <register name="0" type="4">
         <text>RKT-0701</text>
@@ -375,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PCNsaXN0</last-search>
+      <last-search>541</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCNsaXN0</last-pattern>
+      <last-pattern>541</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
