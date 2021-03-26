@@ -128,12 +128,12 @@
         <mark key="^" line="1256" column="11" />
         <mark key="." line="1256" column="10" />
       </file>
-      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" timestamp="1616766532217">
-        <mark key="'" line="61" column="63" />
-        <mark key="[" line="64" column="43" />
-        <mark key="]" line="64" column="43" />
-        <mark key="." line="64" column="43" />
-        <mark key="^" line="64" column="12" />
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" timestamp="1616767940903">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="207" column="22" />
+        <mark key="]" line="207" column="24" />
+        <mark key="." line="207" column="23" />
+        <mark key="^" line="207" column="24" />
       </file>
       <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1616760347287">
         <mark key="[" line="177" column="40" />
@@ -206,19 +206,14 @@
         <mark key="^" line="70" column="67" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1616766453246">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="21" column="8" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="8" />
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" timestamp="1616767814740">
+        <mark key="'" line="19" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1616762516237">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="39" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="93" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um_konc.json" />
       <jump line="206" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um_konc.json" />
       <jump line="102" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
@@ -317,6 +312,8 @@
       <jump line="45" column="12" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="68" column="12" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="59" column="63" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
+      <jump line="19" column="3" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/util/DateUtil.java" />
+      <jump line="48" column="0" filename="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/simulator/SimulatorReport.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,20 +321,20 @@
       <register name="a" type="4">
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>getHours</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">UEVSSU9EO0JBTEFOQ0U7U0lHTkFMUztTTDtCRTtUUApNb24gU2VwIDI4IDAwOjAwOjAwIENFU1QgMjAyMDsyOTszOzA7MTsxCk1vbiBPY3QgMDUgMDA6MDA6MDAgQ0VTVCAyMDIwOzU5OzU7MjszOzMKTW9uIE9jdCAxMiAwMDowMDowMCBDRVNUIDIwMjA7MTU7Nzs0OzI7MgpNb24gT2N0IDE5IDAwOjAwOjAwIENFU1QgMjAyMDsxNDszOzI7MjsxCk1vbiBPY3QgMjYgMDA6MDA6MDAgQ0VUIDIwMjA7MTU7Njs0OzI7MgpNb24gTm92IDAyIDAwOjAwOjAwIENFVCAyMDIwOzA7Njs0OzI7MgpNb24gTm92IDA5IDAwOjAwOjAwIENFVCAyMDIwOzc3OzU7MTszOzMKTW9uIE5vdiAxNiAwMDowMDowMCBDRVQgMjAyMDsyNjsxNjs5OzU7NQpNb24gTm92IDIzIDAwOjAwOjAwIENFVCAyMDIwOzI5OzQ7MjsyOzIKTW9uIE5vdiAzMCAwMDowMDowMCBDRVQgMjAyMDszNzs2OzQ7NDsyCk1vbiBEZWMgMDcgMDA6MDA6MDAgQ0VUIDIwMjA7LTQ7Nzs2OzM7MQpNb24gRGVjIDE0IDAwOjAwOjAwIENFVCAyMDIwOzMyOzY7MzsyOzIKTW9uIERlYyAyMSAwMDowMDowMCBDRVQgMjAyMDstMTQ7MzsyOzE7MApNb24gRGVjIDI4IDAwOjAwOjAwIENFVCAyMDIwOy0zNDs0OzQ7MTswCk1vbiBKYW4gMDQgMDA6MDA6MDAgQ0VUIDIwMjE7MzI7ODs1OzM7MwpNb24gSmFuIDExIDAwOjAwOjAwIENFVCAyMDIxOy0yMjs2OzU7MTsxCk1vbiBKYW4gMTggMDA6MDA6MDAgQ0VUIDIwMjE7NjM7OTs0OzQ7NApNb24gSmFuIDI1IDAwOjAwOjAwIENFVCAyMDIxOzI0Ozk7NTszOzMKTW9uIEZlYiAwMSAwMDowMDowMCBDRVQgMjAyMTstMTs3OzU7MjsyCk1vbiBGZWIgMDggMDA6MDA6MDAgQ0VUIDIwMjE7LTE2OzY7NTsxOzEKTW9uIEZlYiAxNSAwMDowMDowMCBDRVQgMjAyMTsyMTs1OzM7MjsyCk1vbiBGZWIgMjIgMDA6MDA6MDAgQ0VUIDIwMjE7MTg7Njs0OzI7MgpNb24gTWFyIDAxIDAwOjAwOjAwIENFVCAyMDIxOzE2NDs3OzE7Njs2Ck1vbiBNYXIgMDggMDA6MDA6MDAgQ0VUIDIwMjE7ODg7MTE7Njs2OzUKTW9uIE1hciAxNSAwMDowMDowMCBDRVQgMjAyMTstMjk7Njs1OzE7MQpNb24gTWFyIDIyIDAwOjAwOjAwIENFVCAyMDIxOzA7MDswOzA7MApTVU07NjIzOzE2MTs5NTs2NDs1NgpQRVJJT0QgT04gUExVUzsxOTs7OzsKUEVSSU9EIE9OIE1JTlVTOzc7Ozs7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getHours</text>
+        <text>ClosedOnSL</text>
       </register>
       <register name="/" type="4">
         <text>Cze</text>
       </register>
-      <register name="0" type="4">
-        <text>order.getOpenQuote().getTime()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xvc2VkT25TTCsrOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,28 +343,28 @@
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIFRJTUVfRk9STUFUX0hIX0RBU0ggPSAiSEgiOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXIuZ2V0Q2xvc2VRdW90ZSgpLmdldFRpbWUoKS5nZXRIb3VycygpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEhvdXJSZXN1bHQoKSB7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGZvcm1hdERhdGV0aW1lKERhdGUgZGF0ZSkgewogICAgICAgIHJldHVybiBuZXcgU2ltcGxlRGF0ZUZvcm1hdChEQVRFVElNRV9GT1JNQVQpLmZvcm1hdChkYXRlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBICg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBjYWxlbmRhciA9IENhbGVuZGFyLmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
