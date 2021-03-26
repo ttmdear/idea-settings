@@ -30,8 +30,8 @@
         <entry>2</entry>
         <entry>21</entry>
         <entry>188</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,20 +152,8 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="29" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/common/macros-1.0.0.ftl" timestamp="1616662762417">
-        <mark key="'" line="139" column="23" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="69" column="9" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_kon-1.0.0.ftl" timestamp="1616751634452">
         <mark key="'" line="8" column="8" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1616663757929">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1616676650610">
         <mark key="[" line="0" column="1" />
@@ -201,6 +189,13 @@
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
+      </file>
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/resources/parameters.properties" timestamp="1616758767614" />
+      <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1616758218736">
+        <mark key="[" line="333" column="26" />
+        <mark key="]" line="333" column="30" />
+        <mark key="." line="333" column="29" />
+        <mark key="^" line="333" column="30" />
       </file>
       <file name="C:/Projekty/tmp/lvl/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1616756214075">
         <mark key="'" line="74" column="4" />
@@ -334,14 +329,14 @@
       <register name="a" type="4">
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>allowSignals</text>
       </register>
       <register name="+" type="4">
         <text>Ogłoszenie o zmianie umowy koncesji</text>
       </register>
       <register name="-" type="4">
-        <text>zoneType</text>
+        <text>allowSignals</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYUNoYXJ0SW5kaWNhdG9yXD4=</text>
@@ -380,7 +375,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
