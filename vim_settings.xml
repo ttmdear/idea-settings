@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>BT-36</entry>
         <entry>2225</entry>
         <entry>2190</entry>
         <entry>5.1.1</entry>
@@ -25,6 +24,7 @@
         <entry>539</entry>
         <entry>Nazwa (firma) albo imię</entry>
         <entry>500@2</entry>
+        <entry>place</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -32,8 +32,8 @@
         <entry>188</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,12 +123,18 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" timestamp="1617180319769">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="13" column="40" />
+      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" timestamp="1617184039988">
+        <mark key="'" line="7" column="48" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="15" column="95" />
+      </file>
+      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/_services/session.service.ts" timestamp="1617183281308">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="/Dummy.ts" timestamp="1617111648562">
         <mark key="[" line="0" column="0" />
@@ -170,25 +176,17 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" timestamp="1617180663569">
-        <mark key="'" line="10" column="7" />
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="30" />
+      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" timestamp="1617184033412">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-macros-1.0.0.ftl" timestamp="1617112222845">
         <mark key="'" line="8" column="31" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="C:/Projekty/repository/snippets/js/angular/layout-full.html" timestamp="1617088175049">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="0" column="27" />
       </file>
       <file name="C:/Projekty/repository/snippets/js/angular/layout-top-left-nav.html" timestamp="1617088874803">
         <mark key="'" line="11" column="26" />
@@ -202,11 +200,11 @@
         <mark key="]" line="123" column="30" />
         <mark key="." line="123" column="30" />
       </file>
-      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/_repositories/user-repo.service.ts" timestamp="1617180770420">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="20" />
+      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/_repositories/user-repo.service.ts" timestamp="1617182995821">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617103529574">
         <mark key="'" line="313" column="35" />
@@ -225,16 +223,13 @@
         <mark key="^" line="108" column="22" />
       </file>
       <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/app.module.ts" timestamp="1617177566317">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
         <mark key="^" line="51" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" />
-      <jump line="64" column="42" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" />
-      <jump line="329" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="334" column="54" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="336" column="55" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="42" column="51" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" />
@@ -332,6 +327,9 @@
       <jump line="154" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um_konc.json" />
       <jump line="2" column="7" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
       <jump line="8" column="7" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" />
+      <jump line="13" column="19" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/_services/session.service.ts" />
+      <jump line="11" column="0" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
+      <jump line="7" column="48" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,60 +338,60 @@
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DamarisAKing@dayrep.com</text>
+        <text>_</text>
       </register>
       <register name="+" type="4">
         <text>Concessionaire</text>
       </register>
       <register name="-" type="4">
-        <text>DamarisAKing@dayrep.com</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>500@2</text>
+        <text>place</text>
       </register>
-      <register name="0" type="4">
-        <text>john@uganda.pl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5sb2dpbi5oYXNFcnJvcigicmVxdWlyZWQiKSkgewogICAgICAgICAgICByZXR1cm4gIllvdSBtdXN0IGVudGVyIGxvZ2luIjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG8pCg==</text>
+        <text encoding="base64">ICAgIGdldCBsb2dpbigpOiBGb3JtQ29udHJvbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuX2xvZ2luOwogICAgfQoKICAgIGdldCBwYXNzd29yZCgpOiBGb3JtQ29udHJvbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3Bhc3N3b3JkOwogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJSZXBvU2VydmljZS5maW5kQnlFbWFpbChsbykK</text>
+      <register name="3" type="8">
+        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGdldExvZ2luKCk6IEZvcm1Db250cm9sIHsKICAgICAgICByZXR1cm4gdGhpcy5fbG9naW47CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvbWF0LWNhcmQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtYXQtY2FyZD4K</text>
+        <text encoding="base64">ICAgIHNldCBsb2dpbih2YWx1ZTogRm9ybUNvbnRyb2wpIHsKICAgICAgICB0aGlzLl9sb2dpbiA9IHZhbHVlOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>500@2</last-search>
+      <last-search>place</last-search>
       <last-offset />
-      <last-pattern>500@2</last-pattern>
+      <last-pattern>place</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
