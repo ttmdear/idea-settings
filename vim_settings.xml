@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>2190</entry>
         <entry>5.1.1</entry>
         <entry>6.1</entry>
         <entry>Procedura stosowana w postępowaniu o zawarcie</entry>
@@ -25,6 +24,7 @@
         <entry>500@2</entry>
         <entry>place</entry>
         <entry encoding="base64">XDxfbG9naW5cPg==</entry>
+        <entry encoding="base64">XDxsb2dpblw+</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -32,8 +32,9 @@
         <entry>188</entry>
         <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
         <entry>W</entry>
-        <entry>wa</entry>
+        <entry>48</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,11 +124,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" timestamp="1617184177777">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="14" column="95" />
+      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" timestamp="1617187609618">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/_services/session.service.ts" timestamp="1617183281308">
         <mark key="[" line="7" column="23" />
@@ -175,11 +176,12 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" timestamp="1617184221332">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" timestamp="1617187692135">
+        <mark key="'" line="33" column="17" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="39" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="37" column="38" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-macros-1.0.0.ftl" timestamp="1617112222845">
         <mark key="'" line="8" column="31" />
@@ -229,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="51" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" />
       <jump line="29" column="42" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" />
       <jump line="240" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl_konc.json" />
       <jump line="178" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl_konc.json" />
@@ -326,9 +327,10 @@
       <jump line="8" column="7" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" />
       <jump line="13" column="19" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/_services/session.service.ts" />
       <jump line="11" column="0" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
-      <jump line="7" column="48" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
       <jump line="37" column="57" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" />
       <jump line="25" column="17" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.ts" />
+      <jump line="7" column="34" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
+      <jump line="9" column="28" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/login-page/login-page.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,61 +338,61 @@
       <register name="a" type="4">
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>login</text>
       </register>
       <register name="+" type="4">
         <text>Concessionaire</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbG9naW5cPg==</text>
+        <text encoding="base64">XDxsb2dpblw+</text>
       </register>
       <register name="0" type="4">
-        <text>this.login.value</text>
+        <text>this.form.controls.login.hasError(&quot;required&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKICAgCi8vIAovLyAKLy8g</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZm9ybSIsIHRoaXMuZm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGhpcy5sb2dpbi52YWx1ZSIsIHRoaXMubG9naW4udmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Zvcm0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGhpcy5sb2dpbi52YWx1ZSIsIHRoaXMubG9naW4udmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Zm9ybSBbZm9ybUdyb3VwXT0iZm9ybSI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IFsobmdNb2RlbCldPSJsb2dpbiIgbWF0SW5wdXQgcGxhY2Vob2xkZXI9IkxvZ2luIj4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm0uZ2RkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKC4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldCBsb2dpbigpOiBGb3JtQ29udHJvbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuX2xvZ2luOwogICAgfQoKICAgIGdldCBwYXNzd29yZCgpOiBGb3JtQ29udHJvbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3Bhc3N3b3JkOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfbG9naW5cPg==</last-search>
+      <last-search encoding="base64">XDxsb2dpblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbG9naW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpblw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
