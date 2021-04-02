@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Wartość koncesji</entry>
         <entry encoding="base64">UktULTIwMDkg</entry>
         <entry>RKT-2009</entry>
         <entry>2009</entry>
@@ -25,6 +24,7 @@
         <entry>1052</entry>
         <entry>2400</entry>
         <entry>1052@4</entry>
+        <entry>isKon</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -135,8 +135,8 @@
         <mark key="^" line="95" column="19" />
         <mark key="." line="95" column="18" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" timestamp="1617352952906">
-        <mark key="'" line="209" column="23" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" timestamp="1617354235074">
+        <mark key="'" line="134" column="4" />
         <mark key="[" line="202" column="73" />
         <mark key="]" line="202" column="74" />
         <mark key="^" line="202" column="74" />
@@ -161,8 +161,8 @@
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" timestamp="1617352694266">
-        <mark key="'" line="170" column="24" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" timestamp="1617354240104">
+        <mark key="'" line="150" column="29" />
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="57" />
         <mark key="^" line="169" column="0" />
@@ -234,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/app.component.ts" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/register-page/register-page.component.html" />
       <jump line="0" column="3" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/app.component.css" />
       <jump line="37" column="0" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/dashboard-page/dashboard-page.component.html" />
       <jump line="2" column="0" filename="C:/Projekty/workspace/uganda.repos/uganda-web-backoffice/src/app/dashboard-page/dashboard-page.component.html" />
@@ -267,7 +265,6 @@
       <jump line="6" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="11" column="21" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="51" column="5" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="4" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="383" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="289" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="43" column="69" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
@@ -334,6 +331,9 @@
       <jump line="230" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="232" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="234" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
+      <jump line="4" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
+      <jump line="134" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
+      <jump line="150" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +351,7 @@
         <text>5.1.</text>
       </register>
       <register name="/" type="4">
-        <text>1052@4</text>
+        <text>isKon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAhc2NvcGVbIkJULTUzNyJdP2hhc19jb250ZW50ICYmCg==</text>
@@ -399,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>1052@4</last-search>
+      <last-search>isKon</last-search>
       <last-offset />
-      <last-pattern>1052@4</last-pattern>
+      <last-pattern>isKon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
