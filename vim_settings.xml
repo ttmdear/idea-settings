@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>isKon</entry>
         <entry>Ogłoszenie o zawarciu umowy koncesji</entry>
         <entry>7.3</entry>
         <entry>BT-11</entry>
@@ -25,6 +24,7 @@
         <entry>1052</entry>
         <entry>ogl_o_zaw_um</entry>
         <entry>ogl_o_zaw_um_konc</entry>
+        <entry>3.4</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -163,19 +163,19 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="24" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1617369747133">
+      <file name="/Dummy.txt" timestamp="1617371904653">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" timestamp="1617361898005">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="77" column="20" />
-        <mark key="." line="77" column="19" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" timestamp="1617371892558">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+        <mark key="." line="40" column="60" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um_konc.json" timestamp="1617369679258">
         <mark key="[" line="1" column="0" />
@@ -308,7 +308,6 @@
       <jump line="4" column="35" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
       <jump line="23" column="60" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
       <jump line="13" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
-      <jump line="16" column="21" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
       <jump line="95" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um_konc.json" />
       <jump line="50" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um_konc.json" />
       <jump line="700" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -335,6 +334,7 @@
       <jump line="0" column="0" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/aspects/MeasureTimeAspect.java" />
       <jump line="21" column="12" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/services/impl/UserServiceImpl.java" />
       <jump line="0" column="0" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/services/impl/UserServiceImpl.java" />
+      <jump line="16" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,7 +352,7 @@
         <text>findFirst().get();</text>
       </register>
       <register name="/" type="4">
-        <text>ogl_o_zaw_um_konc</text>
+        <text>3.4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUgdGltZSA9IExvY2FsVGltZS5ub3coKTsK</text>
@@ -394,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ogl_o_zaw_um_konc</last-search>
+      <last-search>3.4</last-search>
       <last-offset />
-      <last-pattern>ogl_o_zaw_um_konc</last-pattern>
+      <last-pattern>3.4</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
