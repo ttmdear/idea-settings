@@ -116,6 +116,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-swagger/target/generated-sources/openapi/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/model/NoticeData.java" timestamp="1617714886689">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="25" />
+      </file>
       <file name="C:/Projekty/repository/java/spring5-ioc-beanfactory/src/main/java/repo/spring5iocbeanfactory/services/Bootstrap.java" timestamp="1617710170308">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -127,13 +131,6 @@
         <mark key="]" line="7" column="25" />
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="25" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" timestamp="1617369449443">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="152" column="16" />
-        <mark key="^" line="150" column="14" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" timestamp="1617713614300">
         <mark key="'" line="189" column="16" />
@@ -155,7 +152,7 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="53" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1617711180309">
+      <file name="/Dummy.txt" timestamp="1617714581212">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -321,11 +318,11 @@
       <register name="a" type="4">
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEV4Y2VwdGlvblJ1bGUgaW1wbGVtZW50cyBUZXN0UnVsZSB7CiAgICBwcml2YXRlIENsYXNzIGV4cGVjdGVkOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0YXRlbWVudCBhcHBseShmaW5hbCBTdGF0ZW1lbnQgYmFzZSwgRGVzY3JpcHRpb24gZGVzY3JpcHRpb24pIHsKICAgICAgICByZXR1cm4gbmV3IFN0YXRlbWVudCgpIHsKICAgICAgICAgICAgVGhyb3dhYmxlIGVycm9yID0gbnVsbDsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBldmFsdWF0ZSgpIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBiYXNlLmV2YWx1YXRlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgZXJyb3IgPSB0aHJvd2FibGU7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGV4cGVjdGVkICE9IG51bGwgJiYgKGVycm9yID09IG51bGwgfHwgIWVycm9yLmdldENsYXNzKCkuZXF1YWxzKGV4cGVjdGVkKSkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJObyBleGNlcHRpb24gYXNzZXJ0aW9uIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGV4cGVjdGVkID09IG51bGwgJiYgZXJyb3IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIk5vIGV4Y2VwdGlvbiBhc3NlcnRpb24iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RXhwZWN0ZWQoQ2xhc3MgZXhwZWN0ZWQpIHsKICAgICAgICB0aGlzLmV4cGVjdGVkID0gZXhwZWN0ZWQ7CiAgICB9Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>ogl_o_konc</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEV4Y2VwdGlvblJ1bGUgaW1wbGVtZW50cyBUZXN0UnVsZSB7CiAgICBwcml2YXRlIENsYXNzIGV4cGVjdGVkOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0YXRlbWVudCBhcHBseShmaW5hbCBTdGF0ZW1lbnQgYmFzZSwgRGVzY3JpcHRpb24gZGVzY3JpcHRpb24pIHsKICAgICAgICByZXR1cm4gbmV3IFN0YXRlbWVudCgpIHsKICAgICAgICAgICAgVGhyb3dhYmxlIGVycm9yID0gbnVsbDsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBldmFsdWF0ZSgpIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBiYXNlLmV2YWx1YXRlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgZXJyb3IgPSB0aHJvd2FibGU7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGV4cGVjdGVkICE9IG51bGwgJiYgKGVycm9yID09IG51bGwgfHwgIWVycm9yLmdldENsYXNzKCkuZXF1YWxzKGV4cGVjdGVkKSkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJObyBleGNlcHRpb24gYXNzZXJ0aW9uIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGV4cGVjdGVkID09IG51bGwgJiYgZXJyb3IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIk5vIGV4Y2VwdGlvbiBhc3NlcnRpb24iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RXhwZWN0ZWQoQ2xhc3MgZXhwZWN0ZWQpIHsKICAgICAgICB0aGlzLmV4cGVjdGVkID0gZXhwZWN0ZWQ7CiAgICB9Cn0K</text>
+      <register name="+" type="4">
+        <text>ogl_o_konc</text>
       </register>
       <register name="-" type="4">
         <text />
