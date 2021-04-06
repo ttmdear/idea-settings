@@ -151,13 +151,6 @@
         <mark key="]" line="21" column="5" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617369325247">
-        <mark key="'" line="379" column="54" />
-        <mark key="[" line="381" column="74" />
-        <mark key="]" line="381" column="72" />
-        <mark key="." line="381" column="71" />
-        <mark key="^" line="381" column="72" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExternalResource.java" timestamp="1617713414453">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="53" column="5" />
@@ -189,11 +182,17 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/Projekty/repository/java/junit4-rule/src/test/java/repo/junit4/rule/AppTest.java" timestamp="1617712460507">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="4" />
+      <file name="C:/Projekty/repository/java/junit4-rule/src/test/java/repo/junit4/rule/AppTest.java" timestamp="1617714489730">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="C:/Projekty/repository/java/junit4-rule/src/test/java/repo/junit4/rule/ExceptionRule.java" timestamp="1617714547318">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="22" column="59" />
+        <mark key="." line="22" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.4.4/spring-boot-2.4.4.jar!/org/springframework/boot/SpringApplication.class" timestamp="1617706337963" />
       <file name="C:/Projekty/repository/java/spring5-ioc-beanfactory/src/main/java/repo/spring5iocbeanfactory/UserCreatedEvent.java" timestamp="1617709861462">
@@ -207,7 +206,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="55" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1617364856421">
+      <file name="/fragment.java" timestamp="1617714425735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -215,7 +214,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.5/spring-context-5.3.5.jar!/org/springframework/context/ApplicationContext.class" timestamp="1617709600079" />
     </filemarks>
     <jumps>
-      <jump line="65" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="153" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="69" column="143" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="72" column="95" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
@@ -315,6 +313,7 @@
       <jump line="44" column="8" filename="C:/Projekty/repository/java/spring5-ioc-beanfactory/src/main/java/repo/spring5iocbeanfactory/services/Bootstrap.java" />
       <jump line="44" column="0" filename="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/TestRule.java" />
       <jump line="189" column="16" filename="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" />
+      <jump line="6" column="19" filename="C:/Projekty/repository/java/junit4-rule/src/test/java/repo/junit4/rule/ExceptionRule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,46 +322,46 @@
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGFic3RyYWN0IGNsYXNzIEV4dGVybmFsUmVzb3VyY2UgaW1wbGVtZW50cyBUZXN0UnVsZSB7CiAgICBwdWJsaWMgU3RhdGVtZW50IGFwcGx5KFN0YXRlbWVudCBiYXNlLCBEZXNjcmlwdGlvbiBkZXNjcmlwdGlvbikgewogICAgICAgIHJldHVybiBzdGF0ZW1lbnQoYmFzZSk7CiAgICB9CgogICAgcHJpdmF0ZSBTdGF0ZW1lbnQgc3RhdGVtZW50KGZpbmFsIFN0YXRlbWVudCBiYXNlKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTdGF0ZW1lbnQoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBldmFsdWF0ZSgpIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICAgICAgYmVmb3JlKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGJhc2UuZXZhbHVhdGUoKTsKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgYWZ0ZXIoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEV4Y2VwdGlvblJ1bGUgaW1wbGVtZW50cyBUZXN0UnVsZSB7CiAgICBwcml2YXRlIENsYXNzIGV4cGVjdGVkOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0YXRlbWVudCBhcHBseShmaW5hbCBTdGF0ZW1lbnQgYmFzZSwgRGVzY3JpcHRpb24gZGVzY3JpcHRpb24pIHsKICAgICAgICByZXR1cm4gbmV3IFN0YXRlbWVudCgpIHsKICAgICAgICAgICAgVGhyb3dhYmxlIGVycm9yID0gbnVsbDsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBldmFsdWF0ZSgpIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBiYXNlLmV2YWx1YXRlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgZXJyb3IgPSB0aHJvd2FibGU7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGV4cGVjdGVkICE9IG51bGwgJiYgKGVycm9yID09IG51bGwgfHwgIWVycm9yLmdldENsYXNzKCkuZXF1YWxzKGV4cGVjdGVkKSkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJObyBleGNlcHRpb24gYXNzZXJ0aW9uIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGV4cGVjdGVkID09IG51bGwgJiYgZXJyb3IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIk5vIGV4Y2VwdGlvbiBhc3NlcnRpb24iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RXhwZWN0ZWQoQ2xhc3MgZXhwZWN0ZWQpIHsKICAgICAgICB0aGlzLmV4cGVjdGVkID0gZXhwZWN0ZWQ7CiAgICB9Cn0K</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">cHVibGljIGFic3RyYWN0IGNsYXNzIEV4dGVybmFsUmVzb3VyY2UgaW1wbGVtZW50cyBUZXN0UnVsZSB7CiAgICBwdWJsaWMgU3RhdGVtZW50IGFwcGx5KFN0YXRlbWVudCBiYXNlLCBEZXNjcmlwdGlvbiBkZXNjcmlwdGlvbikgewogICAgICAgIHJldHVybiBzdGF0ZW1lbnQoYmFzZSk7CiAgICB9CgogICAgcHJpdmF0ZSBTdGF0ZW1lbnQgc3RhdGVtZW50KGZpbmFsIFN0YXRlbWVudCBiYXNlKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTdGF0ZW1lbnQoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBldmFsdWF0ZSgpIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICAgICAgYmVmb3JlKCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGJhc2UuZXZhbHVhdGUoKTsKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgYWZ0ZXIoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEV4Y2VwdGlvblJ1bGUgaW1wbGVtZW50cyBUZXN0UnVsZSB7CiAgICBwcml2YXRlIENsYXNzIGV4cGVjdGVkOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0YXRlbWVudCBhcHBseShmaW5hbCBTdGF0ZW1lbnQgYmFzZSwgRGVzY3JpcHRpb24gZGVzY3JpcHRpb24pIHsKICAgICAgICByZXR1cm4gbmV3IFN0YXRlbWVudCgpIHsKICAgICAgICAgICAgVGhyb3dhYmxlIGVycm9yID0gbnVsbDsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBldmFsdWF0ZSgpIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBiYXNlLmV2YWx1YXRlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgZXJyb3IgPSB0aHJvd2FibGU7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgaWYgKGV4cGVjdGVkICE9IG51bGwgJiYgKGVycm9yID09IG51bGwgfHwgIWVycm9yLmdldENsYXNzKCkuZXF1YWxzKGV4cGVjdGVkKSkpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJObyBleGNlcHRpb24gYXNzZXJ0aW9uIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGV4cGVjdGVkID09IG51bGwgJiYgZXJyb3IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIk5vIGV4Y2VwdGlvbiBhc3NlcnRpb24iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RXhwZWN0ZWQoQ2xhc3MgZXhwZWN0ZWQpIHsKICAgICAgICB0aGlzLmV4cGVjdGVkID0gZXhwZWN0ZWQ7CiAgICB9Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>3.4</text>
       </register>
-      <register name="0" type="4">
-        <text>shouldAnswerWithTrue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJObyBleGNlcHRpb24gYXNzZXJ0aW9uIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text>[SNIPPETS] Update.</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNjb3BlKCJwcm90b3R5cGUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbkNvbnRleHQuCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInNob3VsZEFuc3dlcldpdGhUcnVlIik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
