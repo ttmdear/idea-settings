@@ -183,8 +183,8 @@
         <mark key="]" line="21" column="5" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617785828599">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617800119723">
+        <mark key="'" line="305" column="56" />
         <mark key="[" line="381" column="74" />
         <mark key="]" line="381" column="72" />
         <mark key="." line="381" column="71" />
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="2" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="171" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="173" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -308,6 +307,7 @@
       <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="4" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="243" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
+      <jump line="305" column="56" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -367,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>0564</last-search>
+      <last-search>o_zm_ogl</last-search>
       <last-offset />
-      <last-pattern>0564</last-pattern>
+      <last-pattern>o_zm_ogl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
