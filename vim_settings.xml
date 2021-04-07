@@ -116,18 +116,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1617716257487">
+      <file name="/Dummy.txt" timestamp="1617785927780">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1617783327906">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1617785856914">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="78" />
         <mark key="^" line="191" column="14" />
-        <mark key="." line="195" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-swagger/target/generated-sources/openapi/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/model/NoticeData.java" timestamp="1617714886689">
         <mark key="[" line="32" column="16" />
@@ -183,15 +183,15 @@
         <mark key="]" line="21" column="5" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617782791008">
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617785828599">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="381" column="74" />
         <mark key="]" line="381" column="72" />
         <mark key="." line="381" column="71" />
         <mark key="^" line="381" column="72" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1617716160709">
-        <mark key="'" line="4" column="3" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1617785859935">
+        <mark key="'" line="243" column="20" />
         <mark key="[" line="239" column="15" />
         <mark key="]" line="239" column="15" />
         <mark key="^" line="239" column="15" />
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="80" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="2" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="171" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -308,6 +307,7 @@
       <jump line="312" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="4" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
+      <jump line="243" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +316,7 @@
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvI2lmPgo=</text>
+        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQb2ludFNlY3Rpb24gbm89IjYuMSIgdGl0bGU9Ild5a2F6IGtyeXRlcmnzdyBrd2FsaWZpa2FjamkiIC8+Cg==</text>
       </register>
       <register name="+" type="4">
         <text>ogl_o_konc</text>
@@ -328,7 +328,7 @@
         <text>0564</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8I2lmICFmLmlzS3dhbGlmaWthY2phSW5QYXJ0KGVsZW0pID4K</text>
+        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQb2ludFNlY3Rpb24gbm89IjYuMSIgdGl0bGU9Ild5a2F6IGtyeXRlcmnzdyBrd2FsaWZpa2FjamkiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDwvI2lmPgo=</text>
