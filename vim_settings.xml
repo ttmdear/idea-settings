@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>BT-11</entry>
         <entry>3.5</entry>
         <entry>o_zaw_wym_konc</entry>
         <entry>opis część 1</entry>
@@ -25,6 +24,7 @@
         <entry>5.13</entry>
         <entry>ogl_o_konc</entry>
         <entry>0564</entry>
+        <entry>o_zm_ogl</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -167,6 +167,12 @@
         <mark key="'" line="44" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="55" column="1" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1617800235385">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="25" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" timestamp="1617713614300">
         <mark key="'" line="189" column="16" />
@@ -315,50 +321,50 @@
       <register name="a" type="4">
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQb2ludFNlY3Rpb24gbm89IjYuMSIgdGl0bGU9Ild5a2F6IGtyeXRlcmnzdyBrd2FsaWZpa2FjamkiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Inna działalność</text>
       </register>
       <register name="+" type="4">
         <text>ogl_o_konc</text>
       </register>
       <register name="-" type="4">
-        <text>elem</text>
+        <text>Inna działalność</text>
       </register>
       <register name="/" type="4">
-        <text>0564</text>
+        <text>o_zm_ogl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQb2ludFNlY3Rpb24gbm89IjYuMSIgdGl0bGU9Ild5a2F6IGtyeXRlcmnzdyBrd2FsaWZpa2FjamkiIC8+Cg==</text>
+        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjEuNS4xLiIgbGFiZWw9IklubmEgZHppYbNhbG5vnOYiIGNvZGU9IlJLVC0yMzgxIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvI2lmPgo=</text>
+        <text encoding="base64">PEBtLnByaW50UG9pbnRTZWN0aW9uIG5vPSIxLjYiIHRpdGxlPSJEYW5lIHBvZG1pb3R1LCBrdPNyZW11IHphbWF3aWFquWN5IHBvd2llcnp5syBwcnplcHJvd2FkemVuaWUgcG9zdOpwb3dhbmlhIiAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwjaWYgbGlzdEVsZW0/aGFzX2NvbnRlbnQgPgo=</text>
+        <text encoding="base64">ICAgIDwvI2lmPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8I2xpc3QgbGlzdEVsZW0gYXMga2V5MSxlbGVtMT4KICAgICAgICAgICAgPEBmLnByaW50S3dhbGlmaWthY2phRnJhZ21lbnQgc2NvcGU9ZWxlbTEgbm89a2V5MS8+CiAgICAgICAgPC8jbGlzdD4K</text>
+        <text encoding="base64">ICAgIDwjaWYgbGlzdEVsZW0/aGFzX2NvbnRlbnQgPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwjaWYgZi5pc2pra2prCg==</text>
+        <text encoding="base64">ICAgICAgICA8I2xpc3QgbGlzdEVsZW0gYXMga2V5MSxlbGVtMT4KICAgICAgICAgICAgPEBmLnByaW50S3dhbGlmaWthY2phRnJhZ21lbnQgc2NvcGU9ZWxlbTEgbm89a2V5MS8+CiAgICAgICAgPC8jbGlzdD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxAbS5wcmludFBvaW50U2VjdGlvbiBubz0iNi4xIiB0aXRsZT0iV3lrYXoga3J5dGVyafN3IGt3YWxpZmlrYWNqaSIgLz4K</text>
+        <text encoding="base64">ICAgIDwjaWYgZi5pc2pra2prCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxAbS5wcmludFBvaW50U2VjdGlvbiBubz0iNi4xIiB0aXRsZT0iV3lrYXoga3J5dGVyafN3IGt3YWxpZmlrYWNqaSIgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8I2xpc3QgbGlzdEVsZW0gYXMga2V5LGVsZW0+CiAgICAgICAgICAgIDxAZi5wcmludEtyeXRlcml1bUZyYWdtZW50IHNjb3BlPWVsZW0gbm89a2V5Lz4KICAgICAgICA8LyNsaXN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8I2xpc3QgbGlzdEVsZW0gYXMga2V5LGVsZW0+CiAgICAgICAgICAgIDxAZi5wcmludEtyeXRlcml1bUZyYWdtZW50IHNjb3BlPWVsZW0gbm89a2V5Lz4KICAgICAgICA8LyNsaXN0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
