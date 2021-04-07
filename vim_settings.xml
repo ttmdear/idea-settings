@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>3.5</entry>
         <entry>o_zaw_wym_konc</entry>
         <entry>opis część 1</entry>
         <entry>opis część</entry>
@@ -25,6 +24,7 @@
         <entry>ogl_o_konc</entry>
         <entry>0564</entry>
         <entry>o_zm_ogl</entry>
+        <entry>1.7</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -116,7 +116,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1617785927780">
+      <file name="/Dummy.txt" timestamp="1617802019724">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -168,11 +168,11 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="55" column="1" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1617800235385">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="25" />
-        <mark key="^" line="27" column="26" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1617801883676">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
+        <mark key="^" line="30" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" timestamp="1617713614300">
         <mark key="'" line="189" column="16" />
@@ -189,7 +189,7 @@
         <mark key="]" line="21" column="5" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617800119723">
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617801953054">
         <mark key="'" line="305" column="56" />
         <mark key="[" line="381" column="74" />
         <mark key="]" line="381" column="72" />
@@ -203,6 +203,13 @@
         <mark key="^" line="239" column="15" />
         <mark key="." line="239" column="14" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" timestamp="1617802008912">
+        <mark key="'" line="124" column="30" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="31" column="33" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExternalResource.java" timestamp="1617713414453">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="53" column="5" />
@@ -212,9 +219,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/ErrorController.java" timestamp="1617803012723">
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="47" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" />
       <jump line="171" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="173" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="556" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -314,6 +326,7 @@
       <jump line="4" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="243" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" />
       <jump line="305" column="56" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="123" column="30" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,19 +335,19 @@
         <text>ogl_o_zam_zaw_um_konc</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Inna działalność</text>
+        <text>BT-10</text>
       </register>
       <register name="+" type="4">
         <text>ogl_o_konc</text>
       </register>
       <register name="-" type="4">
-        <text>Inna działalność</text>
+        <text>BT-10</text>
       </register>
       <register name="/" type="4">
-        <text>o_zm_ogl</text>
+        <text>1.7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjEuNS4xLiIgbGFiZWw9IklubmEgZHppYbNhbG5vnOYiIGNvZGU9IlJLVC0yMzgxIiAvPgo=</text>
+        <text encoding="base64">PEBtLnByaW50UG9pbnQgbm89IjEuNi4iIGxhYmVsPSJQcnplZG1pb3QgZHppYbNhbG5vnGNpIHphbWF3aWFquWNlZ28iIGNvZGU9IkJULTEwIiBwYXJhZ3JhcGg9dHJ1ZS8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PEBtLnByaW50UG9pbnRTZWN0aW9uIG5vPSIxLjYiIHRpdGxlPSJEYW5lIHBvZG1pb3R1LCBrdPNyZW11IHphbWF3aWFquWN5IHBvd2llcnp5syBwcnplcHJvd2FkemVuaWUgcG9zdOpwb3dhbmlhIiAvPgo=</text>
@@ -373,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>o_zm_ogl</last-search>
+      <last-search>1.7</last-search>
       <last-offset />
-      <last-pattern>o_zm_ogl</last-pattern>
+      <last-pattern>1.7</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
