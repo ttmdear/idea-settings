@@ -129,6 +129,11 @@
         <mark key="^" line="191" column="14" />
         <mark key="." line="191" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/ArrayList.class" timestamp="1617915168914">
+        <mark key="'" line="1251" column="23" />
+        <mark key="[" line="1319" column="0" />
+        <mark key="]" line="1323" column="9" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/HashMap.class" timestamp="1617910182951">
         <mark key="'" line="2095" column="0" />
       </file>
@@ -153,10 +158,6 @@
         <mark key="]" line="42" column="26" />
         <mark key="." line="42" column="26" />
         <mark key="^" line="30" column="33" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExternalResource.java" timestamp="1617713414453">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="53" column="5" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" timestamp="1617783010171">
         <mark key="'" line="2" column="0" />
@@ -207,7 +208,7 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="47" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1617714425735">
+      <file name="/fragment.java" timestamp="1617914831702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -215,15 +216,14 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" timestamp="1617713614300">
         <mark key="'" line="189" column="16" />
       </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617914704611">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617916252679">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
       <jump line="72" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
       <jump line="92" column="6" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
       <jump line="170" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -323,6 +323,7 @@
       <jump line="40" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeController.java" />
       <jump line="75" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeController.java" />
       <jump line="71" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeController.java" />
+      <jump line="1251" column="23" filename="/usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/ArrayList.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,20 +331,20 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBjbGFzcyBBIHsKCiAgICB9CgogICAgY2xhc3MgQiBleHRlbmRzIEEgewoKICAgIH0KCiAgICBjbGFzcyBDIGV4dGVuZHMgQiB7CgogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TGlzdDxJbnRlZ2VyPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSkpOwoKZm9yKEludGVnZXIgdjogbGlzdCkgewogICAgU3lzdGVtLm91dC5wcmludGxuKHYpOwoKICAgIGlmICh2ID09IDMpIHsKICAgICAgICBsaXN0LnJlbW92ZSh2KTsKICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Arrays.asList(4, 5)</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">TGlzdDxJbnRlZ2VyPiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoMSwgMiwgMywgNCwgNSkpOwoKZm9yKEludGVnZXIgdjogbGlzdCkgewogICAgU3lzdGVtLm91dC5wcmludGxuKHYpOwoKICAgIGlmICh2ID09IDMpIHsKICAgICAgICBsaXN0LnJlbW92ZSh2KTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzLCA0LCA1KSk7CgogICAgICAgIEl0ZXJhdG9yPEludGVnZXI+IGl0ZXJhdG9yID0gbGlzdC5pdGVyYXRvcigpOwoKICAgICAgICB3aGlsZShpdGVyYXRvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgaXRlcmF0b3IucmVtb3ZlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>Arrays.asList(4, 5)</text>
       </register>
       <register name="/" type="4">
         <text>1.7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCg0KTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzLCA0LCA1KSk7CgogICAgICAgIGxpc3QucmVtb3ZlQWxsKEFycmF5cy5hc0xpc3QoNCwgNSkpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,28 +353,28 @@
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgxKTsKICAgICAgICBsaXN0LmFkZCgyKTsKICAgICAgICBsaXN0LmFkZCgzKTsKICAgICAgICBsaXN0LmFkZCg0KTsKICAgICAgICBsaXN0LmFkZCg1KTsKICAgICAgICBsaXN0LmFkZCg2KTsKICAgICAgICBsaXN0LmFkZCg3KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzLCA0LCA1KSk7CgogICAgICAgIGxpc3QucmVtb3ZlQWxsKEFycmF5cy5hc0xpc3QoNCwgNSkpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5yZW1vdmUodik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlcmF0b3IubmV4dCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0Lml0ZXJhdG9yKCkubmV4dCgpOwogICAgICAgIGZvcihJbnRlZ2VyIHY6IGxpc3QpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHYpOwoKICAgICAgICAgICAgaWYgKHYgPT0gMykgewogICAgICAgICAgICAgICAgbGlzdC5yZW1vdmUodik7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogSGVsbG8gd29ybGQhCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
