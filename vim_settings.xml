@@ -123,11 +123,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/pom.xml" timestamp="1617916834920">
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="27" />
-        <mark key="." line="82" column="26" />
-        <mark key="^" line="82" column="27" />
+      <file name="$USER_HOME$/repository/java/java11-collections/pom.xml" timestamp="1617916853876">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="80" column="27" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1617785856914">
         <mark key="[" line="191" column="0" />
@@ -222,11 +222,11 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" timestamp="1617713614300">
         <mark key="'" line="189" column="16" />
       </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617916252679">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="33" />
+      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617916920308">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -338,46 +338,46 @@
         <text encoding="base64">CiAgICBjbGFzcyBBIHsKCiAgICB9CgogICAgY2xhc3MgQiBleHRlbmRzIEEgewoKICAgIH0KCiAgICBjbGFzcyBDIGV4dGVuZHMgQiB7CgogICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>target</text>
+        <text>testRemovingWith</text>
       </register>
       <register name="+" type="4">
         <text>maven.compiler.source</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>testRemoveIf</text>
       </register>
       <register name="/" type="4">
         <text>1.7</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjExPC90YXJnZXQ+Cg==</text>
+      <register name="0" type="4">
+        <text>testRemovingWith</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuODwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS44PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRklYTUUgY2hhbmdlIGl0IHRvIHRoZSBwcm9qZWN0J3Mgd2Vic2l0ZSAtLT4K</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gRklYTUUgY2hhbmdlIGl0IHRvIHRoZSBwcm9qZWN0J3Mgd2Vic2l0ZSAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My44LjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPHJlbGVhc2U+MTE8L3JlbGVhc2U+CiAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My44LjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPHJlbGVhc2U+MTE8L3JlbGVhc2U+CiAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICA8L3BsdWdpbj4KICAgIDwvYnVpbGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My44LjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPHJlbGVhc2U+MTE8L3JlbGVhc2U+CiAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cGwK</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My44LjA8L3ZlcnNpb24+CiAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgPHJlbGVhc2U+MTE8L3JlbGVhc2U+CiAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICA8L3BsdWdpbj4KICAgIDwvYnVpbGQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwbAo=</text>
+        <text encoding="base64">ICAgICAgICA8cGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwbAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
