@@ -143,6 +143,12 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/HashMap.class" timestamp="1617910182951">
         <mark key="'" line="2095" column="0" />
       </file>
+      <file name="C:/Projekty/repository/java/java-varhandle/pom.xml" timestamp="1617964054603">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1617801883676">
         <mark key="[" line="42" column="25" />
         <mark key="]" line="42" column="26" />
@@ -170,7 +176,7 @@
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="C:/Projekty/repository/java/java-unsafe/pom.xml" timestamp="1617962562222">
+      <file name="C:/Projekty/repository/java/java-unsafe/pom.xml" timestamp="1617964047228">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="73" column="0" />
         <mark key="]" line="85" column="21" />
@@ -194,13 +200,6 @@
         <mark key="]" line="395" column="0" />
         <mark key="." line="395" column="0" />
         <mark key="^" line="395" column="18" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_konc.json" timestamp="1617785859935">
-        <mark key="'" line="243" column="20" />
-        <mark key="[" line="239" column="15" />
-        <mark key="]" line="239" column="15" />
-        <mark key="^" line="239" column="15" />
-        <mark key="." line="239" column="14" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" timestamp="1617802008912">
         <mark key="'" line="124" column="30" />
@@ -231,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="251" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="222" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="223" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -331,6 +329,7 @@
       <jump line="42" column="30" filename="C:/Projekty/repository/java/java-unsafe/pom.xml" />
       <jump line="85" column="16" filename="C:/Projekty/repository/java/java-unsafe/pom.xml" />
       <jump line="0" column="0" filename="C:/Projekty/repository/java/java-unsafe/pom.xml" />
+      <jump line="16" column="0" filename="C:/Projekty/repository/java/java-varhandle/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +338,7 @@
         <text encoding="base64">CiAgICBjbGFzcyBBIHsKCiAgICB9CgogICAgY2xhc3MgQiBleHRlbmRzIEEgewoKICAgIH0KCiAgICBjbGFzcyBDIGV4dGVuZHMgQiB7CgogICAgfQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlVuc2FmZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29tcGlsZXJBcmdzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJnPi0tcGF0Y2gtbW9kdWxlPC9hcmc+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+amRrLnVuc3VwcG9ydGVkPSR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9qYXZhPC9hcmc+CiAgICAgICAgICAgICAgICAgICAgPC9jb21waWxlckFyZ3M+Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuOC4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHJlbGVhc2U+MTE8L3JlbGVhc2U+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT4xMTwvc291cmNlPgogICAgICAgICAgICAgICAgICAgIDxjb21waWxlckFyZ3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+LS1wYXRjaC1tb2R1bGU8L2FyZz4KICAgICAgICAgICAgICAgICAgICAgICAgPGFyZz5qZGsudW5zdXBwb3J0ZWQ9JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL2phdmE8L2FyZz4KICAgICAgICAgICAgICAgICAgICA8L2NvbXBpbGVyQXJncz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
@@ -354,7 +353,7 @@
         <text>testRemovingWith</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlVuc2FmZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29tcGlsZXJBcmdzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJnPi0tcGF0Y2gtbW9kdWxlPC9hcmc+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+amRrLnVuc3VwcG9ydGVkPSR7cHJvamVjdC5iYXNlZGlyfS9zcmMvbWFpbi9qYXZhPC9hcmc+CiAgICAgICAgICAgICAgICAgICAgPC9jb21waWxlckFyZ3M+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
@@ -363,25 +362,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVbnNhZmUgdW5zYWZlID0gbmV3IFVuc2FmZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVbnNhZmUgdW5zYWZlID0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlVuc2FmZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjExPC90YXJnZXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVbnNhZmUgdW5zYWZlID0gbmV3IFVuc2FmZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKi8K</text>
+        <text encoding="base64">ICAgICAgICBVbnNhZmUgdW5zYWZlID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
