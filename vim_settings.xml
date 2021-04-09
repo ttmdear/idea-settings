@@ -170,10 +170,10 @@
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="C:/Projekty/repository/java/java-unsafe/pom.xml" timestamp="1617962243313">
-        <mark key="'" line="42" column="30" />
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="83" column="7" />
+      <file name="C:/Projekty/repository/java/java-unsafe/pom.xml" timestamp="1617962562222">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="85" column="21" />
         <mark key="^" line="80" column="20" />
         <mark key="." line="80" column="20" />
       </file>
@@ -183,10 +183,10 @@
         <mark key="^" line="42" column="63" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="C:/Projekty/repository/java/java-unsafe/src/main/java/repo/java/unsafe/App.java" timestamp="1617961877064">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/Projekty/repository/java/java-unsafe/src/main/java/repo/java/unsafe/App.java" timestamp="1617963025571">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1617947953139">
         <mark key="'" line="396" column="0" />
@@ -231,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="582" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="250" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="251" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="222" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -331,6 +329,8 @@
       <jump line="1" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="16" column="47" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="42" column="30" filename="C:/Projekty/repository/java/java-unsafe/pom.xml" />
+      <jump line="85" column="16" filename="C:/Projekty/repository/java/java-unsafe/pom.xml" />
+      <jump line="0" column="0" filename="C:/Projekty/repository/java/java-unsafe/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,10 +339,10 @@
         <text encoding="base64">CiAgICBjbGFzcyBBIHsKCiAgICB9CgogICAgY2xhc3MgQiBleHRlbmRzIEEgewoKICAgIH0KCiAgICBjbGFzcyBDIGV4dGVuZHMgQiB7CgogICAgfQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVbnNhZmUgdW5zYWZlID0K</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlVuc2FmZTsK</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIEBDYWxsZXJTZW5zaXRpdmUKICAgIHB1YmxpYyBzdGF0aWMgVW5zYWZlIGdldFVuc2FmZSgpIHsKICAgICAgICBDbGFzczw/PiBjYWxsZXIgPSBSZWZsZWN0aW9uLmdldENhbGxlckNsYXNzKCk7CiAgICAgICAgaWYgKCFWTS5pc1N5c3RlbURvbWFpbkxvYWRlcihjYWxsZXIuZ2V0Q2xhc3NMb2FkZXIoKSkpCiAgICAgICAgICAgIHRocm93IG5ldyBTZWN1cml0eUV4Y2VwdGlvbigiVW5zYWZlIik7CiAgICAgICAgcmV0dXJuIHRoZVVuc2FmZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNvbXBpbGVyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuOC4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHJlbGVhc2U+MTE8L3JlbGVhc2U+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZT4xMTwvc291cmNlPgogICAgICAgICAgICAgICAgICAgIDxjb21waWxlckFyZ3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcmc+LS1wYXRjaC1tb2R1bGU8L2FyZz4KICAgICAgICAgICAgICAgICAgICAgICAgPGFyZz5qZGsudW5zdXBwb3J0ZWQ9JHtwcm9qZWN0LmJhc2VkaXJ9L3NyYy9tYWluL2phdmE8L2FyZz4KICAgICAgICAgICAgICAgICAgICA8L2NvbXBpbGVyQXJncz4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Szacunkowe przychody koncesjnariusza pochodzące od zamawiającego (np. nagrody i płatności)</text>
@@ -354,34 +354,34 @@
         <text>testRemovingWith</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVbnNhZmUgdW5zYWZlID0K</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5taXNjLlVuc2FmZTsK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjExPC90YXJnZXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKi8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBVbnNhZmUgdW5zYWZlID0gbmV3IFVuc2FmZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICBVbnNhZmUgdW5zYWZlID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuODwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS44PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNzwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS43PC9tYXZlbi5jb21waWxlci50YXJnZXQ+Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0PjExPC90YXJnZXQ+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRklYTUUgY2hhbmdlIGl0IHRvIHRoZSBwcm9qZWN0J3Mgd2Vic2l0ZSAtLT4K</text>
+        <text encoding="base64">LyoqCiAqIEhlbGxvIHdvcmxkIQogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
