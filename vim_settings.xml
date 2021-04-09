@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>7.3</entry>
-        <entry>BT-11</entry>
         <entry>3.5</entry>
         <entry>o_zaw_wym_konc</entry>
         <entry>opis część 1</entry>
@@ -25,6 +23,8 @@
         <entry>ogl_o_zaw_um_konc</entry>
         <entry>3.4</entry>
         <entry encoding="base64">XDxFZmZlY3RpdmVBbHRlcm5hdGl2ZVNlbGVjdG9yXD4=</entry>
+        <entry>Ogłoszenie o zawarciu umowy koncesji</entry>
+        <entry>7.4</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -116,10 +116,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1617948264922">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" timestamp="1617948254789">
+        <mark key="[" line="73" column="34" />
+        <mark key="]" line="73" column="114" />
+        <mark key="." line="73" column="113" />
+        <mark key="^" line="73" column="114" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" timestamp="1617948204340">
+        <mark key="[" line="208" column="36" />
+        <mark key="]" line="208" column="116" />
+        <mark key="." line="208" column="115" />
+        <mark key="^" line="208" column="116" />
+      </file>
       <file name="/usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/ArrayList.class" timestamp="1617915168914">
         <mark key="'" line="1251" column="23" />
         <mark key="[" line="1319" column="0" />
         <mark key="]" line="1323" column="9" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1617785856914">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="78" />
+        <mark key="^" line="191" column="14" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/HashMap.class" timestamp="1617910182951">
         <mark key="'" line="2095" column="0" />
@@ -148,6 +173,12 @@
         <mark key="]" line="87" column="10" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="82" column="27" />
+      </file>
+      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617916920308">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="30" />
+        <mark key="^" line="44" column="31" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" timestamp="1617783010171">
         <mark key="'" line="2" column="0" />
@@ -182,45 +213,16 @@
         <mark key="." line="44" column="26" />
         <mark key="^" line="31" column="33" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeController.java" timestamp="1617873992918">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/ErrorController.java" timestamp="1617803012723">
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="23" />
         <mark key="^" line="47" column="23" />
         <mark key="." line="47" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1617802019724">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" timestamp="1617948039407">
-        <mark key="[" line="206" column="114" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1617785856914">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="78" />
-        <mark key="^" line="191" column="14" />
-        <mark key="." line="191" column="0" />
-      </file>
-      <file name="C:/Projekty/repository/java/junit4-rule/src/test/java/repo/junit4/rule/ExceptionRule.java" timestamp="1617714547318">
-        <mark key="'" line="6" column="19" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="34" column="1" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="22" column="58" />
-      </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617916920308">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="44" column="31" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="44" column="31" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeController.java" timestamp="1617873992918">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1617914831702">
         <mark key="[" line="0" column="0" />
@@ -336,17 +338,17 @@
       <register name="a" type="2">
         <text encoding="base64">CiAgICBjbGFzcyBBIHsKCiAgICB9CgogICAgY2xhc3MgQiBleHRlbmRzIEEgewoKICAgIH0KCiAgICBjbGFzcyBDIGV4dGVuZHMgQiB7CgogICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KCjxwcm9qZWN0IHhtbG5zPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvUE9NLzQuMC4wIGh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL3hzZC9tYXZlbi00LjAuMC54c2QiPgogICAgPG1vZGVsVmVyc2lvbj40LjAuMDwvbW9kZWxWZXJzaW9uPgoKICAgIDxncm91cElkPnJlcG8uamF2YTExLmNvbGxlY3Rpb25zPC9ncm91cElkPgogICAgPGFydGlmYWN0SWQ+amF2YTExLWNvbGxlY3Rpb25zPC9hcnRpZmFjdElkPgogICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgoKICAgIDxuYW1lPmphdmExMS1jb2xsZWN0aW9uczwvbmFtZT4KCiAgICA8dXJsPmh0dHA6Ly93d3cuZXhhbXBsZS5jb208L3VybD4KCiAgICA8cHJvcGVydGllcz4KICAgICAgICA8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4KICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuODwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS44PC9tYXZlbi5jb21waWxlci50YXJnZXQ+CiAgICA8L3Byb3BlcnRpZXM+CgogICAgPGRlcGVuZGVuY2llcz4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjExPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+CgogICAgPGJ1aWxkPgogICAgICAgIDxwbHVnaW5NYW5hZ2VtZW50PjwhLS0gbG9jayBkb3duIHBsdWdpbnMgdmVyc2lvbnMgdG8gYXZvaWQgdXNpbmcgTWF2ZW4gZGVmYXVsdHMgKG1heSBiZSBtb3ZlZCB0byBwYXJlbnQgcG9tKSAtLT4KICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICA8IS0tIGNsZWFuIGxpZmVjeWNsZSwgc2VlIGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy9yZWYvY3VycmVudC9tYXZlbi1jb3JlL2xpZmVjeWNsZXMuaHRtbCNjbGVhbl9MaWZlY3ljbGUgLS0+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNsZWFuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjEuMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPCEtLSBkZWZhdWx0IGxpZmVjeWNsZSwgamFyIHBhY2thZ2luZzogc2VlIGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy9yZWYvY3VycmVudC9tYXZlbi1jb3JlL2RlZmF1bHQtYmluZGluZ3MuaHRtbCNQbHVnaW5fYmluZGluZ3NfZm9yX2phcl9wYWNrYWdpbmcgLS0+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXJlc291cmNlcy1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuOC4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjIyLjE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1pbnN0YWxsLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjUuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuOC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8IS0tIHNpdGUgbGlmZWN5Y2xlLCBzZWUgaHR0cHM6Ly9tYXZlbi5hcGFjaGUub3JnL3JlZi9jdXJyZW50L21hdmVuLWNvcmUvbGlmZWN5Y2xlcy5odG1sI3NpdGVfTGlmZWN5Y2xlIC0tPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zaXRlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjcuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1wcm9qZWN0LWluZm8tcmVwb3J0cy1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPC9wbHVnaW5zPgogICAgICAgIDwvcGx1Z2luTWFuYWdlbWVudD4KCiAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjguMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxyZWxlYXNlPjExPC9yZWxlYXNlPgogICAgICAgICAgICAgICAgICAgIDx0YXJnZXQ+MTE8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8c291cmNlPjExPC9zb3VyY2U+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgIDwvcGx1Z2lucz4KICAgIDwvYnVpbGQ+CjwvcHJvamVjdD4K</text>
+      <register name="&quot;" type="4">
+        <text>Szacunkowe przychody koncesjnariusza pochodzące od zamawiającego (np. nagrody i płatności)</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KCjxwcm9qZWN0IHhtbG5zPSJodHRwOi8vbWF2ZW4uYXBhY2hlLm9yZy9QT00vNC4wLjAiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiCiAgICAgICAgIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvUE9NLzQuMC4wIGh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL3hzZC9tYXZlbi00LjAuMC54c2QiPgogICAgPG1vZGVsVmVyc2lvbj40LjAuMDwvbW9kZWxWZXJzaW9uPgoKICAgIDxncm91cElkPnJlcG8uamF2YTExLmNvbGxlY3Rpb25zPC9ncm91cElkPgogICAgPGFydGlmYWN0SWQ+amF2YTExLWNvbGxlY3Rpb25zPC9hcnRpZmFjdElkPgogICAgPHZlcnNpb24+MS4wLVNOQVBTSE9UPC92ZXJzaW9uPgoKICAgIDxuYW1lPmphdmExMS1jb2xsZWN0aW9uczwvbmFtZT4KCiAgICA8dXJsPmh0dHA6Ly93d3cuZXhhbXBsZS5jb208L3VybD4KCiAgICA8cHJvcGVydGllcz4KICAgICAgICA8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4KICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuODwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgogICAgICAgIDxtYXZlbi5jb21waWxlci50YXJnZXQ+MS44PC9tYXZlbi5jb21waWxlci50YXJnZXQ+CiAgICA8L3Byb3BlcnRpZXM+CgogICAgPGRlcGVuZGVuY2llcz4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjExPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgPC9kZXBlbmRlbmNpZXM+CgogICAgPGJ1aWxkPgogICAgICAgIDxwbHVnaW5NYW5hZ2VtZW50PjwhLS0gbG9jayBkb3duIHBsdWdpbnMgdmVyc2lvbnMgdG8gYXZvaWQgdXNpbmcgTWF2ZW4gZGVmYXVsdHMgKG1heSBiZSBtb3ZlZCB0byBwYXJlbnQgcG9tKSAtLT4KICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICA8IS0tIGNsZWFuIGxpZmVjeWNsZSwgc2VlIGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy9yZWYvY3VycmVudC9tYXZlbi1jb3JlL2xpZmVjeWNsZXMuaHRtbCNjbGVhbl9MaWZlY3ljbGUgLS0+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWNsZWFuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjEuMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPCEtLSBkZWZhdWx0IGxpZmVjeWNsZSwgamFyIHBhY2thZ2luZzogc2VlIGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy9yZWYvY3VycmVudC9tYXZlbi1jb3JlL2RlZmF1bHQtYmluZGluZ3MuaHRtbCNQbHVnaW5fYmluZGluZ3NfZm9yX2phcl9wYWNrYWdpbmcgLS0+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXJlc291cmNlcy1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuOC4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjIyLjE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1pbnN0YWxsLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjUuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1kZXBsb3ktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuOC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8IS0tIHNpdGUgbGlmZWN5Y2xlLCBzZWUgaHR0cHM6Ly9tYXZlbi5hcGFjaGUub3JnL3JlZi9jdXJyZW50L21hdmVuLWNvcmUvbGlmZWN5Y2xlcy5odG1sI3NpdGVfTGlmZWN5Y2xlIC0tPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zaXRlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjcuMTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1wcm9qZWN0LWluZm8tcmVwb3J0cy1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgPC9wbHVnaW5zPgogICAgICAgIDwvcGx1Z2luTWFuYWdlbWVudD4KCiAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjguMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxyZWxlYXNlPjExPC9yZWxlYXNlPgogICAgICAgICAgICAgICAgICAgIDx0YXJnZXQ+MTE8L3RhcmdldD4KICAgICAgICAgICAgICAgICAgICA8c291cmNlPjExPC9zb3VyY2U+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgIDwvcGx1Z2lucz4KICAgIDwvYnVpbGQ+CjwvcHJvamVjdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>testRemoveIf</text>
+        <text>Szacunkowe przychody koncesjnariusza pochodzące od zamawiającego (np. nagrody i płatności)</text>
       </register>
       <register name="/" type="4">
-        <text>1.7</text>
+        <text>7.4</text>
       </register>
       <register name="0" type="4">
         <text>testRemovingWith</text>
