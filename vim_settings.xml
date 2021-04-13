@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>6.1.4</entry>
-        <entry>512</entry>
-        <entry>BT-162</entry>
-        <entry>052</entry>
-        <entry>2400</entry>
-        <entry>1052</entry>
         <entry>ogl_o_zaw_um</entry>
         <entry>ogl_o_zaw_um_konc</entry>
         <entry>3.4</entry>
@@ -24,7 +18,13 @@
         <entry>o_zam_zaw_um_konc</entry>
         <entry>ogl_o_zam</entry>
         <entry>ogl_o_zam&quot;</entry>
+        <entry>ogl_o_wyn_post'</entry>
+        <entry>ogl_o_zm_ogl'</entry>
         <entry>ogl_o_zam'</entry>
+        <entry>For inpu</entry>
+        <entry>For in</entry>
+        <entry>NoLots</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -134,16 +134,17 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="207" column="127" />
       </file>
-      <file name="/usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/ArrayList.class" timestamp="1617915168914">
-        <mark key="'" line="1251" column="23" />
-        <mark key="[" line="1319" column="0" />
-        <mark key="]" line="1323" column="9" />
-      </file>
       <file name="C:/Projekty/repository/java/java-varhandle/pom.xml" timestamp="1617965907104">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1618317036869">
+        <mark key="'" line="310" column="35" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24588" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" timestamp="1618234110055">
         <mark key="'" line="164" column="17" />
@@ -151,19 +152,6 @@
         <mark key="]" line="4" column="57" />
         <mark key="." line="162" column="36" />
         <mark key="^" line="162" column="37" />
-      </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/pom.xml" timestamp="1617919604484">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="87" column="10" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="82" column="27" />
-      </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1617916920308">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="44" column="31" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="44" column="31" />
       </file>
       <file name="C:/Projekty/repository/java/java-unsafe/pom.xml" timestamp="1617964047228">
         <mark key="'" line="0" column="0" />
@@ -189,6 +177,11 @@
         <mark key="^" line="239" column="15" />
         <mark key="." line="239" column="14" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" timestamp="1618316455201">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4070" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/invoke/VarHandle.java" timestamp="1617966697727">
         <mark key="'" line="439" column="22" />
       </file>
@@ -201,8 +194,11 @@
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="17" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1618314504346">
-        <mark key="'" line="158" column="36" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1618316810050">
+        <mark key="'" line="284" column="36" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1618317046411">
+        <mark key="'" line="191" column="20" />
       </file>
       <file name="C:/Projekty/repository/java/java-varhandle/src/main/java/repo/java/unsafe/App.java" timestamp="1617967777362">
         <mark key="'" line="9" column="0" />
@@ -219,38 +215,15 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="100" column="5" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" timestamp="1618316293264">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12658" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
-      <jump line="17" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="209" column="23" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
-      <jump line="30" column="40" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
-      <jump line="67" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
-      <jump line="1" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="47" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
-      <jump line="375" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="166" column="6" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="170" column="24" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="368" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="202" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="370" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="210" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="365" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="98" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="101" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="230" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="232" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="234" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="4" column="22" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="134" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
-      <jump line="150" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="8" column="39" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="9" column="23" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="46" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="41" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="131" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
-      <jump line="4" column="35" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
-      <jump line="23" column="60" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
       <jump line="13" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
       <jump line="95" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um_konc.json" />
       <jump line="50" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um_konc.json" />
@@ -320,7 +293,37 @@
       <jump line="151" column="54" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="153" column="55" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="144" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="182" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="222" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="236" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
+      <jump line="285" column="75" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="272" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="158" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="154" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
+      <jump line="271" column="77" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="1" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="159" column="72" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="284" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
+      <jump line="366" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="83" column="44" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
+      <jump line="314" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="318" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="322" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="334" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="338" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="342" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="346" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="350" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="354" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="358" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="362" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="306" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="310" column="35" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
+      <jump line="194" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
+      <jump line="191" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,8 +331,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxAbS5wcmludFBvaW50U2VjdGlvbiBubz0iNC4zLiIgdGl0bGU9IlN0b3Nvd2FuZSBrcnl0ZXJpYSBvY2VueSBvZmVydCIgLz4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>zawarciu umowy koncesji</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W3siaWQiOiJSS1QtMDUwMiIsInZhbHVlIjoiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyJ9LHsiaWQiOiJCVC0yMSIsInZhbHVlIjoiZG9zdGF3YSBlbGVrdHJvZCBOLTIwLUhHIn0seyJpZCI6IkJULTA0IiwidmFsdWUiOiJvY2RzLTE0ODYxMC04MGEyYzE0Ny05OTA4LTExZWItOTBlNS0yYWVjNDMyZTJiZTUifSx7ImlkIjoiUktULTA1MDlAMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTUwMEAxIiwidmFsdWUiOiJOYXJvZG93eSBJbnN0eXR1dCBPbmtvbG9naWkgaW0uIE1hcmlpIFNrs29kb3dza2llai1DdXJpZSJ9LHsiaWQiOiJCVC01MDFAMSIsInZhbHVlIjoiUkVHT04gMDAwMjg4MzY2In0seyJpZCI6IkJULTUxMEAxIiwidmFsdWUiOiJXLksuIFJvZW50Z2VuYSA1In0seyJpZCI6IkJULTUxM0AxIiwidmFsdWUiOiJXYXJzemF3YSJ9LHsiaWQiOiJCVC01MTJAMSIsInZhbHVlIjoiMDItNzgxIn0seyJpZCI6IlJLVC0wNTIwQDEiLCJ2YWx1ZSI6Im1hem93aWVja2llIn0seyJpZCI6IkJULTUxNEAxIiwidmFsdWUiOiJQb2xza2EifSx7ImlkIjoiQlQtNTA3QDEiLCJ2YWx1ZSI6IlBMOTExIC0gTWlhc3RvIFdhcnN6YXdhIn0seyJpZCI6IkJULTUwNUAxIiwidmFsdWUiOiJ3d3cucGliLW5pby5wbCJ9LHsiaWQiOiJCVC0xMDUiLCJ2YWx1ZSI6IlphbfN3aWVuaWUgdWR6aWVsYW5lIGplc3QgdyB0cnliaWUgcG9kc3Rhd293eW0gbmEgcG9kc3Rhd2llOiBhcnQuIDI3NSBwa3QgMSB1c3Rhd3kifSx7ImlkIjoiUktULTg4ODgiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0yMiIsInZhbHVlIjoiVFAtMjMvMjEvTUtOIn0seyJpZCI6IlJLVC0wNTYyIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA3MDUiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMjIxMCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNzEwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNTA2QDEiLCJ2YWx1ZSI6Ik1vbmlrYS5Lb3JkaWFsLU5hbGVqQHBpYi1uaW8ucGwifSx7ImlkIjoiQlQtMTEiLCJ2YWx1ZSI6IlphbWF3aWFquWN5IHB1YmxpY3pueSAtIG9zb2JhIHByYXduYSwgbyBrdPNyZWogbW93YSB3IGFydC4gNCBwa3QgMyB1c3Rhd3kgKHBvZG1pb3QgcHJhd2EgcHVibGljem5lZ28pIn0seyJpZCI6IkJULTEwIiwidmFsdWUiOiJaZHJvd2llIn0seyJpZCI6IkJULTA4IiwidmFsdWUiOiJQb3N06nBvd2FuaWUgcHJvd2Fkem9uZSBqZXN0IHNhbW9kemllbG5pZSBwcnpleiB6YW1hd2lharljZWdvIn0seyJpZCI6IkJULTE1IiwidmFsdWUiOiJodHRwOi8vcG9ydGFsLnNtYXJ0cHpwLnBsL2NvaS53YXJzemF3YSJ9LHsiaWQiOiJSS1QtMjIxMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTE3IiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA5NDAiLCJ2YWx1ZSI6IkluZm9ybWFjamUgbyCccm9ka2FjaCBrb211bmlrYWNqaSBlbGVrdHJvbmljem5laiwgcHJ6eSB1v3ljaXUga3TzcnljaCB6YW1hd2lharljeSBi6mR6aWUga29tdW5pa293YbMgc2nqIHogd3lrb25hd2NhbWkgem5hamR1amUgc2nqIHcgU1daIHcgcm96ZHouIFhWSUlJLCBhZHJlcyBzdHJvbnkgaW50ZXJuZXRvd2VqIC0gaHR0cDovL3BvcnRhbC5zbWFydHB6cC5wbC9jb2kud2Fyc3phd2EifSx7ImlkIjoiUktULTA1NTAiLCJ2YWx1ZSI6Ilpnb2RuaWUgeiB6YXBpc2FtaSByb3pkemlhs3UgWFZJSUkgU1daIC0gSW5mb3JtYWNqYSBvIJxyb2RrYWNoIGtvbXVuaWthY2ppIGVsZWt0cm9uaWN6bmVqLCBwcnp5IHW/eWNpdSBrdPNyeWNoIFphbWF3aWFquWN5IGLqZHppZSBzaeoga29tdW5pa293YbMgeiBXeWtvbmF3Y2FtaSBvcmF6IGluZm9ybWFjamUgbyB3eW1hZ2FuaWFjaCB0ZWNobmljem55Y2ggaSBvcmdhbml6YWN5am55Y2ggc3Bvcnq5ZHphbmlhIHd5c3mzYW5pYSBpIG9kYmllcmFuaWEga29yZXNwb25kZW5jamkgZWxla3Ryb25pY3puZWogb3JheiB6Z29kbmllIHogemFwaXNhbWkgcm96ZHppYbN1IFhYIFNXWiAtIG9waXMgc3Bvc29idSBwcnp5Z290b3dhbmlhIG9mZXJ0eSJ9LHsiaWQiOiJSS1QtMDU1MSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTc2NCIsInZhbHVlIjoiTmllIGRvdHljenkifSx7ImlkIjoiQlQtNzA4IiwidmFsdWUiOiJ7J3BvbHNraSd9In0seyJpZCI6IlJLVC0wNTU2IiwidmFsdWUiOiJaZ29kbmllIHogemFwaXNhbWkgcm96ZHppYbN1IFhYWFYgLSBrbGF1enVsYSBpbmZvcm1hY3lqbmEgUk9ETyJ9LHsiaWQiOiJSS1QtMDU1NyIsInZhbHVlIjoiWmdvZG5pZSB6IHphcGlzYW1pIHJvemR6aWGzdSBYWFhWIC0ga2xhdXp1bGEgaW5mb3JtYWN5am5hIFJPRE8ifSx7ImlkIjoiUktULTA1NTgiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0yMyIsInZhbHVlIjoiRG9zdGF3eSJ9LHsiaWQiOiJSS1QtMDU2MCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0yMjE0IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMjQiLCJ2YWx1ZSI6InByemVkbWlvdGVtIHphbfN3aWVuaWEgamVzdCBkb3N0YXdhIGVsZWt0cm9kIE4tMjAtSEcifSx7ImlkIjoiQlQtMjYyIiwidmFsdWUiOiIzMTcxMTE0MC02IC0gRWxla3Ryb2R5In0seyJpZCI6IkJULTUzIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTIyMjVfMSIsInZhbHVlIjoiT2tyZXMgcmVhbGl6YWNqaSAtIGRuaSJ9LHsiaWQiOiJSS1QtMDk0NSIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wOTE1IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA4OTAiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJSS1QtMDU5MCIsInZhbHVlIjoieydBcnQuIDEwOSB1c3QuIDEgcGt0IDQnfSJ9LHsiaWQiOiJSS1QtMDU5MSIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNzI1IiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTIyMTYiLCJ2YWx1ZSI6IlphbWF3aWFquWN5IG5pZSB3eW1hZ2EgcG9kbWlvdG93eWNoIJxyb2Rr83cgZG93b2Rvd3ljaCBuYSBwb3R3aWVyZHplbmllIHNwZbNuaWVuaWEgd2FydW5r83cgdWR6aWGzdSB3IHBvc3TqcG93YW5pdSJ9LHsiaWQiOiJSS1QtMDU5MyIsInZhbHVlIjoib2RwaXMgbHViIGluZm9ybWFjamEgeiBLcmFqb3dlZ28gUmVqZXN0cnUgU7lkb3dlZ28gbHViIHogQ2VudHJhbG5laiBFd2lkZW5jamkgaSAgIEluZm9ybWFjamkgbyBEemlhs2Fsbm+cY2kgR29zcG9kYXJjemVqLCB3IHpha3Jlc2llIGFydC4gMTA5IHVzdC4gMSBwa3QgNCBQWlAsIHNwb3J6uWR6b255Y2ggICAgbmllIHdjemWcbmllaiBuab8gMyBtaWVzabljZSBwcnplZCBqZWogerNvv2VuaWVtLCBqZb9lbGkgb2Ry6mJuZSBwcnplcGlzeSB3eW1hZ2FquSB3cGlzdSBkbyByZWplc3RydSBsdWIgZXdpZGVuY2ppLiBcbkRva3VtZW50eSBwb2RtaW9083cgemFncmFuaWN6bnljaDpcblxuSmW/ZWxpIFd5a29uYXdjYSBtYSBzaWVkemli6iBsdWIgbWllanNjZSB6YW1pZXN6a2FuaWEgcG96YSBncmFuaWNhbWkgUnplY3p5cG9zcG9saXRlaiBQb2xza2llaiAtemdvZG5pZSB6IFJvenBvcnq5ZHplbmllbSBNaW5pc3RyYSBSb3p3b2p1LCBQcmFjeSBpIFRlY2hub2xvZ2lpIHogZG5pYSAyMyBncnVkbmlhIDIwMjAgci4gdyBzcHJhd2llIHBvZG1pb3Rvd3ljaCCccm9ka/N3IGRvd29kb3d5Y2ggb3JheiBpbm55Y2ggZG9rdW1lbnTzdyBsdWIgb5x3aWFkY3pl8SwgamFraWNoIG1vv2Ugv7lkYeYgemFtYXdpYWq5Y3kgb2Qgd3lrb25hd2N5IChEei4gVS4gMjAyMCBwb3ouIDI0MTUpIJZkYWxlaiCEcm96cG9yerlkemVuaWWUIHphbWlhc3Q6XG5cbjEpIG9kcGlzdSBhbGJvIGluZm9ybWFjamkgeiBLUlMgbHViIENFaUlERywgbyBrdPNyeWNoIG1vd2EgUm96ZHouIFhJViBwa3QxLjEubGl0LiBhKZZza7NhZGEgZG9rdW1lbnQgbHViIGRva3VtZW50eSB3eXN0YXdpb25lIHcga3JhanUsIHcga3TzcnltIFd5a29uYXdjYSBtYSBzaWVkemli6iBsdWIgbWllanNjZSB6YW1pZXN6a2FuaWEsIHBvdHdpZXJkemFquWNlIL9lOiBcbi1uaWUgb3R3YXJ0byBqZWdvIGxpa3dpZGFjamksIG5pZSBvZ7Nvc3pvbm8gdXBhZLNvnGNpLCBqZWdvIGFrdHl3YW1pIG5pZSB6YXJ6uWR6YSBsaWt3aWRhdG9yIGx1YiBzuWQsIG5pZSB6YXdhcrMgdWuzYWR1IHogd2llcnp5Y2llbGFtaSwgamVnbyBkemlhs2Fsbm+c5iBnb3Nwb2RhcmN6YSBuaWUgamVzdCB6YXdpZXN6b25hIGFuaSBuaWUgem5hamR1amUgc2nqIG9uIHcgaW5uZWogdGVnbyByb2R6YWp1IHN5dHVhY2ppIHd5bmlrYWq5Y2VqIHogcG9kb2JuZWogcHJvY2VkdXJ5IHByemV3aWR6aWFuZWogdyBwcnplcGlzYWNoIG1pZWpzY2Egd3N6Y3rqY2lhIHRlaiBwcm9jZWR1cnlcbi1kb2t1bWVudHkgcG93aW5ueSBieeYgd3lzdGF3aW9uZSBuaWUgd2N6ZZxuaWVqIG5pvyAzIG1pZXNpuWNlIHByemVkIGljaCB6s2+/ZW5pZW07XG5cbkplv2VsaSB3IGtyYWp1LCB3IGt083J5bSBXeWtvbmF3Y2EgbWEgc2llZHppYuogbHViIG1pZWpzY2UgemFtaWVzemthbmlhLCBuaWUgd3lkYWplIHNp6iB3dy4gZG9rdW1lbnTzdywgemFzdOpwdWplIHNp6iBqZSBvZHBvd2llZG5pbyB3IGNhs2+cY2kgbHViIHcgY3rqnGNpIGRva3VtZW50ZW0gemF3aWVyYWq5Y3ltIG9kcG93aWVkbmlvIG+cd2lhZGN6ZW5pZSBXeWtvbmF3Y3ksIHplIHdza2F6YW5pZW0gb3NvYnkgYWxibyBvc/NiIHVwcmF3bmlvbnljaCBkbyBqZWdvIHJlcHJlemVudGFjamksIGx1YiBvnHdpYWRjemVuaWUgb3NvYnksIGt083JlaiBkb2t1bWVudCBtaWGzIGRvdHljennmLCB6s2+/b25lIHBvZCBwcnp5c2nqZ7ksIGx1YiwgamW/ZWxpIHcga3JhanUsIHcga3TzcnltIFd5a29uYXdjYSBtYSBzaWVkemli6iBsdWIgbWllanNjZSB6YW1pZXN6a2FuaWEgbmllIG1hIHByemVwaXPzdyBvIG+cd2lhZGN6ZW5pdSBwb2QgcHJ6eXNp6me5LCB6s2+/b25lIHByemVkIG9yZ2FuZW0gc7lkb3d5bSBsdWIgYWRtaW5pc3RyYWN5am55bSwgbm90YXJpdXN6ZW0sIG9yZ2FuZW0gc2Ftb3J6uWR1IHphd29kb3dlZ28gbHViIGdvc3BvZGFyY3plZ28sIHezYZxjaXd5bSB6ZSB3emds6mR1IG5hIHNpZWR6aWLqIGx1YiBtaWVqc2NlIHphbWllc3prYW5pYSBXeWtvbmF3Y3ksIHogemFzdG9zb3dhbmllbSBva3JlnGxvbnljaCBwb3d5v2VqIHRlcm1pbvN3IHd5c3Rhd2llbmlhIGRva3VtZW5083cuIn0seyJpZCI6IlJLVC0wNTk0IiwidmFsdWUiOiIxLlx0VyBjZWx1IHBvdHdpZXJkemVuaWEsIL9lIG9mZXJvd2FuZSBkb3N0YXd5IG9kcG93aWFkYWq5IHd5bWFnYW5pb20gb2tyZZxsb255bSBwcnpleiBaYW1hd2lharljZWdvLCBaYW1hd2lharljeSB3eW1hZ2EgerNvv2VuaWEgbncuIHByemVkbWlvdG93eWNoIJxyb2Rr83cgZG93b2Rvd3ljaFxuMSlcdG+cd2lhZGN6ZW5pYSBXeWtvbmF3Y3ksIL9lIHphb2Zlcm93YW5lIHByb2R1a3R5IHRqLiBlbGVrdHJvZHkgTi0yMC1IRyAgcG9zaWFkYWq5IGFrdHVhbG5lIGRva3VtZW50eSBkb3B1c3pjemFquWNlIGRvIG9icm90dSBuYSB0ZXJlbmllIFBvbHNraSBuYSBwb2RzdGF3aWUgdXN0YXd5IHogZG5pYSAyMCBtYWphIDIwMTAgci4gbyB3eXJvYmFjaCBtZWR5Y3pueWNoICh0LmouIER6LiAgVS4geiAyMDIwIHIuIHBvei4gMTg2IHplIHptLikgemGzuWN6bmlrIG5yIDQgZG8gU1daO1xuMikgICBrYXRhbG9naSwgZm9sZGVyeSBpdHAuIG1hdGVyaWGzeSBwcm9kdWNlbnRhIGx1YiBkeXN0cnlidXRvcmEgZG90eWN6uWNlIG9mZXJvd2FuZWdvIHByb2R1a3R1IHBvdHdpZXJkemFquWNlIHd5bWFnYW5pYSBaYW1hd2lharljZWdvIG9waXNhbmUgdyBTV1osIHphd2llcmFquWNlIG51bWVyIGthdGFsb2dvd3kgb2Zlcm93YW5lZ28gd3lyb2J1OyJ9LHsiaWQiOiJSS1QtMDU5NSIsInZhbHVlIjoiVGFrIn0seyJpZCI6IlJLVC0wNTk2IiwidmFsdWUiOiIxKVx0b5x3aWFkY3plbmlhIFd5a29uYXdjeSwgv2UgemFvZmVyb3dhbmUgcHJvZHVrdHkgdGouIGVsZWt0cm9keSBOLTIwLUhHICBwb3NpYWRharkgYWt0dWFsbmUgZG9rdW1lbnR5IGRvcHVzemN6YWq5Y2UgZG8gb2Jyb3R1IG5hIHRlcmVuaWUgUG9sc2tpIG5hIHBvZHN0YXdpZSB1c3Rhd3kgeiBkbmlhIDIwIG1hamEgMjAxMCByLiBvIHd5cm9iYWNoIG1lZHljem55Y2ggKHQuai4gRHouICBVLiB6IDIwMjAgci4gcG96LiAxODYgemUgem0uKSB6YbO5Y3puaWsgbnIgNCBkbyBTV1o7XG4yKSAgIGthdGFsb2dpLCBmb2xkZXJ5IGl0cC4gbWF0ZXJpYbN5IHByb2R1Y2VudGEgbHViIGR5c3RyeWJ1dG9yYSBkb3R5Y3q5Y2Ugb2Zlcm93YW5lZ28gcHJvZHVrdHUgcG90d2llcmR6YWq5Y2Ugd3ltYWdhbmlhIFphbWF3aWFquWNlZ28gb3Bpc2FuZSB3IFNXWiwgemF3aWVyYWq5Y2UgbnVtZXIga2F0YWxvZ293eSBvZmVyb3dhbmVnbyB3eXJvYnU7In0seyJpZCI6IlJLVC0wNTk3IiwidmFsdWUiOiJXeWtheiBkb2t1bWVudPN3IGkgb5x3aWFkY3pl8SB3eW1hZ2FueWNoIGRvIHqzb79lbmlhIHdyYXogeiBvZmVydLkgem9zdGGzIHdza2F6YW55IHcgcm96ZHppYWxlIFhJSUkgU1daIn0seyJpZCI6IkJULTYzIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNzY3IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNzUxIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA3MzAiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMDYyNiIsInZhbHVlIjoiWmdvZG5pZSB6IHphcGlzYW1pIHJvemR6aWGzdSBYWCBTV1oifSx7ImlkIjoiUktULTA2MjciLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMDY0MCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNjQyIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA2NDUiLCJ2YWx1ZSI6Inpnb2RuaWUgeiB6YXBpc2FtaSB6YXdhcnR5bWkgdyB6YbO5Y3puaWt1IG5yIDUgZG8gU1daIn0seyJpZCI6IlJLVC0yMjIwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMTMxIiwidmFsdWUiOiIyMDIxLTA0LTIxIDA5OjAwIn0seyJpZCI6IlJLVC0wNjUwIiwidmFsdWUiOiJQbGF0Zm9ybWEvU3lzdGVtIGh0dHBzOi8vcG9ydGFsLnNtYXJ0cHpwLnBsL2NvaS53YXJzemF3YSJ9LHsiaWQiOiJCVC0xMzIiLCJ2YWx1ZSI6IjIwMjEtMDQtMjEgMTA6MDAifSx7ImlkIjoiUktHLTA2MDAxLTMiLCJ2YWx1ZSI6IkRhdGEifSx7ImlkIjoiQENyaXRlcmlhV2VpZ2h0U3RyYXRlZ3lfTm9Mb3RzIiwidmFsdWUiOiJXZyBrb2xlam5vnGNpIn0seyJpZCI6IlJLVC0yMjc1X05vTG90cyIsInZhbHVlIjoiV3mzuWN6bmllIGtyeXRlcml1bSBjZW55In0seyJpZCI6IlJLVC0yMjQwX05vTG90cyIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0xMDUyQDMiLCJ2YWx1ZSI6IlBMTiJ9LHsiaWQiOiJCVC0zNl8xIiwidmFsdWUiOiIyOCJ9LHsiaWQiOiJSS1QtMDk2MCIsInZhbHVlIjoiMjAyMS0wNS0yMCJ9LHsiaWQiOiJCVC03MzRfTm9Mb3RzXzAiLCJ2YWx1ZSI6IkNlbmEifSx7ImlkIjoiQENyaXRlcmlhT3JkZXJfTm9Mb3RzXzAiLCJ2YWx1ZSI6IjEifV0K</text>
       </register>
       <register name="+" type="4">
         <text>zawarciu umowy koncesji</text>
@@ -338,40 +341,888 @@
         <text>elem</text>
       </register>
       <register name="/" type="4">
-        <text>ogl_o_zam'</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PCNmdW5jdGlvbiBpc0tyeXRlcml1bUluUGFydCBwYXJ0PgogICAgPCNpZiAhcGFydD9oYXNfY29udGVudCB8fCAhcGFydC5saXN0RWxlbT9oYXNfY29udGVudD4KICAgICAgICA8I3JldHVybiBmYWxzZSA+CiAgICA8LyNpZj4KCiAgICA8I2xpc3QgcGFydC5saXN0RWxlbSBhcyBrZXksZWxlbT4KICAgICAgICA8I2lmIGlzS3J5dGVyaXVtKGVsZW0pID4KICAgICAgICAgICAgPCNyZXR1cm4gdHJ1ZSA+CiAgICAgICAgPC8jaWY+CiAgICA8LyNsaXN0PgoKICAgIDwjcmV0dXJuIGZhbHNlID4KPC8jZnVuY3Rpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQb2ludFNlY3Rpb24gbm89IjYuMi4iIHRpdGxlPSJTdG9zb3dhbmUga3J5dGVyaWEgb2Nlbnkgb2ZlcnQiIC8+Cg==</text>
+        <text encoding="base64">W3siaWQiOiJSS1QtMDUwMiIsInZhbHVlIjoiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyJ9LHsiaWQiOiJCVC0yMSIsInZhbHVlIjoiZG9zdGF3YSBlbGVrdHJvZCBOLTIwLUhHIn0seyJpZCI6IkJULTA0IiwidmFsdWUiOiJvY2RzLTE0ODYxMC04MGEyYzE0Ny05OTA4LTExZWItOTBlNS0yYWVjNDMyZTJiZTUifSx7ImlkIjoiUktULTA1MDlAMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTUwMEAxIiwidmFsdWUiOiJOYXJvZG93eSBJbnN0eXR1dCBPbmtvbG9naWkgaW0uIE1hcmlpIFNrs29kb3dza2llai1DdXJpZSJ9LHsiaWQiOiJCVC01MDFAMSIsInZhbHVlIjoiUkVHT04gMDAwMjg4MzY2In0seyJpZCI6IkJULTUxMEAxIiwidmFsdWUiOiJXLksuIFJvZW50Z2VuYSA1In0seyJpZCI6IkJULTUxM0AxIiwidmFsdWUiOiJXYXJzemF3YSJ9LHsiaWQiOiJCVC01MTJAMSIsInZhbHVlIjoiMDItNzgxIn0seyJpZCI6IlJLVC0wNTIwQDEiLCJ2YWx1ZSI6Im1hem93aWVja2llIn0seyJpZCI6IkJULTUxNEAxIiwidmFsdWUiOiJQb2xza2EifSx7ImlkIjoiQlQtNTA3QDEiLCJ2YWx1ZSI6IlBMOTExIC0gTWlhc3RvIFdhcnN6YXdhIn0seyJpZCI6IkJULTUwNUAxIiwidmFsdWUiOiJ3d3cucGliLW5pby5wbCJ9LHsiaWQiOiJCVC0xMDUiLCJ2YWx1ZSI6IlphbfN3aWVuaWUgdWR6aWVsYW5lIGplc3QgdyB0cnliaWUgcG9kc3Rhd293eW0gbmEgcG9kc3Rhd2llOiBhcnQuIDI3NSBwa3QgMSB1c3Rhd3kifSx7ImlkIjoiUktULTg4ODgiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0yMiIsInZhbHVlIjoiVFAtMjMvMjEvTUtOIn0seyJpZCI6IlJLVC0wNTYyIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA3MDUiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMjIxMCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNzEwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNTA2QDEiLCJ2YWx1ZSI6Ik1vbmlrYS5Lb3JkaWFsLU5hbGVqQHBpYi1uaW8ucGwifSx7ImlkIjoiQlQtMTEiLCJ2YWx1ZSI6IlphbWF3aWFquWN5IHB1YmxpY3pueSAtIG9zb2JhIHByYXduYSwgbyBrdPNyZWogbW93YSB3IGFydC4gNCBwa3QgMyB1c3Rhd3kgKHBvZG1pb3QgcHJhd2EgcHVibGljem5lZ28pIn0seyJpZCI6IkJULTEwIiwidmFsdWUiOiJaZHJvd2llIn0seyJpZCI6IkJULTA4IiwidmFsdWUiOiJQb3N06nBvd2FuaWUgcHJvd2Fkem9uZSBqZXN0IHNhbW9kemllbG5pZSBwcnpleiB6YW1hd2lharljZWdvIn0seyJpZCI6IkJULTE1IiwidmFsdWUiOiJodHRwOi8vcG9ydGFsLnNtYXJ0cHpwLnBsL2NvaS53YXJzemF3YSJ9LHsiaWQiOiJSS1QtMjIxMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTE3IiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA5NDAiLCJ2YWx1ZSI6IkluZm9ybWFjamUgbyCccm9ka2FjaCBrb211bmlrYWNqaSBlbGVrdHJvbmljem5laiwgcHJ6eSB1v3ljaXUga3TzcnljaCB6YW1hd2lharljeSBi6mR6aWUga29tdW5pa293YbMgc2nqIHogd3lrb25hd2NhbWkgem5hamR1amUgc2nqIHcgU1daIHcgcm96ZHouIFhWSUlJLCBhZHJlcyBzdHJvbnkgaW50ZXJuZXRvd2VqIC0gaHR0cDovL3BvcnRhbC5zbWFydHB6cC5wbC9jb2kud2Fyc3phd2EifSx7ImlkIjoiUktULTA1NTAiLCJ2YWx1ZSI6Ilpnb2RuaWUgeiB6YXBpc2FtaSByb3pkemlhs3UgWFZJSUkgU1daIC0gSW5mb3JtYWNqYSBvIJxyb2RrYWNoIGtvbXVuaWthY2ppIGVsZWt0cm9uaWN6bmVqLCBwcnp5IHW/eWNpdSBrdPNyeWNoIFphbWF3aWFquWN5IGLqZHppZSBzaeoga29tdW5pa293YbMgeiBXeWtvbmF3Y2FtaSBvcmF6IGluZm9ybWFjamUgbyB3eW1hZ2FuaWFjaCB0ZWNobmljem55Y2ggaSBvcmdhbml6YWN5am55Y2ggc3Bvcnq5ZHphbmlhIHd5c3mzYW5pYSBpIG9kYmllcmFuaWEga29yZXNwb25kZW5jamkgZWxla3Ryb25pY3puZWogb3JheiB6Z29kbmllIHogemFwaXNhbWkgcm96ZHppYbN1IFhYIFNXWiAtIG9waXMgc3Bvc29idSBwcnp5Z290b3dhbmlhIG9mZXJ0eSJ9LHsiaWQiOiJSS1QtMDU1MSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTc2NCIsInZhbHVlIjoiTmllIGRvdHljenkifSx7ImlkIjoiQlQtNzA4IiwidmFsdWUiOiJ7J3BvbHNraSd9In0seyJpZCI6IlJLVC0wNTU2IiwidmFsdWUiOiJaZ29kbmllIHogemFwaXNhbWkgcm96ZHppYbN1IFhYWFYgLSBrbGF1enVsYSBpbmZvcm1hY3lqbmEgUk9ETyJ9LHsiaWQiOiJSS1QtMDU1NyIsInZhbHVlIjoiWmdvZG5pZSB6IHphcGlzYW1pIHJvemR6aWGzdSBYWFhWIC0ga2xhdXp1bGEgaW5mb3JtYWN5am5hIFJPRE8ifSx7ImlkIjoiUktULTA1NTgiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0yMyIsInZhbHVlIjoiRG9zdGF3eSJ9LHsiaWQiOiJSS1QtMDU2MCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0yMjE0IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMjQiLCJ2YWx1ZSI6InByemVkbWlvdGVtIHphbfN3aWVuaWEgamVzdCBkb3N0YXdhIGVsZWt0cm9kIE4tMjAtSEcifSx7ImlkIjoiQlQtMjYyIiwidmFsdWUiOiIzMTcxMTE0MC02IC0gRWxla3Ryb2R5In0seyJpZCI6IkJULTUzIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTIyMjVfMSIsInZhbHVlIjoiT2tyZXMgcmVhbGl6YWNqaSAtIGRuaSJ9LHsiaWQiOiJSS1QtMDk0NSIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wOTE1IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA4OTAiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJSS1QtMDU5MCIsInZhbHVlIjoieydBcnQuIDEwOSB1c3QuIDEgcGt0IDQnfSJ9LHsiaWQiOiJSS1QtMDU5MSIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNzI1IiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTIyMTYiLCJ2YWx1ZSI6IlphbWF3aWFquWN5IG5pZSB3eW1hZ2EgcG9kbWlvdG93eWNoIJxyb2Rr83cgZG93b2Rvd3ljaCBuYSBwb3R3aWVyZHplbmllIHNwZbNuaWVuaWEgd2FydW5r83cgdWR6aWGzdSB3IHBvc3TqcG93YW5pdSJ9LHsiaWQiOiJSS1QtMDU5MyIsInZhbHVlIjoib2RwaXMgbHViIGluZm9ybWFjamEgeiBLcmFqb3dlZ28gUmVqZXN0cnUgU7lkb3dlZ28gbHViIHogQ2VudHJhbG5laiBFd2lkZW5jamkgaSAgIEluZm9ybWFjamkgbyBEemlhs2Fsbm+cY2kgR29zcG9kYXJjemVqLCB3IHpha3Jlc2llIGFydC4gMTA5IHVzdC4gMSBwa3QgNCBQWlAsIHNwb3J6uWR6b255Y2ggICAgbmllIHdjemWcbmllaiBuab8gMyBtaWVzabljZSBwcnplZCBqZWogerNvv2VuaWVtLCBqZb9lbGkgb2Ry6mJuZSBwcnplcGlzeSB3eW1hZ2FquSB3cGlzdSBkbyByZWplc3RydSBsdWIgZXdpZGVuY2ppLiBcbkRva3VtZW50eSBwb2RtaW9083cgemFncmFuaWN6bnljaDpcblxuSmW/ZWxpIFd5a29uYXdjYSBtYSBzaWVkemli6iBsdWIgbWllanNjZSB6YW1pZXN6a2FuaWEgcG96YSBncmFuaWNhbWkgUnplY3p5cG9zcG9saXRlaiBQb2xza2llaiAtemdvZG5pZSB6IFJvenBvcnq5ZHplbmllbSBNaW5pc3RyYSBSb3p3b2p1LCBQcmFjeSBpIFRlY2hub2xvZ2lpIHogZG5pYSAyMyBncnVkbmlhIDIwMjAgci4gdyBzcHJhd2llIHBvZG1pb3Rvd3ljaCCccm9ka/N3IGRvd29kb3d5Y2ggb3JheiBpbm55Y2ggZG9rdW1lbnTzdyBsdWIgb5x3aWFkY3pl8SwgamFraWNoIG1vv2Ugv7lkYeYgemFtYXdpYWq5Y3kgb2Qgd3lrb25hd2N5IChEei4gVS4gMjAyMCBwb3ouIDI0MTUpIJZkYWxlaiCEcm96cG9yerlkemVuaWWUIHphbWlhc3Q6XG5cbjEpIG9kcGlzdSBhbGJvIGluZm9ybWFjamkgeiBLUlMgbHViIENFaUlERywgbyBrdPNyeWNoIG1vd2EgUm96ZHouIFhJViBwa3QxLjEubGl0LiBhKZZza7NhZGEgZG9rdW1lbnQgbHViIGRva3VtZW50eSB3eXN0YXdpb25lIHcga3JhanUsIHcga3TzcnltIFd5a29uYXdjYSBtYSBzaWVkemli6iBsdWIgbWllanNjZSB6YW1pZXN6a2FuaWEsIHBvdHdpZXJkemFquWNlIL9lOiBcbi1uaWUgb3R3YXJ0byBqZWdvIGxpa3dpZGFjamksIG5pZSBvZ7Nvc3pvbm8gdXBhZLNvnGNpLCBqZWdvIGFrdHl3YW1pIG5pZSB6YXJ6uWR6YSBsaWt3aWRhdG9yIGx1YiBzuWQsIG5pZSB6YXdhcrMgdWuzYWR1IHogd2llcnp5Y2llbGFtaSwgamVnbyBkemlhs2Fsbm+c5iBnb3Nwb2RhcmN6YSBuaWUgamVzdCB6YXdpZXN6b25hIGFuaSBuaWUgem5hamR1amUgc2nqIG9uIHcgaW5uZWogdGVnbyByb2R6YWp1IHN5dHVhY2ppIHd5bmlrYWq5Y2VqIHogcG9kb2JuZWogcHJvY2VkdXJ5IHByemV3aWR6aWFuZWogdyBwcnplcGlzYWNoIG1pZWpzY2Egd3N6Y3rqY2lhIHRlaiBwcm9jZWR1cnlcbi1kb2t1bWVudHkgcG93aW5ueSBieeYgd3lzdGF3aW9uZSBuaWUgd2N6ZZxuaWVqIG5pvyAzIG1pZXNpuWNlIHByemVkIGljaCB6s2+/ZW5pZW07XG5cbkplv2VsaSB3IGtyYWp1LCB3IGt083J5bSBXeWtvbmF3Y2EgbWEgc2llZHppYuogbHViIG1pZWpzY2UgemFtaWVzemthbmlhLCBuaWUgd3lkYWplIHNp6iB3dy4gZG9rdW1lbnTzdywgemFzdOpwdWplIHNp6iBqZSBvZHBvd2llZG5pbyB3IGNhs2+cY2kgbHViIHcgY3rqnGNpIGRva3VtZW50ZW0gemF3aWVyYWq5Y3ltIG9kcG93aWVkbmlvIG+cd2lhZGN6ZW5pZSBXeWtvbmF3Y3ksIHplIHdza2F6YW5pZW0gb3NvYnkgYWxibyBvc/NiIHVwcmF3bmlvbnljaCBkbyBqZWdvIHJlcHJlemVudGFjamksIGx1YiBvnHdpYWRjemVuaWUgb3NvYnksIGt083JlaiBkb2t1bWVudCBtaWGzIGRvdHljennmLCB6s2+/b25lIHBvZCBwcnp5c2nqZ7ksIGx1YiwgamW/ZWxpIHcga3JhanUsIHcga3TzcnltIFd5a29uYXdjYSBtYSBzaWVkemli6iBsdWIgbWllanNjZSB6YW1pZXN6a2FuaWEgbmllIG1hIHByemVwaXPzdyBvIG+cd2lhZGN6ZW5pdSBwb2QgcHJ6eXNp6me5LCB6s2+/b25lIHByemVkIG9yZ2FuZW0gc7lkb3d5bSBsdWIgYWRtaW5pc3RyYWN5am55bSwgbm90YXJpdXN6ZW0sIG9yZ2FuZW0gc2Ftb3J6uWR1IHphd29kb3dlZ28gbHViIGdvc3BvZGFyY3plZ28sIHezYZxjaXd5bSB6ZSB3emds6mR1IG5hIHNpZWR6aWLqIGx1YiBtaWVqc2NlIHphbWllc3prYW5pYSBXeWtvbmF3Y3ksIHogemFzdG9zb3dhbmllbSBva3JlnGxvbnljaCBwb3d5v2VqIHRlcm1pbvN3IHd5c3Rhd2llbmlhIGRva3VtZW5083cuIn0seyJpZCI6IlJLVC0wNTk0IiwidmFsdWUiOiIxLlx0VyBjZWx1IHBvdHdpZXJkemVuaWEsIL9lIG9mZXJvd2FuZSBkb3N0YXd5IG9kcG93aWFkYWq5IHd5bWFnYW5pb20gb2tyZZxsb255bSBwcnpleiBaYW1hd2lharljZWdvLCBaYW1hd2lharljeSB3eW1hZ2EgerNvv2VuaWEgbncuIHByemVkbWlvdG93eWNoIJxyb2Rr83cgZG93b2Rvd3ljaFxuMSlcdG+cd2lhZGN6ZW5pYSBXeWtvbmF3Y3ksIL9lIHphb2Zlcm93YW5lIHByb2R1a3R5IHRqLiBlbGVrdHJvZHkgTi0yMC1IRyAgcG9zaWFkYWq5IGFrdHVhbG5lIGRva3VtZW50eSBkb3B1c3pjemFquWNlIGRvIG9icm90dSBuYSB0ZXJlbmllIFBvbHNraSBuYSBwb2RzdGF3aWUgdXN0YXd5IHogZG5pYSAyMCBtYWphIDIwMTAgci4gbyB3eXJvYmFjaCBtZWR5Y3pueWNoICh0LmouIER6LiAgVS4geiAyMDIwIHIuIHBvei4gMTg2IHplIHptLikgemGzuWN6bmlrIG5yIDQgZG8gU1daO1xuMikgICBrYXRhbG9naSwgZm9sZGVyeSBpdHAuIG1hdGVyaWGzeSBwcm9kdWNlbnRhIGx1YiBkeXN0cnlidXRvcmEgZG90eWN6uWNlIG9mZXJvd2FuZWdvIHByb2R1a3R1IHBvdHdpZXJkemFquWNlIHd5bWFnYW5pYSBaYW1hd2lharljZWdvIG9waXNhbmUgdyBTV1osIHphd2llcmFquWNlIG51bWVyIGthdGFsb2dvd3kgb2Zlcm93YW5lZ28gd3lyb2J1OyJ9LHsiaWQiOiJSS1QtMDU5NSIsInZhbHVlIjoiVGFrIn0seyJpZCI6IlJLVC0wNTk2IiwidmFsdWUiOiIxKVx0b5x3aWFkY3plbmlhIFd5a29uYXdjeSwgv2UgemFvZmVyb3dhbmUgcHJvZHVrdHkgdGouIGVsZWt0cm9keSBOLTIwLUhHICBwb3NpYWRharkgYWt0dWFsbmUgZG9rdW1lbnR5IGRvcHVzemN6YWq5Y2UgZG8gb2Jyb3R1IG5hIHRlcmVuaWUgUG9sc2tpIG5hIHBvZHN0YXdpZSB1c3Rhd3kgeiBkbmlhIDIwIG1hamEgMjAxMCByLiBvIHd5cm9iYWNoIG1lZHljem55Y2ggKHQuai4gRHouICBVLiB6IDIwMjAgci4gcG96LiAxODYgemUgem0uKSB6YbO5Y3puaWsgbnIgNCBkbyBTV1o7XG4yKSAgIGthdGFsb2dpLCBmb2xkZXJ5IGl0cC4gbWF0ZXJpYbN5IHByb2R1Y2VudGEgbHViIGR5c3RyeWJ1dG9yYSBkb3R5Y3q5Y2Ugb2Zlcm93YW5lZ28gcHJvZHVrdHUgcG90d2llcmR6YWq5Y2Ugd3ltYWdhbmlhIFphbWF3aWFquWNlZ28gb3Bpc2FuZSB3IFNXWiwgemF3aWVyYWq5Y2UgbnVtZXIga2F0YWxvZ293eSBvZmVyb3dhbmVnbyB3eXJvYnU7In0seyJpZCI6IlJLVC0wNTk3IiwidmFsdWUiOiJXeWtheiBkb2t1bWVudPN3IGkgb5x3aWFkY3pl8SB3eW1hZ2FueWNoIGRvIHqzb79lbmlhIHdyYXogeiBvZmVydLkgem9zdGGzIHdza2F6YW55IHcgcm96ZHppYWxlIFhJSUkgU1daIn0seyJpZCI6IkJULTYzIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNzY3IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNzUxIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA3MzAiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMDYyNiIsInZhbHVlIjoiWmdvZG5pZSB6IHphcGlzYW1pIHJvemR6aWGzdSBYWCBTV1oifSx7ImlkIjoiUktULTA2MjciLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMDY0MCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNjQyIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA2NDUiLCJ2YWx1ZSI6Inpnb2RuaWUgeiB6YXBpc2FtaSB6YXdhcnR5bWkgdyB6YbO5Y3puaWt1IG5yIDUgZG8gU1daIn0seyJpZCI6IlJLVC0yMjIwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMTMxIiwidmFsdWUiOiIyMDIxLTA0LTIxIDA5OjAwIn0seyJpZCI6IlJLVC0wNjUwIiwidmFsdWUiOiJQbGF0Zm9ybWEvU3lzdGVtIGh0dHBzOi8vcG9ydGFsLnNtYXJ0cHpwLnBsL2NvaS53YXJzemF3YSJ9LHsiaWQiOiJCVC0xMzIiLCJ2YWx1ZSI6IjIwMjEtMDQtMjEgMTA6MDAifSx7ImlkIjoiUktHLTA2MDAxLTMiLCJ2YWx1ZSI6IkRhdGEifSx7ImlkIjoiQENyaXRlcmlhV2VpZ2h0U3RyYXRlZ3lfTm9Mb3RzIiwidmFsdWUiOiJXZyBrb2xlam5vnGNpIn0seyJpZCI6IlJLVC0yMjc1X05vTG90cyIsInZhbHVlIjoiV3mzuWN6bmllIGtyeXRlcml1bSBjZW55In0seyJpZCI6IlJLVC0yMjQwX05vTG90cyIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0xMDUyQDMiLCJ2YWx1ZSI6IlBMTiJ9LHsiaWQiOiJCVC0zNl8xIiwidmFsdWUiOiIyOCJ9LHsiaWQiOiJSS1QtMDk2MCIsInZhbHVlIjoiMjAyMS0wNS0yMCJ9LHsiaWQiOiJCVC03MzRfTm9Mb3RzXzAiLCJ2YWx1ZSI6IkNlbmEifSx7ImlkIjoiQENyaXRlcmlhT3JkZXJfTm9Mb3RzXzAiLCJ2YWx1ZSI6IjEifV0K</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC8jaWY+Cg==</text>
+        <text encoding="base64">W3siaWQiOiJSS1QtMDUwMiIsInZhbHVlIjoiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyJ9LHsiaWQiOiJCVC0yMSIsInZhbHVlIjoiU3VrY2VzeXdueSBvZGJp83IsIHRyYW5zcG9ydCBpIHV0eWxpemFjamEgb2RwYWTzdyB3ZXRlcnluYXJ5am55Y2gsIG1lZHljem55Y2gsIGNoZW1pY3pueWNoIG9yYXogcG9jaG9kemVuaWEgendpZXJ66mNlZ28gS2F0LiBJIGkgS2F0LiBJSSB6IGRvcHVzemN6ZW5pZW0gcG9kemlhs3UgbmEgMyBjeuqcY2kifSx7ImlkIjoiQlQtMDQiLCJ2YWx1ZSI6Im9jZHMtMTQ4NjEwLTJhYTdlMjYyLTk4ZmYtMTFlYi05MGU1LTJhZWM0MzJlMmJlNSJ9LHsiaWQiOiJSS1QtMDUwOUAxIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiQlQtNTAwQDEiLCJ2YWx1ZSI6IklOU1RZVFVUIEJJT0xPR0lJIERPjFdJQURDWkFMTkVKIElNLiBNQVJDRUxFR08gTkVOQ0tJRUdPIFBPTFNLSUVKIEFLQURFTUlJIE5BVUsifSx7ImlkIjoiQlQtNTAxQDEiLCJ2YWx1ZSI6IlJFR09OIDAwMDMyNTgyNSJ9LHsiaWQiOiJCVC01MTBAMSIsInZhbHVlIjoidWwuIEx1ZHdpa2EgUGFzdGV1cmEgMyJ9LHsiaWQiOiJCVC01MTNAMSIsInZhbHVlIjoiV2Fyc3phd2EifSx7ImlkIjoiQlQtNTEyQDEiLCJ2YWx1ZSI6IjAyLTA5MyJ9LHsiaWQiOiJSS1QtMDUyMEAxIiwidmFsdWUiOiJtYXpvd2llY2tpZSJ9LHsiaWQiOiJCVC01MTRAMSIsInZhbHVlIjoiUG9sc2thIn0seyJpZCI6IkJULTUwN0AxIiwidmFsdWUiOiJQTDkxMSAtIE1pYXN0byBXYXJzemF3YSJ9LHsiaWQiOiJCVC01MDVAMSIsInZhbHVlIjoid3d3Lm5lbmNraS5lZHUucGwifSx7ImlkIjoiQlQtMTA1IiwidmFsdWUiOiJaYW3zd2llbmllIHVkemllbGFuZSBqZXN0IHcgdHJ5YmllIHBvZHN0YXdvd3ltIG5hIHBvZHN0YXdpZTogYXJ0LiAyNzUgcGt0IDEgdXN0YXd5In0seyJpZCI6IlJLVC04ODg4IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMjIiLCJ2YWx1ZSI6IkFaUC0yNjEtMDkvMjAyMSJ9LHsiaWQiOiJSS1QtMDU2MiIsInZhbHVlIjoiVGFrIn0seyJpZCI6IlJLVC0wNTY0IiwidmFsdWUiOiIzIn0seyJpZCI6IlJLVC0wNzA1IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNzAxIiwidmFsdWUiOiIyMDIxL0JaUCAwMDAzMDc0Ny8wMSJ9LHsiaWQiOiJCVC03NTciLCJ2YWx1ZSI6IjAxIn0seyJpZCI6IkJULTA1IiwidmFsdWUiOiIyMDIxLTA0LTEyIDEwOjUyIn0seyJpZCI6IlJLVC0yMjEwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA3MTAiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC01MDZAMSIsInZhbHVlIjoicHJ6ZXRhcmdpQG5lbmNraS5lZHUucGwifSx7ImlkIjoiQlQtMTEiLCJ2YWx1ZSI6IlphbWF3aWFquWN5IHB1YmxpY3pueSAtIGplZG5vc3RrYSBzZWt0b3JhIGZpbmFuc/N3IHB1YmxpY3pueWNoIC0gUG9sc2thIEFrYWRlbWlhIE5hdWsgaSB0d29yem9uZSBwcnpleiBuabkgamVkbm9zdGtpIG9yZ2FuaXphY3lqbmUifSx7ImlkIjoiQlQtMTAiLCJ2YWx1ZSI6IklubmEgZHppYbNhbG5vnOYifSx7ImlkIjoiUktULTIyMjkiLCJ2YWx1ZSI6Im5hdWtvd28tYmFkYXdjemEgaSBlZHVrYWN5am5hIn0seyJpZCI6IkJULTA4IiwidmFsdWUiOiJQb3N06nBvd2FuaWUgcHJvd2Fkem9uZSBqZXN0IHNhbW9kemllbG5pZSBwcnpleiB6YW1hd2lharljZWdvIn0seyJpZCI6IkJULTE1IiwidmFsdWUiOiJodHRwczovL21pbmlwb3J0YWwudXpwLmdvdi5wbC8ifSx7ImlkIjoiUktULTIyMTEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0xNyIsInZhbHVlIjoiVGFrIn0seyJpZCI6IlJLVC0wOTQwIiwidmFsdWUiOiJtaW5pcG9ydGFsLnV6cC5nb3YucGwifSx7ImlkIjoiUktULTA1NTAiLCJ2YWx1ZSI6IjEzLlx0TWFrc3ltYWxueSByb3ptaWFyIHBsaWvzdyBwcnplc3mzYW55Y2ggemEgcG+ccmVkbmljdHdlbSBkZWR5a293YW55Y2ggZm9ybXVsYXJ6eSBkbzogerNvv2VuaWEgaSB3eWNvZmFuaWEgb2ZlcnR5IG9yYXogZG8ga29tdW5pa2Fjamkgd3lub3NpIDE1MCBNQi4gIFxuMTQuXHRaYSBkYXTqIHByemVrYXphbmlhIG9mZXJ0eSwgb5x3aWFkY3plbmlhLCBvIGt083J5bSBtb3dhIHcgYXJ0LiAxMjUgdXN0LiAxIHB6cCwgcG9kbWlvdG93eWNoIJxyb2Rr83cgZG93b2Rvd3ljaCwgcHJ6ZWRtaW90b3d5Y2ggnHJvZGvzdyBkb3dvZG93eWNoIG9yYXogaW5ueWNoIGluZm9ybWFjamksIG+cd2lhZGN6ZfEgbHViIGRva3VtZW5083csIHByemVrYXp5d2FueWNoIHcgcG9zdOpwb3dhbml1LCBwcnp5am11amUgc2nqIGRhdOogaWNoIHByemVrYXphbmlhIG5hIGVQVUFQLiAgXG4xNS5cdFcgcG9zdOpwb3dhbml1IG8gdWR6aWVsZW5pZSB6YW3zd2llbmlhIGtvcmVzcG9uZGVuY2phIGVsZWt0cm9uaWN6bmEgKGlubmEgbmm/IG9mZXJ0YSBXeWtvbmF3Y3kgaSB6YbO5Y3puaWtpIGRvIG9mZXJ0eSkgb2RieXdhIHNp6iBlbGVrdHJvbmljem5pZSB6YSBwb5xyZWRuaWN0d2VtIGRlZHlrb3dhbmVnbyBmb3JtdWxhcnphIGRvc3TqcG5lZ28gbmEgZVBVQVAgb3JheiB1ZG9zdOpwbmlvbmVnbyBwcnpleiBtaW5pUG9ydGFsIChGb3JtdWxhcnogZG8ga29tdW5pa2FjamkpLiBLb3Jlc3BvbmRlbmNqYSBwcnplc7NhbmEgemEgcG9tb2O5IHRlZ28gZm9ybXVsYXJ6YSBuaWUgbW+/ZSBieeYgc3p5ZnJvd2FuYS4gV2Ugd3N6ZWxraWVqIGtvcmVzcG9uZGVuY2ppIHp3abl6YW5laiB6IG5pbmllanN6eW0gcG9zdOpwb3dhbmllbSBaYW1hd2lharljeSBpIFd5a29uYXdjeSBwb3OzdWd1arkgc2nqIG51bWVyZW0gb2ezb3N6ZW5pYSAoQlpQKS4gIFxuMTYuXHRTcG9z82Igc3Bvcnq5ZHplbmlhIGRva3VtZW5083cgZWxla3Ryb25pY3pueWNoLCBvnHdpYWRjemXxIGx1YiBlbGVrdHJvbmljem55Y2gga29waWkgZG9rdW1lbnTzdyBsdWIgb5x3aWFkY3pl8SBtdXNpIGJ55iB6Z29keSB6IHd5bWFnYW5pYW1pIG9rcmWcbG9ueW1pIHcgcm96cG9yerlkemVuaXUgUHJlemVzYSBSYWR5IE1pbmlzdHLzdyB6IGRuaWEgMzAgZ3J1ZG5pYSAyMDIwIHIuIHcgc3ByYXdpZSBzcG9zb2J1IHNwb3J6uWR6YW5pYSBpIHByemVrYXp5d2FuaWEgaW5mb3JtYWNqaSBvcmF6IHd5bWFnYfEgdGVjaG5pY3pueWNoIGRsYSBkb2t1bWVudPN3IGVsZWt0cm9uaWN6bnljaCBvcmF6IJxyb2Rr83cga29tdW5pa2FjamkgZWxla3Ryb25pY3puZWogdyBwb3N06nBvd2FuaXUgbyB1ZHppZWxlbmllIHphbfN3aWVuaWEgcHVibGljem5lZ28gbHViIGtvbmt1cnNpZS5cbjE3Llx0WmFtYXdpYWq5Y3kgbmllIHByemV3aWR1amUgc3Bvc29idSBrb211bmlrb3dhbmlhIHNp6iB6IFd5a29uYXdjYW1pIHcgaW5ueSBzcG9z82Igbmm/IHByenkgdb95Y2l1IJxyb2Rr83cga29tdW5pa2FjamkgZWxla3Ryb25pY3puZWosIHdza2F6YW55Y2ggdyBTV1ouIFxuMTguXHRaYW1hd2lharljeSBuaWUgYmllcnplIG9kcG93aWVkemlhbG5vnGNpIHphIHNrdXRraSBicmFrdSB6YWNob3dhbmlhIHByemV6IFd5a29uYXdj6iBwb3d5v3N6ZWdvIHd5bW9ndS4ifSx7ImlkIjoiUktULTA1NTEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC03NjQiLCJ2YWx1ZSI6Ik5pZSBkb3R5Y3p5In0seyJpZCI6IkJULTcwOCIsInZhbHVlIjoieydwb2xza2knfSJ9LHsiaWQiOiJSS1QtMDU1NiIsInZhbHVlIjoiS0xBVVpVTEEgSU5GT1JNQUNZSk5BXG5ET1RZQ1qlQ0FQUlpFVFdBUlpBTklBIERBTllDSCBPU09CT1dZQ0ggemFtaWVzemN6b25hIHpvc3Rhs2EgdyBTV1oifSx7ImlkIjoiUktULTA1NTgiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0yMyIsInZhbHVlIjoiVXOzdWdpIn0seyJpZCI6IlJLVC0wNTYwIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA5ODAiLCJ2YWx1ZSI6IndzenlzdGtpZSBjeuqcY2kifSx7ImlkIjoiUktULTA5ODEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMjIxNCIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTI0XzAiLCJ2YWx1ZSI6IlN1a2Nlc3l3bnkgb2RiafNyLCB0cmFuc3BvcnQgaSB1dHlsaXphY2phICBvZHBhZPN3IEtBVCBJIC0gcHJvZHVrdHkgcG9jaG9kemVuaWEgendpZXJ66mNlZ28gKHp3s29raSB6d2llcnq5dCBsYWJvcmF0b3J5am55Y2gpLCBLQVQgSUkgLSBVYm9jem5lIHByb2R1a3R5IHBvY2hvZHplbmlhIHp3aWVyeupjZWdvICicY2nzs2thIHBvIHp3aWVyeup0YWNoIGxhYm9yYXRvcnlqbnljaCkgb3JheiBEemllcr9hd2EgMTIwIHN6dC4gcm9jem5pZSAyNDBMIHBvamVtbmlr83cgbmEgb2RwYWR5IGRsYSBJbnN0eXR1dHUgQmlvbG9naWkgRG+cd2lhZGN6YWxuZWogaW0uIE0uICBOZW5ja2llZ28gUEFOXG5hKVx0c3ByemVkYb8gaSBkb3N0YXdhIGN6ZXJ3b255Y2ggcG9qZW1uaWvzdyBuYSBvZHBhZHkgbyBwb2plbW5vnOYgMCw3bCwgMmwuICAzLDVsIC41bC4gMTBsIC4gMjBsLiA2MGwuIHcgbGljemJpZSAzMDAgc3p0dWsgcm9jem5pZSBkbGEgSW5zdHl0dXR1IEJpb2xvZ2lpIERvnHdpYWRjemFsbmVqIGltLiBNLiBOZW5ja2llZ28gUEFOLiJ9LHsiaWQiOiJCVC0yNjJfMCIsInZhbHVlIjoiOTA1MjQwMDAtNiAtIFVzs3VnaSB3oHpha3Jlc2llIG9kcGFk83cgbWVkeWN6bnljaCJ9LHsiaWQiOiJCVC01M18wIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTIyMjVfMSIsInZhbHVlIjoiT2tyZXMgcmVhbGl6YWNqaSAtIG1pZXNpuWNlIn0seyJpZCI6IlJLVC0wOTQ1XzAiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMDkxNV8wIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMjRfMSIsInZhbHVlIjoiU3VrY2VzeXdueSBvZGJp83IsIHRyYW5zcG9ydCBpIHV0eWxpemFjamEgb2RwYWTzdyBvIGtvZGFjaDpcbmEpXHQxOCAwMSAwMyAtIE9kcGFkeSBtZWR5Y3puZSBcbmIpXHQxOCAwMiAwMiAtIE9kcGFkeSB3ZXRlcnluYXJ5am5lXG5jKVx0MTggMDIgMDMgLSBPZHBhZHkgaW5uZSBuab8gd3ltaWVuaW9uZSAxOCAwMiAgMDJcbmQpXHRzcHJ6ZWRhvyBpIGRvc3Rhd2EgY3plcndvbnljaCBwb2plbW5pa/N3IG5hIG9kcGFkeSBvIHBvamVtbm+c5iAwLDdsLCAybC4gIDMsNWwgLjVsLiAxMGwgLiAyMGwuIDYwbC4gdyBsaWN6YmllIDMwMCBzenR1ayByb2N6bmllIGRsYSBJbnN0eXR1dHUgQmlvbG9naWkgRG+cd2lhZGN6YWxuZWogaW0uIE0uIE5lbmNraWVnbyBQQU4uIn0seyJpZCI6IkJULTI2Ml8xIiwidmFsdWUiOiI5MDUyNDAwMC02IC0gVXOzdWdpIHegemFrcmVzaWUgb2RwYWTzdyBtZWR5Y3pueWNoIn0seyJpZCI6IkJULTUzXzEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMjIyNV8yIiwidmFsdWUiOiJPa3JlcyByZWFsaXphY2ppIC0gbWllc2m5Y2UifSx7ImlkIjoiUktULTA5NDVfMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wOTE1XzEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC0yNF8yIiwidmFsdWUiOiJTdWtjZXN5d255IG9kYmnzciwgdHJhbnNwb3J0IGkgdXR5bGl6YWNqYSBvZHBhZPN3IG8ga29kYWNoOiBcbmEpXHQwOSAwMSAwMSAtICBXb2RuZSByb3p0d29yeSB3eXdvs3l3YWN6eSBpIGFrdHl3YXRvcvN3XG5iKVx0MDkgMDEgMDQgLSAgIFJvenR3b3J5IHV0cndhbGFjenlcbmMpXHQxNSAwMSAxMCAtICBPcGFrb3dhbmlhIHphd2llcmFquWNlIHBvem9zdGGzb5xjaSBzdWJzdGFuY2ppIG5pZWJlenBpZWN6bnljaCBsdWIgbmltaSB6YW5pZWN6eXN6Y3pvbmUgKG5wLiCccm9ka2FtaSBvY2hyb255IHJvnGxpbiBJIGkgSUkga2xhc3kgdG9rc3ljem5vnGNpIC0gYmFyZHpvIHRva3N5Y3puZSBpIHRva3N5Y3puZSlcbmQpXHQxNSAwMiAwMiAtIFNvcmJlbnR5LCBtYXRlcmlhs3kgZmlsdHJhY3lqbmUgKHcgdHltIGZpbHRyeSBvbGVqb3dlIG5pZSB1aup0ZSB3IGlubnljaCBncnVwYWNoKSwgdGthbmlueSBkbyB3eWNpZXJhbmlhIChucC4gc3ptYXR5LCCcY2llcmtpKSBpIHVicmFuaWEgb2Nocm9ubmUgemFuaWVjenlzemN6b25lIHN1YnN0YW5jamFtaSBuaWViZXpwaWVjem55bWkgKG5wLiBQQ0IpXG5lKVx0MTYgMDUgMDYgLSBDaGVtaWthbGlhIGxhYm9yYXRvcnlqbmUgaSBhbmFsaXR5Y3puZSAobnAuIG9kY3p5bm5pa2kgY2hlbWljem5lKSB6YXdpZXJharljZSBzdWJzdGFuY2plIG5pZWJlenBpZWN6bmUsIHcgdHltIG1pZXN6YW5pbnkgY2hlbWlrYWxp83cgbGFib3JhdG9yeWpueWNoIGkgYW5hbGl0eWN6bnljaC5cbmYpXHQxNiAwMiAxNCAtIFp1v3l0ZSB1cnq5ZHplbmlhIGlubmUgbmm/IHd5bWllbmlvbmUgdyAxNiAwMiAwOSBkbyAxNiAwMiAxM1xuZylcdDE2IDAyIDExIC0gWnW/eXRlIHVyerlkemVuaWEgemF3aWVyYWq5Y2UgZnJlb255LCBIQ0ZDLCBIRkNcbmgpXHQxNyAwMiAwMSAtICBEcmV3bm8ifSx7ImlkIjoiQlQtMjYyXzIiLCJ2YWx1ZSI6IjkwNTI0MDAwLTYgLSBVc7N1Z2kgd6B6YWtyZXNpZSBvZHBhZPN3IG1lZHljem55Y2gifSx7ImlkIjoiQlQtNTNfMiIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0yMjI1XzMiLCJ2YWx1ZSI6Ik9rcmVzIHJlYWxpemFjamkgLSBtaWVzabljZSJ9LHsiaWQiOiJSS1QtMDk0NV8yIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA5MTVfMiIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wODkwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA1OTEiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJSS1QtMDk1MCIsInZhbHVlIjoiMSlcdHcgemFrcmVzaWUgd3NrYXphbnltIHcgYXJ0LiAxMTIgdXN0LiAyIHBrdCAyKSB1UHpwLCBkb3R5Y3q5Y2UgdXByYXduaWXxIGRvIHByb3dhZHplbmlhIG9rcmWcbG9uZWogZHppYbNhbG5vnGNpIGdvc3BvZGFyY3plaiBsdWIgemF3b2Rvd2VqOiBcbmN66pxjaSBuciAxOiBcbmEpXHRPa3JlnGxlbmllIHdhcnVua3UgbnIgMTogV3lrb25hd2NhIG11c2kgcG9zaWFkYeYgemV6d29sZW5pZSBwb3dpYXRvd2VnbyBsZWthcnphIHdldGVyeW5hcmlpIG9yYXogcG9zaWFkYeYgdXByYXduaWVuaWEgZG8gd3lrb255d2FuaWEgZHppYbNhbG5vnGNpIHcgemFrcmVzaWUgb2RiaW9ydSwgdHJhbnNwb3J0dSBpIHVuaWVzemtvZGxpd2lhbmlhIHVib2N6bnljaCBwcm9kdWt083cgcG9jaG9kemVuaWEgendpZXJ66mNlZ28gS0FUIEkgaSBLQVQgSUk7XG5iKVx0T2tyZZxsZW5pZSB3YXJ1bmt1IG5yIDI6IFd5a29uYXdjYSBtdXNpIGJ55iB6YXJlamVzdHJvd2FueSAgdyBzeXN0ZW1pZSBCRE8gKEJhenkgZGFueWNoIG8gcHJvZHVrdGFjaCBpIG9wYWtvd2FuaWFjaCBvcmF6IG8gZ29zcG9kYXJjZSBvZHBhZGFtaSkgSSBkemlhs2HmIHpnb2RuaWUgeiBqZWdvIHByb2NlZHVyYW1pLlxuIGN66pxjaSBuciAyIGkgY3rqnGNpIG5yIDM6IFxuYSlcdE9rcmWcbGVuaWUgd2FydW5rdSBuciAxOiBXeWtvbmF3Y2EgbXVzaSBwb3NpYWRh5iB1cHJhd25pZW5pYSBkbyB3eWtvbnl3YW5pYSBkemlhs2Fsbm+cY2kgdyB6YWtyZXNpZSBvZGJpb3J1LCB0cmFuc3BvcnR1IGkgdW5pZXN6a29kbGl3aWFuaWEgb2RwYWTzdyBtZWR5Y3pueWNoIGkgd2V0ZXJ5bmFyeWpueWNoIG9yYXogd3NrYXphbnljaCB3IFNXWiwgemdvZG5pZSB6IHVzdGF3uSB6IGRuaWEgMTQgZ3J1ZG5pYSAyMDEyIHIuIG8gb2RwYWRhY2ggKHQuai4gRHouIFUuIHogMjAyMCB6IDIwMjAgci4gcG96LiA3OTcsIDg3NSwgMjM2MSk7XG5iKVx0T2tyZZxsZW5pZSB3YXJ1bmt1IG5yIDI6IFd5a29uYXdjYSBtdXNpIGJ55iBqZXN0IHphcmVqZXN0cm93YW55IHcgc3lzdGVtaWUgQkRPIChCYXp5IGRhbnljaCBvIHByb2R1a3RhY2ggaSBvcGFrb3dhbmlhY2ggb3JheiBvIGdvc3BvZGFyY2Ugb2RwYWRhbWkpIGkgZHppYbNh5iB6Z29kbmllIHogamVnbyBwcm9jZWR1cmFtaSAoaW50ZWdyYWNqYSB6IEJETyB6YSBwb21vY7kgQVBJKS5cbjIpXHR3IHpha3Jlc2llICB3c2themFueW0gdyBhcnQuIDExMiB1c3QuIDIgcGt0IDMpIHVQenAsIGRvdHljerljZSBzeXR1YWNqaSBla29ub21pY3puZWogbHViIGZpbmFuc293ZWo6IFxuY3rqnGNpIG5yIDEsIGN66pxjaSBuciAyIGkgY3rqnGNpIG5yMzpcbk9rcmWcbGVuaWUgd2FydW5rdTogV3lrb25hd2NhIG11c2kgcG9zaWFkYeYgdWJlenBpZWN6ZW5pZSBvZCBvZHBvd2llZHppYWxub5xjaSBjeXdpbG5laiAoT0MpIHcgemFrcmVzaWUgcHJvd2Fkem9uZWogZHppYbNhbG5vnGNpIHp3abl6YW5laiB6IHByemVkbWlvdGVtIHphbfN3aWVuaWEsIG5hIHN1beogZ3dhcmFuY3lqbrkgbmllIG1uaWVqc3q5IG5pvyA1MCAwMDAsMDAgerMuXG4gICBKZb9lbGkgc3VtYSBnd2FyYW5jeWpuYSBuYSBkb2t1bWVuY2llIHViZXpwaWVjemVuaWEgb2tyZZxsb25hIGLqZHppZSB3IGlubnljaCB3YWx1dGFjaCBuab8gerNvdHkgcG9sc2tpLCBaYW1hd2lharljeSBwcnplbGljenkgamVqIHdhcnRvnOYgcG8gnHJlZG5pbSBrdXJzaWUgTkJQIHogZG5pYSB1a2F6YW5pYSBzaeogb2ezb3N6ZW5pYSBvIHphbfN3aWVuaXUuXG4zKVx0dyB6YWtyZXNpZSB3c2themFueW0gdyBhcnQuIDExMiB1c3QuIDIgcGt0IDQpIHVQenAsIGRvdHljerljZSB6ZG9sbm+cY2kgdGVjaG5pY3puZWogIGx1YiB6YXdvZG93ZWo6XG5jeuqcY2kgbnIgMTogXG5Pa3JlnGxlbmllIHdhcnVua3U6IFd5a29uYXdjYSBzcGWzbmkgd2FydW5layBqZb9lbGkgd3lrYb9lLCC/ZSB3IG9rcmVzaWUgb3N0YXRuaWNoIHRyemVjaCBsYXQgcHJ6ZWQgdXCzeXdlbSB0ZXJtaW51IHNrs2FkYW5pYSBvZmVydCwgYSBqZb9lbGkgb2tyZXMgcHJvd2FkemVuaWEgZHppYbNhbG5vnGNpIGplc3Qga3LzdHN6eSAtIHcgdHltIG9rcmVzaWUsIG5hbGW/eWNpZSB3eWtvbmGzIGEgdyBwcnp5cGFka3UgnHdpYWRjemXxIG9rcmVzb3d5Y2ggbHViIGNpuWezeWNoIHLzd25pZb8gd3lrb251amUsIGNvIG5ham1uaWVqIGplZG65IHVzs3Vn6iBzdWtjZXN5d25lZ28gb2RiaW9ydSBvZHBhZPN3IGRvdHljerljuSBvZGJpb3J1LCB0cmFuc3BvcnR1IGkgdXR5bGl6YWNqaSBvZHBhZPN3IEtBVCBJIGkgS0FUIElJIHByemV6IG9rcmVzIG5pZSBrcvN0c3p5IG5pvyBzemWc5iAoNikgbWllc2nqY3ksIG8gd2FydG+cY2kgbmllIG5pZWogbmm/IFxuMjAgMDAwLDAwIHqzIGJydXR0by5cbmN66pxjaSBuciAyOiBcbk9rcmWcbGVuaWUgd2FydW5rdTogV3lrb25hd2NhIHNwZbNuaSB3YXJ1bmVrIGplv2VsaSB3eWthv2UsIL9lIHcgb2tyZXNpZSBvc3RhdG5pY2ggdHJ6ZWNoIGxhdCBwcnplZCB1cLN5d2VtIHRlcm1pbnUgc2uzYWRhbmlhIG9mZXJ0LCBhIGplv2VsaSBva3JlcyBwcm93YWR6ZW5pYSBkemlhs2Fsbm+cY2kgamVzdCBrcvN0c3p5IC0gIHcgdHltIG9rcmVzaWUsIG5hbGW/eWNpZSB3eWtvbmGzIGEgdyBwcnp5cGFka3UgnHdpYWRjemXxIG9rcmVzb3d5Y2ggbHViIGNpuWezeWNoIHLzd25pZb8gd3lrb251amUsIGNvIG5ham1uaWVqIGplZG65IHVzs3Vn6iBzdWtjZXN5d25lZ28gb2RiaW9ydSBvZHBhZPN3IGRvdHljerljuSBvZGJpb3J1LCB0cmFuc3BvcnR1IGkgdXR5bGl6YWNqaSBvZHBhZPN3IHdza2F6YW55Y2ggcHJ6ZXogWmFtYXdpYWq5Y2VnbyB3IFJvemR6aWFsZSBJSSB1c3QuIDEgcGt0ICA2IG5pbmllanN6ZWogU1daIChjeuqc5iAyKSAsIHByemV6IG9rcmVzIG5pZSBrcvN0c3p5IG5pvyBzemWc5iAoNikgbWllc2nqY3ksIG8gd2FydG+cY2kgbmllIG1uaWVqIG5pvyAyMCAwMDAsMDAgerMgYnJ1dHRvLlxuY3rqnOYgbnIgMzogXG5Pa3JlnGxlbmllIHdhcnVua3U6IFd5a29uYXdjYSBzcGWzbmkgd2FydW5layBqZb9lbGkgd3lrYb9lLCC/ZSB3IG9rcmVzaWUgb3N0YXRuaWNoIHRyemVjaCBsYXQgcHJ6ZWQgdXCzeXdlbSB0ZXJtaW51IHNrs2FkYW5pYSBvZmVydCwgYSBqZb9lbGkgb2tyZXMgcHJvd2FkemVuaWEgZHppYbNhbG5vnGNpIGplc3Qga3LzdHN6eSAtICB3IHR5bSBva3Jlc2llLCBuYWxlv3ljaWUgd3lrb25hsyBhIHcgcHJ6eXBhZGt1IJx3aWFkY3pl8SBva3Jlc293eWNoIGx1YiBjablns3ljaCBy83duaWW/IHd5a29udWplLCBjbyBuYWptbmllaiBqZWRuuSB1c7N1Z+ogc3VrY2VzeXduZWdvIG9kYmlvcnUgb2RwYWTzdyBkb3R5Y3q5Y7kgb2RiaW9ydSwgdHJhbnNwb3J0dSBpIHV0eWxpemFjamkgb2RwYWTzdyB3c2themFueWNoIHByemV6IFphbWF3aWFquWNlZ28gdyBSb3pkemlhbGUgSUkgdXN0LiAxIHBrdCA2IG5pbmllanN6ZWogU1daIChjeuqc5iAzKSwgcHJ6ZXogb2tyZXMgbmllIGty83Rzenkgbmm/IHN6ZZzmICg2KSBtaWVzaepjeSwgbyB3YXJ0b5xjaSBuaWUgbW5pZWogbmm/IDEwIDAwMCwwMCB6syBicnV0dG8uIn0seyJpZCI6IlJLVC0wNzI1IiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTIyMTYiLCJ2YWx1ZSI6IjEpXHRkb3R5Y3q5Y3ljaCB1cHJhd25pZfEgZG8gcHJvd2FkemVuaWEgb2tyZZxsb25laiBkemlhs2Fsbm+cY2kgZ29zcG9kYXJjemVqIGx1YiB6YXdvZG93ZWosIFphbWF3aWFquWN5IL+5ZGE6XG5jeuqc5iBuciAxLCBjeuqc5iBuciAyIGkgY3rqnOYgbnIgMzpcbmEpXHR6ZXp3b2xlbmlhIHd5ZGFuZWdvIHByemV6IHezYZxjaXd5IG9yZ2FuIHBh8XN0d293eSBSUCBuYSBwcm93YWR6ZW5pZSBnb3Nwb2RhcmtpIG9kcGFkYW1pIHRqLiBuYSB0cmFuc3BvcnQgaSB1bmllc3prb2RsaXdpYW5pZSBvZHBhZPN3IGLqZLljeWNoIHByemVkbWlvdGVtIHphbfN3aWVuaWEgemdvZG5pZSB6IHVzdGF3uSB6IGRuaWEgMTQgZ3J1ZG5pYSAyMDEyIHIuIG8gb2RwYWRhY2ggKHQuai4gRHouIFUuIHogMjAyMCByLiBwb3ouIDc5NywgODc1LCAyMzYxKSBpIHVzdGF3uSB6IGRuaWEgMjcga3dpZXRuaWEgMjAwMSByLiBQcmF3byBvY2hyb255IJxyb2Rvd2lza2EgKHQuai4gRHouIFUuIHogMjAyMCByLiBwb3ouIDEyMTksIDEzNzgsIDE1NjUsIDIzMzggd3JheiB6IHByemVwaXNhbWkgaSByb3pwb3J6uWR6ZW5pYW1pIHd5a29uYXdjenltaSBkbyB3L3cuIHVzdGF3IC0gc2uzYWRhbnkgZG9rdW1lbnQgbXVzaSBieeYgc3Bvcnq5ZHpvbnkgdyBmb3JtaWUgbHViIHBvc3RhY2kgZWxla3Ryb25pY3puZWogaSBwb2RwaXNhbnkga3dhbGlmaWtvd2FueW0gcG9kcGlzZW0gZWxla3Ryb25pY3pueW0sIHBvZHBpc2VtIHphdWZhbnltIGx1YiBwb2RwaXNlbSBvc29iaXN0eW0uIFxuMilcdGRvdHljerljeWNoIHN5dHVhY2ppIGVrb25vbWljem5laiBsdWIgZmluYW5zb3dlaiwgWmFtYXdpYWq5Y3kgv7lkYTpcbmN66pzmIG5yIDEsIGN66pzmIG5yIDIgaSBjeuqc5iBuciAzOlxuYSlcdGRva3VtZW50dSBwb3R3aWVyZHpharljZWdvLCC/ZSBXeWtvbmF3Y2EgamVzdCB1YmV6cGllY3pvbnkgb2Qgb2Rwb3dpZWR6aWFsbm+cY2kgY3l3aWxuZWogKE9DKSB3IHpha3Jlc2llIHByb3dhZHpvbmVqIGR6aWGzYWxub5xjaSB6d2m5emFuZWogeiBwcnplZG1pb3RlbSB6YW3zd2llbmlhIG5hIHN1beogZ3dhcmFuY3lqbrkgb2tyZZxsb265IHByemV6IFphbWF3aWFquWNlZ28uIEplv2VsaSB6IHV6YXNhZG5pb25laiBwcnp5Y3p5bnkgV3lrb25hd2NhIG5pZSBtb79lIHqzb7955iBkb2t1bWVudPN3IGRvdHljerljeWNoIHN5dHVhY2ppIGZpbmFuc293ZWogbHViIGVrb25vbWljem5laiBtb79lIHqzb7955iBpbm55IGRva3VtZW50LCBrdPNyeSB3IHd5c3RhcmN6YWq5Y3kgc3Bvc/NiIHBvdHdpZXJkemkgc3Bls25pZW5pZSBvcGlzYW5lZ28gd2FydW5rdSB1ZHppYbN1IC0gIHNrs2FkYW55IGRva3VtZW50IG11c2kgYnnmIHNwb3J6uWR6b255IHcgZm9ybWllIGx1YiBwb3N0YWNpIGVsZWt0cm9uaWN6bmVqIGkgcG9kcGlzYW5lIGt3YWxpZmlrb3dhbnltIHBvZHBpc2VtIGVsZWt0cm9uaWN6bnltLCBwb2RwaXNlbSB6YXVmYW55bSBsdWIgcG9kcGlzZW0gb3NvYmlzdHltLlxuMylcdGRvdHljerljeWNoIHpkb2xub5xjaSB0ZWNobmljem5laiBsdWIgemF3b2Rvd2VqLCBaYW1hd2lharljeSC/uWRhOlxuY3rqnOYgbnIgMSwgY3rqnOYgbnIgMiBpIGN66pzmIG5yIDM6XG5hKVx0d3lrYXp1IHVzs3VnIHd5a29uYW55Y2gsIGEgdyBwcnp5cGFka3UgnHdpYWRjemXxIG9rcmVzb3d5Y2ggbHViIGNpuWezeWNoIHLzd25pZb8gd3lrb255d2FueWNoLCB3IG9rcmVzaWUgb3N0YXRuaWNoIHRyemVjaCBsYXQgcHJ6ZWQgdXCzeXdlbSB0ZXJtaW51IHNrs2FkYW5pYSBvZmVydCwgYSBqZb9lbGkgb2tyZXMgcHJvd2FkemVuaWEgZHppYbNhbG5vnGNpIGplc3Qga3LzdHN6eSCWIHcgdHltIG9rcmVzaWUsIHdyYXogeiBwb2RhbmllbSBpY2ggd2FydG+cY2ksIHByemVkbWlvdHUsIGRhdCB3eWtvbmFuaWEgaSBwb2RtaW9083csIG5hIHJ6ZWN6IGt083J5Y2ggdXOzdWdpIHpvc3Rhs3kgd3lrb25hbmUgb3JheiB6YbO5Y3plbmllbSBkb3dvZPN3IG9rcmWcbGFquWN5Y2ggY3p5IHRlIHVzs3VnaSB6b3N0YbN5IHd5a29uYW5lIGx1YiBzuSB3eWtvbnl3YW5lIG5hbGW/eWNpZSwgcHJ6eSBjenltIGRvd29kYW1pLCBvIGt083J5Y2ggbW93YSwgc7kgcmVmZXJlbmNqZSBiuWSfIGlubmUgZG9rdW1lbnR5IHd5c3Rhd2lvbmUgcHJ6ZXogcG9kbWlvdCwgbmEgcnplY3oga3TzcmVnbyBkb3N0YXd5IGx1YiB1c7N1Z2kgYnmzeSB3eWtvbnl3YW5lLCBhIHcgcHJ6eXBhZGt1IJx3aWFkY3pl8SBva3Jlc293eWNoIGx1YiBjablns3ljaCBzuSB3eWtvbnl3YW5lLCBhIGplv2VsaSB6IHV6YXNhZG5pb25laiBwcnp5Y3p5bnkgbyBvYmlla3R5d255bSBjaGFyYWt0ZXJ6ZSB3eWtvbmF3Y2EgbmllIGplc3QgdyBzdGFuaWUgdXp5c2th5iB0eWNoIGRva3VtZW5083cgliBvnHdpYWRjemVuaWUgd3lrb25hd2N5OyB3IHByenlwYWRrdSCcd2lhZGN6ZfEgb2tyZXNvd3ljaCBsdWIgY2m5Z7N5Y2ggbmFkYWwgd3lrb255d2FueWNoIHJlZmVyZW5jamUgYrlknyBpbm5lIGRva3VtZW50eSBwb3R3aWVyZHpharljZSBpY2ggbmFsZb95dGUgd3lrb255d2FuaWUgcG93aW5ueSBieeYgd3lkYW5lIG5pZSB3Y3plnG5pZWogbmm/IDMgbWllc2m5Y2UgcHJ6ZWQgdXCzeXdlbSB0ZXJtaW51IHNrs2FkYW5pYSBvZmVydCwgbmEgd3pvcnplIHN0YW5vd2m5Y3ltIFphs7ljem5payBOciA3IGRvIG5pbmllanN6ZWogU1daLCB3cmF6IHogZG93b2RhbWkgcG90d2llcmR6YWq5Y3ltaSwgv2UgdXOzdWdpIHRlIHpvc3Rhs3kgd3lrb25hbmUgbHViIHO5IHd5a29ueXdhbmUgbmFsZb95Y2llIJYgc2uzYWRhbnkgd3lrYXosIGphayBpIGRvd29keSBtdXN6uSBieeYgc3Bvcnq5ZHpvbmUgdyBmb3JtaWUgbHViIHBvc3RhY2kgZWxla3Ryb25pY3puZWogaSBwb2RwaXNhbmUga3dhbGlmaWtvd2FueW0gcG9kcGlzZW0gZWxla3Ryb25pY3pueW0sIHBvZHBpc2VtIHphdWZhbnltIGx1YiBwb2RwaXNlbSBvc29iaXN0eW0uIFxuNClcdFcgY2VsdSBwb3R3aWVyZHplbmlhLCC/ZSBvZmVyb3dhbnkgcHJ6ZWRtaW90IHphbfN3aWVuaWEgb2Rwb3dpYWRhIG9rcmWcbG9ueW0gdyBwb3N06nBvd2FuaXUgd3ltYWdhbmlvbSBXeWtvbmF3Y2Egem9ib3dpuXphbnkgamVzdCB6s2+/eeYgIChkb3QuIGN66pxjaSBuciAxLCBjeuqcY2kgbnIgMiBpIGN66pxjaSBuciAzKSBvnHdpYWRjemVuaWUgbyBwb3NpYWRhbml1IG9kcG93aWVkbmllaiBzcGFsYXJuaSBvZHBhZPN3IChkb3R5Y3p5IFd5a29uYXdjeSBwb3NpYWRharljZWdvIHezYXNuuSBzcGFsYXJuaeopIGx1YiBwb3R3aWVyZHpvbmVqIHphIHpnb2Rub5zmIHogb3J5Z2luYbNlbSBrb3BpaSB1bW93eSB6ZSBzcGFsYXJuabkgKGRvdHljenkgV3lrb25hd2N5IG5pZSBwb3NpYWRharljZWdvIHezYXNuZWogc3BhbGFybmkpIC0gc2uzYWRhbnkgZG9rdW1lbnQgbXVzaSBieeYgc3Bvcnq5ZHpvbnkgdyBmb3JtaWUgbHViIHBvc3RhY2kgZWxla3Ryb25pY3puZWogaSBwb2RwaXNhbmUga3dhbGlmaWtvd2FueW0gcG9kcGlzZW0gZWxla3Ryb25pY3pueW0sIHBvZHBpc2VtIHphdWZhbnltIGx1YiBwb2RwaXNlbSBvc29iaXN0eW0uIn0seyJpZCI6IlJLVC0wNTk1IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNjMiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC03NjciLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC03NTEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJSS1QtMDczMCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNjI2IiwidmFsdWUiOiIxLlx0WmFtYXdpYWq5Y3kgZG9wdXN6Y3phIHNrs2FkYW5pZSBvZmVydCB3c3DzbG55Y2guIEplv2VsaSBvZmVydOogc2uzYWRhIHBvZG1pb3QgemJpb3Jvd3kgdyByb3p1bWllbml1IGFydC4gNTggdVB6cCwgdyBvZmVyY2llIG5hbGW/eTpcbmEuXHR3c2themHmIHBvZG1pb3R5IChXeWtvbmF3Y/N3KSBza7NhZGFquWNlIG9mZXJ06iB3c3DzbG65IChwZbNuZSBuYXp3eSBpIGFkcmVzeSBzaWVkemliKTtcbmIuXHR3c2themHmIHBls25vbW9jbmlrYSBkbyByZXByZXplbnRvd2FuaWEgV3lrb25hd2PzdyBza7NhZGFquWN5Y2ggd3Nw82xuuSBvZmVydOogdyBwb3N06nBvd2FuaXUgbyB1ZHppZWxlbmllIHphbfN3aWVuaWEgcHVibGljem5lZ28gcHJ6ZWQgWmFtYXdpYWq5Y3ltIGFsYm8gZG8gcmVwcmV6ZW50b3dhbmlhIHcgcG9zdOpwb3dhbml1IGkgemF3YXJjaWEgdW1vd3kgdyBzcHJhd2llIHphbfN3aWVuaWEgcHVibGljem5lZ28uIERvIG9mZXJ0eSBuYWxlv3kgZG+zuWN6eeYgc3Rvc293bmUgcGWzbm9tb2NuaWN0d28geiB1d3pnbOpkbmllbmllbSB3eW1vZ/N3IHdza2F6YW55Y2ggdyBSb3pkemlhbGUgSVYgbmluaWVqc3plaiBTV1o7XG5jLlx0cHJ6ZWQgemF3YXJjaWVtIHVtb3d5IG8gemFt83dpZW5pZSBwdWJsaWN6bmUgWmFtYXdpYWq5Y3kgd3ltYWdhIHByemVkc3Rhd2llbmlhIG11IGtvcGlpIHVtb3d5IHJlZ3VsdWq5Y2VqIHdzcPOzcHJhY+ogV3lrb25hd2PzdyBza7NhZGFquWN5Y2ggb2ZlcnTqIHdzcPNsbrkuXG4yLlx0T2ZlcnRhIHdzcPNsbmEgc2uzYWRhbmEgbnAuIHByemV6IGtvbnNvcmNqdW0gbHViIHNw87Nr6iBjeXdpbG65IG11c2kgemF3aWVyYeYgZG9rdW1lbnR5IHdza2F6YW5lIHcgUm96ZHppYWxlIElWIG5pbmllanN6ZWogU1daIChaYbO5Y3puaWsgbnIgMykgb2RkemllbG5pZSBkbGEga2G/ZGVnbyB6IHBvZG1pb3TzdyAoV3lrb25hd2PzdykgdWJpZWdharljeWNoIHNp6iB3c3DzbG5pZSBvIHphbfN3aWVuaWUgdyBjZWx1IHBvdHdpZXJkemVuaWEsIL9lIG5pZSBwb2RsZWdhIHd5a2x1Y3plbml1IHogcG9zdOpwb3dhbmlhIG5hIHBvZHN0YXdpZSBhcnQuIDEwOCB1c3QuIDEgdVB6cC5cbjMuXHRXeWtvbmF3Y3kgd3Nw82xuaWUgdWJpZWdharljeSBzaeogbyB6YW3zd2llbmllOlxuYS5cdHBvbm9zerkgc29saWRhcm65IG9kcG93aWVkemlhbG5vnOYgemEgbmlld3lrb25hbmllIGx1YiBuaWVuYWxlv3l0ZSB3eWtvbmFuaWUgem9ib3dpuXphbmlhO1xuYi5cdHpvYm93abl6YW5pIHO5IHVzdGFub3dp5iBwZbNub21vY25pa2EgZG8gcmVwcmV6ZW50b3dhbmlhIGljaCB3IG5pbmllanN6eW0gcG9zdOpwb3dhbml1IG8gdWR6aWVsZW5pZSB6YW3zd2llbmlhIHB1YmxpY3puZWdvIGFsYm8gcmVwcmV6ZW50b3dhbmlhIHcgcG9zdOpwb3dhbml1IGkgemF3YXJjaWEgdW1vd3kgdyBzcHJhd2llIHphbfN3aWVuaWE7XG5jLlx0cGWzbm9tb2NuaWN0d28gbXVzaSB3eW5pa2HmIHogdW1vd3kgbHViIGlubmVqIGN6eW5ub5xjaSBwcmF3bmVqLiJ9LHsiaWQiOiJSS1QtMDYyNyIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNjQwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTA2NDIiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJSS1QtMDY0NSIsInZhbHVlIjoiMy5cdFcgd2FydW5rYWNoIG9rcmWcbG9ueWNoIHcgYXJ0LiA0NTUgdVB6cCBTdHJvbnkgZG9wdXN6Y3pharkgbW+/bGl3b5zmIHptaWFuIHcgdW1vd2llIHcgbmFzdOpwdWq5Y3ltIHpha3Jlc2llOlxuYS5cdHcgcHJ6eXBhZGt1IGdkeSBXeWtvbmF3Y+osIGt083JlbXUgWmFtYXdpYWq5Y3kgdWR6aWVsabMgemFt83dpZW5pYSBtYSB6YXN0uXBp5iBub3d5IFd5a29uYXdjYSB3IHd5bmlrdSBzdWtjZXNqaSwgd3N06nB1arljIHcgcHJhd2EgaSBvYm93abl6a2kgd3lrb25hd2N5LCB3IG5hc3TqcHN0d2llIHByemVq6mNpYSwgcG+zuWN6ZW5pYSwgcG9kemlhs3UsIHByemVrc3p0YbNjZW5pYSwgdXBhZLNvnGNpLCByZXN0cnVrdHVyeXphY2ppLCBkemllZHppY3plbmlhIGx1YiBuYWJ5Y2lhIGRvdHljaGN6YXNvd2VnbyB3eWtvbmF3Y3kgbHViIGplZ28gcHJ6ZWRzaepiaW9yc3R3YSwgbyBpbGUgbm93eSB3eWtvbmF3Y2Egc3Bls25pYSB3YXJ1bmtpIHVkemlhs3UgdyBwb3N06nBvd2FuaXUsIG5pZSB6YWNob2R6uSB3b2JlYyBuaWVnbyBwb2RzdGF3eSB3eWtsdWN6ZW5pYSBvcmF6IG5pZSBwb2NpuWdhIHRvIHphIHNvYrkgaW5ueWNoIGlzdG90bnljaCB6bWlhbiB1bW93eSwgYSB0YWu/ZSBuaWUgbWEgbmEgY2VsdSB1bmlrbmnqY2lhIHN0b3Nvd2FuaWEgcHJ6ZXBpc/N3IHVzdGF3eTtcbmIuXHRqZb9lbGkga29uaWVjem5vnOYgem1pYW55IHVtb3d5IHNwb3dvZG93YW5hIGplc3Qgb2tvbGljem5vnGNpYW1pLCBrdPNyeWNoIFphbWF3aWFquWN5LCBkemlhs2FquWMgeiBuYWxlv3l0uSBzdGFyYW5ub5xjabksIG5pZSBt82ezIHByemV3aWR6aWXmLCBvIGlsZSB6bWlhbmEgbmllIG1vZHlmaWt1amUgb2fzbG5lZ28gY2hhcmFrdGVydSB1bW93eSBhIHd6cm9zdCBjZW55IHNwb3dvZG93YW55IGthv2S5IGtvbGVqbrkgem1pYW65IG5pZSBwcnpla3JhY3phIDUwJSB3YXJ0b5xjaSBwaWVyd290bmVqIHVtb3d5O1xuYy5cdHcgcHJ6eXBhZGt1LCBnZHkgs7ljem5hIHdhcnRvnOYgem1pYW4gamVzdCBuab9zemEgbmm/IDEwJSB3YXJ0b5xjaSBwaWVyd290bmVqIHVtb3d5LCBhIHptaWFueSB0ZSBuaWUgcG93b2R1arkgem1pYW55IG9n82xuZWdvIGNoYXJha3RlcnUgdW1vd3kuIn0seyJpZCI6IlJLVC0yMjIwIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMTMxIiwidmFsdWUiOiIyMDIxLTA0LTIwIDExOjAwIn0seyJpZCI6IlJLVC0wNjUwIiwidmFsdWUiOiJodHRwczovL21pbmlwb3J0YWwudXpwLmdvdi5wbC8ifSx7ImlkIjoiQlQtMTMyIiwidmFsdWUiOiIyMDIxLTA0LTIwIDEyOjAwIn0seyJpZCI6IlJLRy0wNjAwMS0zIiwidmFsdWUiOiJEYXRhIn0seyJpZCI6IkBDcml0ZXJpYVdlaWdodFN0cmF0ZWd5XzEiLCJ2YWx1ZSI6IlB1bmt0b3dvIn0seyJpZCI6IlJLVC0yMjc1X0xvdDEiLCJ2YWx1ZSI6IktyeXRlcml1bSBjZW55IG9yYXoga3J5dGVyaWEgamFrb5xjaW93ZSJ9LHsiaWQiOiJATG90Q3JpdGVyaWFDb3VudF9Mb3QxIiwidmFsdWUiOiIyIn0seyJpZCI6IlJLVC0yMjQwX0xvdDEiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJAQ3JpdGVyaWFXZWlnaHRTdHJhdGVneV8yIiwidmFsdWUiOiJQdW5rdG93byJ9LHsiaWQiOiJSS1QtMjI3NV9Mb3QyIiwidmFsdWUiOiJLcnl0ZXJpdW0gY2VueSBvcmF6IGtyeXRlcmlhIGpha2+cY2lvd2UifSx7ImlkIjoiQExvdENyaXRlcmlhQ291bnRfTG90MiIsInZhbHVlIjoiMiJ9LHsiaWQiOiJSS1QtMjI0MF9Mb3QyIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQENyaXRlcmlhV2VpZ2h0U3RyYXRlZ3lfMyIsInZhbHVlIjoiUHVua3Rvd28ifSx7ImlkIjoiUktULTIyNzVfTG90MyIsInZhbHVlIjoiS3J5dGVyaXVtIGNlbnkgb3JheiBrcnl0ZXJpYSBqYWtvnGNpb3dlIn0seyJpZCI6IkBMb3RDcml0ZXJpYUNvdW50X0xvdDMiLCJ2YWx1ZSI6IjIifSx7ImlkIjoiUktULTIyNDBfTG90MyIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0wNTEwIiwidmFsdWUiOiIyMDIxL0JaUCAwMDAwNTY5NC8wMy9QIn0seyJpZCI6IlJLVC0wNTEwMSIsInZhbHVlIjoieycxLjMuMyBPZGJp83IsICx0cmFuc3BvcnQgaSB1dHlsaXphY2phIG9kcGFk83cgbWVkeWN6bnljaCBpIHdldGVyeW5hcnlqbnljaCBvcmF6IHp3aWVyeupjeWNoJ30ifSx7ImlkIjoiQlQtMzZfMSIsInZhbHVlIjoiMTIifSx7ImlkIjoiQlQtMzZfMiIsInZhbHVlIjoiMTIifSx7ImlkIjoiQlQtMzZfMyIsInZhbHVlIjoiMTIifSx7ImlkIjoiUktULTA5NjAiLCJ2YWx1ZSI6IjIwMjEtMDUtMTkifSx7ImlkIjoiQlQtNzM0X0xvdDFfMCIsInZhbHVlIjoiQ2VuYSJ9LHsiaWQiOiJSS1QtMjI0NV9wa3RfTG90MV8wIiwidmFsdWUiOiI2MCwwMCJ9LHsiaWQiOiJCVC01MzlfTG90MV8xIiwidmFsdWUiOiJpbm5lLiJ9LHsiaWQiOiJCVC03MzRfTG90MV8xIiwidmFsdWUiOiJjeupzdG90bGl3b5zmIG9kYmlvcnUifSx7ImlkIjoiUktULTIyNDVfcGt0X0xvdDFfMSIsInZhbHVlIjoiMjAsMDAifSx7ImlkIjoiQlQtNTM5X0xvdDFfMiIsInZhbHVlIjoiaW5uZS4ifSx7ImlkIjoiQlQtNzM0X0xvdDFfMiIsInZhbHVlIjoib2ZlcnRhIGNhs2+cY2lvd2EifSx7ImlkIjoiUktULTIyNDVfcGt0X0xvdDFfMiIsInZhbHVlIjoiMjAsMDAifSx7ImlkIjoiQlQtNzM0X0xvdDJfMCIsInZhbHVlIjoiQ2VuYSJ9LHsiaWQiOiJSS1QtMjI0NV9wa3RfTG90Ml8wIiwidmFsdWUiOiI2MCwwMCJ9LHsiaWQiOiJCVC01MzlfTG90Ml8xIiwidmFsdWUiOiJpbm5lLiJ9LHsiaWQiOiJCVC03MzRfTG90Ml8xIiwidmFsdWUiOiJjeupzdG90bGl3b5zmIG9kYmlvcnUifSx7ImlkIjoiUktULTIyNDVfcGt0X0xvdDJfMSIsInZhbHVlIjoiMjAsMDAifSx7ImlkIjoiQlQtNTM5X0xvdDJfMiIsInZhbHVlIjoiaW5uZS4ifSx7ImlkIjoiQlQtNzM0X0xvdDJfMiIsInZhbHVlIjoib2ZlcnRhIGNhs2+cY2lvd2EifSx7ImlkIjoiUktULTIyNDVfcGt0X0xvdDJfMiIsInZhbHVlIjoiMjAifSx7ImlkIjoiQlQtNzM0X0xvdDNfMCIsInZhbHVlIjoiQ2VuYSJ9LHsiaWQiOiJSS1QtMjI0NV9wa3RfTG90M18wIiwidmFsdWUiOiI2MCwwMCJ9LHsiaWQiOiJCVC01MzlfTG90M18xIiwidmFsdWUiOiJpbm5lLiJ9LHsiaWQiOiJCVC03MzRfTG90M18xIiwidmFsdWUiOiJjeupzdG90bGl3b5zmIG9kYmlvcnUifSx7ImlkIjoiUktULTIyNDVfcGt0X0xvdDNfMSIsInZhbHVlIjoiMjAsMDAifSx7ImlkIjoiQlQtNTM5X0xvdDNfMiIsInZhbHVlIjoiaW5uZS4ifSx7ImlkIjoiQlQtNzM0X0xvdDNfMiIsInZhbHVlIjoib2ZlcnRhIGNhs2+cY2lvd2EifSx7ImlkIjoiUktULTIyNDVfcGt0X0xvdDNfMiIsInZhbHVlIjoiMjAifV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC8jaWY+Cg==</text>
+        <text encoding="base64">W3siaWQiOiJSS1QtMDUwMiIsInZhbHVlIjoiWmFt83dpZW5pYSBwdWJsaWN6bmVnbyJ9LHsiaWQiOiJCVC0yMSIsInZhbHVlIjoiV3lrb25hbmllIGRva3VtZW50YWNqaSBwcm9qZWt0b3d5Y2ggcHJ6ZWJ1ZG93eSBkcvNnIHBvd2lhdG93eWNoIn0seyJpZCI6IlJLVC0wNzA1IiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtMDQiLCJ2YWx1ZSI6Im9jZHMtMTQ4NjEwLTgzZTc3ZTE1LTZkZDUtMTFlYi04NmIxLWE2NDkzNmE4NjY5ZiJ9LHsiaWQiOiJSS1QtMDUwOUAxIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA3MTAiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC01MDBAMSIsInZhbHVlIjoiUG93aWF0b3d5IFphcnq5ZCBEcvNnIn0seyJpZCI6IkJULTUwMUAxIiwidmFsdWUiOiJSRUdPTiA4NzExMzI3NTAifSx7ImlkIjoiQlQtNTEwQDEiLCJ2YWx1ZSI6IklnbmFjZWdvIFBhZGVyZXdza2llZ28gMjMzIn0seyJpZCI6IkJULTUxM0AxIiwidmFsdWUiOiJHcnVkemm5ZHoifSx7ImlkIjoiQlQtNTEyQDEiLCJ2YWx1ZSI6Ijg2LTMwMCJ9LHsiaWQiOiJSS1QtMDUyMEAxIiwidmFsdWUiOiJrdWphd3Nrby1wb21vcnNraWUifSx7ImlkIjoiQlQtNTE0QDEiLCJ2YWx1ZSI6IlBvbHNrYSJ9LHsiaWQiOiJCVC01MDdAMSIsInZhbHVlIjoiUEw2MTYgLSBHcnVkemm5ZHpraSJ9LHsiaWQiOiJCVC01MDNAMSIsInZhbHVlIjoiNTYgNDY0ODI1NyJ9LHsiaWQiOiJCVC01MDZAMSIsInZhbHVlIjoic2VrcmV0YXJpYXRAcHpkZ3J1ZHppYWR6LnBsIn0seyJpZCI6IkJULTUwNUAxIiwidmFsdWUiOiJwemRncnVkemlhZHoucmJpcC5tb2pyZWdpb24uaW5mbyJ9LHsiaWQiOiJSS1QtODg4OCIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTE1IiwidmFsdWUiOiJwemRncnVkemlhZHoucmJpcC5tb2pyZWdpb24uaW5mbyJ9LHsiaWQiOiJCVC0xMSIsInZhbHVlIjoiWmFtYXdpYWq5Y3kgcHVibGljem55IC0gamVkbm9zdGthIHNla3RvcmEgZmluYW5z83cgcHVibGljem55Y2ggLSBqZWRub3N0a2EgYnVkv2V0b3dhIn0seyJpZCI6IkJULTEwIiwidmFsdWUiOiJJbm5hIGR6aWGzYWxub5zmIn0seyJpZCI6IlJLVC0yMjI5IiwidmFsdWUiOiJhZG1uaXN0cm93YW5pZSBkcm9nYW1pIHB1YmxpY3pueW1pIn0seyJpZCI6IkJULTA4IiwidmFsdWUiOiJQb3N06nBvd2FuaWUgcHJvd2Fkem9uZSBqZXN0IHNhbW9kemllbG5pZSBwcnpleiB6YW1hd2lharljZWdvIn0seyJpZCI6IlJLVC0wNTMwIiwidmFsdWUiOiJaYW3zd2llbmllIHVkemllbGFuZSBqZXN0IHcgdHJ5YmllIHBvZHN0YXdvd3ltIG5hIHBvZHN0YXdpZTogYXJ0LiAyNzUgcGt0IDEgdXN0YXd5In0seyJpZCI6IkJULTIyIiwidmFsdWUiOiJaUC4yNzEuMy41LjIwMjEifSx7ImlkIjoiUktULTA1NjAiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJCVC0yNyIsInZhbHVlIjoiMzExMzAwLDAwIn0seyJpZCI6IlJLVC0xMDUyQDMiLCJ2YWx1ZSI6IlBMTiJ9LHsiaWQiOiJCVC0yMyIsInZhbHVlIjoiVXOzdWdpIn0seyJpZCI6IlJLVC0wNTYyIiwidmFsdWUiOiJUYWsifSx7ImlkIjoiUktULTA1NjQiLCJ2YWx1ZSI6IjIifSx7ImlkIjoiUktULTA1MTAiLCJ2YWx1ZSI6IjIwMjEvQlpQIDAwMDAwNzkwLzA0L1AifSx7ImlkIjoiUktULTA1MTAxIiwidmFsdWUiOiJ7JzEuMy4xIFd5a29uYW5pZSBkb2t1bWVudGFjamkgcHJvamVrdG93ZWogcHJ6ZWJ1ZG93eSBkcm9naSBwb3dpYXRvd2VqIG5yIDEzOThDIEdydWR6ablkei1Lb2J5bGFua2EtUGlhc2tpJywnMS4zLjIgV3lrb25hbmllIGRva3VtZW50YWNqaSBwcm9qZWt0b3dlaiBwcmVidWRvd3kgZHJvZ2kgcG93aWF0b3dlaiBuciAxMzc0QyBTdHJ6ZWxjZS1KYW5rb3dpY2UnfSJ9LHsiaWQiOiJCVC0yNF8wIiwidmFsdWUiOiJXeWtvbmFuaWUgZG9rdW1lbnRhY2ppIHByb2pla3Rvd2VqIG5hIHByemVidWRvd+ogZHJvZ2kgcG93aWF0b3dlaiBuciAxMzk4QyBHcnVkemm5ZHotS29ieWxhbmthLVBpYXNraSBuYSBvZGMuIEtvYnlsYW5rYS1QYXNraSwgdyBsb2thbGl6YWNqaTogMSs3MTMgliAzKzk0MSBuYSBks3Vnb5xjaSAgMjIyOCBtLiBTemN6ZWfzs293eSBvcGlzIHByemVkbWlvdHUgemFt83dpZW5pYSB6YXdpZXJhIHphs7ljem5payBuciA4IGRvIFNXWi4ifSx7ImlkIjoiQlQtMjRfMSIsInZhbHVlIjoiV3lrb25hbmllIGRva3VtZW50YWNqaSBwcm9qZWt0b3dlaiBuYSBwcnplYnVkb3fqIGRyb2dpIHBvd2lhdG93ZWogbnIgMTM3NEMgU3RyemVsY2UtSmFua293aWNlIHcga20gMCswMDAgliAwKzczMCBpIDErNDAwIJYgMis4MTUuIFN6Y3plZ/Ozb3d5IG9waXMgIHByemVkbWlvdHUgemFt83dpZW5pYSBzdGFub3dpIHphs7ljem5payBuciA4IGRvIFNXWi4ifSx7ImlkIjoiUktULTIyNjUiLCJ2YWx1ZSI6IjYwODAwLDAwIn0seyJpZCI6IlJLVC0xMDUyQDIiLCJ2YWx1ZSI6IlBMTiJ9LHsiaWQiOiJSS1QtMDU2NV8wIiwidmFsdWUiOiIyMDMwMCwwMCJ9LHsiaWQiOiJSS1QtMTA1Ml8wIiwidmFsdWUiOiJQTE4ifSx7ImlkIjoiQlQtMjYyXzAiLCJ2YWx1ZSI6IjcxMzIwMDAwLTcgLSBVc7N1Z2kgaW6/eW5pZXJ5am5lIHegemFrcmVzaWUgcHJvamVrdG93YW5pYSJ9LHsiaWQiOiJCVC0yNjNfMCIsInZhbHVlIjoieyc3MTI0ODAwMC04IC0gTmFkevNyIG5hZCBwcm9qZWt0ZW0gaaBkb2t1bWVudGFjarknfSJ9LHsiaWQiOiJSS1QtMDU2NV8xIiwidmFsdWUiOiI0MDUwMCwwMCJ9LHsiaWQiOiJSS1QtMTA1Ml8xIiwidmFsdWUiOiJQTE4ifSx7ImlkIjoiQlQtMjYyXzEiLCJ2YWx1ZSI6IjcxMzIwMDAwLTcgLSBVc7N1Z2kgaW6/eW5pZXJ5am5lIHegemFrcmVzaWUgcHJvamVrdG93YW5pYSJ9LHsiaWQiOiJCVC0yNjNfMSIsInZhbHVlIjoieyc3MTI0ODAwMC04IC0gTmFkevNyIG5hZCBwcm9qZWt0ZW0gaaBkb2t1bWVudGFjarknfSJ9LHsiaWQiOiJSS1QtMDcxMDEiLCJ2YWx1ZSI6IlRhayJ9LHsiaWQiOiJCVC0xNDJfMCIsInZhbHVlIjoiUG9zdOpwb3dhbmllL2N6ZZzmIHBvc3TqcG93YW5pYSB6YWtv8WN6ebNhIHNp6iB6YXdhcmNpZW0gdW1vd3kifSx7ImlkIjoiQlQtMTQyXzEiLCJ2YWx1ZSI6IlBvc3TqcG93YW5pZS9jemWc5iBwb3N06nBvd2FuaWEgemFrb/FjenmzYSBzaeogemF3YXJjaWVtIHVtb3d5In0seyJpZCI6IkJULTc1OV8wIiwidmFsdWUiOiI0In0seyJpZCI6IlJLVC0xMDA1QDFfMCIsInZhbHVlIjoiMCJ9LHsiaWQiOiJSS1QtMTAwNUAyXzAiLCJ2YWx1ZSI6IjAifSx7ImlkIjoiUktULTEwMDZfMCIsInZhbHVlIjoiNCJ9LHsiaWQiOiJSS1QtMTAwN18wIiwidmFsdWUiOiIwIn0seyJpZCI6IlJLVC0xMDA4XzAiLCJ2YWx1ZSI6IjAifSx7ImlkIjoiUktULTEwMDlfMCIsInZhbHVlIjoiMSJ9LHsiaWQiOiJSS1QtMTAwOS0xXzAiLCJ2YWx1ZSI6IjAifSx7ImlkIjoiQlQtNzEwXzAiLCJ2YWx1ZSI6IjM1OTAwLDAwIn0seyJpZCI6IkJULTcxMV8wIiwidmFsdWUiOiI2NjQyMCwwMCJ9LHsiaWQiOiJCVC03MjBfMCIsInZhbHVlIjoiMzU5MDAsMDAifSx7ImlkIjoiQlQtMTkzXzAiLCJ2YWx1ZSI6Ik5pZSJ9LHsiaWQiOiJCVC03NjdfMCIsInZhbHVlIjoiTmllIn0seyJpZCI6IlJLVC0xMDEwQDNfMCIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTE2NUAzXzAiLCJ2YWx1ZSI6Ik1pa3JvIHByemVkc2nqYmlvcmNhIn0seyJpZCI6IkJULTUwMUAzXzAiLCJ2YWx1ZSI6Ijg3NjIxOTA3MzAifSx7ImlkIjoiQlQtNTAwQDNfMCIsInZhbHVlIjoihElORlJBU1RSVUtUVVJBlCBQcm9qZWt0b3dhbmllIGkgTmFkevNyIE1hcmVrIEJ1a293c2tpIn0seyJpZCI6IkJULTUxM0AzXzAiLCJ2YWx1ZSI6Ik1pY2hhbGUgMTIzRiJ9LHsiaWQiOiJCVC01MTJAM18wIiwidmFsdWUiOiI4Ni0xMzQifSx7ImlkIjoiUktULTA1MjBAM18wIiwidmFsdWUiOiJrdWphd3Nrby1wb21vcnNraWUifSx7ImlkIjoiQlQtNTE0QDNfMCIsInZhbHVlIjoiUG9sc2thIn0seyJpZCI6IlJLVC01NTU1LTFfMCIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTE0NV8wIiwidmFsdWUiOiIyMDIxLTA0LTA3In0seyJpZCI6IlJLVC0wNzEyXzAiLCJ2YWx1ZSI6IjM1OTAwLDAwIn0seyJpZCI6IlJLVC0yMjI1XzAiLCJ2YWx1ZSI6IkRhdGEgZG8ifSx7ImlkIjoiQlQtNzU5XzEiLCJ2YWx1ZSI6IjQifSx7ImlkIjoiUktULTEwMDVAMV8xIiwidmFsdWUiOiIwIn0seyJpZCI6IlJLVC0xMDA1QDJfMSIsInZhbHVlIjoiMCJ9LHsiaWQiOiJSS1QtMTAwNl8xIiwidmFsdWUiOiI0In0seyJpZCI6IlJLVC0xMDA3XzEiLCJ2YWx1ZSI6IjAifSx7ImlkIjoiUktULTEwMDhfMSIsInZhbHVlIjoiMCJ9LHsiaWQiOiJSS1QtMTAwOV8xIiwidmFsdWUiOiIwIn0seyJpZCI6IlJLVC0xMDA5LTFfMSIsInZhbHVlIjoiMCJ9LHsiaWQiOiJCVC03MTBfMSIsInZhbHVlIjoiNDgwMDAsMDAifSx7ImlkIjoiQlQtNzExXzEiLCJ2YWx1ZSI6Ijc1MDMwLDAwIn0seyJpZCI6IkJULTcyMF8xIiwidmFsdWUiOiI0ODAwMCwwMCJ9LHsiaWQiOiJCVC0xOTNfMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTc2N18xIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiUktULTEwMTBAM18xIiwidmFsdWUiOiJOaWUifSx7ImlkIjoiQlQtNTAwQDNfMSIsInZhbHVlIjoihElORlJBU1RSVUtUVVJBlCBQcm9qZWt0b3dhbmllIGkgTmFkevNyIE1hcmVrIEJ1a293c2tpIn0seyJpZCI6IkJULTUxM0AzXzEiLCJ2YWx1ZSI6Ik1pY2hhbGUgMTIzRiJ9LHsiaWQiOiJCVC01MTJAM18xIiwidmFsdWUiOiI4Ni0xMzQifSx7ImlkIjoiUktULTA1MjBAM18xIiwidmFsdWUiOiJrdWphd3Nrby1wb21vcnNraWUifSx7ImlkIjoiQlQtNTE0QDNfMSIsInZhbHVlIjoiUG9sc2thIn0seyJpZCI6IlJLVC01NTU1LTFfMSIsInZhbHVlIjoiTmllIn0seyJpZCI6IkJULTE0NV8xIiwidmFsdWUiOiIyMDIxLTAzLTE5In0seyJpZCI6IlJLVC0wNzEyXzEiLCJ2YWx1ZSI6IjQ4MDAwLDAwIn0seyJpZCI6IlJLVC0yMjI1XzEiLCJ2YWx1ZSI6IkRhdGEgZG8ifSx7ImlkIjoiQlQtNTM3XzAiLCJ2YWx1ZSI6IjIwMjEtMTItMTMifSx7ImlkIjoiQlQtNTM3XzEiLCJ2YWx1ZSI6IjIwMjEtMTEtMjMifSx7ImlkIjoiQlQtNzAxQDEiLCJ2YWx1ZSI6IjIwMjEvQlpQIDAwMDA3MjgxLzAxIn1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCNpZiBsaXN0RWxlbT9oYXNfY29udGVudCA+Cg==</text>
+        <text>[
+  {
+    &quot;id&quot;: &quot;RKT-0502&quot;,
+    &quot;value&quot;: &quot;Zamówienia publicznego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-21&quot;,
+    &quot;value&quot;: &quot;MAT 202012 1140 bez części numer ref&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-04&quot;,
+    &quot;value&quot;: &quot;ocds-148610-110d9330-4302-11eb-b743-1a99c3ce7759&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0509&quot;,
+    &quot;value&quot;: &quot;Nie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500@1&quot;,
+    &quot;value&quot;: &quot;0_test&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16@1&quot;,
+    &quot;value&quot;: &quot;ZBPKWN&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501@1&quot;,
+    &quot;value&quot;: &quot;REGON 555817760&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510@1&quot;,
+    &quot;value&quot;: &quot;Poligonowa 9&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513@1&quot;,
+    &quot;value&quot;: &quot;Kraków&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-512@1&quot;,
+    &quot;value&quot;: &quot;01-376&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0520@1&quot;,
+    &quot;value&quot;: &quot;Małopolskie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-514@1&quot;,
+    &quot;value&quot;: &quot;Polska&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-507@1&quot;,
+    &quot;value&quot;: &quot;PL213 - Miasto Kraków&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505@1&quot;,
+    &quot;value&quot;: &quot;testowa.com.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0530&quot;,
+    &quot;value&quot;: &quot;Zamówienie udzielane jest w trybie negocjacji bez ogłoszenia na podstawie : art. 301 ust. 1 pkt 2 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-22&quot;,
+    &quot;value&quot;: &quot;MAT 202012 1140 bez części numer ref&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0562&quot;,
+    &quot;value&quot;: &quot;Nie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-08&quot;,
+    &quot;value&quot;: &quot;Postępowanie prowadzą zamawiający działający wspólnie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;T-01&quot;,
+    &quot;value&quot;: &quot;2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500_1&quot;,
+    &quot;value&quot;: &quot;2222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16_1&quot;,
+    &quot;value&quot;: &quot;2222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501_1&quot;,
+    &quot;value&quot;: &quot;2222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510_1&quot;,
+    &quot;value&quot;: &quot;222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-503_1&quot;,
+    &quot;value&quot;: &quot;2222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-739_1&quot;,
+    &quot;value&quot;: &quot;222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506_1&quot;,
+    &quot;value&quot;: &quot;22&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505_1&quot;,
+    &quot;value&quot;: &quot;222&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500_2&quot;,
+    &quot;value&quot;: &quot;3333&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16_2&quot;,
+    &quot;value&quot;: &quot;333&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501_2&quot;,
+    &quot;value&quot;: &quot;3333&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510_2&quot;,
+    &quot;value&quot;: &quot;333&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513_2&quot;,
+    &quot;value&quot;: &quot;333&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506_2&quot;,
+    &quot;value&quot;: &quot;333&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505_2&quot;,
+    &quot;value&quot;: &quot;333&quot;
+  }
+]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[
+  {
+    &quot;id&quot;: &quot;BT-141@3_1_2&quot;,
+    &quot;value&quot;: &quot;Zamówienie udzielane jest w trybie podstawowym na podstawie : - art. 275 pkt 1 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_1_2&quot;,
+    &quot;value&quot;: &quot;zamówienie udzielane jest w trybie podstawowym na podstawie - art. 275 pkt 1 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_1_2&quot;,
+    &quot;value&quot;: &quot;Tryb udzielenia zamówienia/zawarcia umowy ramowej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_1_2&quot;,
+    &quot;value&quot;: &quot;2.16.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_1_1&quot;,
+    &quot;value&quot;: &quot;nazwa ogłoszenia o zmianie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_1_1&quot;,
+    &quot;value&quot;: &quot;daty&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_1_1&quot;,
+    &quot;value&quot;: &quot;Nazwa zamówienia/umowy ramowej nadana przez zamawiającego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_1_1&quot;,
+    &quot;value&quot;: &quot;2.3.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_1&quot;,
+    &quot;value&quot;: &quot;SEKCJA II – INFORMACJE PODSTAWOWE&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-02&quot;,
+    &quot;value&quot;: &quot;Ogłoszenie o zamówieniu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-757@1&quot;,
+    &quot;value&quot;: &quot;01&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-701@1&quot;,
+    &quot;value&quot;: &quot;2020/BZP 00000046/01&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_2&quot;,
+    &quot;value&quot;: &quot;SEKCJA III – UDOSTĘPNIANIE DOKUMENTÓW ZAMÓWIENIA I KOMUNIKACJA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_1&quot;,
+    &quot;value&quot;: &quot;3.6.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_1&quot;,
+    &quot;value&quot;: &quot;Wymagania techniczne i organizacyjne dot. korespondencji elektronicznej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_1&quot;,
+    &quot;value&quot;: &quot;zmieniamy wymagania&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_2&quot;,
+    &quot;value&quot;: &quot;3.15.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_2&quot;,
+    &quot;value&quot;: &quot;RODO (obowiązek informacyjny)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_2&quot;,
+    &quot;value&quot;: &quot;zmieniamy obowiązek rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_3&quot;,
+    &quot;value&quot;: &quot;3.16.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_3&quot;,
+    &quot;value&quot;: &quot;RODO (ograniczenia stosowania)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_3&quot;,
+    &quot;value&quot;: &quot;zmieniamy ograniczenia rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_3&quot;,
+    &quot;value&quot;: &quot;SEKCJA IV – PRZEDMIOT ZAMÓWIENIA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_3_1&quot;,
+    &quot;value&quot;: &quot;4.2.7.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_3_1&quot;,
+    &quot;value&quot;: &quot;Dodatkowy kod CPV&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_3_1&quot;,
+    &quot;value&quot;: &quot;Produkty hodowli, łowiectwa i rybołówstwa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_3_2&quot;,
+    &quot;value&quot;: &quot;99&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_3_2&quot;,
+    &quot;value&quot;: &quot;Waga (%)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_3_2&quot;,
+    &quot;value&quot;: &quot;545&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_3_2&quot;,
+    &quot;value&quot;: &quot;535&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_4&quot;,
+    &quot;value&quot;: &quot;SEKCJA V - KWALIFIKACJA WYKONAWCÓW&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_1&quot;,
+    &quot;value&quot;: &quot;5.7.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_1&quot;,
+    &quot;value&quot;: &quot;Wykaz podmiotowych środków dowodowych na potwierdzenie spełniania warunków udziału w postępowaniu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_4_1&quot;,
+    &quot;value&quot;: &quot;g&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_1&quot;,
+    &quot;value&quot;: &quot;gdddd&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_2&quot;,
+    &quot;value&quot;: &quot;5.8.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_2&quot;,
+    &quot;value&quot;: &quot;Wykaz przedmiotowych środków dowodowych&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_2&quot;,
+    &quot;value&quot;: &quot;eeee&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_3&quot;,
+    &quot;value&quot;: &quot;5.11.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_3&quot;,
+    &quot;value&quot;: &quot;Wykaz innych wymaganych oświadczeń lub dokumentów&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_3&quot;,
+    &quot;value&quot;: &quot;eeee&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_5&quot;,
+    &quot;value&quot;: &quot;SEKCJA VI - WARUNKI ZAMÓWIENIA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_5_1&quot;,
+    &quot;value&quot;: &quot;6.6.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_5_1&quot;,
+    &quot;value&quot;: &quot;Wymagania dotyczące składania oferty przez wykonawców wspólnie ubiegających się o udzielenie zamówienia&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_5_1&quot;,
+    &quot;value&quot;: &quot;123123&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500@1&quot;,
+    &quot;value&quot;: &quot;Centralny Podmiot Zamawiający S2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16@1&quot;,
+    &quot;value&quot;: &quot;CPZS2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501@1&quot;,
+    &quot;value&quot;: &quot;REGON 512538849&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510@1&quot;,
+    &quot;value&quot;: &quot;Prymasa Tysiąclecia 25&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513@1&quot;,
+    &quot;value&quot;: &quot;Warszawa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-512@1&quot;,
+    &quot;value&quot;: &quot;01-245&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0520@1&quot;,
+    &quot;value&quot;: &quot;Mazowieckie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-514@1&quot;,
+    &quot;value&quot;: &quot;Polska&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-507@1&quot;,
+    &quot;value&quot;: &quot;PL911 - Miasto Warszawa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506@1&quot;,
+    &quot;value&quot;: &quot;test@tes.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505@1&quot;,
+    &quot;value&quot;: &quot;www.samplepage.eu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-11&quot;,
+    &quot;value&quot;: &quot;Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-10&quot;,
+    &quot;value&quot;: &quot;Porządek i bezpieczeństwo publiczne&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0701&quot;,
+    &quot;value&quot;: &quot;dodatkowe w umowie o zmianie&quot;
+  }
+]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxAbS5wcmludFBvaW50U2VjdGlvbiBubz0iNi4yLiIgdGl0bGU9IlN0b3Nvd2FuZSBrcnl0ZXJpYSBvY2VueSBvZmVydCIgLz4K</text>
+        <text>[
+  {
+    &quot;id&quot;: &quot;BT-141@3_1_2&quot;,
+    &quot;value&quot;: &quot;Zamówienie udzielane jest w trybie podstawowym na podstawie : - art. 275 pkt 1 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_1_2&quot;,
+    &quot;value&quot;: &quot;zamówienie udzielane jest w trybie podstawowym na podstawie - art. 275 pkt 1 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_1_2&quot;,
+    &quot;value&quot;: &quot;Tryb udzielenia zamówienia/zawarcia umowy ramowej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_1_2&quot;,
+    &quot;value&quot;: &quot;2.16.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_1_1&quot;,
+    &quot;value&quot;: &quot;nazwa ogłoszenia o zmianie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_1_1&quot;,
+    &quot;value&quot;: &quot;daty&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_1_1&quot;,
+    &quot;value&quot;: &quot;Nazwa zamówienia/umowy ramowej nadana przez zamawiającego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_1_1&quot;,
+    &quot;value&quot;: &quot;2.3.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_1&quot;,
+    &quot;value&quot;: &quot;SEKCJA II – INFORMACJE PODSTAWOWE&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-02&quot;,
+    &quot;value&quot;: &quot;Ogłoszenie o zamówieniu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-757@1&quot;,
+    &quot;value&quot;: &quot;01&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-701@1&quot;,
+    &quot;value&quot;: &quot;2020/BZP 00000046/01&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_2&quot;,
+    &quot;value&quot;: &quot;SEKCJA III – UDOSTĘPNIANIE DOKUMENTÓW ZAMÓWIENIA I KOMUNIKACJA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_1&quot;,
+    &quot;value&quot;: &quot;3.6.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_1&quot;,
+    &quot;value&quot;: &quot;Wymagania techniczne i organizacyjne dot. korespondencji elektronicznej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_1&quot;,
+    &quot;value&quot;: &quot;zmieniamy wymagania&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_2&quot;,
+    &quot;value&quot;: &quot;3.15.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_2&quot;,
+    &quot;value&quot;: &quot;RODO (obowiązek informacyjny)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_2&quot;,
+    &quot;value&quot;: &quot;zmieniamy obowiązek rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_3&quot;,
+    &quot;value&quot;: &quot;3.16.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_3&quot;,
+    &quot;value&quot;: &quot;RODO (ograniczenia stosowania)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_3&quot;,
+    &quot;value&quot;: &quot;zmieniamy ograniczenia rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_3&quot;,
+    &quot;value&quot;: &quot;SEKCJA IV – PRZEDMIOT ZAMÓWIENIA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_3_1&quot;,
+    &quot;value&quot;: &quot;4.2.7.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_3_1&quot;,
+    &quot;value&quot;: &quot;Dodatkowy kod CPV&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_3_1&quot;,
+    &quot;value&quot;: &quot;Produkty hodowli, łowiectwa i rybołówstwa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_3_2&quot;,
+    &quot;value&quot;: &quot;99&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_3_2&quot;,
+    &quot;value&quot;: &quot;Waga (%)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_3_2&quot;,
+    &quot;value&quot;: &quot;545&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_3_2&quot;,
+    &quot;value&quot;: &quot;535&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_4&quot;,
+    &quot;value&quot;: &quot;SEKCJA V - KWALIFIKACJA WYKONAWCÓW&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_1&quot;,
+    &quot;value&quot;: &quot;5.7.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_1&quot;,
+    &quot;value&quot;: &quot;Wykaz podmiotowych środków dowodowych na potwierdzenie spełniania warunków udziału w postępowaniu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_4_1&quot;,
+    &quot;value&quot;: &quot;g&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_1&quot;,
+    &quot;value&quot;: &quot;gdddd&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_2&quot;,
+    &quot;value&quot;: &quot;5.8.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_2&quot;,
+    &quot;value&quot;: &quot;Wykaz przedmiotowych środków dowodowych&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_2&quot;,
+    &quot;value&quot;: &quot;eeee&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_3&quot;,
+    &quot;value&quot;: &quot;5.11.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_3&quot;,
+    &quot;value&quot;: &quot;Wykaz innych wymaganych oświadczeń lub dokumentów&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_3&quot;,
+    &quot;value&quot;: &quot;eeee&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_5&quot;,
+    &quot;value&quot;: &quot;SEKCJA VI - WARUNKI ZAMÓWIENIA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_5_1&quot;,
+    &quot;value&quot;: &quot;6.6.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_5_1&quot;,
+    &quot;value&quot;: &quot;Wymagania dotyczące składania oferty przez wykonawców wspólnie ubiegających się o udzielenie zamówienia&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_5_1&quot;,
+    &quot;value&quot;: &quot;123123&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500@1&quot;,
+    &quot;value&quot;: &quot;Centralny Podmiot Zamawiający S2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16@1&quot;,
+    &quot;value&quot;: &quot;CPZS2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501@1&quot;,
+    &quot;value&quot;: &quot;REGON 512538849&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510@1&quot;,
+    &quot;value&quot;: &quot;Prymasa Tysiąclecia 25&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513@1&quot;,
+    &quot;value&quot;: &quot;Warszawa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-512@1&quot;,
+    &quot;value&quot;: &quot;01-245&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0520@1&quot;,
+    &quot;value&quot;: &quot;Mazowieckie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-514@1&quot;,
+    &quot;value&quot;: &quot;Polska&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-507@1&quot;,
+    &quot;value&quot;: &quot;PL911 - Miasto Warszawa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506@1&quot;,
+    &quot;value&quot;: &quot;test@tes.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505@1&quot;,
+    &quot;value&quot;: &quot;www.samplepage.eu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-11&quot;,
+    &quot;value&quot;: &quot;Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-10&quot;,
+    &quot;value&quot;: &quot;Porządek i bezpieczeństwo publiczne&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0701&quot;,
+    &quot;value&quot;: &quot;dodatkowe w umowie o zmianie&quot;
+  }
+]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>[
+  {
+    &quot;id&quot;: &quot;BT-141@3_1_2&quot;,
+    &quot;value&quot;: &quot;Zamówienie udzielane jest w trybie podstawowym na podstawie : - art. 275 pkt 1 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_1_2&quot;,
+    &quot;value&quot;: &quot;zamówienie udzielane jest w trybie podstawowym na podstawie - art. 275 pkt 1 ustawy&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_1_2&quot;,
+    &quot;value&quot;: &quot;Tryb udzielenia zamówienia/zawarcia umowy ramowej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_1_2&quot;,
+    &quot;value&quot;: &quot;2.16.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_1_1&quot;,
+    &quot;value&quot;: &quot;nazwa ogłoszenia o zmianie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_1_1&quot;,
+    &quot;value&quot;: &quot;daty&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_1_1&quot;,
+    &quot;value&quot;: &quot;Nazwa zamówienia/umowy ramowej nadana przez zamawiającego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_1_1&quot;,
+    &quot;value&quot;: &quot;2.3.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_1&quot;,
+    &quot;value&quot;: &quot;SEKCJA II – INFORMACJE PODSTAWOWE&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-02&quot;,
+    &quot;value&quot;: &quot;Ogłoszenie o zamówieniu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-757@1&quot;,
+    &quot;value&quot;: &quot;01&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-701@1&quot;,
+    &quot;value&quot;: &quot;2020/BZP 00000046/01&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_2&quot;,
+    &quot;value&quot;: &quot;SEKCJA III – UDOSTĘPNIANIE DOKUMENTÓW ZAMÓWIENIA I KOMUNIKACJA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_1&quot;,
+    &quot;value&quot;: &quot;3.6.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_1&quot;,
+    &quot;value&quot;: &quot;Wymagania techniczne i organizacyjne dot. korespondencji elektronicznej&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_1&quot;,
+    &quot;value&quot;: &quot;zmieniamy wymagania&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_2&quot;,
+    &quot;value&quot;: &quot;3.15.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_2&quot;,
+    &quot;value&quot;: &quot;RODO (obowiązek informacyjny)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_2&quot;,
+    &quot;value&quot;: &quot;zmieniamy obowiązek rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_2_3&quot;,
+    &quot;value&quot;: &quot;3.16.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_2_3&quot;,
+    &quot;value&quot;: &quot;RODO (ograniczenia stosowania)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_2_3&quot;,
+    &quot;value&quot;: &quot;zmieniamy ograniczenia rodo&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_3&quot;,
+    &quot;value&quot;: &quot;SEKCJA IV – PRZEDMIOT ZAMÓWIENIA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_3_1&quot;,
+    &quot;value&quot;: &quot;4.2.7.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_3_1&quot;,
+    &quot;value&quot;: &quot;Dodatkowy kod CPV&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_3_1&quot;,
+    &quot;value&quot;: &quot;Produkty hodowli, łowiectwa i rybołówstwa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_3_2&quot;,
+    &quot;value&quot;: &quot;99&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_3_2&quot;,
+    &quot;value&quot;: &quot;Waga (%)&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_3_2&quot;,
+    &quot;value&quot;: &quot;545&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_3_2&quot;,
+    &quot;value&quot;: &quot;535&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_4&quot;,
+    &quot;value&quot;: &quot;SEKCJA V - KWALIFIKACJA WYKONAWCÓW&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_1&quot;,
+    &quot;value&quot;: &quot;5.7.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_1&quot;,
+    &quot;value&quot;: &quot;Wykaz podmiotowych środków dowodowych na potwierdzenie spełniania warunków udziału w postępowaniu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@2_4_1&quot;,
+    &quot;value&quot;: &quot;g&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_1&quot;,
+    &quot;value&quot;: &quot;gdddd&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_2&quot;,
+    &quot;value&quot;: &quot;5.8.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_2&quot;,
+    &quot;value&quot;: &quot;Wykaz przedmiotowych środków dowodowych&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_2&quot;,
+    &quot;value&quot;: &quot;eeee&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_4_3&quot;,
+    &quot;value&quot;: &quot;5.11.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_4_3&quot;,
+    &quot;value&quot;: &quot;Wykaz innych wymaganych oświadczeń lub dokumentów&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_4_3&quot;,
+    &quot;value&quot;: &quot;eeee&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-13716_5&quot;,
+    &quot;value&quot;: &quot;SEKCJA VI - WARUNKI ZAMÓWIENIA&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141_5_1&quot;,
+    &quot;value&quot;: &quot;6.6.&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@1_5_1&quot;,
+    &quot;value&quot;: &quot;Wymagania dotyczące składania oferty przez wykonawców wspólnie ubiegających się o udzielenie zamówienia&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-141@3_5_1&quot;,
+    &quot;value&quot;: &quot;123123&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-500@1&quot;,
+    &quot;value&quot;: &quot;Centralny Podmiot Zamawiający S2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-16@1&quot;,
+    &quot;value&quot;: &quot;CPZS2&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-501@1&quot;,
+    &quot;value&quot;: &quot;REGON 512538849&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-510@1&quot;,
+    &quot;value&quot;: &quot;Prymasa Tysiąclecia 25&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-513@1&quot;,
+    &quot;value&quot;: &quot;Warszawa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-512@1&quot;,
+    &quot;value&quot;: &quot;01-245&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0520@1&quot;,
+    &quot;value&quot;: &quot;Mazowieckie&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-514@1&quot;,
+    &quot;value&quot;: &quot;Polska&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-507@1&quot;,
+    &quot;value&quot;: &quot;PL911 - Miasto Warszawa&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-506@1&quot;,
+    &quot;value&quot;: &quot;test@tes.pl&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-505@1&quot;,
+    &quot;value&quot;: &quot;www.samplepage.eu&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-11&quot;,
+    &quot;value&quot;: &quot;Zamawiający publiczny - jednostka sektora finansów publicznych - jednostka samorządu terytorialnego&quot;
+  },
+  {
+    &quot;id&quot;: &quot;BT-10&quot;,
+    &quot;value&quot;: &quot;Porządek i bezpieczeństwo publiczne&quot;
+  },
+  {
+    &quot;id&quot;: &quot;RKT-0701&quot;,
+    &quot;value&quot;: &quot;dodatkowe w umowie o zmianie&quot;
+  }
+]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwjaWYgbGlzdEVsZW0/aGFzX2NvbnRlbnQ+CiAgICAgICAgPCNsaXN0IGxpc3RFbGVtIGFzIGtleSxlbGVtPgogICAgICAgICAgICA8QGYucHJpbnRLcnl0ZXJpdW1GcmFnbWVudCBzY29wZT1lbGVtIG5vPWtleSAvPgogICAgICAgIDwvI2xpc3Q+CiAgICA8LyNpZj4K</text>
+        <text encoding="base64">ICAgICAgICA8QG0ucHJpbnRQb2ludFNlY3Rpb24gbm89IjYuMi4iIHRpdGxlPSJTdG9zb3dhbmUga3J5dGVyaWEgb2Nlbnkgb2ZlcnQiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8I2NvbnRpbnVlID4K</text>
+        <text encoding="base64">PC8jaWY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -380,9 +1231,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ogl_o_zam'</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>ogl_o_zam'</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
