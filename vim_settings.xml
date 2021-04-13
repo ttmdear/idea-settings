@@ -221,16 +221,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1618349625461">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="28" column="35" />
+      <file name="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1618351861088">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="45" />
+        <mark key="^" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="31" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="95" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" />
       <jump line="582" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
       <jump line="250" column="14" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
@@ -330,6 +329,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
       <jump line="43" column="11" filename="/usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/ArrayList.class" />
       <jump line="8" column="11" filename="/usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/util/ListIterator.class" />
+      <jump line="26" column="0" filename="$USER_HOME$/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +338,7 @@
         <text encoding="base64">CiAgICBjbGFzcyBBIHsKCiAgICB9CgogICAgY2xhc3MgQiBleHRlbmRzIEEgewoKICAgIH0KCiAgICBjbGFzcyBDIGV4dGVuZHMgQiB7CgogICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r v</text>
+        <text>testPriorityQueue</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzLCA0LCA1KSk7CgogICAgICAgIExpc3RJdGVyYXRvcjxJbnRlZ2VyPiBsaXN0SXRlcmF0b3IgPSBsaXN0Lmxpc3RJdGVyYXRvcigpOwoKICAgICAgICB3aGlsZShsaXN0SXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIGxpc3RJdGVyYXRvci5hZGQoMTApOwoKICAgICAgICAgICAgSW50ZWdlciB2ID0gbGlzdEl0ZXJhdG9yLm5leHQoKTsKICAgICAgICB9CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaXN0KTsK</text>
@@ -350,37 +350,37 @@
         <text>1.7</text>
       </register>
       <register name="0" type="4">
-        <text>listIterator.next()</text>
+        <text>testPriorityQueue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmlvcml0eVF1ZXVlPEludGVnZXI+IGxpc3QgPSBuZXcgUHJpb3JpdHlRdWV1ZTw+KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB2ID0gbGlzdEl0ZXJhdG9yLm5leHQoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdEl0ZXJhdG9yLnNldCh2ICsgMjApOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdEl0ZXJhdG9yLmFkZCh2ICsgIDEwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ2OiAiICsgdik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB2ID0gbGlzdEl0ZXJhdG9yLm5leHQoKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdEl0ZXJhdG9yLjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdEl0ZXJhdG9yLmFkZCh2ICsgIDEwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ2OiAiICsgdik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0Lmxpc3RJdGVyYXRvcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
