@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ogl_o_zaw_um</entry>
         <entry>ogl_o_zaw_um_konc</entry>
         <entry>3.4</entry>
         <entry encoding="base64">XDxFZmZlY3RpdmVBbHRlcm5hdGl2ZVNlbGVjdG9yXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>For in</entry>
         <entry>NoLots</entry>
         <entry>error</entry>
+        <entry encoding="base64">XDxhc0xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -116,18 +116,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1618234158199">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="68" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" timestamp="1618319006564">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="6" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1618317036869">
         <mark key="'" line="310" column="35" />
         <mark key="[" line="0" column="0" />
@@ -137,37 +125,64 @@
       <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/User.java" timestamp="1618393607931">
         <mark key="[" line="11" column="5" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-1.0.0.ftl" timestamp="1618234110055">
-        <mark key="'" line="164" column="17" />
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="57" />
-        <mark key="." line="162" column="36" />
-        <mark key="^" line="162" column="37" />
-      </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1618395432742">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="158" column="5" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-macros-1.0.0.ftl" timestamp="1618233955406">
-        <mark key="[" line="49" column="56" />
-        <mark key="]" line="49" column="57" />
-        <mark key="." line="49" column="56" />
-        <mark key="^" line="49" column="57" />
-      </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/RegularEnumSet.java" timestamp="1618392059790">
-        <mark key="'" line="163" column="33" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="19" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-macros-1.0.0.ftl" timestamp="1618233750170">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="91" column="12" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1618318791063">
         <mark key="[" line="80" column="57" />
         <mark key="]" line="80" column="67" />
         <mark key="^" line="80" column="67" />
         <mark key="." line="80" column="66" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/EnumMap.java" timestamp="1618393043757">
+        <mark key="'" line="269" column="18" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1618316810050">
+        <mark key="'" line="284" column="36" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1618318716917">
+        <mark key="'" line="192" column="20" />
+        <mark key="[" line="191" column="86" />
+        <mark key="]" line="191" column="109" />
+        <mark key="^" line="191" column="109" />
+        <mark key="." line="191" column="108" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" timestamp="1618316293264">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12658" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Enumeration.java" timestamp="1618401267722">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="27" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java" timestamp="1618402053916">
+        <mark key="'" line="165" column="18" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" timestamp="1618319006564">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Arrays.java" timestamp="1618402183936">
+        <mark key="'" line="4316" column="19" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Vector.java" timestamp="1618404134769">
+        <mark key="[" line="777" column="0" />
+        <mark key="]" line="782" column="5" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collections.java" timestamp="1618404682896">
+        <mark key="[" line="2422" column="0" />
+        <mark key="]" line="2424" column="9" />
+      </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/RegularEnumSet.java" timestamp="1618392059790">
+        <mark key="'" line="163" column="33" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="19" />
       </file>
       <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/UserType.java" timestamp="1618390884056">
         <mark key="[" line="2" column="16" />
@@ -190,59 +205,14 @@
         <mark key="]" line="0" column="4070" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/EnumMap.java" timestamp="1618393043757">
-        <mark key="'" line="269" column="18" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1618316810050">
-        <mark key="'" line="284" column="36" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1618318716917">
-        <mark key="'" line="192" column="20" />
-        <mark key="[" line="191" column="86" />
-        <mark key="]" line="191" column="109" />
-        <mark key="^" line="191" column="109" />
-        <mark key="." line="191" column="108" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" timestamp="1618233972889">
-        <mark key="[" line="112" column="77" />
-        <mark key="]" line="113" column="4" />
-        <mark key="." line="113" column="3" />
-        <mark key="^" line="113" column="4" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" timestamp="1618316293264">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12658" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1618400118723">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="25" />
+      <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1618405022810">
+        <mark key="'" line="192" column="4" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="700" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="162" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="194" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="197" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="160" column="3" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="32" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zaw_um_konc-macros-1.0.0.ftl" />
-      <jump line="190" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="302" column="41" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="398" column="11" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="146" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="390" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="458" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="462" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" />
-      <jump line="12" column="5" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/aspects/MeasureTimeAspect.java" />
-      <jump line="1" column="2" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_um_konc.json" />
-      <jump line="10" column="6" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/aspects/MeasureTimeAspect.java" />
-      <jump line="0" column="0" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/aspects/MeasureTimeAspect.java" />
-      <jump line="21" column="12" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/services/impl/UserServiceImpl.java" />
-      <jump line="0" column="0" filename="C:/Projekty/repository/java/spring5-aop/src/main/java/spring5aop/services/impl/UserServiceImpl.java" />
       <jump line="16" column="19" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_um_konc-1.0.0.ftl" />
       <jump line="11" column="24" filename="C:/Projekty/repository/java/spring5-ioc-beanfactory/src/main/java/repo/spring5iocbeanfactory/services/NotificationService.java" />
       <jump line="44" column="8" filename="C:/Projekty/repository/java/spring5-ioc-beanfactory/src/main/java/repo/spring5iocbeanfactory/services/Bootstrap.java" />
@@ -324,6 +294,25 @@
       <jump line="208" column="29" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/JumboEnumSet.java" />
       <jump line="163" column="33" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/RegularEnumSet.java" />
       <jump line="269" column="18" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/EnumMap.java" />
+      <jump line="165" column="18" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java" />
+      <jump line="4316" column="19" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Arrays.java" />
+      <jump line="0" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="31" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="79" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="94" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="120" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="122" column="30" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="129" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="137" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="139" column="56" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="142" column="23" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="163" column="4" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="41" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="46" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="198" column="24" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="51" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="171" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="194" column="4" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,16 +324,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBJZGVudGl0eUhhc2hNYXA8VXNlciwgSW50ZWdlcj4gaWRlbnRpdHlNYXAgPSBuZXcgSWRlbnRpdHlIYXNoTWFwPD4oKTsKICAgICAgICBIYXNoTWFwPFVzZXIsIEludGVnZXI+IGhhc2hNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIFVzZXIgdXNlcjEgPSBuZXcgVXNlcigiMWZhMmZhNWMtZDk5OC00MTZiLWE5ZWUtOGU0NWUyZDhkZmJkIik7CiAgICAgICAgVXNlciB1c2VyMiA9IG5ldyBVc2VyKCIxZmEyZmE1Yy1kOTk4LTQxNmItYTllZS04ZTQ1ZTJkOGRmYmQiKTsKICAgICAgICBVc2VyIHVzZXIzID0gbmV3IFVzZXIoIjFmYTJmYTVjLWQ5OTgtNDE2Yi1hOWVlLThlNDVlMmQ4ZGZiZCIpOwoKICAgICAgICBpZGVudGl0eU1hcC5wdXQodXNlcjEsIDEwKTsKICAgICAgICBpZGVudGl0eU1hcC5wdXQodXNlcjIsIDIwKTsKICAgICAgICBpZGVudGl0eU1hcC5wdXQodXNlcjMsIDMwKTsKCiAgICAgICAgaGFzaE1hcC5wdXQodXNlcjEsIDEwKTsKICAgICAgICBoYXNoTWFwLnB1dCh1c2VyMiwgMjApOwogICAgICAgIGhhc2hNYXAucHV0KHVzZXIzLCAzMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzLCA0LCA1LCAxMCkpOwoKICAgICAgICBMaXN0IHAgPSBsaXN0OwogICAgICAgIHAuYWRkKG5ldyBEYXRlKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1, 2, 3</text>
+        <text encoding="base64">PEludGVnZXI+</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text encoding="base64">XDxhc0xpc3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>hashMap</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdCgxLCAyLCAzLCA0LCA1LCAxMCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,7 +342,7 @@
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5jb3AK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9ybWF0KCJ2OiAlcyIsIHYpKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,19 +351,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdmFsdWVzID0gaW50ezEsIDIsIDN9OwogICAgICAgIAogICAgICAgIExpc3Q8SW50ZWdlcj4gdiA9IEFycmF5cy5hc0xpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHYgPSBsaXN0LmdldCg2KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qgb2JqZWN0ID0gbmV3IE9iamVjdCgpOwogICAgICAgIG9iamVjdC5lcXVhbHMob2JqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0IHAgPSBsaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoTWFwLmVxdWFscygpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5jaGVja2VkTGlzdChsaXN0LCBJbnRlZ2VyLmNsYXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0IHAgPSBsaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -383,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>error</last-search>
+      <last-search encoding="base64">XDxhc0xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern encoding="base64">XDxhc0xpc3RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
