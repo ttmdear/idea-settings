@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxFZmZlY3RpdmVBbHRlcm5hdGl2ZVNlbGVjdG9yXD4=</entry>
         <entry>4.3</entry>
         <entry>zaw_um_konc</entry>
         <entry>o_zaw_um_konc</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhc0xpc3RcPg==</entry>
         <entry encoding="base64">XDx6bVBhdGllbnRSZXNvdXJjZVByb3ZpZGVyXD4=</entry>
         <entry>isSwd</entry>
+        <entry>elas</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -116,11 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/konfiguracja/MongoDbConfiguration.java" timestamp="1618563457880">
-        <mark key="[" line="23" column="78" />
-        <mark key="]" line="23" column="98" />
-        <mark key="." line="23" column="97" />
-        <mark key="^" line="23" column="98" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/konfiguracja/MongoDbConfiguration.java" timestamp="1618567134553">
+        <mark key="[" line="22" column="81" />
+        <mark key="]" line="22" column="83" />
+        <mark key="." line="22" column="82" />
+        <mark key="^" line="22" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/ResourceType.java" timestamp="1618556822630">
         <mark key="'" line="237" column="17" />
@@ -131,8 +131,8 @@
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1618563965418">
         <mark key="'" line="403" column="21" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" timestamp="1618565375448">
-        <mark key="'" line="23" column="34" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" timestamp="1618567188936">
+        <mark key="'" line="119" column="18" />
       </file>
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java" timestamp="1618395432742">
         <mark key="[" line="156" column="0" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="30" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" />
       <jump line="365" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="397" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
       <jump line="40" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/controller/NoticeController.java" />
@@ -288,6 +287,7 @@
       <jump line="403" column="21" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="68" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" />
       <jump line="23" column="34" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" />
+      <jump line="119" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,50 +295,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIDxAbS5wcmludFBvaW50U2VjdGlvbiBubz0iNC4zLiIgdGl0bGU9IlN0b3Nvd2FuZSBrcnl0ZXJpYSBvY2VueSBvZmVydCIgLz4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>secret</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uZ29DbGllbnRzLmNyZWF0ZSgibW9uZ29kYjovL21vbmdvYWRtaW46c2VjcmV0QGxvY2FsaG9zdDoyNzg4OC8/YXV0aFNvdXJjZT1hZG1pbiIpOwo=</text>
       </register>
       <register name="+" type="4">
-        <text>secret</text>
+        <text>mongodb://mongoadmin:secret@localhost:27888/?authSource=admin</text>
       </register>
       <register name="-" type="4">
         <text>secret</text>
       </register>
       <register name="/" type="4">
-        <text>isSwd</text>
+        <text>elas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uZ29DbGllbnRzLmNyZWF0ZSgibW9uZ29kYjovL21vbmdvYWRtaW46c2VjcmV0QGxvY2FsaG9zdDoyNzg4OC8/YXV0aFNvdXJjZT1hZG1pbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb25nb1RlbXBsYXRlLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTW9uZ29DbGllbnRzLmNyZWF0ZSgibW9uZ29kYjovL21vbmdvYWRtaW46c2VjcmV0QGxvY2FsaG9zdDoyNzg4OC8/YXV0aFNvdXJjZT1hZG1pbiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
-      <register name="2" type="4">
-        <text>ConcurrentHashMap</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtb25nb1RlbXBsYXRlLgo=</text>
       </register>
       <register name="3" type="4">
         <text>ConcurrentHashMap</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>ConcurrentHashMap</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5iaW5hcnlTZWFyY2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5iaW5hcnlTZWFyY2goKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isSwd</last-search>
+      <last-search>elas</last-search>
       <last-offset />
-      <last-pattern>isSwd</last-pattern>
+      <last-pattern>elas</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
