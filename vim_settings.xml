@@ -123,9 +123,9 @@
       <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java" timestamp="1618402053916">
         <mark key="'" line="165" column="18" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/konfiguracja/MongoDbConfiguration.java" timestamp="1618553722498">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/konfiguracja/MongoDbConfiguration.java" timestamp="1618554691693">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="32" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/application.yaml" timestamp="1618319006564">
@@ -133,12 +133,6 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="6" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1618317036869">
-        <mark key="'" line="310" column="35" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24588" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/User.java" timestamp="1618393607931">
         <mark key="[" line="11" column="5" />
@@ -163,6 +157,10 @@
         <mark key="[" line="35" column="6" />
         <mark key="]" line="35" column="19" />
       </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoStructureDefinitionDao.java" timestamp="1618554745120">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="39" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1618318791063">
         <mark key="[" line="80" column="57" />
         <mark key="]" line="80" column="67" />
@@ -175,9 +173,10 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1618553993451">
-        <mark key="[" line="68" column="13" />
-        <mark key="]" line="68" column="28" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1618555148968">
+        <mark key="'" line="250" column="85" />
+        <mark key="[" line="131" column="11" />
+        <mark key="]" line="131" column="23" />
       </file>
       <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/UserRoleType.java" timestamp="1618390888972">
         <mark key="]" line="2" column="20" />
@@ -209,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/TestRule.java" />
       <jump line="189" column="16" filename="$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/rules/ExpectedException.java" />
       <jump line="6" column="19" filename="C:/Projekty/repository/java/junit4-rule/src/test/java/repo/junit4/rule/ExceptionRule.java" />
       <jump line="312" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
@@ -309,6 +307,7 @@
       <jump line="38" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
       <jump line="32" column="12" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
       <jump line="17" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
+      <jump line="250" column="85" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,10 +316,10 @@
         <text encoding="base64">ICAgIDxAbS5wcmludFBvaW50U2VjdGlvbiBubz0iNC4zLiIgdGl0bGU9IlN0b3Nvd2FuZSBrcnl0ZXJpYSBvY2VueSBvZmVydCIgLz4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MongoResourceDao</text>
+        <text>IBaseResource</text>
       </register>
       <register name="+" type="4">
-        <text>MongoResourceDao</text>
+        <text>IBaseResource</text>
       </register>
       <register name="-" type="4">
         <text>ConcurrentModificationException</text>
