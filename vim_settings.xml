@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>For inpu</entry>
-        <entry>For in</entry>
-        <entry>NoLots</entry>
-        <entry>error</entry>
-        <entry encoding="base64">XDxhc0xpc3RcPg==</entry>
-        <entry encoding="base64">XDx6bVBhdGllbnRSZXNvdXJjZVByb3ZpZGVyXD4=</entry>
-        <entry>isSwd</entry>
-        <entry>elas</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxsYWR1al9kYW5lXD4=</entry>
         <entry>base</entry>
@@ -25,6 +17,14 @@
         <entry encoding="base64">XDxTZWFyY2hQYXJhbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hVcmxcPg==</entry>
         <entry encoding="base64">XDxwcm9maWxlVXJsXD4=</entry>
+        <entry>dire</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry>Url</entry>
+        <entry>url</entry>
+        <entry encoding="base64">XDxVcmlUeXBlTW9uZ29cPg==</entry>
+        <entry>(String</entry>
+        <entry encoding="base64">XDxkZXJpdmVkRnJvbVw+</entry>
+        <entry encoding="base64">XDxkYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -39,8 +39,8 @@
         <entry>127</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>150</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,59 +116,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1618825404531">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.39/tomcat-embed-core-9.0.39.jar!/org/apache/catalina/core/ApplicationFilterChain.class" timestamp="1618577878164">
         <mark key="'" line="91" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/type/UriTypeMongo.java" timestamp="1618827552616">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/konfiguracja/MongoDbConfiguration.java" timestamp="1618825502637" />
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/ResourceType.java" timestamp="1618820182703">
         <mark key="'" line="6" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" timestamp="1618819145996">
-        <mark key="'" line="30" column="26" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="41" column="75" />
-        <mark key="." line="42" column="0" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" timestamp="1618828443018">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="28" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" timestamp="1618823146975">
         <mark key="'" line="49" column="29" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1618572488697">
-        <mark key="'" line="403" column="21" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" timestamp="1618825691481">
         <mark key="'" line="119" column="18" />
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="21" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoStructureDefinitionDao.java" timestamp="1618554745120">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="39" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/controllers/signature/VerifySignatureController.java" timestamp="1618824808439">
-        <mark key="'" line="56" column="16" />
-        <mark key="[" line="88" column="105" />
-        <mark key="]" line="88" column="105" />
-        <mark key="." line="88" column="105" />
-        <mark key="^" line="87" column="96" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/PatientConverter.java" timestamp="1618826597238" />
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/CanonicalType.java" timestamp="1618827838199">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="25" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1618823449846">
         <mark key="]" line="186" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/PatientMongo.java" timestamp="1618573129641">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1618820243661">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="14" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/MongoBaseResourceConverter.java" timestamp="1618828213071">
+        <mark key="'" line="62" column="45" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/controllers/signature/util/ResponsePreparation.java" timestamp="1618823411691">
         <mark key="'" line="154" column="23" />
@@ -177,11 +162,11 @@
         <mark key="." line="154" column="55" />
         <mark key="^" line="154" column="56" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverter.java" timestamp="1618820285204">
-        <mark key="[" line="8" column="94" />
-        <mark key="]" line="8" column="114" />
-        <mark key="." line="8" column="113" />
-        <mark key="^" line="8" column="114" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" timestamp="1618828239242">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="95" column="40" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterComponentMongo.java" timestamp="1618574942227">
         <mark key="[" line="10" column="43" />
@@ -189,67 +174,31 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1618820246568">
+      <file name="/Dummy.txt" timestamp="1618826356122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" timestamp="1618408713096">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="8" />
-        <mark key="." line="39" column="8" />
-        <mark key="^" line="39" column="25" />
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" timestamp="1618828307687">
+        <mark key="'" line="1314" column="23" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/controllers/signature/VerifySignatureController.java" timestamp="1618826754545">
+        <mark key="'" line="56" column="16" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1618820243661">
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="14" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverter.java" timestamp="1618827904725">
+        <mark key="[" line="8" column="94" />
+        <mark key="]" line="8" column="114" />
+        <mark key="." line="8" column="113" />
+        <mark key="^" line="8" column="114" />
+      </file>
+      <file name="/fragment.java" timestamp="1618827842260">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="182" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="222" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
-      <jump line="236" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zm_ogl.json" />
-      <jump line="285" column="75" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="272" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="158" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="154" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_wyn_post.json" />
-      <jump line="271" column="77" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="1" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="159" column="72" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="284" column="36" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" />
-      <jump line="366" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="83" column="44" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
-      <jump line="314" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="318" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="322" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="334" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="338" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="342" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="346" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="350" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="354" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="358" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="362" column="25" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="306" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="310" column="35" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" />
-      <jump line="194" column="4" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
-      <jump line="191" column="20" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
-      <jump line="208" column="29" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/JumboEnumSet.java" />
-      <jump line="163" column="33" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/RegularEnumSet.java" />
-      <jump line="269" column="18" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/EnumMap.java" />
-      <jump line="165" column="18" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/ArrayList.java" />
-      <jump line="4316" column="19" filename="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Arrays.java" />
-      <jump line="0" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="31" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="79" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="94" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="120" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="122" column="30" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="129" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="137" column="74" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="139" column="56" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="142" column="23" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="163" column="4" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
-      <jump line="41" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
       <jump line="46" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
       <jump line="198" column="24" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
       <jump line="51" column="0" filename="C:/Projekty/repository/java/java11-collections/src/main/java/repo/java11/collections/App.java" />
@@ -301,68 +250,117 @@
       <jump line="49" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
       <jump line="150" column="23" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/controllers/signature/util/ResponsePreparation.java" />
       <jump line="42" column="78" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/controllers/signature/util/ResponsePreparation.java" />
+      <jump line="19" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
+      <jump line="54" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="16" column="25" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
+      <jump line="898" column="2" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1039" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1041" column="66" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1043" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1044" column="18" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1048" column="39" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1052" column="39" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1059" column="11" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1067" column="44" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1074" column="17" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1064" column="32" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="57" column="21" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1014" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="17" column="25" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
+      <jump line="897" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1036" column="577" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1038" column="22" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1047" column="22" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1051" column="22" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1056" column="582" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1027" column="11" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="10" column="53" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" />
+      <jump line="92" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" />
+      <jump line="29" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" />
+      <jump line="43" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" />
+      <jump line="20" column="25" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
+      <jump line="1025" column="29" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1175" column="93" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1178" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1180" column="66" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="903" column="63" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="905" column="19" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="906" column="155" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="22" column="30" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
+      <jump line="907" column="18" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="52" column="87" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="935" column="43" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1317" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1319" column="66" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1321" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="62" column="45" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/MongoBaseResourceConverter.java" />
+      <jump line="93" column="37" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" />
+      <jump line="1308" column="33" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="1314" column="23" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" />
+      <jump line="23" column="30" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
-        <text>SearchParameter</text>
+        <text>CanonicalType</text>
       </register>
       <register name="&quot;" type="4">
-        <text>secret</text>
+        <text>DateTypeMongo</text>
       </register>
       <register name="+" type="4">
-        <text>secret</text>
+        <text>CanonicalType</text>
       </register>
       <register name="-" type="4">
-        <text>zmPatientResourceProvider</text>
+        <text>DateTypeMongo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9maWxlVXJsXD4=</text>
+        <text encoding="base64">XDxkYXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgWm1QYXRpZW50UmVzb3VyY2VQcm92aWRlciB6bVBhdGllbnRSZXNvdXJjZVByb3ZpZGVyOwo=</text>
+      <register name="0" type="4">
+        <text>DateTimeTypeMongo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUJ1bmRsZVByb3ZpZGVyIHNlYXJjaFNlYXJjaFBhcmFtZXRlcihTZWFyY2hQYXJhbWV0ZXJNYXAgdGhlUGFyYW1zKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIDxjb21wb25lbnQ+ICA8IS0tIDAuLiogRm9yIENvbXBvc2l0ZSByZXNvdXJjZXMgdG8gZGVmaW5lIHRoZSBwYXJ0cyAtLT4KICAgIC8vIDxkZWZpbml0aW9uPjwhLS0gMS4uMSBjYW5vbmljYWwoU2VhcmNoUGFyYW1ldGVyKSBEZWZpbmVzIGhvdyB0aGUgcGFydCB3b3JrcyAtLT48L2RlZmluaXRpb24+CiAgICAvLyA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+CiAgICAvLyA8L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">ICAgIFVyaVR5cGVNb25nbyBtYXBTdHJpbmdUb1VyaVR5cGVNb25nbyhTdHJpbmcgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IFVyaVR5cGVNb25nbyh2YWx1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGRlZmluaXRpb247CiAgICA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+Cg==</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">Ly8gCi8vIA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIDwvY29tcG9uZW50Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIDxjb21wb25lbnQ+ICA8IS0tIDAuLiogRm9yIENvbXBvc2l0ZSByZXNvdXJjZXMgdG8gZGVmaW5lIHRoZSBwYXJ0cyAtLT4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVXJsVHlwZU1vbmdvIHVybDsKICAgIHByaXZhdGUgU3RyaW5nIHZlcnNpb247CiAgICBwcml2YXRlIFN0cmluZyBuYW1lOwogICAgcHJpdmF0ZSBMaXN0PFVybFR5cGVNb25nbz4gZGVyaXZlZEZyb20gPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIHByaXZhdGUgQ29kZVR5cGVNb25nbyBzdGF0dXM7CiAgICBwcml2YXRlIGJvb2xlYW4gZXhwZXJpbWVudGFsOwogICAgcHJpdmF0ZSBEYXRlVGltZVR5cGVNb25nbyBkYXRlOwogICAgcHJpdmF0ZSBTdHJpbmcgcHVibGlzaGVyOwogICAgcHJpdmF0ZSBMaXN0PENvbnRhY3REZXRhaWxzTW9uZ28+IGNvbnRhY3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIHByaXZhdGUgU3RyaW5nIGRlc2NyaXB0aW9uOwogICAgcHJpdmF0ZSBMaXN0PFVzYWdlQ29udGV4dE1vbmdvPiB1c2VDb250ZXh0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBwcml2YXRlIExpc3Q8Q29kZWFibGVDb25jZXB0TW9uZ28+IGp1cmlzZGljdGlvbiA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgcHJpdmF0ZSBTdHJpbmcgcHVycG9zZTsKICAgIHByaXZhdGUgQ29kZVR5cGVNb25nbyBjb2RlOwogICAgcHJpdmF0ZSBDb2RlVHlwZU1vbmdvIGJhc2U7CiAgICBwcml2YXRlIENvZGVUeXBlTW9uZ28gdHlwZTsKICAgIHByaXZhdGUgU3RyaW5nIGV4cHJlc3Npb247CiAgICBwcml2YXRlIFN0cmluZyB4cGF0aDsKICAgIHByaXZhdGUgQ29kZVR5cGVNb25nbyB4cGF0aFVzYWdlOwogICAgcHJpdmF0ZSBDb2RlVHlwZU1vbmdvIHRhcmdldDsKICAgIHByaXZhdGUgYm9vbGVhbiBtdWx0aXBsZU9yOwogICAgcHJpdmF0ZSBib29sZWFuIG11bHRpcGxlQW5kOwogICAgcHJpdmF0ZSBDb2RlVHlwZU1vbmdvIGNvbXBhcmF0b3I7CiAgICBwcml2YXRlIENvZGVUeXBlTW9uZ28gbW9kaWZpZXI7CiAgICBwcml2YXRlIFN0cmluZyBjaGFpbjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIERhdGVUaW1lVHlwZU1vbmdvIG1hcERhdGVUb0RhdGVUaW1lVHlwZU1vbmdvKERhdGUgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IERhdGVUaW1lVHlwZU1vbmdvKHZhbHVlKTsKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSUJ1bmRsZVByb3ZpZGVyIHNlYXJjaFNlYXJjaFBhcmFtZXRlcihTZWFyY2hQYXJhbWV0ZXJNYXAgdGhlUGFyYW1zKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIDxjb21wb25lbnQ+ICA8IS0tIDAuLiogRm9yIENvbXBvc2l0ZSByZXNvdXJjZXMgdG8gZGVmaW5lIHRoZSBwYXJ0cyAtLT4KICAgIC8vIDxkZWZpbml0aW9uPjwhLS0gMS4uMSBjYW5vbmljYWwoU2VhcmNoUGFyYW1ldGVyKSBEZWZpbmVzIGhvdyB0aGUgcGFydCB3b3JrcyAtLT48L2RlZmluaXRpb24+CiAgICAvLyA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+CiAgICAvLyA8L2NvbXBvbmVudD4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGRlZmluaXRpb247CiAgICA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9maWxlVXJsXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9maWxlVXJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
