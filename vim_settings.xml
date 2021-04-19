@@ -39,8 +39,8 @@
         <entry>127</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>150</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,12 +129,12 @@
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/ResourceType.java" timestamp="1618820182703">
         <mark key="'" line="6" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" timestamp="1618828443018">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" timestamp="1618828547214">
         <mark key="'" line="23" column="30" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="28" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" timestamp="1618823146975">
         <mark key="'" line="49" column="29" />
@@ -188,10 +188,10 @@
         <mark key="]" line="39" column="29" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverter.java" timestamp="1618827904725">
-        <mark key="[" line="8" column="94" />
-        <mark key="]" line="8" column="114" />
-        <mark key="." line="8" column="113" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverter.java" timestamp="1618828707185">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="114" />
       </file>
       <file name="/fragment.java" timestamp="1618827842260">
@@ -306,8 +306,8 @@
       <register name="a" type="4">
         <text>CanonicalType</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DateTypeMongo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuZmFjdG9yeS5NYXBwZXJzOwo=</text>
       </register>
       <register name="+" type="4">
         <text>CanonicalType</text>
@@ -322,37 +322,37 @@
         <text>DateTimeTypeMongo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuZmFjdG9yeS5NYXBwZXJzOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVyaVR5cGVNb25nbyBtYXBTdHJpbmdUb1VyaVR5cGVNb25nbyhTdHJpbmcgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IFVyaVR5cGVNb25nbyh2YWx1ZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVyaVR5cGVNb25nbyBtYXBTdHJpbmdUb1VyaVR5cGVNb25nbyhTdHJpbmcgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IFVyaVR5cGVNb25nbyh2YWx1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERhdGVUaW1lVHlwZU1vbmdvIG1hcERhdGVUb0RhdGVUaW1lVHlwZU1vbmdvKERhdGUgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IERhdGVUaW1lVHlwZU1vbmdvKHZhbHVlKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIERhdGVUaW1lVHlwZU1vbmdvIG1hcERhdGVUb0RhdGVUaW1lVHlwZU1vbmdvKERhdGUgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IERhdGVUaW1lVHlwZU1vbmdvKHZhbHVlKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSUJ1bmRsZVByb3ZpZGVyIHNlYXJjaFNlYXJjaFBhcmFtZXRlcihTZWFyY2hQYXJhbWV0ZXJNYXAgdGhlUGFyYW1zKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIDxjb21wb25lbnQ+ICA8IS0tIDAuLiogRm9yIENvbXBvc2l0ZSByZXNvdXJjZXMgdG8gZGVmaW5lIHRoZSBwYXJ0cyAtLT4KICAgIC8vIDxkZWZpbml0aW9uPjwhLS0gMS4uMSBjYW5vbmljYWwoU2VhcmNoUGFyYW1ldGVyKSBEZWZpbmVzIGhvdyB0aGUgcGFydCB3b3JrcyAtLT48L2RlZmluaXRpb24+CiAgICAvLyA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+CiAgICAvLyA8L2NvbXBvbmVudD4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSUJ1bmRsZVByb3ZpZGVyIHNlYXJjaFNlYXJjaFBhcmFtZXRlcihTZWFyY2hQYXJhbWV0ZXJNYXAgdGhlUGFyYW1zKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGRlZmluaXRpb247CiAgICA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+Cg==</text>
+        <text encoding="base64">ICAgIC8vIDxjb21wb25lbnQ+ICA8IS0tIDAuLiogRm9yIENvbXBvc2l0ZSByZXNvdXJjZXMgdG8gZGVmaW5lIHRoZSBwYXJ0cyAtLT4KICAgIC8vIDxkZWZpbml0aW9uPjwhLS0gMS4uMSBjYW5vbmljYWwoU2VhcmNoUGFyYW1ldGVyKSBEZWZpbmVzIGhvdyB0aGUgcGFydCB3b3JrcyAtLT48L2RlZmluaXRpb24+CiAgICAvLyA8ZXhwcmVzc2lvbiB2YWx1ZT0iW3N0cmluZ10iLz48IS0tIDEuLjEgU3ViZXhwcmVzc2lvbiByZWxhdGl2ZSB0byBtYWluIGV4cHJlc3Npb24gLS0+CiAgICAvLyA8L2NvbXBvbmVudD4K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
