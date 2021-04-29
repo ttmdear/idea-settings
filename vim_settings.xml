@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>contact</entry>
-        <entry>telcom</entry>
-        <entry>ContactPo</entry>
-        <entry encoding="base64">XDxzZXRVc2VDb250ZXh0XD4=</entry>
         <entry>context</entry>
         <entry>conte</entry>
         <entry>Conte</entry>
@@ -25,6 +21,10 @@
         <entry>Kry</entry>
         <entry encoding="base64">XDxwYXJzZWREYXRhXD4=</entry>
         <entry encoding="base64">XDx2aXN1YWxpemF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxwcmVmZXJyZWRjb3JyZXNwb25kZW5jZWtpbmRcPg==</entry>
+        <entry encoding="base64">XDxjb3R5cGVzXD4=</entry>
+        <entry encoding="base64">XDxlbWFpbGtpbmRcPg==</entry>
+        <entry encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -120,7 +120,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/ct-incoming-correspondence-kind.xml" timestamp="1619684046472" />
+      <file name="/ct-incoming-correspondence-kind.xml" timestamp="1619685362815">
+        <mark key="'" line="5" column="40" />
+      </file>
       <file name="/Dummy.txt" timestamp="1619683774314">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,12 +174,6 @@
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1619182816014">
         <mark key="'" line="76" column="15" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zaw_um_konc.json" timestamp="1619181285464">
-        <mark key="'" line="252" column="26" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam_zaw_um_konc.json" timestamp="1619181439381">
-        <mark key="'" line="304" column="3" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1619183073643">
         <mark key="'" line="158" column="30" />
       </file>
@@ -191,27 +187,17 @@
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" timestamp="1619182736510">
         <mark key="'" line="206" column="23" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam_zaw_um_konc-1.0.0.ftl" timestamp="1619181392663">
-        <mark key="'" line="12" column="0" />
+      <file name="/ct-email-kind.xml" timestamp="1619685354734">
+        <mark key="'" line="7" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1619512349975">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ct-correspondence-kind.xml" timestamp="1619685323386">
+        <mark key="'" line="7" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="17" column="36" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="109" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="24" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/application.yml" />
-      <jump line="40" column="54" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/audyt/ResourceLogAuditConfiguration.java" />
-      <jump line="0" column="15" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLAllergyIntolerancePatientSearchParameter.xml" />
-      <jump line="0" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLDocumentReferenceMedicalEventSearchParameter.xml" />
-      <jump line="0" column="13" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLEntitledToCoverageSearchParameter.xml" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLMedicalClaimAuthorSearchParameter.xml" />
-      <jump line="19" column="17" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLImmunizationPatientIdentifierSearchParameter.xml" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLImmunizationPatientIdentifierSearchParameter.xml" />
-      <jump line="0" column="15" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/parametryWyszukiwania/PLAllergyIntoleranceAuthorSearchParameter.xml" />
-      <jump line="3" column="16" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
       <jump line="2" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
       <jump line="4" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
       <jump line="14" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
@@ -299,6 +285,19 @@
       <jump line="206" column="23" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParser.java" />
       <jump line="69" column="28" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" />
       <jump line="76" column="15" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" />
+      <jump line="8" column="48" filename="/ct-correspondence-kind.xml" />
+      <jump line="5" column="32" filename="/ct-correspondence-kind.xml" />
+      <jump line="6" column="43" filename="/ct-correspondence-kind.xml" />
+      <jump line="7" column="35" filename="/ct-correspondence-kind.xml" />
+      <jump line="3" column="43" filename="/ct-email-kind.xml" />
+      <jump line="4" column="39" filename="/ct-email-kind.xml" />
+      <jump line="5" column="40" filename="/ct-email-kind.xml" />
+      <jump line="6" column="40" filename="/ct-email-kind.xml" />
+      <jump line="7" column="40" filename="/ct-email-kind.xml" />
+      <jump line="2" column="40" filename="/ct-incoming-correspondence-kind.xml" />
+      <jump line="3" column="38" filename="/ct-incoming-correspondence-kind.xml" />
+      <jump line="4" column="40" filename="/ct-incoming-correspondence-kind.xml" />
+      <jump line="5" column="40" filename="/ct-incoming-correspondence-kind.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +315,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aXN1YWxpemF0aW9uXD4=</text>
+        <text encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</text>
       </register>
       <register name="0" type="4">
         <text>BT-36</text>
@@ -358,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx2aXN1YWxpemF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aXN1YWxpemF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
