@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>context</entry>
-        <entry>conte</entry>
-        <entry>Conte</entry>
-        <entry>CodeT</entry>
-        <entry>StringT</entry>
-        <entry>ass</entry>
         <entry encoding="base64">XDxkYXRhRm9yTXVsdGlwbGVCaXJ0aFw+</entry>
         <entry encoding="base64">XDxzZWFyY2hQYXJhbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxOb3RpY2VEYXRhXD4=</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDxjb3R5cGVzXD4=</entry>
         <entry encoding="base64">XDxlbWFpbGtpbmRcPg==</entry>
         <entry encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</entry>
+        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
+        <entry>theAdd</entry>
+        <entry>theAdi</entry>
+        <entry>Addi</entry>
+        <entry>Add</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -132,13 +132,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_konc-1.0.0.ftl" timestamp="1619181831938">
-        <mark key="'" line="202" column="37" />
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-      </file>
       <file name="C:/Projekty/repository/java/java-concurrency-blockingqueue/src/main/java/repo/java/concurrency/blockingqueue/BlockingQueue.java" timestamp="1619511529833">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="7" column="25" />
@@ -171,8 +164,14 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1619694949944">
+        <mark key="'" line="241" column="41" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/java/com/pentacomp/ezamowienia/mo/noticegen/service/impl/NoticeServiceImpl.java" timestamp="1619182816014">
         <mark key="'" line="76" column="15" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ResourceAuthorProtectorInterface.java" timestamp="1619694504578">
+        <mark key="'" line="71" column="121" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zam-1.0.0.ftl" timestamp="1619183073643">
         <mark key="'" line="158" column="30" />
@@ -180,6 +179,13 @@
       <file name="/fsp-common-messages_pl.properties" timestamp="1619684537968">
         <mark key="[" line="1696" column="0" />
         <mark key="]" line="1696" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1619695208067">
+        <mark key="'" line="95" column="85" />
+        <mark key="[" line="128" column="33" />
+        <mark key="]" line="128" column="33" />
+        <mark key="^" line="128" column="33" />
+        <mark key="." line="128" column="32" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1619182980450">
         <mark key="'" line="155" column="0" />
@@ -198,23 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
-      <jump line="4" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
-      <jump line="14" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="48" column="116" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="9" column="10" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/definicje/dane-inicjalne.sh" />
-      <jump line="21" column="46" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/MongoResourceConverterProvider.java" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
-      <jump line="106" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Resource.java" />
-      <jump line="26" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
-      <jump line="55" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
-      <jump line="54" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/resources/requests/searchParameter.http" />
-      <jump line="62" column="4" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/Helper.java" />
-      <jump line="116" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="17" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchParameterMongo.java" />
-      <jump line="148" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverterTest.java" />
-      <jump line="149" column="64" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverterTest.java" />
       <jump line="152" column="69" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverterTest.java" />
       <jump line="157" column="32" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverterTest.java" />
       <jump line="158" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/converter/SearchParameterConverterTest.java" />
@@ -298,6 +287,23 @@
       <jump line="3" column="38" filename="/ct-incoming-correspondence-kind.xml" />
       <jump line="4" column="40" filename="/ct-incoming-correspondence-kind.xml" />
       <jump line="5" column="40" filename="/ct-incoming-correspondence-kind.xml" />
+      <jump line="94" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
+      <jump line="97" column="104" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
+      <jump line="20" column="17" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ResourceAuthorProtectorInterface.java" />
+      <jump line="71" column="121" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ResourceAuthorProtectorInterface.java" />
+      <jump line="62" column="81" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
+      <jump line="376" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="421" column="99" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="422" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="181" column="55" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="219" column="115" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="221" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="225" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="229" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="233" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="237" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="241" column="41" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="95" column="85" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,16 +312,16 @@
         <text>SearchParameter</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>blockingqueue</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</text>
+        <text>base</text>
       </register>
       <register name="0" type="4">
         <text>BT-36</text>
@@ -357,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmNvbWluZ2NvcnJlc3BvbmRlbmNla2luZFw+</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
