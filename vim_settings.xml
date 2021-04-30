@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOVU1CRVJcPg==</entry>
         <entry encoding="base64">XDxEQVRFXD4=</entry>
         <entry encoding="base64">XDxTVFJJTkdcPg==</entry>
         <entry encoding="base64">XDxUT0tFTlw+</entry>
@@ -15,7 +14,6 @@
         <entry encoding="base64">XDxVUklcPg==</entry>
         <entry encoding="base64">XDxIQVNcPg==</entry>
         <entry encoding="base64">XDxTUEVDSUFMXD4=</entry>
-        <entry encoding="base64">XDx0aGVDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxCYXNlUmVzb3VyY2VQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
         <entry encoding="base64">XDxDcml0ZXJpYURlZmluaXRpb25cPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzZWFyY2hQYXJhbWV0ZXJSZXNvdXJjZVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxJQnVuZGxlUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxsYW5ndWFnZVw+</entry>
+        <entry encoding="base64">XDxGaGlyQ29udGV4dFw+</entry>
+        <entry encoding="base64">XDx0aGVDb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -41,8 +41,8 @@
         <entry>121</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>201</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,18 +121,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" timestamp="1619782313390">
+        <mark key="[" line="27" column="60" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="59" />
+        <mark key="^" line="27" column="60" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1619780229218">
         <mark key="'" line="317" column="0" />
         <mark key="[" line="195" column="59" />
         <mark key="]" line="195" column="56" />
         <mark key="." line="195" column="55" />
         <mark key="^" line="195" column="56" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/Patient.http" timestamp="1619774160852">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="47" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/util/SearchParameterMapUtil.java" timestamp="1619779511072">
         <mark key="'" line="25" column="6" />
@@ -161,12 +161,14 @@
         <mark key="[" line="737" column="0" />
         <mark key="]" line="746" column="13" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" timestamp="1619780442880">
-        <mark key="'" line="34" column="22" />
-        <mark key="[" line="65" column="14" />
-        <mark key="]" line="65" column="14" />
-        <mark key="." line="65" column="13" />
-        <mark key="^" line="65" column="14" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" timestamp="1619782002416">
+        <mark key="[" line="65" column="109" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="66" column="11" />
+        <mark key="^" line="66" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/NumberParam.class" timestamp="1619781638029">
+        <mark key="'" line="33" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-server/5.1.0/hapi-fhir-server-5.1.0.jar!/ca/uhn/fhir/rest/api/server/IBundleProvider.class" timestamp="1619779703241">
         <mark key="[" line="5" column="0" />
@@ -181,31 +183,20 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="54" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.http" timestamp="1619774253209">
-        <mark key="'" line="24" column="2" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" timestamp="1619774933728">
-        <mark key="'" line="9" column="18" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="225" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" timestamp="1619778726875" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" timestamp="1619774331176">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" timestamp="1619776011813">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseParam.class" timestamp="1619781603469" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/1.create-search-parameters.http" timestamp="1619775128683">
         <mark key="'" line="217" column="26" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" timestamp="1619781975351">
+        <mark key="'" line="93" column="42" />
+        <mark key="[" line="57" column="45" />
+        <mark key="]" line="57" column="56" />
+        <mark key="^" line="46" column="85" />
+        <mark key="." line="57" column="45" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1619777129897">
         <mark key="'" line="177" column="32" />
@@ -217,18 +208,11 @@
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Enumerations.java" timestamp="1619778748387">
         <mark key="'" line="13682" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1619778648856">
+      <file name="/fragment.java" timestamp="1619782053230">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="56" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" />
-      <jump line="53" column="65" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" />
-      <jump line="59" column="35" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" />
-      <jump line="65" column="60" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" />
-      <jump line="66" column="66" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" />
-      <jump line="68" column="48" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" />
-      <jump line="118" column="41" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0/hapi-fhir-base-5.1.0-sources.jar!/ca/uhn/fhir/context/RuntimeSearchParam.java" />
       <jump line="2620" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r5/5.1.0/org.hl7.fhir.r5-5.1.0.jar!/org/hl7/fhir/r5/model/SearchParameter.class" />
       <jump line="1355" column="20" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r5/5.1.0/org.hl7.fhir.r5-5.1.0.jar!/org/hl7/fhir/r5/model/SearchParameter.class" />
       <jump line="45" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
@@ -277,7 +261,6 @@
       <jump line="81" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE.jar!/org/springframework/data/mongodb/core/query/Criteria.class" />
       <jump line="215" column="89" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
       <jump line="62" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
-      <jump line="63" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="26" column="33" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="29" column="50" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="33" column="38" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
@@ -310,7 +293,6 @@
       <jump line="325" column="19" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="25" column="6" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/util/SearchParameterMapUtil.java" />
       <jump line="330" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="24" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="63" column="56" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="161" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="156" column="5" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
@@ -322,6 +304,15 @@
       <jump line="292" column="38" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="246" column="60" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="317" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="94" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
+      <jump line="57" column="70" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" />
+      <jump line="74" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
+      <jump line="63" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
+      <jump line="24" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
+      <jump line="90" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" />
+      <jump line="6" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
+      <jump line="43" column="44" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/NumberParam.class" />
+      <jump line="33" column="46" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/NumberParam.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,61 +320,61 @@
       <register name="a" type="4">
         <text>SearchParameter</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cmEK</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRmhpckNvbnRleHQgbXlGaGlyQ29udGV4dDsK</text>
+      <register name="+" type="4">
+        <text>translateRawParameters</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>FhirContext</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYW5ndWFnZVw+</text>
+        <text encoding="base64">XDx0aGVDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ca.uhn.fhir.rest.api.server</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRmhpckNvbnRleHQgZmhpckNvbnRleHQgPSBNb2NraXRvLm1vY2soRmhpckNvbnRleHQuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXJNYXAuYWRkKCJsYW4iLCBsYW5ndWFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmEK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0cnkgewo=</text>
+        <text encoding="base64">ICAgIEBBZnRlck1ldGhvZAogICAgcHVibGljIHZvaWQgdGVhckRvd24oKSB7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIHByb3dpZGVyIHJvenNyemEgdLkga2xhc+ogdG8gdb95ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaGlyQ29udGV4dC5nZXRMCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJzcXVpZDpTMDAxMDciKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoc291cmNlID09IG51bGwgfHwgc291cmNlLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBDbGFzczw/IGV4dGVuZHMgSUJhc2VSZXNvdXJjZT4gcmVzb3VyY2VUeXBlID0gZ2V0UmVzb3VyY2VUeXBlKCk7CgogICAgICAgIE9iamVjdHMucmVxdWlyZU5vbk51bGwocmVzb3VyY2VUeXBlLCAicmVzb3VyY2VUeXBlIHR5cGUgaXMgcmVxdWlyZWQuIik7CiAgICAgICAgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChzZWFyY2hQYXJhbWV0ZXJNYXAsICJzZWFyY2hQYXJhbWV0ZXJNYXAgaXMgcmVxdWlyZWQuIik7CiAgICAgICAgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChzZWFyY2hQYXJhbWV0ZXJSZXNvdXJjZVByb3ZpZGVyLCAic2VhcmNoUGFyYW1ldGVyUmVzb3VyY2VQcm92aWRlciBpcyByZXF1aXJlZC4iKTsKCiAgICAgICAgTWFwPFN0cmluZywgU2VhcmNoUGFyYW1ldGVyPiBzZWFyY2hQYXJhbWV0ZXJCeU5hbWUgPSBJQnVuZGxlUHJvdmlkZXJVdGlsCiAgICAgICAgICAgIC48U2VhcmNoUGFyYW1ldGVyPmNvbnZlcnRJQnVuZGxlUHJvdmlkZXJUb0xpc3QoCiAgICAgICAgICAgICAgICBzZWFyY2hQYXJhbWV0ZXJSZXNvdXJjZVByb3ZpZGVyLnNlYXJjaEJ5UmVzb3VyY2UocmVzb3VyY2VUeXBlKSkKICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoU2VhcmNoUGFyYW1ldGVyOjpnZXRDb2RlLCBzZWFyY2hQYXJhbWV0ZXIgLT4gc2VhcmNoUGFyYW1ldGVyKSk7CgogICAgICAgIGlmIChzZWFyY2hQYXJhbWV0ZXJCeU5hbWUuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIGZvciAoU3RyaW5nIHBhcmFtTmFtZSA6IHNvdXJjZS5rZXlTZXQoKSkgewogICAgICAgICAgICBRdWFsaWZpZXJEZXRhaWxzIHF1YWxpZmllZFBhcmFtTmFtZSA9IFF1YWxpZmllckRldGFpbHMuZXh0cmFjdFF1YWxpZmllcnNGcm9tUGFyYW1ldGVyTmFtZShwYXJhbU5hbWUpOwoKICAgICAgICAgICAgU2VhcmNoUGFyYW1ldGVyIHNlYXJjaFBhcmFtZXRlciA9IHNlYXJjaFBhcmFtZXRlckJ5TmFtZS5nZXQocXVhbGlmaWVkUGFyYW1OYW1lLmdldFBhcmFtTmFtZSgpKTsKCiAgICAgICAgICAgIGlmIChzZWFyY2hQYXJhbWV0ZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRSZXF1ZXN0RXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoImludmFsaWRTZWFyY2hQYXJhbWV0ZXIgWyVzXSIsCiAgICAgICAgICAgICAgICAgICAgcXVhbGlmaWVkUGFyYW1OYW1lLmdldFBhcmFtTmFtZSgpKSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChzZWFyY2hQYXJhbWV0ZXIuZ2V0VHlwZSgpID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBSZXN0U2VhcmNoUGFyYW1ldGVyVHlwZUVudW0gcmVzdFNlYXJjaFBhcmFtZXRlclR5cGUgPSBTRUFSQ0hfUEFSQU1fVFlQRV9UT19SRVNUCiAgICAgICAgICAgICAgICAuZ2V0KHNlYXJjaFBhcmFtZXRlci5nZXRUeXBlKCkpOwoKICAgICAgICAgICAgZm9yIChTdHJpbmcgbmV4dFZhbHVlIDogc291cmNlLmdldChwYXJhbU5hbWUpKSB7CiAgICAgICAgICAgICAgICBRdWFsaWZpZWRQYXJhbUxpc3QgcXVhbGlmaWVkUGFyYW0gPSBRdWFsaWZpZWRQYXJhbUxpc3QKICAgICAgICAgICAgICAgICAgICAuc3BsaXRRdWVyeVN0cmluZ0J5Q29tbWFzSWdub3JlRXNjYXBlKHF1YWxpZmllZFBhcmFtTmFtZS5nZXRXaG9sZVF1YWxpZmllcigpLCBuZXh0VmFsdWUpOwoKICAgICAgICAgICAgICAgIExpc3Q8UXVhbGlmaWVkUGFyYW1MaXN0PiBwYXJhbUxpc3QgPSBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHF1YWxpZmllZFBhcmFtKTsKCiAgICAgICAgICAgICAgICBJUXVlcnlQYXJhbWV0ZXJBbmQ8Pz4gcGFyc2VkUGFyYW0gPSBQYXJhbWV0ZXJVdGlsCiAgICAgICAgICAgICAgICAgICAgLnBhcnNlUXVlcnlQYXJhbXMoZmhpckNvbnRleHQsIHJlc3RTZWFyY2hQYXJhbWV0ZXJUeXBlLCBwYXJhbU5hbWUsIHBhcmFtTGlzdCk7CgogICAgICAgICAgICAgICAgc2VhcmNoUGFyYW1ldGVyTWFwLmFkZChxdWFsaWZpZWRQYXJhbU5hbWUuZ2V0UGFyYW1OYW1lKCksIHBhcnNlZFBhcmFtKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsYW5ndWFnZVw+</last-search>
+      <last-search encoding="base64">XDx0aGVDb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYW5ndWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aGVDb250ZXh0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
