@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNvdXJjZVR5cGVcPg==</entry>
-        <entry encoding="base64">XDxwYXJhbURlZlw+</entry>
-        <entry encoding="base64">XDxteVNlYXJjaFBhcmFtUmVnaXN0cnlcPg==</entry>
-        <entry encoding="base64">XDxteUFjdGl2ZVNlYXJjaFBhcmFtc1w+</entry>
         <entry encoding="base64">XDxteUJ1aWx0SW5TZWFyY2hQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxteVNlYXJjaFBhcmFtc1w+</entry>
         <entry>SearchPara</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxIQVNcPg==</entry>
         <entry encoding="base64">XDxTUEVDSUFMXD4=</entry>
         <entry encoding="base64">XDx0aGVDb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxCYXNlUmVzb3VyY2VQcm92aWRlclw+</entry>
+        <entry encoding="base64">XDxzZWFyY2hQYXJhbWV0ZXJSZXNvdXJjZVByb3ZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
+        <entry encoding="base64">XDxDcml0ZXJpYURlZmluaXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -121,20 +121,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0/hapi-fhir-base-5.1.0-sources.jar!/ca/uhn/fhir/context/RuntimeResourceDefinition.java" timestamp="1619770716604">
-        <mark key="'" line="135" column="8" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/registry/SearchParamRegistryImpl.class" timestamp="1619772451161">
         <mark key="'" line="68" column="48" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="61" column="38" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1619772557561">
-        <mark key="'" line="63" column="11" />
-        <mark key="[" line="368" column="81" />
-        <mark key="]" line="369" column="8" />
-        <mark key="." line="369" column="7" />
-        <mark key="^" line="369" column="8" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1619775510274">
+        <mark key="'" line="327" column="75" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="13" />
+        <mark key="^" line="68" column="14" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/Patient.http" timestamp="1619774160852">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/util/IBundleProviderUtil.java" timestamp="1619773102621">
         <mark key="'" line="20" column="17" />
@@ -143,92 +146,83 @@
         <mark key="." line="13" column="66" />
         <mark key="^" line="13" column="67" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1619767496264" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-base/5.1.0/hapi-fhir-jpaserver-base-5.1.0-sources.jar!/ca/uhn/fhir/jpa/dao/DaoSearchParamProvider.java" timestamp="1619770905945" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-base/5.1.0/hapi-fhir-jpaserver-base-5.1.0-sources.jar!/ca/uhn/fhir/jpa/dao/BaseStorageDao.java" timestamp="1619771073285">
-        <mark key="'" line="79" column="35" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="254" column="5" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE.jar!/org/springframework/data/mongodb/core/query/Criteria.class" timestamp="1619776539428">
+        <mark key="'" line="81" column="20" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" timestamp="1619775087623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1619777520939">
+        <mark key="'" line="213" column="89" />
+        <mark key="[" line="215" column="90" />
+        <mark key="]" line="215" column="96" />
+        <mark key="." line="215" column="95" />
+        <mark key="^" line="215" column="96" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r5/5.1.0/org.hl7.fhir.r5-5.1.0.jar!/org/hl7/fhir/r5/model/Enumerations.class" timestamp="1619771927447">
         <mark key="'" line="772" column="53" />
         <mark key="[" line="737" column="0" />
         <mark key="]" line="746" column="13" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" timestamp="1619765147619">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" timestamp="1619775692180">
+        <mark key="'" line="24" column="11" />
+        <mark key="[" line="66" column="55" />
+        <mark key="]" line="66" column="62" />
+        <mark key="." line="66" column="61" />
+        <mark key="^" line="66" column="62" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" timestamp="1619772884433">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="68" column="45" />
-        <mark key="]" line="69" column="12" />
-        <mark key="." line="69" column="11" />
-        <mark key="^" line="69" column="12" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" timestamp="1619775142130">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="53" />
+        <mark key="^" line="0" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-server/5.1.0/hapi-fhir-server-5.1.0.jar!/ca/uhn/fhir/rest/api/server/IBundleProvider.class" timestamp="1619766579238" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/context/RuntimeSearchParam.class" timestamp="1619771657190">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="30" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.http" timestamp="1619774253209">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" timestamp="1619772318668">
         <mark key="'" line="45" column="69" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/binder/QueryParameterAndBinder.class" timestamp="1619772333282" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0/hapi-fhir-base-5.1.0-sources.jar!/ca/uhn/fhir/rest/param/ParameterUtil.java" timestamp="1619770799232" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-server/5.1.0/hapi-fhir-server-5.1.0.jar!/ca/uhn/fhir/rest/server/SimpleBundleProvider.class" timestamp="1619767606248" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r5/5.1.0/org.hl7.fhir.r5-5.1.0.jar!/org/hl7/fhir/r5/model/SearchParameter.class" timestamp="1619771533674">
-        <mark key="'" line="1355" column="20" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" timestamp="1619774933728">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="224" column="0" />
+        <mark key="^" line="225" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1619773375583">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" timestamp="1619774331176">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" timestamp="1619776011813">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/1.create-search-parameters.http" timestamp="1619775128683">
+        <mark key="'" line="217" column="26" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1619777129897">
         <mark key="'" line="177" column="32" />
-        <mark key="[" line="204" column="69" />
-        <mark key="]" line="204" column="68" />
-        <mark key="." line="204" column="67" />
-        <mark key="^" line="204" column="68" />
+        <mark key="[" line="212" column="44" />
+        <mark key="]" line="212" column="59" />
+        <mark key="." line="212" column="58" />
+        <mark key="^" line="212" column="59" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/api/RestSearchParameterTypeEnum.class" timestamp="1619772038640">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="21" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0/hapi-fhir-base-5.1.0-sources.jar!/ca/uhn/fhir/context/RuntimeSearchParam.java" timestamp="1619771055636">
-        <mark key="'" line="118" column="41" />
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="30" />
+      <file name="/fragment.java" timestamp="1619777692658">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="241" column="41" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="95" column="85" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="104" column="13" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="367" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="81" column="0" filename="C:/Projekty/workspace/profi-baza-hl7/ProfiBazaHL7/src/profibaza/webservice/src/main/java/pl/gov/pzh/profibaza/resourceprovider/RizpHealthcareServiceResourceProvider.java" />
-      <jump line="83" column="19" filename="C:/Projekty/workspace/profi-baza-hl7/ProfiBazaHL7/src/profibaza/webservice/src/main/java/pl/gov/pzh/profibaza/resourceprovider/RizpHealthcareServiceResourceProvider.java" />
-      <jump line="226" column="16" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-base/5.1.0/hapi-fhir-jpaserver-base-5.1.0-sources.jar!/ca/uhn/fhir/jpa/dao/BaseStorageDao.java" />
-      <jump line="130" column="24" filename="C:/Projekty/workspace/profi-baza-hl7/ProfiBazaHL7/src/profibaza/webservice/src/main/java/pl/gov/pzh/profibaza/resourceprovider/RizpHealthcareServiceResourceProvider.java" />
-      <jump line="84" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="30" column="32" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
-      <jump line="29" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
-      <jump line="32" column="39" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
-      <jump line="35" column="183" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
-      <jump line="238" column="183" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-base/5.1.0/hapi-fhir-jpaserver-base-5.1.0-sources.jar!/ca/uhn/fhir/jpa/dao/BaseStorageDao.java" />
-      <jump line="236" column="39" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-base/5.1.0/hapi-fhir-jpaserver-base-5.1.0-sources.jar!/ca/uhn/fhir/jpa/dao/BaseStorageDao.java" />
-      <jump line="220" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0/hapi-fhir-base-5.1.0-sources.jar!/ca/uhn/fhir/context/RuntimeSearchParam.java" />
-      <jump line="171" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="68" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="69" column="13" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="66" column="15" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmProvenanceResourceProvider.java" />
-      <jump line="1" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/Patient.http" />
-      <jump line="51" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/Patient.http" />
-      <jump line="7" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/Patient.http" />
-      <jump line="256" column="41" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="22" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
-      <jump line="137" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="166" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="274" column="33" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Resource.java" />
-      <jump line="49" column="34" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
       <jump line="56" column="55" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/commons/TranslateParametersUtil.java" />
       <jump line="170" column="17" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
       <jump line="202" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
@@ -298,7 +292,37 @@
       <jump line="45" column="69" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" />
       <jump line="84" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="27" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
-      <jump line="63" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="63" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="24" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
+      <jump line="64" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="65" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="58" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="59" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="24" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.http" />
+      <jump line="26" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
+      <jump line="24" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
+      <jump line="26" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
+      <jump line="24" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
+      <jump line="37" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
+      <jump line="18" column="19" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
+      <jump line="223" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
+      <jump line="9" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
+      <jump line="9" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
+      <jump line="25" column="3" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
+      <jump line="0" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" />
+      <jump line="4" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
+      <jump line="23" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
+      <jump line="217" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/1.create-search-parameters.http" />
+      <jump line="129" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="327" column="75" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
+      <jump line="535" column="26" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" />
+      <jump line="539" column="13" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" />
+      <jump line="200" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
+      <jump line="81" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE.jar!/org/springframework/data/mongodb/core/query/Criteria.class" />
+      <jump line="215" column="89" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,49 +331,49 @@
         <text>SearchParameter</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">U2VhcmNoUGFyYW1ldGVyIA==</text>
+        <text>.get(0)</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRmhpckNvbnRleHQgbXlGaGlyQ29udGV4dDsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VhcmNoUGFyYW1ldGVyIA==</text>
+        <text>.get(0)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGVDb250ZXh0XD4=</text>
+        <text encoding="base64">XDxDcml0ZXJpYURlZmluaXRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>searchParamTypeToRest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VhcmNoUmVzb3VyY2UoY3JpdGVyaWFEZWZpbml0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gU2VhcmNoUGFyYW1ldGVyIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBsLmdvdi5jc2lvei5wMS5zZ3ouem0ucmVzb3VyY2Vwcm92aWRlci51dGlsLlNlYXJjaFBhcmFtZXRlck1hcFV0aWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU3RyaW5nUGFyYW0gYmFzZSA9IChTdHJpbmdQYXJhbSkgdGhlUGFyYW1zLmdldCgiYmFzZSIpLmdldCgwKS5nZXQoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpRGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc3RTZWFyY2hQYXJhbWV0ZXJUeXBlRW51bSByZXN0U2VhcmNoUGFyYW1ldGVyVHlwZUVudW0gPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VhcmNoUGFyYW1ldGVyLmdldFR5cGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdQYXJhbSBiYXNlID0gKFN0cmluZ1BhcmFtKSB0aGVQYXJhbXMuZ2V0KCJiYXNlIikuZ2V0KDApLmdldCgwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTUEVDSUFMKCJzcGVjaWFsIiwgImh0dHA6Ly9obDcub3JnL2ZoaXIvc2VhcmNoLXBhcmFtLXR5cGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -358,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aGVDb250ZXh0XD4=</last-search>
+      <last-search encoding="base64">XDxDcml0ZXJpYURlZmluaXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGVDb250ZXh0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDcml0ZXJpYURlZmluaXRpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
