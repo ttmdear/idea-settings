@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEQVRFXD4=</entry>
         <entry encoding="base64">XDxTVFJJTkdcPg==</entry>
         <entry encoding="base64">XDxUT0tFTlw+</entry>
         <entry encoding="base64">XDxSRUZFUkVOQ0VcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxGaGlyQ29udGV4dFw+</entry>
         <entry encoding="base64">XDx0aGVDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxTZWFyY2hQYXJhbVR5cGVcPg==</entry>
+        <entry>compa</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -121,11 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" timestamp="1619785111329">
-        <mark key="[" line="63" column="56" />
-        <mark key="]" line="63" column="56" />
-        <mark key="." line="63" column="55" />
-        <mark key="^" line="63" column="56" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" timestamp="1619785361980">
+        <mark key="[" line="65" column="67" />
+        <mark key="]" line="65" column="70" />
+        <mark key="." line="65" column="69" />
+        <mark key="^" line="65" column="70" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1619780229218">
         <mark key="'" line="317" column="0" />
@@ -179,13 +179,16 @@
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/PrimitiveType.java" timestamp="1619778733016">
         <mark key="'" line="114" column="15" />
       </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" timestamp="1619785170121">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="53" />
+      </file>
       <file name="/Dummy.txt" timestamp="1619782806474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/SearchParameter.java" timestamp="1619778726875" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" timestamp="1619776011813">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseParam.class" timestamp="1619781603469" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/ResourceHandlerTest.java" timestamp="1619782504041">
         <mark key="[" line="74" column="0" />
@@ -332,7 +335,7 @@
         <text>20</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZWFyY2hQYXJhbVR5cGVcPg==</text>
+        <text>compa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0VHJhbnNsYXRlKCkgewogICAgICAgIFNpbXBsZUJ1bmRsZVByb3ZpZGVyIGJ1bmRsZVByb3ZpZGVyID0gbmV3IFNpbXBsZUJ1bmRsZVByb3ZpZGVyKEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgIGNyZWF0ZVNlYXJjaFBhcmFtZXRlcigidGVzdC1udW1iZXIiLCBTZWFyY2hQYXJhbVR5cGUuTlVNQkVSKSwKICAgICAgICAgICAgY3JlYXRlU2VhcmNoUGFyYW1ldGVyKCJ0ZXN0LWRhdGUiLCBTZWFyY2hQYXJhbVR5cGUuREFURSksCiAgICAgICAgICAgIGNyZWF0ZVNlYXJjaFBhcmFtZXRlcigidGVzdC10b2tlbiIsIFNlYXJjaFBhcmFtVHlwZS5UT0tFTiksCiAgICAgICAgICAgIGNyZWF0ZVNlYXJjaFBhcmFtZXRlcigidGVzdC1yZWZlcmVuY2UiLCBTZWFyY2hQYXJhbVR5cGUuUkVGRVJFTkNFKSwKICAgICAgICAgICAgY3JlYXRlU2VhcmNoUGFyYW1ldGVyKCJ0ZXN0LXF1YW50aXR5IiwgU2VhcmNoUGFyYW1UeXBlLlFVQU5USVRZKSwKICAgICAgICAgICAgY3JlYXRlU2VhcmNoUGFyYW1ldGVyKCJ0ZXN0LXVyaSIsIFNlYXJjaFBhcmFtVHlwZS5VUkkpLAogICAgICAgICAgICBjcmVhdGVTZWFyY2hQYXJhbWV0ZXIoInRlc3Qtc3BlY2lhbCIsIFNlYXJjaFBhcmFtVHlwZS5TUEVDSUFMKQogICAgICAgICkpOwoKICAgICAgICBNb2NraXRvLndoZW4oem1TZWFyY2hQYXJhbWV0ZXJSZXNvdXJjZVByb3ZpZGVyLnNlYXJjaEJ5UmVzb3VyY2UoUGF0aWVudC5jbGFzcykpLnRoZW5SZXR1cm4oYnVuZGxlUHJvdmlkZXIpOwoKICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHNvdXJjZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBzb3VyY2UucHV0KCJ0ZXN0LW51bWJlciIsIEFycmF5cy5hc0xpc3QoIjEiKSk7CiAgICAgICAgc291cmNlLnB1dCgidGVzdC1kYXRlIiwgQXJyYXlzLmFzTGlzdCgidGVzdC1kYXRlLXZhbHVlIikpOwogICAgICAgIHNvdXJjZS5wdXQoInRlc3QtdG9rZW4iLCBBcnJheXMuYXNMaXN0KCJ0ZXN0LXRva2VuLXZhbHVlIikpOwogICAgICAgIHNvdXJjZS5wdXQoInRlc3QtcmVmZXJlbmNlIiwgQXJyYXlzLmFzTGlzdCgidGVzdC1yZWZlcmVuY2UtdmFsdWUiKSk7CiAgICAgICAgc291cmNlLnB1dCgidGVzdC1xdWFudGl0eSIsIEFycmF5cy5hc0xpc3QoInRlc3QtcXVhbnRpdHktdmFsdWUiKSk7CiAgICAgICAgc291cmNlLnB1dCgidGVzdC11cmkiLCBBcnJheXMuYXNMaXN0KCJ0ZXN0LXVyaS12YWx1ZSIpKTsKICAgICAgICBzb3VyY2UucHV0KCJ0ZXN0LXNwZWNpYWwiLCBBcnJheXMuYXNMaXN0KCJ0ZXN0LXNwZWNpYWwtdmFsdWUiKSk7CgogICAgICAgIFNlYXJjaFBhcmFtZXRlck1hcCBzZWFyY2hQYXJhbWV0ZXJNYXAgPSBuZXcgU2VhcmNoUGFyYW1ldGVyTWFwKCk7CgogICAgICAgIHN1dC50cmFuc2xhdGUoc291cmNlLCBzZWFyY2hQYXJhbWV0ZXJNYXAsIFBhdGllbnQuY2xhc3MsIHptU2VhcmNoUGFyYW1ldGVyUmVzb3VyY2VQcm92aWRlciwgZmhpckNvbnRleHQpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VhcmNoUGFyYW1ldGVyTWFwKTsKICAgIH0K</text>
@@ -374,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTZWFyY2hQYXJhbVR5cGVcPg==</last-search>
+      <last-search>compa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZWFyY2hQYXJhbVR5cGVcPg==</last-pattern>
+      <last-pattern>compa</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
