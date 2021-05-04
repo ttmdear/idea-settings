@@ -145,10 +145,10 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1620119174402">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="212" column="78" />
-        <mark key="]" line="212" column="75" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1620121583651">
+        <mark key="'" line="150" column="18" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="157" column="5" />
         <mark key="." line="212" column="74" />
         <mark key="^" line="212" column="75" />
       </file>
@@ -209,7 +209,6 @@
       <file name="/MongoSearchExpressionDao.java" timestamp="1620116143811" />
     </filemarks>
     <jumps>
-      <jump line="65" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="58" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="59" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="24" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.http" />
@@ -309,6 +308,7 @@
       <jump line="130" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
       <jump line="93" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
       <jump line="212" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
+      <jump line="150" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,11 +316,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Transactional</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkKICAgIHB1YmxpYyBJQmFzZVJlc291cmNlIHJlYWQoSUlkVHlwZSBpZCkgewogICAgICAgIFJlc291cmNlUmVjb3JkIHJlc291cmNlTW9uZ28gPSBmaW5kQnlJZChpZCk7CgogICAgICAgIGNoZWNrSWZSZXNvdXJjZVdhc0RlbGV0ZWQocmVzb3VyY2VNb25nbyk7CgogICAgICAgIElCYXNlUmVzb3VyY2UgaUJhc2VSZXNvdXJjZSA9IGNvbnZlcnRUb0liYXNlUmVzb3VyY2UocmVzb3VyY2VNb25nbyk7CiAgICAgICAgaUJhc2VSZXNvdXJjZS5zZXRJZChyZXNvdXJjZU1vbmdvLmdldElkKCkudG9TdHJpbmcoKSk7CiAgICAgICAgcmV0dXJuIGlCYXNlUmVzb3VyY2U7CiAgICB9Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>Transactional</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkKICAgIHB1YmxpYyBJQmFzZVJlc291cmNlIHJlYWQoSUlkVHlwZSBpZCkgewogICAgICAgIFJlc291cmNlUmVjb3JkIHJlc291cmNlTW9uZ28gPSBmaW5kQnlJZChpZCk7CgogICAgICAgIGNoZWNrSWZSZXNvdXJjZVdhc0RlbGV0ZWQocmVzb3VyY2VNb25nbyk7CgogICAgICAgIElCYXNlUmVzb3VyY2UgaUJhc2VSZXNvdXJjZSA9IGNvbnZlcnRUb0liYXNlUmVzb3VyY2UocmVzb3VyY2VNb25nbyk7CiAgICAgICAgaUJhc2VSZXNvdXJjZS5zZXRJZChyZXNvdXJjZU1vbmdvLmdldElkKCkudG9TdHJpbmcoKSk7CiAgICAgICAgcmV0dXJuIGlCYXNlUmVzb3VyY2U7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG5ldyBTaW1wbGVCdW5kbGVQcm92aWRlcihDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk=</text>
