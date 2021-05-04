@@ -139,12 +139,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/util/IBundleProviderUtil.java" timestamp="1619782908989">
-        <mark key="'" line="20" column="17" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="24" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/auth/services/AuthorizationServiceTest.java" timestamp="1620131856606">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="88" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1620121583651">
         <mark key="'" line="150" column="18" />
@@ -176,10 +173,10 @@
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="60" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidator.java" timestamp="1620130073813">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidator.java" timestamp="1620131981250">
         <mark key="'" line="49" column="12" />
-        <mark key="[" line="46" column="127" />
-        <mark key="]" line="46" column="175" />
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="96" />
         <mark key="." line="46" column="174" />
         <mark key="^" line="46" column="175" />
       </file>
@@ -190,11 +187,12 @@
         <mark key="^" line="104" column="12" />
         <mark key="." line="104" column="11" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" timestamp="1620130243542">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="11" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" timestamp="1620132585301">
+        <mark key="'" line="17" column="56" />
+        <mark key="[" line="97" column="32" />
+        <mark key="]" line="97" column="32" />
+        <mark key="." line="97" column="31" />
+        <mark key="^" line="97" column="32" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1620127583747">
         <mark key="'" line="207" column="0" />
@@ -217,14 +215,6 @@
       <file name="/MongoSearchExpressionDao.java" timestamp="1620116143811" />
     </filemarks>
     <jumps>
-      <jump line="24" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.http" />
-      <jump line="26" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
-      <jump line="24" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
-      <jump line="26" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
-      <jump line="24" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
-      <jump line="37" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
-      <jump line="18" column="19" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
       <jump line="223" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
       <jump line="9" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
       <jump line="9" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
@@ -317,6 +307,14 @@
       <jump line="150" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
       <jump line="207" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
       <jump line="49" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidator.java" />
+      <jump line="27" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="41" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="59" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="75" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="95" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="21" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="96" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="17" column="56" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,22 +323,22 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXIuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
         <text>SearchParameter</text>
       </register>
       <register name="-" type="4">
-        <text>searchParameterValidator</text>
+        <text>searchExpressionN</text>
       </register>
       <register name="/" type="4">
         <text>cove</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTW9uZ29TZWFyY2hFeHByZXNzaW9uRGFvIG1vbmdvU2VhcmNoRXhwcmVzc2lvbkRhbzsK</text>
+      <register name="0" type="4">
+        <text>ResourceType.Patient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXIuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
@@ -349,25 +347,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZWFyY2hFeHByZXNzaW9uIG5hbWVTZWFyY2hFeHByZXNzaW9uID0gbmV3IFNlYXJjaEV4cHJlc3Npb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vhcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc291cmNlVHlwZSA9PSBudWxsKSB7CgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewoKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGUuZ2V0TWVzc2FnZSgpLCAiU2VhcmNoIGV4cHJlc2lvbiBpcyBub3QgZGVmaW5lZCBmb3IgcGFyYW1ldGVyIFtuYW1lXSBhbmQgcmVzb3VyY2UgW1BhdGllbnRdIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3V0LnZhbGlkYXRlKHNlYXJjaFBhcmFtZXRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmZhaWwoIlNob3VsZCB0aHJvdyBleGNlcHRpb24iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZWFyY2hQYXJhbWV0ZXIuc2V0QmFzZShDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KG5ldyBDb2RlVHlwZShSZXNvdXJjZVR5cGUuUGF0aWVudC5uYW1lKCkpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWFyY2hFeHByZXNzaW9uRGFvLmZpbmRCeVJlc291cmNlVHlwZUFuZFBhcmFtTmFtZSgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
