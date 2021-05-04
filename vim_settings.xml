@@ -124,6 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar!/org/apache/commons/collections/CollectionUtils.class" timestamp="1620128520522" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" timestamp="1620113945995">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="148" column="29" />
@@ -152,15 +153,6 @@
         <mark key="." line="212" column="74" />
         <mark key="^" line="212" column="75" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" timestamp="1619782002416">
-        <mark key="[" line="65" column="109" />
-        <mark key="]" line="66" column="12" />
-        <mark key="." line="66" column="11" />
-        <mark key="^" line="66" column="12" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/NumberParam.class" timestamp="1619781638029">
-        <mark key="'" line="33" column="46" />
-      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/PractitionerDataConverterTest.java" timestamp="1620111206250">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="44" />
@@ -172,9 +164,9 @@
         <mark key="^" line="0" column="53" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoSearchExpressionDaoSpringTest.java" timestamp="1620116531321" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoSearchExpressionDao.java" timestamp="1620120251082">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="24" column="17" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoSearchExpressionDao.java" timestamp="1620127872710">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="36" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchExpression.java" timestamp="1620116682752" />
       <file name="/Dummy.txt" timestamp="1620116221646">
@@ -183,6 +175,12 @@
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/SorClientServiceTest.java" timestamp="1620111968541">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="60" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidator.java" timestamp="1620128566188">
+        <mark key="[" line="34" column="63" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="62" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/ResourceHandlerTest.java" timestamp="1619782504041">
         <mark key="[" line="74" column="0" />
@@ -194,6 +192,13 @@
         <mark key="]" line="104" column="12" />
         <mark key="^" line="104" column="12" />
         <mark key="." line="104" column="11" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1620127583747">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="62" column="29" />
+        <mark key="." line="212" column="58" />
+        <mark key="^" line="212" column="59" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Enumerations.java" timestamp="1619783461589">
         <mark key="'" line="13655" column="20" />
@@ -209,7 +214,6 @@
       <file name="/MongoSearchExpressionDao.java" timestamp="1620116143811" />
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="59" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="24" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.http" />
       <jump line="26" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.create.http" />
@@ -309,6 +313,7 @@
       <jump line="93" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
       <jump line="212" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
       <jump line="150" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
+      <jump line="207" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,49 +322,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkKICAgIHB1YmxpYyBJQmFzZVJlc291cmNlIHJlYWQoSUlkVHlwZSBpZCkgewogICAgICAgIFJlc291cmNlUmVjb3JkIHJlc291cmNlTW9uZ28gPSBmaW5kQnlJZChpZCk7CgogICAgICAgIGNoZWNrSWZSZXNvdXJjZVdhc0RlbGV0ZWQocmVzb3VyY2VNb25nbyk7CgogICAgICAgIElCYXNlUmVzb3VyY2UgaUJhc2VSZXNvdXJjZSA9IGNvbnZlcnRUb0liYXNlUmVzb3VyY2UocmVzb3VyY2VNb25nbyk7CiAgICAgICAgaUJhc2VSZXNvdXJjZS5zZXRJZChyZXNvdXJjZU1vbmdvLmdldElkKCkudG9TdHJpbmcoKSk7CiAgICAgICAgcmV0dXJuIGlCYXNlUmVzb3VyY2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkKICAgIHB1YmxpYyBJQmFzZVJlc291cmNlIHJlYWQoSUlkVHlwZSBpZCkgewogICAgICAgIFJlc291cmNlUmVjb3JkIHJlc291cmNlTW9uZ28gPSBmaW5kQnlJZChpZCk7CgogICAgICAgIGNoZWNrSWZSZXNvdXJjZVdhc0RlbGV0ZWQocmVzb3VyY2VNb25nbyk7CgogICAgICAgIElCYXNlUmVzb3VyY2UgaUJhc2VSZXNvdXJjZSA9IGNvbnZlcnRUb0liYXNlUmVzb3VyY2UocmVzb3VyY2VNb25nbyk7CiAgICAgICAgaUJhc2VSZXNvdXJjZS5zZXRJZChyZXNvdXJjZU1vbmdvLmdldElkKCkudG9TdHJpbmcoKSk7CiAgICAgICAgcmV0dXJuIGlCYXNlUmVzb3VyY2U7CiAgICB9Cg==</text>
+      <register name="+" type="4">
+        <text>SearchParameter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ldyBTaW1wbGVCdW5kbGVQcm92aWRlcihDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVCdW5kbGVQcm92aWRlciBidW5kbGVQcm92aWRlciA9IG5ldyBTaW1wbGVCdW5kbGVQcm92aWRlcihBcnJheXMuYXNMaXN0KAogICAgICAgICAgICBjcmVhdGVTZWFyY2hQYXJhbWV0ZXIoInRlc3QtbnVtYmVyIiwgU2VhcmNoUGFyYW1UeXBlLk5VTUJFUiksCiAgICAgICAgICAgIGNyZWF0ZVNlYXJjaFBhcmFtZXRlcigidGVzdC1kYXRlIiwgU2VhcmNoUGFyYW1UeXBlLkRBVEUpLAogICAgICAgICAgICBjcmVhdGVTZWFyY2hQYXJhbWV0ZXIoInRlc3QtdG9rZW4iLCBTZWFyY2hQYXJhbVR5cGUuVE9LRU4pCiAgICAgICAgKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRSZXF1ZXN0RXhjZXB0aW9uKCJBdCBsZWFzdCBvbmUgYmFzZSBmb3Igc2VhcmNoIHBhcmFtZXRlciBpcyByZXF1aXJlZC4iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlU2VhcmNoUGFyYW1ldGVyKCJ0ZXN0LXRva2VuIiwgU2VhcmNoUGFyYW1UeXBlLlRPS0VOKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhLnVobi5maGlyLnJlc3QuYXBpLnNlcnZlci5SZXF1ZXN0RGV0YWlsczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZWFyY2hFeHByZXNzaW9uRGFvLmZpbmRCeVJlc291cmNlVHlwZUFuZFBhcmFtTmFtZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXJNYXAuZW50cnlTZXQoKS5zaQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0VXRpbHMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UucHV0KCJ0ZXN0LW5hbWUiLCBBcnJheXMuYXNMaXN0KCJndDIwMCIsICIzMDAiLCAibHQxMDAiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdzLmlzTnVsbE9yRW1wdHkoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHNvdXJjZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBzb3VyY2UucHV0KCJ0ZXN0LW5hbWUiLCBBcnJheXMuYXNMaXN0KCJndDIwMCIsICIzMDAiLCAibHQxMDAiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdzLmlzTnVsbE9yRW1wdHkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
