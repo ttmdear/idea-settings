@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIQVNcPg==</entry>
-        <entry encoding="base64">XDxTUEVDSUFMXD4=</entry>
-        <entry encoding="base64">XDxCYXNlUmVzb3VyY2VQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
         <entry encoding="base64">XDxDcml0ZXJpYURlZmluaXRpb25cPg==</entry>
         <entry encoding="base64">XDxTZWFyY2hQYXJhbWV0ZXJcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
         <entry encoding="base64">XDxxdW90ZXNUb0RhdGVcPg==</entry>
         <entry encoding="base64">XDxzaWduYWxab25lTGFzdFw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzWm9uZVw+</entry>
+        <entry encoding="base64">XDxyZXNvbHZlRXZlbnRUeXBlXD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzTGV2ZWxUZXN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -191,13 +191,6 @@
         <mark key="^" line="39" column="59" />
         <mark key="." line="39" column="58" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1620133075738">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="88" column="55" />
-        <mark key="]" line="89" column="8" />
-        <mark key="." line="89" column="7" />
-        <mark key="^" line="89" column="8" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/resources/application.yaml" timestamp="1620209736655">
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="17" />
@@ -205,8 +198,20 @@
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1620239760436">
         <mark key="'" line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1620239959376" />
-      <file name="/fragment.java" timestamp="1620239525296">
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveState.java" timestamp="1620240562007">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1620240626242">
+        <mark key="'" line="84" column="18" />
+        <mark key="[" line="111" column="11" />
+        <mark key="]" line="111" column="15" />
+        <mark key="." line="111" column="14" />
+        <mark key="^" line="111" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1620240534933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="48" />
@@ -214,13 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13682" column="10" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Enumerations.java" />
-      <jump line="735" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r5/5.1.0/org.hl7.fhir.r5-5.1.0.jar!/org/hl7/fhir/r5/model/Enumerations.class" />
-      <jump line="86" column="100" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
-      <jump line="31" column="38" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
-      <jump line="32" column="38" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
-      <jump line="20" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
-      <jump line="40" column="48" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="43" column="37" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="19" column="19" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
       <jump line="69" column="46" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
@@ -314,6 +312,13 @@
       <jump line="416" column="32" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="56" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="33" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="142" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="116" column="30" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="141" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="77" column="8" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="76" column="18" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="13" column="7" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveState.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,50 +326,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+      <register name="&quot;" type="4">
+        <text>Test</text>
       </register>
       <register name="+" type="4">
         <text>/TED_EXPORT/CODED_DATA_SECTION/CODIF_DATA/NC_CONTRACT_NATURE/@CODE</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceHandler resourceHandler;</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduYWxab25lTGFzdFw+</text>
+        <text encoding="base64">XDxwcm9jZXNzTGV2ZWxUZXN0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXJWYWxpZGF0b3IudmFsaWRhdGUodGhlUmVzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBCcm9rZW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikK</text>
+        <text encoding="base64">CiAgICBAR2V0dGVyCiAgICBwcml2YXRlIGJvb2xlYW4gYnJva2VuOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldEZyb21EYXRlKERhdGVVdGlsLmZvcm1hdCgiMjAyMS0wNC0yNiIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwoKaW1wb3J0IGNvbS5sdmwuYW5hbHlzaXMuQ2FuZGxlOwppbXBvcnQgY29tLmx2bC5hbmFseXNpcy5EaXJlY3Rpb247CmltcG9ydCBjb20ubHZsLmNvcmUuUGFyYW1ldGVyczsKaW1wb3J0IGNvbS5sdmwucXVvdGF0aW9ucy5RdW90ZTsKaW1wb3J0IGxvbWJvay5HZXR0ZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgZmluYWwgUXVvdGUgYmVnaW47CgogICAgQEdldHRlcgogICAgcHJpdmF0ZSBmaW5hbCBEaXJlY3Rpb24gZGlyZWN0aW9uOwoKICAgIHByaXZhdGUgZmluYWwgUGFyYW1ldGVycyBwYXJhbWV0ZXJzOwoKICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBicm9rZW47CgogICAgQEdldHRlcgogICAgcHJpdmF0ZSBkb3VibGUgbGV2ZWxNYXJnaW5WYWx1ZTsKCiAgICBAR2V0dGVyCiAgICBwcml2YXRlIGRvdWJsZSBsZXZlbEluVmFsdWU7CgogICAgQEdldHRlcgogICAgcHJpdmF0ZSBMaXN0PFF1b3RlPiBxdW90ZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICBwcml2YXRlIFF1b3RlIGFuYWx5emVRdW90ZTsKCiAgICBwcml2YXRlIENhbmRsZSBhbmFseXplQ2FuZGxlOwoKICAgIHByaXZhdGUgZG91YmxlIG1hVmFsdWU7CgogICAgcHJpdmF0ZSBkb3VibGUgbWFWYWx1ZUJlZ2luOwoKICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgZG91YmxlIGhlaWdodCA9IDA7CgogICAgcHVibGljIFdhdmVTdGF0ZShRdW90ZSBiZWdpbiwgRGlyZWN0aW9uIGRpcmVjdGlvbiwgZG91YmxlIG1hVmFsdWVCZWdpbiwgUGFyYW1ldGVycyBwYXJhbWV0ZXJzKSB7CiAgICAgICAgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChiZWdpbik7CiAgICAgICAgT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChkaXJlY3Rpb24pOwogICAgICAgIE9iamVjdHMucmVxdWlyZU5vbk51bGwocGFyYW1ldGVycyk7CgogICAgICAgIGlmIChtYVZhbHVlQmVnaW4gPD0gMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJtYVZhbHVlQmVnaW4gc2hvdWxkIGJlIGdyZWF0ZXIgdGhlbiAwIik7CiAgICAgICAgfQoKICAgICAgICBpZiAoIWRpcmVjdGlvbi5pc0luY3JlYXNpbmcoKSAmJiAhZGlyZWN0aW9uLmlzRGVjcmVhc2luZygpKSB7CiAgICAgICAgICAgIERpcmVjdGlvbi50aHJvd1Vuc3VwcG9ydGVkRGlyZWN0aW9uKGRpcmVjdGlvbik7CiAgICAgICAgfQoKICAgICAgICB0aGlzLmJlZ2luID0gYmVnaW47CiAgICAgICAgdGhpcy5kaXJlY3Rpb24gPSBkaXJlY3Rpb247CiAgICAgICAgdGhpcy5wYXJhbWV0ZXJzID0gcGFyYW1ldGVyczsKICAgICAgICB0aGlzLm1hVmFsdWVCZWdpbiA9IG1hVmFsdWVCZWdpbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBhbmFseXplKFF1b3RlIGFuYWx5emVRdW90ZSwgZG91YmxlIG1hVmFsdWUpIHsKICAgICAgICBPYmplY3RzLnJlcXVpcmVOb25OdWxsKGFuYWx5emVRdW90ZSk7CgogICAgICAgIHRoaXMuYW5hbHl6ZVF1b3RlID0gYW5hbHl6ZVF1b3RlOwogICAgICAgIHRoaXMuYW5hbHl6ZUNhbmRsZSA9IG5ldyBDYW5kbGUoYW5hbHl6ZVF1b3RlKTsKICAgICAgICB0aGlzLm1hVmFsdWUgPSBtYVZhbHVlOwoKICAgICAgICBxdW90ZXMuYWRkKGFuYWx5emVRdW90ZSk7CgogICAgICAgIGNhbGN1bGF0ZVZhbHVlcygpOwoKICAgICAgICBwcm9jZXNzQnJva2VuKCk7CgogICAgICAgIGlmIChicm9rZW4pIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgLy8gQ2hlY2sgYWN0aXZlIHpvbmUKICAgICAgICBwcm9jZXNzV2F2ZUhlaWdodCgpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjYWxjdWxhdGVWYWx1ZXMoKSB7CiAgICAgICAgaWYgKGRpcmVjdGlvbi5pc0luY3JlYXNpbmcoKSkgewogICAgICAgICAgICBsZXZlbE1hcmdpblZhbHVlID0gbWFWYWx1ZSAtIHBhcmFtZXRlcnMuZ2V0QW5hbHl6ZU1hWm9uZU1hcmdpblNpemUoKTsKICAgICAgICAgICAgbGV2ZWxJblZhbHVlID0gbWFWYWx1ZSArIHBhcmFtZXRlcnMuZ2V0QW5hbHl6ZU1hWm9uZUluU2l6ZSgpOwogICAgICAgIH0gZWxzZSBpZiAoZGlyZWN0aW9uLmlzRGVjcmVhc2luZygpKSB7CiAgICAgICAgICAgIGxldmVsTWFyZ2luVmFsdWUgPSBtYVZhbHVlICsgcGFyYW1ldGVycy5nZXRBbmFseXplTWFab25lTWFyZ2luU2l6ZSgpOwogICAgICAgICAgICBsZXZlbEluVmFsdWUgPSBtYVZhbHVlIC0gcGFyYW1ldGVycy5nZXRBbmFseXplTWFab25lSW5TaXplKCk7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0TGVuZ3RoKCkgewogICAgICAgIHJldHVybiBxdW90ZXMuc2l6ZSgpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBwcm9jZXNzQnJva2VuKCkgewogICAgICAgIGRvdWJsZSBjbG9zZSA9IGFuYWx5emVRdW90ZS5nZXRDbG9zZSgpOwoKICAgICAgICBpZiAoZGlyZWN0aW9uLmlzSW5jcmVhc2luZygpICYmIGNsb3NlIDwgbGV2ZWxNYXJnaW5WYWx1ZSkgewogICAgICAgICAgICBicm9rZW4gPSB0cnVlOwogICAgICAgIH0gZWxzZSBpZiAoZGlyZWN0aW9uLmlzRGVjcmVhc2luZygpICYmIGNsb3NlID4gbGV2ZWxNYXJnaW5WYWx1ZSkgewogICAgICAgICAgICBicm9rZW4gPSB0cnVlOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHZvaWQgcHJvY2Vzc1dhdmVIZWlnaHQoKSB7CiAgICAgICAgaWYgKGRpcmVjdGlvbi5pc0luY3JlYXNpbmcoKSkgewogICAgICAgICAgICBkb3VibGUgaGVpZ2h0ID0gYW5hbHl6ZVF1b3RlLmdldEhpZ2h0KCkgLSBtYVZhbHVlQmVnaW47CgogICAgICAgICAgICBpZiAoaGVpZ2h0ID4gdGhpcy5oZWlnaHQpIHsKICAgICAgICAgICAgICAgIHRoaXMuaGVpZ2h0ID0gaGVpZ2h0OwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIGlmIChkaXJlY3Rpb24uaXNEZWNyZWFzaW5nKCkpIHsKICAgICAgICAgICAgZG91YmxlIGhlaWdodCA9IG1hVmFsdWVCZWdpbiAtIGFuYWx5emVRdW90ZS5nZXRMb3coKTsKCiAgICAgICAgICAgIGlmIChoZWlnaHQgPiB0aGlzLmhlaWdodCkgewogICAgICAgICAgICAgICAgdGhpcy5oZWlnaHQgPSBoZWlnaHQ7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBFdmVudFR5cGUgcmVzb2x2ZUV2ZW50VHlwZSgpIHsKICAgICAgICBpZiAoZGlyZWN0aW9uLmlzSW5jcmVhc2luZygpKSB7CiAgICAgICAgICAgIGRvdWJsZSBhZnRlciA9IGFuYWx5emVDYW5kbGUuZ2V0Qm9keUJvdHRvbVZhbHVlKCk7CiAgICAgICAgICAgIGRvdWJsZSBiZWZvcmUgPSBhbmFseXplQ2FuZGxlLmdldExvdygpOwoKICAgICAgICAgICAgaWYgKGJlZm9yZSA8PSBtYVZhbHVlICYmIGFmdGVyID49IG1hVmFsdWUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBFdmVudFR5cGUuTUFfVEVTVDsKICAgICAgICAgICAgfSBlbHNlIGlmIChiZWZvcmUgPD0gbGV2ZWxNYXJnaW5WYWx1ZSAmJiBhZnRlciA+PSBsZXZlbE1hcmdpblZhbHVlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gRXZlbnRUeXBlLk1SX1RFU1Q7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgaWYgKGRpcmVjdGlvbi5pc0RlY3JlYXNpbmcoKSkgewogICAgICAgICAgICBkb3VibGUgYWZ0ZXIgPSBhbmFseXplQ2FuZGxlLmdldEJvZHlUb3BWYWx1ZSgpOwogICAgICAgICAgICBkb3VibGUgYmVmb3JlID0gYW5hbHl6ZUNhbmRsZS5nZXRIaWdodCgpOwoKICAgICAgICAgICAgaWYgKGJlZm9yZSA+PSBtYVZhbHVlICYmIGFmdGVyIDw9IG1hVmFsdWUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBFdmVudFR5cGUuTUFfVEVTVDsKICAgICAgICAgICAgfSBlbHNlIGlmIChiZWZvcmUgPj0gbGV2ZWxNYXJnaW5WYWx1ZSAmJiBhZnRlciA8PSBsZXZlbE1hcmdpblZhbHVlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gRXZlbnRUeXBlLk1SX1RFU1Q7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHByaXZhdGUgWm9uZVR5cGUgcmVzb2x2ZVpvbmUoKSB7CiAgICAgICAgZG91YmxlIGNsb3NlID0gYW5hbHl6ZVF1b3RlLmdldENsb3NlKCk7CgogICAgICAgIGlmIChkaXJlY3Rpb24uaXNJbmNyZWFzaW5nKCkpIHsKICAgICAgICAgICAgaWYgKGNsb3NlID49IGxldmVsTWFyZ2luVmFsdWUgJiYgY2xvc2UgPCBsZXZlbEluVmFsdWUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBab25lVHlwZS5JTjsKICAgICAgICAgICAgfSBlbHNlIGlmIChjbG9zZSA+PSBsZXZlbEluVmFsdWUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBab25lVHlwZS5PVVQ7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgaWYgKGRpcmVjdGlvbi5pc0RlY3JlYXNpbmcoKSkgewogICAgICAgICAgICBpZiAoY2xvc2UgPD0gbGV2ZWxNYXJnaW5WYWx1ZSAmJiBjbG9zZSA+IGxldmVsSW5WYWx1ZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIFpvbmVUeXBlLklOOwogICAgICAgICAgICB9IGVsc2UgaWYgKGNsb3NlIDw9IGxldmVsSW5WYWx1ZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIFpvbmVUeXBlLk9VVDsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIlVuZGV0ZXJtaW5lZCBkaXJlY3Rpb24uIik7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZWFyY2hFeHByZXNzaW9uIG5hbWVTZWFyY2hFeHByZXNzaW9uID0gbmV3IFNlYXJjaEV4cHJlc3Npb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGlyZWN0aW9uLnRocm93VW5zdXBwb3J0ZWREaXJlY3Rpb24oZGlyZWN0aW9uKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewoKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGUuZ2V0TWVzc2FnZSgpLCAiU2VhcmNoIGV4cHJlc2lvbiBpcyBub3QgZGVmaW5lZCBmb3IgcGFyYW1ldGVyIFtuYW1lXSBhbmQgcmVzb3VyY2UgW1BhdGllbnRdIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0Wm9uZShab25lVHlwZSB6b25lVHlwZSwgUXVvdGUgcXVvdGUpIHsKICAgICAgICB6b25lID0gbmV3IFpvbmUoem9uZVR5cGUsIHF1b3RlKTsKICAgICAgICBldmVudHMgPSBuZXcgRXZlbnRzKCk7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNJblpvbmUoKSB7CiAgICAgICAgcmV0dXJuIHpvbmUgIT0gbnVsbCAmJiB6b25lLmdldFR5cGUoKS5lcXVhbHMoWm9uZVR5cGUuSU4pOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3V0LnZhbGlkYXRlKHNlYXJjaFBhcmFtZXRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmZhaWwoIlNob3VsZCB0aHJvdyBleGNlcHRpb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWRpcmVjdGlvbi5pc0luY3JlYXNpbmcoKSAmJiAhZGlyZWN0aW9uLmlzRGVjcmVhc2luZygpKSB7CiAgICAgICAgICAgIERpcmVjdGlvbi50aHJvd1Vuc3VwcG9ydGVkRGlyZWN0aW9uKGRpcmVjdGlvbik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -373,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaWduYWxab25lTGFzdFw+</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzTGV2ZWxUZXN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduYWxab25lTGFzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzTGV2ZWxUZXN0c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
