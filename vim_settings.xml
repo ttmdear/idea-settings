@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxVUklcPg==</entry>
         <entry encoding="base64">XDxIQVNcPg==</entry>
         <entry encoding="base64">XDxTUEVDSUFMXD4=</entry>
         <entry encoding="base64">XDxCYXNlUmVzb3VyY2VQcm92aWRlclw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxmcm9tRGF0ZVw+</entry>
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
         <entry encoding="base64">XDxxdW90ZXNUb0RhdGVcPg==</entry>
+        <entry encoding="base64">XDxzaWduYWxab25lTGFzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -127,10 +127,6 @@
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" timestamp="1620235965192">
         <mark key="'" line="33" column="17" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/auth/services/AuthorizationServiceTest.java" timestamp="1620131856606">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="88" />
-      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/NoticePreparatorServiceImpl.java" timestamp="1620216120819">
         <mark key="[" line="56" column="44" />
         <mark key="]" line="56" column="109" />
@@ -171,13 +167,6 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidator.java" timestamp="1620131981250">
-        <mark key="'" line="49" column="12" />
-        <mark key="[" line="32" column="47" />
-        <mark key="]" line="32" column="96" />
-        <mark key="." line="46" column="174" />
-        <mark key="^" line="46" column="175" />
-      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" timestamp="1620198929677">
         <mark key="'" line="112" column="42" />
         <mark key="[" line="103" column="13" />
@@ -213,7 +202,11 @@
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1620133097465">
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1620239760436">
+        <mark key="'" line="33" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1620239959376" />
+      <file name="/fragment.java" timestamp="1620239525296">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="48" />
@@ -221,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="15" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/PrimitiveType.java" />
       <jump line="13682" column="10" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Enumerations.java" />
       <jump line="735" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r5/5.1.0/org.hl7.fhir.r5-5.1.0.jar!/org/hl7/fhir/r5/model/Enumerations.class" />
       <jump line="86" column="100" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/BaseResourceProvider.java" />
@@ -321,6 +313,7 @@
       <jump line="415" column="44" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="416" column="32" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
       <jump line="56" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
+      <jump line="33" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +331,7 @@
         <text>ResourceHandler resourceHandler;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdW90ZXNUb0RhdGVcPg==</text>
+        <text encoding="base64">XDxzaWduYWxab25lTGFzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWFyY2hQYXJhbWV0ZXJWYWxpZGF0b3IudmFsaWRhdGUodGhlUmVzb3VyY2UpOwo=</text>
@@ -380,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdW90ZXNUb0RhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxzaWduYWxab25lTGFzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdW90ZXNUb0RhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduYWxab25lTGFzdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
