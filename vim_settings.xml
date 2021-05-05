@@ -135,6 +135,12 @@
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="60" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImpl.java" timestamp="1620215762592">
+        <mark key="'" line="52" column="8" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" timestamp="1620215800853">
+        <mark key="'" line="59" column="72" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" timestamp="1620113945995">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="148" column="29" />
@@ -163,6 +169,10 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="88" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/NoticePreparatorServiceImpl.java" timestamp="1620216120819">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="109" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1620121583651">
         <mark key="'" line="150" column="18" />
         <mark key="[" line="148" column="0" />
@@ -183,6 +193,9 @@
         <mark key="]" line="97" column="32" />
         <mark key="." line="97" column="31" />
         <mark key="^" line="97" column="32" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" timestamp="1620215745041">
+        <mark key="'" line="55" column="30" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1620133075738">
         <mark key="'" line="215" column="0" />
@@ -205,12 +218,8 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="49" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/ExporterServiceImpl.java" timestamp="1620207181802" />
     </filemarks>
     <jumps>
-      <jump line="9" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/SearchParameter.test-all-types.http" />
-      <jump line="9" column="11" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
-      <jump line="25" column="3" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
       <jump line="0" column="47" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" />
       <jump line="4" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
       <jump line="23" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/test-all-types/2.test.http" />
@@ -308,6 +317,9 @@
       <jump line="96" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
       <jump line="17" column="56" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
       <jump line="48" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
+      <jump line="55" column="30" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" />
+      <jump line="52" column="8" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImpl.java" />
+      <jump line="59" column="72" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,10 +328,10 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CY=[PL]</text>
+        <text>/TED_EXPORT/CODED_DATA_SECTION/CODIF_DATA/NC_CONTRACT_NATURE/@CODE</text>
       </register>
       <register name="+" type="4">
-        <text>CY=[PL]</text>
+        <text>/TED_EXPORT/CODED_DATA_SECTION/CODIF_DATA/NC_CONTRACT_NATURE/@CODE</text>
       </register>
       <register name="-" type="4">
         <text>ResourceHandler resourceHandler;</text>
