@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmFseXplQ2FuZGxlXD4=</entry>
         <entry encoding="base64">XDxhbmFseXplUXVvdGVcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplTWFUZXN0aW5nTWluR2FwVG9TaWduYWxcPg==</entry>
         <entry encoding="base64">XDxpbnNpZGVBbmFseXplckhlbHBlclw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxpdGVyXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
+        <entry encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -181,12 +181,12 @@
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/weights/WeightInit.java" timestamp="1620308656538">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620326231071">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="75" />
-        <mark key="]" line="94" column="76" />
-        <mark key="^" line="94" column="76" />
-        <mark key="." line="94" column="75" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620329504846">
+        <mark key="'" line="123" column="22" />
+        <mark key="[" line="97" column="96" />
+        <mark key="]" line="97" column="96" />
+        <mark key="^" line="97" column="96" />
+        <mark key="." line="97" column="95" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" timestamp="1620309477241">
         <mark key="'" line="52" column="6" />
@@ -197,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="76" column="18" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="13" column="7" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveState.java" />
       <jump line="87" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
@@ -297,6 +294,9 @@
       <jump line="95" column="58" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="106" column="57" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="130" column="21" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="30" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="123" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +314,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</text>
+        <text encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>TarArchiveInputStream</text>
@@ -356,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</last-search>
+      <last-search encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
