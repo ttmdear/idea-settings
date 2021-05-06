@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>compa</entry>
-        <entry>cove</entry>
-        <entry>ND</entry>
-        <entry encoding="base64">XDxmcm9tRGF0ZVw+</entry>
-        <entry encoding="base64">XDxxdW90ZXNUb0RhdGVcPg==</entry>
-        <entry encoding="base64">XDxzaWduYWxab25lTGFzdFw+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzWm9uZVw+</entry>
         <entry encoding="base64">XDxyZXNvbHZlRXZlbnRUeXBlXD4=</entry>
         <entry encoding="base64">XDxwcm9jZXNzTGV2ZWxUZXN0c1w+</entry>
         <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
@@ -25,6 +18,13 @@
         <entry encoding="base64">XDxhbmFseXplTWFJbnNpZGVNYXhTaXplXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZFw+</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJNYXBFeHRcPg==</entry>
+        <entry encoding="base64">XDxMRUFSTklOR19SQVRFXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
+        <entry encoding="base64">XDxYQVZJRVJcPg==</entry>
+        <entry encoding="base64">XDxwcmVkaWN0TW9ydGFsaXR5XD4=</entry>
+        <entry encoding="base64">XDxmZWF0dXJlQmFzZURpclw+</entry>
+        <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,18 +125,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/bootstrap/CommandName.java" timestamp="1620247035217">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-        <mark key="." line="3" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1620287844897">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="33" />
-      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtil.java" timestamp="1620286415626">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -148,23 +136,34 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters.properties" timestamp="1620244916311">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/activations/impl/ActivationTanH.java" timestamp="1620308771432" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620309527703">
+        <mark key="'" line="101" column="8" />
+        <mark key="[" line="107" column="39" />
+        <mark key="]" line="107" column="39" />
+        <mark key="." line="107" column="38" />
+        <mark key="^" line="107" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1620247321932">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="108" column="52" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620286098051">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters_eurusd_15.properties" timestamp="1620244912221">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/weights/WeightInit.java" timestamp="1620308656538">
+        <mark key="'" line="47" column="50" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/SequenceRecordReader.java" timestamp="1620307666325" />
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/conf/NeuralNetConfiguration.java" timestamp="1620308683034" />
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/conf/ComputationGraphConfiguration.java" timestamp="1620307989892">
+        <mark key="[" line="776" column="15" />
+        <mark key="]" line="776" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1620287844897">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="33" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" timestamp="1620287420515">
         <mark key="'" line="68" column="40" />
@@ -178,91 +177,25 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/resources/parameters_eurusd_15.properties" timestamp="1620244754896">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1620244849023">
-        <mark key="'" line="37" column="45" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="53" column="4" />
-      </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620304912456">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="14" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1.jar!/org/datavec/api/records/reader/RecordReader.class" timestamp="1620307382699" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchExpressionData.java" timestamp="1620285916359">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620286098051">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1620244904098">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1620247097402">
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="55" column="38" />
-        <mark key="." line="55" column="37" />
-        <mark key="^" line="55" column="38" />
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1.jar!/org/datavec/api/records/reader/impl/csv/CSVSequenceRecordReader.class" timestamp="1620307372995" />
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" timestamp="1620307495068" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" timestamp="1620309477241">
+        <mark key="'" line="52" column="6" />
       </file>
       <file name="/pom.xml" timestamp="1620285013208">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1620247104913">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="49" />
-        <mark key="." line="0" column="48" />
-        <mark key="^" line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/test/java/com/lvl/core/ParametersTest.groovy" timestamp="1620244853846">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="8" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/activations/Activation.java" timestamp="1620308752297" />
     </filemarks>
     <jumps>
-      <jump line="212" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
-      <jump line="150" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" />
-      <jump line="207" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="49" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidator.java" />
-      <jump line="27" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="41" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="59" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="75" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="95" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="21" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="96" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="17" column="56" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="48" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/SearchParameterValidatorTest.java" />
-      <jump line="55" column="30" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/TEDServiceImpl.java" />
-      <jump line="52" column="8" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/ImporterServiceImpl.java" />
-      <jump line="59" column="72" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/importer-web/src/main/java/com/pentacomp/ezamowienia/mo/importer/services/impl/PreparatorServiceImpl.java" />
-      <jump line="409" column="28" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
-      <jump line="53" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" />
-      <jump line="125" column="24" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="100" column="16" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="119" column="39" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="33" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" />
       <jump line="112" column="15" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="113" column="12" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="115" column="44" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -339,6 +272,30 @@
       <jump line="66" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
       <jump line="67" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
       <jump line="68" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
+      <jump line="19" column="73" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="35" column="43" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="52" column="18" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="68" column="21" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="56" column="46" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="48" column="54" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="44" column="42" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="85" column="18" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="23" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="47" column="50" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/weights/WeightInit.java" />
+      <jump line="73" column="17" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="65" column="24" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="43" column="96" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="66" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="74" column="23" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="111" column="59" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="0" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="94" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="92" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="96" column="15" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="100" column="32" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="101" column="8" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="1" column="7" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" />
+      <jump line="52" column="6" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,49 +304,50 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>val</text>
+        <text>.</text>
       </register>
       <register name="+" type="4">
         <text>javax.annotation-api</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbWV0ZXJNYXBFeHRcPg==</text>
+        <text encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>dl4j.version</text>
+        <text>TarArchiveInputStream</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlbmFtZVV0aWxzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">dmFsIAp2YWwg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lmp3cy5XZWJQYXJhbTsK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlLmZpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBXZWJQYXJhbS5Nb2RlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5sZWFybmluZy5jb25maS5BZGFtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDU1ZTZXF1ZW5jZVJlY29yZFJlYWRlciB0cmFpbkRhdGEK</text>
+      <register name="6" type="8">
+        <text encoding="base64">dmFsIAp2YWwgCnZhbCAKdmFsIAp2YWwgCnZhbCAKdmFsIA==</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">IAog</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCnA=</text>
+      </register>
+      <register name="9" type="8">
+        <text>val
+val</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -398,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXJhbWV0ZXJNYXBFeHRcPg==</last-search>
+      <last-search encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbWV0ZXJNYXBFeHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
