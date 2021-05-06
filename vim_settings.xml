@@ -134,6 +134,11 @@
       <file name="/Dummy.txt" timestamp="1620246387487">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtil.java" timestamp="1620286415626">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1620237369315">
         <mark key="'" line="56" column="17" />
         <mark key="[" line="56" column="24" />
@@ -191,14 +196,17 @@
         <mark key="^" line="96" column="43" />
         <mark key="." line="96" column="42" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchExpressionData.java" timestamp="1620285564933">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchExpressionData.java" timestamp="1620285916359">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620285532923">
-        <mark key="'" line="60" column="29" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620286098051">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1620244904098">
         <mark key="'" line="0" column="0" />
@@ -231,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
-      <jump line="57" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
-      <jump line="91" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
       <jump line="109" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
       <jump line="119" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
       <jump line="94" column="45" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" />
@@ -331,6 +336,9 @@
       <jump line="12" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters.properties" />
       <jump line="60" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
+      <jump line="17" column="13" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
+      <jump line="50" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,50 +346,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>javax.annotation-api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="+" type="4">
         <text>javax.annotation-api</text>
       </register>
       <register name="-" type="4">
-        <text>RAPORT</text>
+        <text>getExpression</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXplTWFJbnNpZGVNYXhTaXplXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFbnZpcm9ubWVudCBlbnZpcm9ubWVudCA9IG5ldyBNVDRFbnZpcm9ubWVudC5CdWlsZGVyKCkKICAgICAgICAgICAgLnNldERpcmVjdG9yeShNVDRfRElSRUNUT1JZKQogICAgICAgICAgICAuc2V0Q2hhcnRDcmVhdGUoZmFsc2UpCiAgICAgICAgICAgIC5idWlsZCgpOwoKICAgICAgICBlbnZpcm9ubWVudC5sb2FkKCk7CiAgICAgICAgZW52aXJvbm1lbnQucmVsb2FkUXVvdGF0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YSA9PSBudWxsID8gbnVsbCA6IGRhdGEuZ2V0RXhwcmVzc2lvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzdXBwcmVzcyBpbnNwZWN0aW9uICJVbnVzZWRQcm9wZXJ0eSIgZm9yIHdob2xlIGZpbGUKIyBBbmFseXplIE1BCmFuYWx5emVNYVNtYVBlcmlvZD01NgphbmFseXplTWFUZXN0aW5nTWluR2FwVG9TaWduYWw9NQphbmFseXplTWFXYXZlTWluTGVuZ3RoVG9TaWduYWw9NAphbmFseXplTWFNaW5XYXZlTW9tZW50dW09MC4wMDA4CmFuYWx5emVNYUluc2lkZU1heFNpemU9NQphbmFseXplTGV2ZWwwPXRydWUKYW5hbHl6ZUxldmVsWm9uZVNpemU9MAphbmFseXplTGV2ZWxab25lVGVzdGluZ1NpemU9CmFuYWx5emVab25lU2FtZUxldmVsU2l6ZT0wCmFuYWx5emVab25lVGVzdGluZ01heEdhcD01CmFuYWx5emVTcGlubmluZ01heEdhcD0wCmFuYWx5emVUcmVuZFNtYVBlcmlvZD02MAphbmFseXplTWFjZExvbmdTbWFQZXJpb2Q9MjYKYW5hbHl6ZU1hY2RTaG9ydFNtYVBlcmlvZD0xMgphbmFseXplTWFjZFNpZ25hbFNtYVBlcmlvZD05CmFuYWx5emVBdHJQZXJpb2Q9MTQKYW5hbHl6ZUxldmVsc051bWJlcj0zCiMgU2lnbmFscwpzaWduYWxBdHJNaW5WYWx1ZT0wLjAwMDQKc2lnbmFsTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbFRlc3Rpbmc9ZmFsc2UKc2lnbmFsVGVzdGluZ0xpbmVXaXRoVHJlbmQ9ZmFsc2UKc2lnbmFsVGVzdGluZ01pbk51bWJlcj0yCnNpZ25hbFpvbmVUZXN0aW5nPWZhbHNlCnNpZ25hbFpvbmVUZXN0aW5nTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbFpvbmVUZXN0aW5nTWluTnVtYmVyPTQKc2lnbmFsU3Bpbm5pbmc9ZmFsc2UKc2lnbmFsU3Bpbm5pbmdMaW5lV2l0aFRyZW5kPXRydWUKc2lnbmFsU3Bpbm5pbmdNaW5OdW1iZXI9MQpzaWduYWxFbmd1bGZpbmc9ZmFsc2UKc2lnbmFsRW5ndWxmaW5nTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbENvdmVyPWZhbHNlCnNpZ25hbENvdmVyTGluZVdpdGhUcmVuZD10cnVlCnNpZ25hbEluc2lkZT1mYWxzZQpzaWduYWxJbnNpZGVMaW5lV2l0aFRyZW5kPXRydWUKIyBDaGFydApjaGFydERyYXdMZXZlbD10cnVlCmNoYXJ0RHJhd1NpZ25hbHM9dHJ1ZQpjaGFydERyYXdQcmljZU1vdmVtZW50PXRydWUKY2hhcnREcmF3QW5hbHl6ZVBvaW50ZXI9dHJ1ZQojIFNpbXVsYXRvcgpzaW11bGF0b3JBY3RpdmU9dHJ1ZQpzaW11bGF0b3JTbD0wLjAwMDcKIyBzaW11bGF0b3JUcD0wLjAwMzAKc2ltdWxhdG9yVHA9MC4wMDQwCnNpbXVsYXRvclBvaW50ZXI9MC4wMDAxCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMua2V5U2V0KCkuY29udGFpbnMoZmllbGQpKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzdXBwcmVzcyBpbnNwZWN0aW9uICJVbnVzZWRQcm9wZXJ0eSIgZm9yIHdob2xlIGZpbGUKIyBBbmFseXplIE1BCmFuYWx5emVNYVNtYVBlcmlvZD01NgphbmFseXplTWFUZXN0aW5nTWluR2FwVG9TaWduYWw9MTAKYW5hbHl6ZU1hV2F2ZU1pbkxlbmd0aFRvU2lnbmFsPTEwCmFuYWx5emVNYU1pbldhdmVNb21lbnR1bT0wLjAwMTAKYW5hbHl6ZU1hWm9uZUluU2l6ZT0wLjAwMTIKYW5hbHl6ZU1hWm9uZU1hcmdpblNpemU9MC4wMDAzCmFuYWx5emVBdHJQZXJpb2Q9MTQKCiMgU2ltdWxhdG9yCnNpbXVsYXRvclNsPTAuMDAxNQpzaW11bGF0b3JUcD0wLjAwMzAKc2ltdWxhdG9yUG9pbnRlcj0wLjAwMDEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW5hbHl6ZU1hSW5zaWRlTWF4U2l6ZT01Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YW5hbHl6ZU1hV2F2ZU1pbkxlbmd0aFRvU2lnbmFsPTEwCiMgYW5hbHl6ZU1hTWluV2F2ZU1vbWVudHVtPTAuMDAwMgphbmFseXplTWFNaW5XYXZlTW9tZW50dW09MC4wMDEwCmFuYWx5emVNYVNtYVBlcmlvZD01NgphbmFseXplTWFJbnNpZGVNYXhTaXplPTUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNSwgcGFyYW1ldGVycy5nZXRBbmFseXplTWFJbnNpZGVNYXhTaXplKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VhcmNoRXhwTWFwLmdldChmaWVsZCkuY29udGVudFR5cGU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VhcmNoRXhwTWFwLmdldChmaWVsZCkuZXhwcmVzc2lvbjsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTWFrc3ltYWxuYSBkxYJ1Z2/Fm8SHIGZvcm1hY2ppIGluc2lkZS4KICAgICAqLwogICAgcHJpdmF0ZSBpbnQgYW5hbHl6ZU1hSW5zaWRlTWF4U2l6ZTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5hbHl6ZVRyZW5kU21hUGVyaW9kPTYwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VhcmNoRXhwTWFwLmNvbnRhaW5zS2V5KGZpZWxkKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
