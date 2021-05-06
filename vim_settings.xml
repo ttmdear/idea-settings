@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmFseXplUXVvdGVcPg==</entry>
-        <entry encoding="base64">XDxhbmFseXplTWFUZXN0aW5nTWluR2FwVG9TaWduYWxcPg==</entry>
-        <entry encoding="base64">XDxpbnNpZGVBbmFseXplckhlbHBlclw+</entry>
         <entry encoding="base64">XDxhbmFseXplTWFXYXZlTWluTGVuZ3RoVG9TaWduYWxcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplTWFNaW5XYXZlTW9tZW50dW1cPg==</entry>
         <entry encoding="base64">XDxhbmFseXplTWFTbWFQZXJpb2RcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
         <entry encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</entry>
+        <entry encoding="base64">XDxXcml0YWJsZUNvbnZlcnRlclw+</entry>
+        <entry encoding="base64">XDxjYW5vdmFcPg==</entry>
+        <entry encoding="base64">XDxEYXRhU2V0SXRlcmF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,12 +125,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/pom.xml" timestamp="1620293483901">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="37" column="26" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/conf/ComputationGraphConfiguration.java" timestamp="1620307989892">
         <mark key="[" line="776" column="15" />
         <mark key="]" line="776" column="43" />
@@ -153,6 +147,12 @@
         <mark key="]" line="39" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/LineRecordReader.java" timestamp="1620323752727" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" timestamp="1620330261924">
+        <mark key="[" line="115" column="18" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="115" column="15" />
+      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/DataInput.class" timestamp="1620323147186">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="25" />
@@ -197,11 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="18" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="13" column="7" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveState.java" />
-      <jump line="87" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="155" column="23" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="231" column="11" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="171" column="15" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="196" column="31" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
@@ -297,6 +292,11 @@
       <jump line="130" column="21" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="30" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="123" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="175" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
+      <jump line="82" column="92" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
+      <jump line="12" column="35" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
+      <jump line="13" column="44" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,49 +305,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DataInput</text>
+        <text>6</text>
       </register>
       <register name="+" type="4">
         <text>DataInput</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</text>
+        <text encoding="base64">XDxEYXRhU2V0SXRlcmF0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>TarArchiveInputStream</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5kZWVwbGVhcm5pbmc0ai5kYXRhc2V0cy5pdGVyYXRvci5EYXRhU2V0SXRlcmF0b3I7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5kYXRhc2V0LmFwaS5pdGVyYXRvci5EYXRhU2V0SXRlcmF0b3I7Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">dmFsIAp2YWwg</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5kZWVwbGVhcm5pbmc0ai5kYXRhc2V0cy5pdGVyYXRvci5EYXRhU2V0SXRlcmF0b3I7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlLmZpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5kZWVwbGVhcm5pbmc0ai5kYXRhc2V0cy5jYW5vdmEuUmVjb3JkUmVhZGVyRGF0YVNldEl0ZXJhdG9yOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5sZWFybmluZy5jb25maS5BZGFtOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jYW5vdmEuYXBpLmlvLldyaXRhYmxlQ29udmVydGVyOwppbXBvcnQgb3JnLmNhbm92YS5hcGkuaW8uY29udmVydGVycy5Xcml0YWJsZUNvbnZlcnRlckV4Y2VwdGlvbjsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLmlvLmRhdGEuSW50V3JpdGFibGU7CmltcG9ydCBvcmcuY2Fub3ZhLmFwaS5pby5kYXRhLlRleHQ7CmltcG9ydCBvcmcuY2Fub3ZhLmFwaS5yZWNvcmRzLnJlYWRlci5SZWNvcmRSZWFkZXI7CmltcG9ydCBvcmcuY2Fub3ZhLmFwaS5yZWNvcmRzLnJlYWRlci5pbXBsLkNTVlJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLnJlY29yZHMucmVhZGVyLmltcGwuQ29tcG9zYWJsZVJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLnNwbGl0LkZpbGVTcGxpdDsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLndyaXRhYmxlLldyaXRhYmxlOwppbXBvcnQgb3JnLmNhbm92YS5pbWFnZS5yZWNvcmRyZWFkZXIuSW1hZ2VSZWNvcmRSZWFkZXI7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIENpZmFyIHsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">dmFsIAp2YWwgCnZhbCAKdmFsIAp2YWwgCnZhbCAKdmFsIA==</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAog</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">IAogCnA=</text>
+        <text encoding="base64">dmFsIAp2YWwg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -356,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</last-search>
+      <last-search encoding="base64">XDxEYXRhU2V0SXRlcmF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxEYXRhU2V0SXRlcmF0b3JcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
