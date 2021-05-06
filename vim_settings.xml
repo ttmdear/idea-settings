@@ -19,12 +19,12 @@
         <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
         <entry encoding="base64">XDxYQVZJRVJcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWN0TW9ydGFsaXR5XD4=</entry>
-        <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
         <entry encoding="base64">XDxGaWxlbmFtZVV0aWxzXD4=</entry>
         <entry encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlQmFzZURpclw+</entry>
         <entry encoding="base64">XDxpdGVyXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
+        <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -181,8 +181,8 @@
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/weights/WeightInit.java" timestamp="1620308656538">
         <mark key="'" line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620322497234">
-        <mark key="'" line="107" column="19" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620326231071">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="94" column="75" />
         <mark key="]" line="94" column="76" />
         <mark key="^" line="94" column="76" />
@@ -197,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
-      <jump line="116" column="30" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="141" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="77" column="8" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
@@ -281,7 +279,6 @@
       <jump line="94" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="96" column="32" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="91" column="32" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="86" column="15" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="127" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="119" column="24" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
@@ -297,6 +294,9 @@
       <jump line="107" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="119" column="14" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" />
       <jump line="118" column="16" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" />
+      <jump line="95" column="58" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="106" column="57" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +314,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsaXplXD4=</text>
+        <text encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>TarArchiveInputStream</text>
@@ -356,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsaXplXD4=</last-search>
+      <last-search encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
