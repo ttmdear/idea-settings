@@ -137,12 +137,12 @@
         <mark key="." line="37" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/activations/impl/ActivationTanH.java" timestamp="1620308771432" />
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620309527703">
-        <mark key="'" line="101" column="8" />
-        <mark key="[" line="107" column="39" />
-        <mark key="]" line="107" column="39" />
-        <mark key="." line="107" column="38" />
-        <mark key="^" line="107" column="39" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620309584497">
+        <mark key="'" line="150" column="28" />
+        <mark key="[" line="152" column="8" />
+        <mark key="]" line="152" column="11" />
+        <mark key="." line="152" column="8" />
+        <mark key="^" line="152" column="11" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620286098051">
         <mark key="[" line="23" column="0" />
@@ -196,7 +196,6 @@
       <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/activations/Activation.java" timestamp="1620308752297" />
     </filemarks>
     <jumps>
-      <jump line="112" column="15" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="113" column="12" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="115" column="44" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="119" column="58" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -296,6 +295,7 @@
       <jump line="101" column="8" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="1" column="7" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" />
       <jump line="52" column="6" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" />
+      <jump line="149" column="28" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,13 +304,13 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>val</text>
       </register>
       <register name="+" type="4">
         <text>javax.annotation-api</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</text>
