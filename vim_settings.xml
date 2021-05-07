@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZWF0dXJlQmFzZURpclw+</entry>
-        <entry encoding="base64">XDxpdGVyXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
         <entry encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxpbnB1dHNcPg==</entry>
         <entry encoding="base64">XDxuZXR3b3JrSW5wdXRzXD4=</entry>
         <entry encoding="base64">XDxmaXRcPg==</entry>
+        <entry encoding="base64">XDxzZWVkXD4=</entry>
+        <entry encoding="base64">XDxwcmVwYXJlQ29uZmlndXJhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,8 +125,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" timestamp="1620424090597">
+        <mark key="[" line="88" column="13" />
+        <mark key="]" line="88" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" timestamp="1620426286006">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="30" column="54" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/dataset/api/DataSet.java" timestamp="1620422972515">
         <mark key="'" line="196" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1620422721877">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1.jar!/org/deeplearning4j/nn/graph/ComputationGraph.class" timestamp="1620423158799">
         <mark key="'" line="700" column="38" />
@@ -153,31 +167,12 @@
         <mark key="." line="40" column="70" />
         <mark key="^" line="40" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" timestamp="1620330261924">
-        <mark key="[" line="115" column="18" />
-        <mark key="]" line="115" column="18" />
-        <mark key="." line="115" column="18" />
-        <mark key="^" line="115" column="15" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" timestamp="1620424090597">
-        <mark key="[" line="88" column="13" />
-        <mark key="]" line="88" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" timestamp="1620420928024">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="76" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1620422721877">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620423947870">
-        <mark key="'" line="32" column="29" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="129" column="38" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620427639834">
+        <mark key="'" line="179" column="8" />
+        <mark key="[" line="183" column="70" />
+        <mark key="]" line="183" column="70" />
+        <mark key="^" line="183" column="70" />
+        <mark key="." line="183" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1.jar!/org/deeplearning4j/nn/conf/ComputationGraphConfiguration.class" timestamp="1620422588410">
         <mark key="'" line="48" column="27" />
@@ -186,19 +181,17 @@
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" timestamp="1620330261924">
+        <mark key="[" line="115" column="18" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="115" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1620422047578">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="57" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="130" column="21" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="30" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="123" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="175" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="82" column="92" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="2" column="25" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="12" column="35" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
       <jump line="13" column="44" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
       <jump line="90" column="117" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
       <jump line="287" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -291,6 +284,14 @@
       <jump line="2280" column="16" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1.jar!/org/deeplearning4j/nn/graph/ComputationGraph.class" />
       <jump line="700" column="38" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1.jar!/org/deeplearning4j/nn/graph/ComputationGraph.class" />
       <jump line="196" column="18" filename="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/dataset/api/DataSet.java" />
+      <jump line="32" column="73" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" />
+      <jump line="34" column="22" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" />
+      <jump line="24" column="29" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" />
+      <jump line="144" column="13" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="338" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="40" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="155" column="42" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="228" column="8" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,19 +300,19 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MultiLayerNetwork</text>
+        <text>prepareMultiLayerConfiguration</text>
       </register>
-      <register name="+" type="4">
-        <text>MultiLayerNetwork</text>
+      <register name="+" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGRvdWJsZSBsZWFybmluZ1JhdGUgPSAwLjA1OwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IGl0ZXJhdGlvbnMgPSAxOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IHNlZWQgPSAxMjM0NTsKCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgbHN0bUxheWVyMVNpemUgPSAyNTY7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgbHN0bUxheWVyMlNpemUgPSAyNTY7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgZGVuc2VMYXllclNpemUgPSAzMjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGRvdWJsZSBkcm9wb3V0UmF0aW8gPSAwLjI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgdHJ1bmNhdGVkQlBUVExlbmd0aCA9IDIyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaXRcPg==</text>
+        <text encoding="base64">XDxwcmVwYXJlQ29uZmlndXJhdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0LnB1dFNjYWxhcihuZXcgaW50W117MCwgMH0sIDAuNCk7Cg==</text>
+      <register name="0" type="4">
+        <text>prepareMultiLayerConfiguration</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -320,28 +321,28 @@
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5maXQodHJhaW5EYXRhLmdldExlZnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTXVsdGlMYXllck5ldHdvcmsgYnVpbGRNdWx0aUxheWVyTmV0d29yayhpbnQgbkluLCBpbnQgbk91dCkgewoKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByb2MuZXYK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBNdWx0aUxheWVyQ29uZmlndXJhdGlvbiBjb25mID0gbmV3IE5ldXJhbE5ldENvbmZpZ3VyYXRpb24uQnVpbGRlcigpCiAgICAgICAgICAgIC5zZWVkKHNlZWQpCiAgICAgICAgICAgIC5pdGVyYXRpb25zKGl0ZXJhdGlvbnMpCiAgICAgICAgICAgIC5sZWFybmluZ1JhdGUobGVhcm5pbmdSYXRlKQogICAgICAgICAgICAub3B0aW1pemF0aW9uQWxnbyhPcHRpbWl6YXRpb25BbGdvcml0aG0uU1RPQ0hBU1RJQ19HUkFESUVOVF9ERVNDRU5UKQogICAgICAgICAgICAud2VpZ2h0SW5pdChXZWlnaHRJbml0LlhBVklFUikKICAgICAgICAgICAgLnVwZGF0ZXIoVXBkYXRlci5STVNQUk9QKQogICAgICAgICAgICAucmVndWxhcml6YXRpb24odHJ1ZSkKICAgICAgICAgICAgLmwyKDFlLTQpCiAgICAgICAgICAgIC5saXN0KCkKICAgICAgICAgICAgLmxheWVyKDAsIG5ldyBHcmF2ZXNMU1RNLkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLm5JbihuSW4pCiAgICAgICAgICAgICAgICAubk91dChsc3RtTGF5ZXIxU2l6ZSkKICAgICAgICAgICAgICAgIC5hY3RpdmF0aW9uKEFjdGl2YXRpb24uVEFOSCkKICAgICAgICAgICAgICAgIC5nYXRlQWN0aXZhdGlvbkZ1bmN0aW9uKEFjdGl2YXRpb24uSEFSRFNJR01PSUQpCiAgICAgICAgICAgICAgICAuZHJvcE91dChkcm9wb3V0UmF0aW8pCiAgICAgICAgICAgICAgICAuYnVpbGQoKSkKICAgICAgICAgICAgLmxheWVyKDEsIG5ldyBHcmF2ZXNMU1RNLkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLm5Jbihsc3RtTGF5ZXIxU2l6ZSkKICAgICAgICAgICAgICAgIC5uT3V0KGxzdG1MYXllcjJTaXplKQogICAgICAgICAgICAgICAgLmFjdGl2YXRpb24oQWN0aXZhdGlvbi5UQU5IKQogICAgICAgICAgICAgICAgLmdhdGVBY3RpdmF0aW9uRnVuY3Rpb24oQWN0aXZhdGlvbi5IQVJEU0lHTU9JRCkKICAgICAgICAgICAgICAgIC5kcm9wT3V0KGRyb3BvdXRSYXRpbykKICAgICAgICAgICAgICAgIC5idWlsZCgpKQogICAgICAgICAgICAubGF5ZXIoMiwgbmV3IERlbnNlTGF5ZXIuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAubkluKGxzdG1MYXllcjJTaXplKQogICAgICAgICAgICAgICAgLm5PdXQoZGVuc2VMYXllclNpemUpCiAgICAgICAgICAgICAgICAuYWN0aXZhdGlvbihBY3RpdmF0aW9uLlJFTFUpCiAgICAgICAgICAgICAgICAuYnVpbGQoKSkKICAgICAgICAgICAgLmxheWVyKDMsIG5ldyBSbm5PdXRwdXRMYXllci5CdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5uSW4oZGVuc2VMYXllclNpemUpCiAgICAgICAgICAgICAgICAubk91dChuT3V0KQogICAgICAgICAgICAgICAgLmFjdGl2YXRpb24oQWN0aXZhdGlvbi5JREVOVElUWSkKICAgICAgICAgICAgICAgIC5sb3NzRnVuY3Rpb24oTG9zc0Z1bmN0aW9ucy5Mb3NzRnVuY3Rpb24uTVNFKQogICAgICAgICAgICAgICAgLmJ1aWxkKCkpCiAgICAgICAgICAgIC5iYWNrcHJvcFR5cGUoQmFja3Byb3BUeXBlLlRydW5jYXRlZEJQVFQpCiAgICAgICAgICAgIC50QlBUVEZvcndhcmRMZW5ndGgodHJ1bmNhdGVkQlBUVExlbmd0aCkKICAgICAgICAgICAgLnRCUFRUQmFja3dhcmRMZW5ndGgodHJ1bmNhdGVkQlBUVExlbmd0aCkKICAgICAgICAgICAgLnByZXRyYWluKGZhbHNlKQogICAgICAgICAgICAuYmFja3Byb3AodHJ1ZSkKICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgIE11bHRpTGF5ZXJOZXR3b3JrIG5ldCA9IG5ldyBNdWx0aUxheWVyTmV0d29yayhjb25mKTsKICAgICAgICBuZXQuaW5pdCgpOwogICAgICAgIG5ldC5zZXRMaXN0ZW5lcnMobmV3IFNjb3JlSXRlcmF0aW9uTGlzdGVuZXIoMTAwKSk7CiAgICAgICAgcmV0dXJuIG5ldDs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5vdQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXREYQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXRlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29tcHV0YXRpb25HcmFwaENvbmZpZ3VyYXRpb24gcHJlcGFyZUNvbmZpZ3VyYXRpb24oKSB7CiAgICAgICAgcmV0dXJuIG5ldyBOZXVyYWxOZXRDb25maWd1cmF0aW9uLkJ1aWxkZXIoKQogICAgICAgICAgICAuc2VlZChSQU5ET01fU0VFRCkKICAgICAgICAgICAgLm9wdGltaXphdGlvbkFsZ28oT3B0aW1pemF0aW9uQWxnb3JpdGhtLlNUT0NIQVNUSUNfR1JBRElFTlRfREVTQ0VOVCkKICAgICAgICAgICAgLnVwZGF0ZXIobmV3IEFkYW0oKSkKICAgICAgICAgICAgLndlaWdodEluaXQoV2VpZ2h0SW5pdC5YQVZJRVIpCiAgICAgICAgICAgIC5kcm9wT3V0KDAuMjUpCiAgICAgICAgICAgIC5ncmFwaEJ1aWxkZXIoKQogICAgICAgICAgICAuYWRkSW5wdXRzKCJJTlBVVCIpCiAgICAgICAgICAgIC5zZXRPdXRwdXRzKCJPVVRQVVQiKQogICAgICAgICAgICAuYWRkTGF5ZXIoIkwxIiwgbmV3IEdyYXZlc0xTVE0uQnVpbGRlcigpCiAgICAgICAgICAgICAgICAubkluKDEpCiAgICAgICAgICAgICAgICAubk91dCgyNTYpCiAgICAgICAgICAgICAgICAuZm9yZ2V0R2F0ZUJpYXNJbml0KDEpCiAgICAgICAgICAgICAgICAuYWN0aXZhdGlvbihBY3RpdmF0aW9uLlRBTkgpCiAgICAgICAgICAgICAgICAuYnVpbGQoKSwgIklOUFVUIikKICAgICAgICAgICAgLmFkZExheWVyKCJPVVRQVVQiLCBuZXcgUm5uT3V0cHV0TGF5ZXIuQnVpbGRlcihMb3NzRnVuY3Rpb25zLkxvc3NGdW5jdGlvbi5YRU5UKQogICAgICAgICAgICAgICAgLmFjdGl2YXRpb24oQWN0aXZhdGlvbi5TT0ZUTUFYKQogICAgICAgICAgICAgICAgLm5JbigyNTYpCiAgICAgICAgICAgICAgICAubk91dCgxKQogICAgICAgICAgICAgICAgLmJ1aWxkKCksICJMMSIpCiAgICAgICAgICAgIC5idWlsZCgpOwogICAgfQoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhU2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNdWx0aUxheWVyTmV0d29yayBuZXQgPSBuZXcgTXVsdGlMYXllck5ldHdvcmsoY29uZik7CiAgICAgICAgbmV0LmluaXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -350,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmaXRcPg==</last-search>
+      <last-search encoding="base64">XDxwcmVwYXJlQ29uZmlndXJhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVwYXJlQ29uZmlndXJhdGlvblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
