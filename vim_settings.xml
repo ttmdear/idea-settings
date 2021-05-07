@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbWV0ZXJNYXBFeHRcPg==</entry>
-        <entry encoding="base64">XDxMRUFSTklOR19SQVRFXD4=</entry>
-        <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
         <entry encoding="base64">XDxYQVZJRVJcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWN0TW9ydGFsaXR5XD4=</entry>
         <entry encoding="base64">XDxGaWxlbmFtZVV0aWxzXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</entry>
+        <entry encoding="base64">bGlxdWliYXNlLmVuYWJsZWQJ</entry>
+        <entry>TEXT</entry>
+        <entry>liqu</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,41 +125,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/RecordReader.java" timestamp="1620321603085" />
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1620332593891">
-        <mark key="'" line="225" column="37" />
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/inmemory/InMemoryRecordReader.java" timestamp="1620323510126" />
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" timestamp="1620323793825">
-        <mark key="'" line="118" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620331598817">
-        <mark key="'" line="90" column="117" />
-        <mark key="[" line="40" column="71" />
-        <mark key="]" line="40" column="71" />
-        <mark key="." line="40" column="70" />
-        <mark key="^" line="40" column="71" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVSequenceRecordReader.java" timestamp="1620321832014">
         <mark key="'" line="74" column="20" />
         <mark key="[" line="39" column="13" />
         <mark key="]" line="39" column="35" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/LineRecordReader.java" timestamp="1620323752727" />
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" timestamp="1620330261924">
-        <mark key="[" line="115" column="18" />
-        <mark key="]" line="115" column="18" />
-        <mark key="." line="115" column="18" />
-        <mark key="^" line="115" column="15" />
-      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1620390745576" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/DataInput.class" timestamp="1620323147186">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockData.java" timestamp="1620331686095" />
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/collection/CollectionRecordReader.java" timestamp="1620323036064">
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="34" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" timestamp="1620390674637">
+        <mark key="'" line="15" column="29" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" timestamp="1620322209805">
         <mark key="'" line="178" column="20" />
         <mark key="[" line="41" column="38" />
@@ -171,11 +153,35 @@
         <mark key="^" line="63" column="8" />
         <mark key="." line="63" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/collection/CollectionRecordReader.java" timestamp="1620323036064">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="34" />
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/writable/Writable.java" timestamp="1620323340549">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/split/NumberedFileInputSplit.java" timestamp="1620323738837" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1620390668594">
+        <mark key="'" line="42" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620331598817">
+        <mark key="'" line="90" column="117" />
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="40" column="71" />
+        <mark key="." line="40" column="70" />
+        <mark key="^" line="40" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" timestamp="1620330261924">
+        <mark key="[" line="115" column="18" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="115" column="18" />
+        <mark key="^" line="115" column="15" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1620332593891">
+        <mark key="'" line="225" column="37" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" timestamp="1620323793825">
+        <mark key="'" line="118" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620335099730">
         <mark key="'" line="129" column="22" />
         <mark key="[" line="36" column="8" />
@@ -183,17 +189,15 @@
         <mark key="^" line="36" column="11" />
         <mark key="." line="36" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/writable/Writable.java" timestamp="1620323340549">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="37" />
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" timestamp="1620391345274">
+        <mark key="'" line="50" column="13" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="51" />
+        <mark key="^" line="60" column="170" />
+        <mark key="." line="60" column="169" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters_eurusd_15.properties" />
-      <jump line="12" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/test/resources/parameters.properties" />
-      <jump line="60" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
-      <jump line="17" column="13" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
       <jump line="50" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
       <jump line="63" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
@@ -289,6 +293,11 @@
       <jump line="38" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="127" column="37" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="225" column="37" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="42" column="34" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" />
+      <jump line="5" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
+      <jump line="11" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
+      <jump line="15" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
+      <jump line="50" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,17 +305,17 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pri</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
       </register>
-      <register name="+" type="4">
-        <text>DataInput</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>pri</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</text>
+        <text>liqu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHJ1bigpIHRocm93cyBFeGNlcHRpb24gewo=</text>
@@ -348,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</last-search>
+      <last-search>liqu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</last-pattern>
+      <last-pattern>liqu</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
