@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxYQVZJRVJcPg==</entry>
-        <entry encoding="base64">XDxwcmVkaWN0TW9ydGFsaXR5XD4=</entry>
         <entry encoding="base64">XDxGaWxlbmFtZVV0aWxzXD4=</entry>
         <entry encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlQmFzZURpclw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">bGlxdWliYXNlLmVuYWJsZWQJ</entry>
         <entry>TEXT</entry>
         <entry>liqu</entry>
+        <entry encoding="base64">XDx0cnVuY2F0ZWRCUFRUTGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -130,7 +130,6 @@
         <mark key="[" line="39" column="13" />
         <mark key="]" line="39" column="35" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-master.xml" timestamp="1620390745576" />
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/DataInput.class" timestamp="1620323147186">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="25" />
@@ -139,8 +138,18 @@
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="34" />
       </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620724384186">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="15" />
+        <mark key="." line="103" column="14" />
+        <mark key="^" line="103" column="15" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" timestamp="1620390674637">
         <mark key="'" line="15" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" timestamp="1620723697437">
+        <mark key="'" line="144" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" timestamp="1620322209805">
         <mark key="'" line="178" column="20" />
@@ -182,6 +191,7 @@
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" timestamp="1620323793825">
         <mark key="'" line="118" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/factory/Nd4j.java" timestamp="1620724566841" />
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620335099730">
         <mark key="'" line="129" column="22" />
         <mark key="[" line="36" column="8" />
@@ -196,13 +206,18 @@
         <mark key="^" line="60" column="170" />
         <mark key="." line="60" column="169" />
       </file>
+      <file name="/fragment.java" timestamp="1620723268950">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620724717986">
+        <mark key="'" line="42" column="39" />
+        <mark key="[" line="50" column="76" />
+        <mark key="]" line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+        <mark key="." line="51" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" />
-      <jump line="63" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
-      <jump line="62" column="52" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
-      <jump line="65" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
       <jump line="66" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
       <jump line="67" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
       <jump line="68" column="40" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/test/java/pl/gov/csioz/p1/sgz/zm/persistence/service/utils/SearchParameterFilterDataUtilTest.java" />
@@ -222,12 +237,10 @@
       <jump line="66" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="74" column="23" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="111" column="59" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="0" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="94" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="92" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="96" column="15" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="100" column="32" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="101" column="8" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="1" column="7" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" />
       <jump line="52" column="6" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/resources/physionet2012/sequence/17.csv" />
       <jump line="94" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
@@ -298,6 +311,13 @@
       <jump line="11" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
       <jump line="15" column="29" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" />
       <jump line="50" column="13" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/pom.xml" />
+      <jump line="101" column="32" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="102" column="33" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="0" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="55" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="144" column="11" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" />
+      <jump line="66" column="38" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
+      <jump line="42" column="39" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,19 +326,19 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pri</text>
+        <text>trainSet.getLeft()</text>
       </register>
       <register name="/" type="4">
-        <text>liqu</text>
+        <text encoding="base64">XDx0ZXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHJ1bigpIHRocm93cyBFeGNlcHRpb24gewo=</text>
+      <register name="0" type="4">
+        <text>trainData.get(j)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,28 +347,28 @@
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0LnB1dFNjYWxhcihuZXcgaW50W117aW5kZXgsIDAsIGN9LCAobmV4dERhdGEuZ2V0T3BlbigpIC0gbWluQXJyYXlbMV0pIC8gKG1heEFycmF5WzFdIC0gbWluQXJyYXlbMV0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC51dGlsLlBhaXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuZml0KG5ldyBEYXRhU2V0KHRyYWluU2V0LmdldExlZnQoKSwgdHJhaW5TZXQuZ2V0UmlnaHQoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5kZWVwbGVhcm5pbmc0ai5kYXRhc2V0cy5pdGVyYXRvci5EYXRhU2V0SXRlcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbkRhdGEuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5kYXRhc2V0LmFwaS5pdGVyYXRvci5EYXRhU2V0SXRlcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGludCBpPTA7IGkgPCBlcG9jaDsgaSsrKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5kZWVwbGVhcm5pbmc0ai5kYXRhc2V0cy5pdGVyYXRvci5EYXRhU2V0SXRlcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbkRhdGEuc2kK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5kZWVwbGVhcm5pbmc0ai5kYXRhc2V0cy5jYW5vdmEuUmVjb3JkUmVhZGVyRGF0YVNldEl0ZXJhdG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jYW5vdmEuYXBpLmlvLldyaXRhYmxlQ29udmVydGVyOwppbXBvcnQgb3JnLmNhbm92YS5hcGkuaW8uY29udmVydGVycy5Xcml0YWJsZUNvbnZlcnRlckV4Y2VwdGlvbjsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLmlvLmRhdGEuSW50V3JpdGFibGU7CmltcG9ydCBvcmcuY2Fub3ZhLmFwaS5pby5kYXRhLlRleHQ7CmltcG9ydCBvcmcuY2Fub3ZhLmFwaS5yZWNvcmRzLnJlYWRlci5SZWNvcmRSZWFkZXI7CmltcG9ydCBvcmcuY2Fub3ZhLmFwaS5yZWNvcmRzLnJlYWRlci5pbXBsLkNTVlJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLnJlY29yZHMucmVhZGVyLmltcGwuQ29tcG9zYWJsZVJlY29yZFJlYWRlcjsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLnNwbGl0LkZpbGVTcGxpdDsKaW1wb3J0IG9yZy5jYW5vdmEuYXBpLndyaXRhYmxlLldyaXRhYmxlOwppbXBvcnQgb3JnLmNhbm92YS5pbWFnZS5yZWNvcmRyZWFkZXIuSW1hZ2VSZWNvcmRSZWFkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5maXQobmV3IERhdGFTZXQodHJhaW5TZXQuZ2V0TGVmdCgpLCB0cmFpblNldC5nZXRSaWdodCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -357,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>liqu</last-search>
+      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>liqu</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
