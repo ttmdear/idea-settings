@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFpbkZlYXR1cmVzXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlQmFzZURpclw+</entry>
         <entry encoding="base64">XDxpdGVyXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0cnVuY2F0ZWRCUFRUTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -45,8 +45,8 @@
         <entry>82</entry>
         <entry>62</entry>
         <entry>71</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,16 +134,17 @@
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="25" />
       </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/utils/PlotUtil.java" timestamp="1620733005944" />
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/collection/CollectionRecordReader.java" timestamp="1620323036064">
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="34" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620729781169">
-        <mark key="'" line="129" column="47" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="144" column="79" />
-        <mark key="." line="145" column="0" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620733499368">
+        <mark key="'" line="323" column="11" />
+        <mark key="[" line="181" column="21" />
+        <mark key="]" line="181" column="22" />
+        <mark key="." line="181" column="21" />
+        <mark key="^" line="181" column="22" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/0002.change-error-column-type.xml" timestamp="1620390674637">
         <mark key="'" line="15" column="29" />
@@ -155,12 +156,6 @@
         <mark key="'" line="178" column="20" />
         <mark key="[" line="41" column="38" />
         <mark key="]" line="41" column="53" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1620320919699">
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="63" column="8" />
-        <mark key="^" line="63" column="8" />
-        <mark key="." line="63" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/writable/Writable.java" timestamp="1620323340549">
         <mark key="[" line="28" column="29" />
@@ -209,17 +204,15 @@
       <file name="/fragment.java" timestamp="1620723268950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620728922100">
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620732300180">
         <mark key="'" line="42" column="39" />
-        <mark key="[" line="104" column="26" />
-        <mark key="]" line="105" column="12" />
-        <mark key="^" line="105" column="12" />
-        <mark key="." line="105" column="11" />
+        <mark key="[" line="101" column="66" />
+        <mark key="]" line="102" column="32" />
+        <mark key="^" line="102" column="32" />
+        <mark key="." line="102" column="31" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="46" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="48" column="54" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="44" column="42" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="85" column="18" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="23" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
@@ -318,6 +311,8 @@
       <jump line="180" column="12" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="134" column="48" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="133" column="47" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="172" column="17" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="318" column="11" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,23 +320,23 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUGFpci5vZih0cmFpbiwgbGFiZWxzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>testData.getRow(j), prediction</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICA8bGlxdWliYXNlLmVuYWJsZWQ+dHJ1ZTwvbGlxdWliYXNlLmVuYWJsZWQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>trainLabels</text>
+        <text>testData.getRow(j), prediction</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaXplXD4=</text>
+        <text encoding="base64">XDx0cmFpbkRhdGFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>testData</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIiVzIC0+ICVzIiwgdGVzdERhdGEuZ2V0Um93KGopLCBwcmVkaWN0aW9uKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUGFpci5vZih0cmFpbiwgbGFiZWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlbHRhIiwgZGVsdGEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
@@ -350,36 +345,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0byA9IHRvIC0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZnJvbSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJTkRBcnJheVtdIHByZWRpY3Rpb25zID0gbmV3IElOREFycmF5W3Rlc3REYXRhLnNpemUoMCldOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IDEwMDsK</text>
+        <text encoding="base64">ICAgICAgICBJTkRBcnJheSB0ZXN0TGFiZWwgPSB0cmFpblRlc3REYXRhLmdldFRlc3RMYWJlbHMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdG8gPSBmcm9tICsgc2l6ZTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbW9kZWwuZml0KHRyYWluRGF0YS5nZXRSb3coaiksIHRyYWluTGFiZWwuZ2V0Um93KGopKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaXplXD4=</last-search>
+      <last-search encoding="base64">XDx0cmFpbkRhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaXplXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbkRhdGFcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
