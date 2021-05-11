@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZWF0dXJlQmFzZURpclw+</entry>
-        <entry encoding="base64">XDxpdGVyXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxtb3J0YWxpdHlCYXNlRGlyXD4=</entry>
         <entry encoding="base64">XDxMU1RNX0xBWUVSX1NJWkVcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
+        <entry encoding="base64">XDxnZXRRdW90YXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -126,12 +126,12 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/utils/PlotUtil.java" timestamp="1620737497762" />
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620738464333">
-        <mark key="'" line="324" column="11" />
-        <mark key="[" line="195" column="8" />
-        <mark key="]" line="195" column="8" />
-        <mark key="." line="195" column="8" />
-        <mark key="^" line="195" column="8" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620741370213">
+        <mark key="'" line="323" column="11" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="194" column="8" />
       </file>
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620331598817">
         <mark key="'" line="90" column="117" />
@@ -155,17 +155,17 @@
         <mark key="^" line="102" column="32" />
         <mark key="." line="102" column="31" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" timestamp="1620740033339">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="71" column="40" />
-        <mark key="." line="47" column="0" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" timestamp="1620741352946">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="51" column="77" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/RelativeQuotes.java" timestamp="1620738934858">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="4" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/RelativeQuotes.java" timestamp="1620741516837">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/Indicator.java" timestamp="1620739951085">
         <mark key="[" line="7" column="27" />
@@ -185,11 +185,11 @@
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" timestamp="1620723697437">
         <mark key="'" line="144" column="11" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1620740391422">
-        <mark key="[" line="96" column="50" />
-        <mark key="]" line="96" column="50" />
-        <mark key="." line="96" column="49" />
-        <mark key="^" line="96" column="50" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1620740899903">
+        <mark key="[" line="97" column="39" />
+        <mark key="]" line="97" column="35" />
+        <mark key="." line="97" column="34" />
+        <mark key="^" line="97" column="35" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_importer_ogloszen_ted/db-model/src/main/resources/db/changelog/db.changelog-1.0.xml" timestamp="1620390668594">
         <mark key="'" line="42" column="34" />
@@ -221,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="47" column="50" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/weights/WeightInit.java" />
-      <jump line="73" column="17" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="65" column="24" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="43" column="96" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="66" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
@@ -321,6 +318,9 @@
       <jump line="318" column="11" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="15" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
       <jump line="19" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
+      <jump line="49" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
+      <jump line="20" column="38" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
+      <jump line="59" column="18" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,49 +329,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="+" type="4">
         <text>RelativeQuotes</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>kkk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFpbkRhdGFcPg==</text>
+        <text encoding="base64">XDxiXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
+      <register name="0" type="4">
+        <text>i - period</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZnJvbSA8IDAgfHwgdG8gPCAwKSB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuY2FsY3VsYXRlKGkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IGRvdWJsZVswXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGVbXSBjYWxjdWxhdGUoaW50IGFuYWx5emVQb2ludGVyKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -380,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0cmFpbkRhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxiXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFpbkRhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
