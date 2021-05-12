@@ -125,11 +125,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/analysis/Candle.java" timestamp="1620809758497">
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="21" />
-        <mark key="^" line="67" column="22" />
-        <mark key="." line="67" column="21" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/analysis/Candle.java" timestamp="1620810301531">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" timestamp="1620741352946">
         <mark key="'" line="58" column="18" />
@@ -143,11 +142,11 @@
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/DataQuotes.java" timestamp="1620809552326">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="11" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/DataQuotes.java" timestamp="1620810360004">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/Indicator.java" timestamp="1620739951085">
         <mark key="[" line="7" column="27" />
@@ -210,6 +209,12 @@
       </file>
       <file name="/fragment.java" timestamp="1620809587805">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/CandlesUtil.java" timestamp="1620810349602">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="50" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620732300180">
         <mark key="'" line="42" column="39" />
@@ -327,50 +332,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Candles</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="+" type="4">
         <text>Candles</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>CandlesUtil.calcBodySize(quote)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWF0aC5hYnMocXVvdGUuZ2V0Q2xvc2UoKSAtIHF1b3RlLmdldEhpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIGNhbGNCb2R5U2l6ZUFicyhRdW90ZSBxdW90ZSkgewogICAgICAgIHJldHVybiBNYXRoLmFicyhxdW90ZS5nZXRDbG9zZSgpIC0gcXVvdGUuZ2V0SGlnaHQoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTWF0aC5hYnMocXVvdGUuZ2V0Q2xvc2UoKSAtIHF1b3RlLmdldEhpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIGNhbGNCb2R5U2l6ZShRdW90ZSBxdW90ZSkgewogICAgICAgIHJldHVybiBNYXRoLmFicyhxdW90ZS5nZXRDbG9zZSgpIC0gcXVvdGUuZ2V0SGlnaHQoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGUgZ2V0U2l6ZSgpIHsKICAgICAgICByZXR1cm4gTWF0aC5hYnMocXVvdGUuZ2V0Q2xvc2UoKSAtIHF1b3RlLmdldEhpZ2h0KCkpOwogICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRGF0ZSB0aW1lOwogICAgcHJpdmF0ZSBmaW5hbCBkb3VibGUgaGlnaHQ7CiAgICBwcml2YXRlIGZpbmFsIGRvdWJsZSBsb3c7CiAgICBwcml2YXRlIGZpbmFsIGRvdWJsZSBvcGVuOwogICAgcHJpdmF0ZSBmaW5hbCBkb3VibGUgY2xvc2U7CgogICAgcHVibGljIFF1b3Rlc1V0aWwoRGF0ZSB0aW1lLCBkb3VibGUgaGlnaHQsIGRvdWJsZSBsb3csIGRvdWJsZSBvcGVuLCBkb3VibGUgY2xvc2UpIHsKICAgICAgICB0aGlzLmhpZ2h0ID0gaGlnaHQ7CiAgICAgICAgdGhpcy5sb3cgPSBsb3c7CiAgICAgICAgdGhpcy5vcGVuID0gb3BlbjsKICAgICAgICB0aGlzLmNsb3NlID0gY2xvc2U7CiAgICAgICAgdGhpcy50aW1lID0gdGltZTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJRdW90ZXsiICsKICAgICAgICAgICAgInRpbWU9IiArIHRpbWUgKwogICAgICAgICAgICAiLCBoaWdodD0iICsgaGlnaHQgKwogICAgICAgICAgICAiLCBsb3c9IiArIGxvdyArCiAgICAgICAgICAgICIsIG9wZW49IiArIG9wZW4gKwogICAgICAgICAgICAiLCBjbG9zZT0iICsgY2xvc2UgKwogICAgICAgICAgICAnfSc7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGUgZ2V0UmFuZ2VTaXplKCkgewogICAgICAgIHJldHVybiBNYXRoLmFicyhxdW90ZS5nZXRIaWdodCgpIC0gcXVvdGUuZ2V0TG93KCkpOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXV0cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDYW5kbGUgY2FuZGxlCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGUgZ2V0SGFsZlZhbHVlKCkgewogICAgICAgIGlmIChpc0luY3JlYXNpbmcoKSkgewogICAgICAgICAgICByZXR1cm4gcXVvdGUuZ2V0Q2xvc2UoKSAtIChnZXRTaXplKCkgLyAyKTsKICAgICAgICB9IGVsc2UgaWYgKGlzRGVjcmVhc2luZygpKSB7CiAgICAgICAgICAgIHJldHVybiBxdW90ZS5nZXRDbG9zZSgpICsgKGdldFNpemUoKSAvIDIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJVbnN1cHBvcnRlZCB0eXBlIG9mIENhbmRsZSB0byBjYWxjIGhhbGYgb2YgdmFsdWUuIik7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhUXVvdGUgZGF0YVF1b3RlICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
