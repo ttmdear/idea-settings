@@ -131,12 +131,18 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620811596438">
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620812753036">
         <mark key="'" line="326" column="11" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="35" />
-        <mark key="^" line="65" column="36" />
+        <mark key="[" line="62" column="87" />
+        <mark key="]" line="62" column="91" />
+        <mark key="." line="62" column="90" />
+        <mark key="^" line="62" column="91" />
+      </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1620812564349">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/QuotesUtil.java" timestamp="1620809669502">
         <mark key="[" line="8" column="0" />
@@ -211,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="96" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="66" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="74" column="23" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="111" column="59" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
@@ -311,6 +316,7 @@
       <jump line="20" column="38" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
       <jump line="59" column="18" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" />
       <jump line="8" column="11" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/QuotesUtil.java" />
+      <jump line="10" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,50 +324,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gTU9KRQo=</text>
+      <register name="&quot;" type="4">
+        <text>DATA_LEARN_START_AT</text>
       </register>
       <register name="+" type="4">
         <text>Candles</text>
       </register>
       <register name="-" type="4">
-        <text>INPUT_TEST_FROM</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gTU9KRQo=</text>
+      <register name="0" type="4">
+        <text>DATA_LEARN_START_AT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBEQVRBX0VORF9BVCA9IDEwMDsK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gTU9KRQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBEQVRBX19TVEFSVF9BVCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICBRdW90ZSBxdW90ZSA9IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCAK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsUXVvdGVzPiBtb2RlbFF1b3Rlc0xpc3QgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIGNhbGNCb2R5U2l6ZShRdW90ZSBxdW90ZSkgewogICAgICAgIHJldHVybiBNYXRoLmFicyhxdW90ZS5nZXRDbG9zZSgpIC0gcXVvdGUuZ2V0SGlnaHQoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
