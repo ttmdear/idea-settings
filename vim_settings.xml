@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRhU2V0SXRlcmF0b3JcPg==</entry>
-        <entry encoding="base64">XDxtYXhBcnJheVw+</entry>
-        <entry encoding="base64">XDxtaW5BcnJheVw+</entry>
-        <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
-        <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</entry>
         <entry encoding="base64">bGlxdWliYXNlLmVuYWJsZWQJ</entry>
         <entry>TEXT</entry>
@@ -25,6 +20,11 @@
         <entry>fit</entry>
         <entry>plot</entry>
         <entry encoding="base64">XDxwbG90XD4=</entry>
+        <entry encoding="base64">XDxwcmVkaWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVDaGFydFw+</entry>
+        <entry encoding="base64">XDxjaGFydFBhbmVsXD4=</entry>
+        <entry>setAuto</entry>
+        <entry>epoch</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,25 +125,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/utils/PlotUtil.java" timestamp="1620819743798">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="55" column="27" />
+      </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/LearningData.java" timestamp="1620810995361">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="27" column="27" />
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620818130277">
-        <mark key="'" line="302" column="79" />
-        <mark key="[" line="280" column="21" />
-        <mark key="]" line="280" column="24" />
-        <mark key="." line="280" column="23" />
-        <mark key="^" line="280" column="24" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620820199164">
+        <mark key="'" line="258" column="22" />
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
+        <mark key="^" line="298" column="15" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1620818050245">
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1620818778127">
         <mark key="'" line="10" column="25" />
-        <mark key="[" line="34" column="73" />
-        <mark key="]" line="34" column="74" />
-        <mark key="." line="34" column="73" />
-        <mark key="^" line="34" column="74" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="31" />
+        <mark key="^" line="26" column="31" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/QuotesUtil.java" timestamp="1620809669502">
         <mark key="[" line="8" column="0" />
@@ -151,10 +155,10 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1620816957778">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="28" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1620819808535">
+        <mark key="'" line="372" column="25" />
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="400" column="48" />
         <mark key="^" line="77" column="28" />
         <mark key="." line="77" column="27" />
       </file>
@@ -211,7 +215,7 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1620809587805">
+      <file name="/fragment.java" timestamp="1620820182692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/LearnQuotes.java" timestamp="1620811040936">
@@ -222,18 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="15" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="127" column="17" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="119" column="24" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="102" column="59" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="92" column="60" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="74" column="20" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVSequenceRecordReader.java" />
-      <jump line="43" column="29" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" />
-      <jump line="123" column="28" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" />
-      <jump line="129" column="11" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" />
-      <jump line="131" column="31" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" />
-      <jump line="175" column="29" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" />
-      <jump line="178" column="20" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/FileRecordReader.java" />
       <jump line="107" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="119" column="14" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" />
       <jump line="118" column="16" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" />
@@ -322,6 +314,18 @@
       <jump line="52" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="302" column="79" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="37" column="23" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="285" column="18" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="240" column="80" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="239" column="33" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="298" column="68" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="296" column="21" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="125" column="23" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="400" column="8" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="535" column="8" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="55" column="23" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="69" column="8" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="372" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
+      <jump line="258" column="22" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,34 +334,34 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uCg==</text>
       </register>
-      <register name="+" type="4">
-        <text>Candles</text>
+      <register name="+" type="2">
+        <text encoding="base64">CQlmaW5hbCBKRnJhbWUgZiA9IG5ldyBKRnJhbWUoKTsKCQlmLmFkZChwYW5lbCk7CgkJZi5zZXREZWZhdWx0Q2xvc2VPcGVyYXRpb24oV2luZG93Q29uc3RhbnRzLkVYSVRfT05fQ0xPU0UpOwoJCWYucGFjaygpOwoJCWYuc2V0VmlzaWJsZSh0cnVlKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbG90XD4=</text>
+        <text>epoch</text>
       </register>
       <register name="0" type="4">
-        <text>prev.getClose()</text>
+        <text>prediction.getDouble(0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uCg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub1hBeGlzLnNldEF1dG9SYW5nZSh0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub1hBeGlzLnNldEF1dG9SYW5nZUluY2x1ZGVzWmVybyhmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBub1hBeGlzLnNldEF1dG9SYW5nZSh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,13 +370,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgYXRyVmFsdWUgLSAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhcnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGNsb3NlID0gb3BlbiArIHJlYWxWYWx1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -381,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwbG90XD4=</last-search>
+      <last-search>epoch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbG90XD4=</last-pattern>
+      <last-pattern>epoch</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
