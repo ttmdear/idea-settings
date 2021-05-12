@@ -5,12 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</entry>
-        <entry encoding="base64">bGlxdWliYXNlLmVuYWJsZWQJ</entry>
         <entry>TEXT</entry>
         <entry>liqu</entry>
         <entry encoding="base64">XDx0cnVuY2F0ZWRCUFRUTGVuZ3RoXD4=</entry>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
         <entry encoding="base64">XDxnZXRRdW90YXRpb25zXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxjaGFydFBhbmVsXD4=</entry>
         <entry>setAuto</entry>
         <entry>epoch</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -135,12 +135,12 @@
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620821547467">
-        <mark key="'" line="274" column="27" />
-        <mark key="[" line="212" column="23" />
-        <mark key="]" line="212" column="23" />
-        <mark key="." line="212" column="22" />
-        <mark key="^" line="212" column="23" />
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620824851440">
+        <mark key="'" line="271" column="27" />
+        <mark key="[" line="193" column="34" />
+        <mark key="]" line="193" column="33" />
+        <mark key="." line="193" column="32" />
+        <mark key="^" line="193" column="33" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1620821280465">
         <mark key="'" line="10" column="25" />
@@ -149,11 +149,15 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/ndarray/INDArray.java" timestamp="1620824262225" />
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/QuotesUtil.java" timestamp="1620809669502">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="25" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/complex/BaseComplexNDArray.java" timestamp="1620824449992">
+        <mark key="'" line="1928" column="20" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1620819808535">
         <mark key="'" line="372" column="25" />
@@ -162,13 +166,14 @@
         <mark key="^" line="77" column="28" />
         <mark key="." line="77" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/factory/Nd4j.java" timestamp="1620824432639" />
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/CandlesUtil.java" timestamp="1620810349602">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="50" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620732300180">
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620822845996">
         <mark key="'" line="42" column="39" />
         <mark key="[" line="101" column="66" />
         <mark key="]" line="102" column="32" />
@@ -180,42 +185,25 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/ATR.java" timestamp="1620741352946">
-        <mark key="'" line="58" column="18" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="51" column="77" />
-      </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/RelativeQuotes.java" timestamp="1620809197001">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/DataQuotes.java" timestamp="1620810360004">
         <mark key="[" line="21" column="53" />
         <mark key="]" line="21" column="50" />
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="50" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/Indicator.java" timestamp="1620739951085">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="28" />
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/ndarray/BaseNDArray.java" timestamp="1620824899037">
+        <mark key="[" line="1353" column="29" />
+        <mark key="]" line="1353" column="44" />
+        <mark key="." line="1353" column="29" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/indicators/IndicatorBase.java" timestamp="1620739992541">
-        <mark key="[" line="40" column="97" />
-        <mark key="]" line="40" column="98" />
-        <mark key="." line="40" column="97" />
-        <mark key="^" line="40" column="98" />
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1620823266076">
+        <mark key="'" line="217" column="15" />
+        <mark key="[" line="179" column="25" />
+        <mark key="]" line="179" column="21" />
+        <mark key="^" line="179" column="21" />
+        <mark key="." line="179" column="20" />
       </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1620809125089">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1620821272770">
+      <file name="/fragment.java" timestamp="1620824907334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/LearnQuotes.java" timestamp="1620811040936">
@@ -226,20 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="14" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" />
-      <jump line="118" column="16" filename="$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.9.1/datavec-api-0.9.1-sources.jar!/org/datavec/api/records/reader/impl/csv/CSVRecordReader.java" />
-      <jump line="95" column="58" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="106" column="57" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="130" column="21" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="30" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="123" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="175" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="82" column="92" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="2" column="25" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="12" column="35" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="13" column="44" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Cifar.java" />
-      <jump line="90" column="117" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
       <jump line="287" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="286" column="32" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="261" column="64" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -326,6 +300,20 @@
       <jump line="372" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" />
       <jump line="258" column="22" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="274" column="27" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="212" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="68" column="43" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="58" column="32" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="98" column="24" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="225" column="21" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="242" column="81" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="37" column="16" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="240" column="48" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="251" column="27" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="0" column="0" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="75" column="32" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="99" column="33" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="217" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="1928" column="20" filename="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/complex/BaseComplexNDArray.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,8 +321,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQlmaW5hbCBKRnJhbWUgZiA9IG5ldyBKRnJhbWUoKTsKCQlmLmFkZChwYW5lbCk7CgkJZi5zZXREZWZhdWx0Q2xvc2VPcGVyYXRpb24oV2luZG93Q29uc3RhbnRzLkVYSVRfT05fQ0xPU0UpOwoJCWYucGFjaygpOwoJCWYuc2V0VmlzaWJsZSh0cnVlKTsK</text>
@@ -343,40 +331,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>epoch</text>
+        <text encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>prediction.getDouble(0)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uCg==</text>
+        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub1hBeGlzLnNldEF1dG9SYW5nZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub1hBeGlzLnNldEF1dG9SYW5nZUluY2x1ZGVzWmVybyhmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub1hBeGlzLnNldEF1dG9SYW5nZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcigwLCAxKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hhcnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGNsb3NlID0gb3BlbiArIHJlYWxWYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkb3VibGUgbWluID0gRG91YmxlLk1BWF9WQUxVRTsKICAgICAgICAvLyBkb3VibGUgbWF4ID0gRG91YmxlLk1JTl9WQUxVRTsKCiAgICAgICAgLy8gUXVvdGVbXSBxdW90ZUFycmF5ID0gcXVvdGF0aW9ucy5nZXRRdW90ZUFycmF5KCk7CgogICAgICAgIC8vIC8vIEZpbmRpbmcgbWluIGFuZCBtYXgKICAgICAgICAvLyBmb3IgKGludCBpID0gMDsgaSA8IERBVEFfRU5EX0FUOyBpKyspIHsKICAgICAgICAvLyAgICAgaWYgKHF1b3RlQXJyYXlbaV0uZ2V0Q2xvc2UoKSA+IG1heCkKICAgICAgICAvLyAgICAgICAgIG1heCA9IHF1b3RlQXJyYXlbaV0uZ2V0Q2xvc2UoKTsKCiAgICAgICAgLy8gICAgIGlmIChxdW90ZUFycmF5W2ldLmdldENsb3NlKCkgPCBtaW4pCiAgICAgICAgLy8gICAgICAgICBtaW4gPSBxdW90ZUFycmF5W2ldLmdldENsb3NlKCk7CiAgICAgICAgLy8gfQoKICAgICAgICAvLyBkb3VibGUgcmFuZ2UgPSBtYXggLSBtaW47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -385,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>epoch</last-search>
+      <last-search encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-search>
       <last-offset />
-      <last-pattern>epoch</last-pattern>
+      <last-pattern encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
