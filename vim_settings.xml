@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>TEXT</entry>
         <entry>liqu</entry>
         <entry encoding="base64">XDx0cnVuY2F0ZWRCUFRUTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxzaXplXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
+        <entry>Crite</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,15 +125,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1620896798501">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/utils/PlotUtil.java" timestamp="1620819743798">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="55" column="27" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/QueryEngineService.java" timestamp="1620897955859">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/DataQuotes.java" timestamp="1620810360004">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="50" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/LearningData.java" timestamp="1620810995361">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="27" column="27" />
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="27" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/QueryEngineServiceTest.java" timestamp="1620897913739">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1620826337588">
         <mark key="'" line="271" column="27" />
@@ -149,12 +169,14 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/ndarray/INDArray.java" timestamp="1620824262225" />
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/QuotesUtil.java" timestamp="1620809669502">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="8" column="0" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1620897766034">
+        <mark key="[" line="243" column="8" />
+        <mark key="]" line="243" column="15" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/ndarray/BaseNDArray.java" timestamp="1620824899037">
+        <mark key="[" line="1353" column="29" />
+        <mark key="]" line="1353" column="44" />
+        <mark key="." line="1353" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/complex/BaseComplexNDArray.java" timestamp="1620824449992">
         <mark key="'" line="1928" column="20" />
@@ -166,36 +188,6 @@
         <mark key="^" line="77" column="28" />
         <mark key="." line="77" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/factory/Nd4j.java" timestamp="1620824432639" />
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/CandlesUtil.java" timestamp="1620810349602">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="8" column="50" />
-      </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620822845996">
-        <mark key="'" line="42" column="39" />
-        <mark key="[" line="101" column="66" />
-        <mark key="]" line="102" column="32" />
-        <mark key="^" line="102" column="32" />
-        <mark key="." line="102" column="31" />
-      </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/analysis/Candle.java" timestamp="1620810301531">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/DataQuotes.java" timestamp="1620810360004">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="49" />
-        <mark key="^" line="21" column="50" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/ndarray/BaseNDArray.java" timestamp="1620824899037">
-        <mark key="[" line="1353" column="29" />
-        <mark key="]" line="1353" column="44" />
-        <mark key="." line="1353" column="29" />
-      </file>
       <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1620823266076">
         <mark key="'" line="217" column="15" />
         <mark key="[" line="179" column="25" />
@@ -203,7 +195,10 @@
         <mark key="^" line="179" column="21" />
         <mark key="." line="179" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1620824907334">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" timestamp="1620897678188">
+        <mark key="'" line="94" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1620897879656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/LearnQuotes.java" timestamp="1620811040936">
@@ -212,9 +207,15 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620822845996">
+        <mark key="'" line="42" column="39" />
+        <mark key="[" line="101" column="66" />
+        <mark key="]" line="102" column="32" />
+        <mark key="^" line="102" column="32" />
+        <mark key="." line="102" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="286" column="32" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="261" column="64" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="73" column="0" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -314,6 +315,7 @@
       <jump line="99" column="33" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="217" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="1928" column="20" filename="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/complex/BaseComplexNDArray.java" />
+      <jump line="94" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,50 +323,50 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">CQlmaW5hbCBKRnJhbWUgZiA9IG5ldyBKRnJhbWUoKTsKCQlmLmFkZChwYW5lbCk7CgkJZi5zZXREZWZhdWx0Q2xvc2VPcGVyYXRpb24oV2luZG93Q29uc3RhbnRzLkVYSVRfT05fQ0xPU0UpOwoJCWYucGFjaygpOwoJCWYuc2V0VmlzaWJsZSh0cnVlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Query Engine</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</text>
+        <text>Crite</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDcml0ZXJpYSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcihuZXcgaW50W117MH0sIDEpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhLnB1dFNjYWxhcigwLCAxKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDcml0ZXJpYSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENyaXRlcmlhKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkb3VibGUgbWluID0gRG91YmxlLk1BWF9WQUxVRTsKICAgICAgICAvLyBkb3VibGUgbWF4ID0gRG91YmxlLk1JTl9WQUxVRTsKCiAgICAgICAgLy8gUXVvdGVbXSBxdW90ZUFycmF5ID0gcXVvdGF0aW9ucy5nZXRRdW90ZUFycmF5KCk7CgogICAgICAgIC8vIC8vIEZpbmRpbmcgbWluIGFuZCBtYXgKICAgICAgICAvLyBmb3IgKGludCBpID0gMDsgaSA8IERBVEFfRU5EX0FUOyBpKyspIHsKICAgICAgICAvLyAgICAgaWYgKHF1b3RlQXJyYXlbaV0uZ2V0Q2xvc2UoKSA+IG1heCkKICAgICAgICAvLyAgICAgICAgIG1heCA9IHF1b3RlQXJyYXlbaV0uZ2V0Q2xvc2UoKTsKCiAgICAgICAgLy8gICAgIGlmIChxdW90ZUFycmF5W2ldLmdldENsb3NlKCkgPCBtaW4pCiAgICAgICAgLy8gICAgICAgICBtaW4gPSBxdW90ZUFycmF5W2ldLmdldENsb3NlKCk7CiAgICAgICAgLy8gfQoKICAgICAgICAvLyBkb3VibGUgcmFuZ2UgPSBtYXggLSBtaW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -373,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-search>
+      <last-search>Crite</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-pattern>
+      <last-pattern>Crite</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
