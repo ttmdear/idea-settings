@@ -16,7 +16,6 @@
         <entry>setAuto</entry>
         <entry>epoch</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
-        <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
         <entry>Crite</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsUmF3UGFyYW1zXD4=</entry>
         <entry>gender</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdGF0ZU1hcFw+</entry>
         <entry encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
+        <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -138,14 +138,19 @@
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1620941618105">
-        <mark key="'" line="224" column="8" />
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1620942449083">
+        <mark key="'" line="37" column="16" />
         <mark key="[" line="225" column="51" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1620911709121">
         <mark key="'" line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620941160505" />
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1620942077292">
+        <mark key="[" line="40" column="125" />
+        <mark key="]" line="40" column="125" />
+        <mark key="^" line="40" column="125" />
+        <mark key="." line="40" column="124" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1620917582115">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="39" column="0" />
@@ -177,9 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="11" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/quotations/QuotesUtil.java" />
-      <jump line="10" column="25" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" />
-      <jump line="60" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="62" column="47" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="63" column="60" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="156" column="12" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
@@ -267,7 +269,6 @@
       <jump line="349" column="46" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="358" column="20" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="38" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="227" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="238" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="240" column="48" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -277,6 +278,10 @@
       <jump line="99" column="33" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="217" column="15" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="224" column="8" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="242" column="81" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="246" column="76" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="37" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,7 +299,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</text>
+        <text encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsLmZpdCh0cmFpbkRhdGEuZ2V0Um93KGopLCB0cmFpbkxhYmVsLmdldFJvdyhqKSk7Cg==</text>
@@ -336,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-search>
+      <last-search encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
