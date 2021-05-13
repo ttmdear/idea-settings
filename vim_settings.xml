@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFpbkRhdGFcPg==</entry>
         <entry encoding="base64">XDxnZXRRdW90YXRpb25zXD4=</entry>
         <entry encoding="base64">XDxiXD4=</entry>
         <entry encoding="base64">XDxEQVRBX1RFU1RfU1RBUlRfQVRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhZGRpdGlvbmFsUmF3UGFyYW1zXD4=</entry>
         <entry>gender</entry>
         <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -131,10 +131,6 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParametersTest.java" timestamp="1620900775177">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="115" />
-      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/enums/SearchContentEnum.java" timestamp="1620908202616" />
       <file name="/MongoFhirQuery.java" timestamp="1620909034362" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" timestamp="1620903723648">
@@ -151,7 +147,7 @@
         <mark key="[" line="33" column="41" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE.jar!/org/springframework/data/mongodb/core/query/Criteria.class" timestamp="1620908792554" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620908229145">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620912502459">
         <mark key="[" line="51" column="11" />
         <mark key="]" line="51" column="36" />
       </file>
@@ -161,11 +157,13 @@
         <mark key="." line="0" column="68" />
         <mark key="^" line="0" column="69" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1620909630770">
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="52" />
-        <mark key="^" line="35" column="52" />
-        <mark key="." line="35" column="51" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/MongoResourceDao.java" timestamp="1620909878046" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1620912153657">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="33" column="76" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1620903406850">
         <mark key="[" line="0" column="0" />
@@ -179,7 +177,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Iterable.java" timestamp="1620908069645" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchExpressionData.java" timestamp="1620909402112" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" timestamp="1620901141218" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1620908848239" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1620911709121">
+        <mark key="'" line="91" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1620903820149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="60" />
@@ -195,11 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="147" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="158" column="24" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="194" column="42" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="195" column="44" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="202" column="42" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="203" column="44" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="248" column="63" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -295,6 +290,11 @@
       <jump line="559" column="26" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-jpaserver-searchparam/5.1.0/hapi-fhir-jpaserver-searchparam-5.1.0.jar!/ca/uhn/fhir/jpa/searchparam/SearchParameterMap.class" />
       <jump line="81" column="37" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
+      <jump line="100" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
+      <jump line="82" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
+      <jump line="91" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
+      <jump line="24" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,49 +303,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>injectParamCriteria</text>
+        <text>sea</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>exCriteria</text>
+        <text>sea</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>injectParamCriteria</text>
+        <text>expressionList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKCkK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbmplY3RQYXJhbUNyaXRlcmlhKENyaXRlcmlhIHRhcmdldCwgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVyeSBxdWVyeSA9IG5ldyBRdWVyeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY3JpdGVyaWEuYW5kKCJ0ZXN0IikuaXMoKQogICAgICAgICAgICAvLyBjcml0ZXJpYS5hbmQoInRlc3QiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdEFycmF5KG5ldyBJbnRlZ2VyW117MSwgMiwgMywgNH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -354,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
