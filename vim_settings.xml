@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>plot</entry>
-        <entry encoding="base64">XDxwbG90XD4=</entry>
         <entry encoding="base64">XDxwcmVkaWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVDaGFydFw+</entry>
         <entry encoding="base64">XDxjaGFydFBhbmVsXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxjcml0ZXJpYVw+</entry>
         <entry>myPre</entry>
         <entry encoding="base64">XDxjb250ZW50VHlwZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVDcml0ZXJpYVw+</entry>
+        <entry encoding="base64">XDxjcml0ZXJpYUFuZFRva2VuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -191,12 +191,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="107" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1620988041148">
-        <mark key="'" line="30" column="30" />
-        <mark key="[" line="241" column="35" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="241" column="36" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1620993142456">
+        <mark key="'" line="234" column="25" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1620975642413">
         <mark key="[" line="0" column="0" />
@@ -213,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="33" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="0" column="0" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="55" column="29" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="144" column="11" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" />
       <jump line="66" column="38" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
@@ -313,6 +310,8 @@
       <jump line="89" column="27" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseParamWithPrefix.class" />
       <jump line="140" column="74" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
       <jump line="30" column="30" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
+      <jump line="26" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
+      <jump line="234" column="25" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,49 +320,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>criteriaAndSize</text>
+        <text>searchExpression.getExpression()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZW50VHlwZVw+</text>
+        <text encoding="base64">XDxjcml0ZXJpYUFuZFRva2VuXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>criteriaOr</text>
+        <text>paramAndList.get(j)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChMaXN0PElRdWVyeVBhcmFtZXRlclR5cGU+IGFuZExpc3QgOiBlbnRyeS5nZXRWYWx1ZSgpKSB7CiAgICAgICAgICAgICAgICAvLyBDcml0ZXJpYSBjcml0ZXJpYUFuZCA9IGNyaXRlcmlhLgogICAgICAgICAgICAgICAgLy8gY3JpdGVyaWEubHQoInRlc3QiKTsKICAgICAgICAgICAgICAgIC8vIGNyZWF0ZUNyaXRlcmlhRm9yUGFyYW0oZXhwcmVzc2lvbkxpc3QsIGFuZExpc3QpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNyaXRlcmlhQW5kW2ldID0gY3JlYXRlQ3JpdGVyaWEocGFyYW1BbmRMaXN0LmdldChpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hFeHByZXNzaW9uLmdldEUK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTGlzdDxTZWFyY2hFeHByZXNzaW9uRGF0YT4gZXhwcmVzc2lvbkxpc3QgPSBzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0TWFwcGluZ3MoZW50cnkuZ2V0S2V5KCkpOwoKICAgICAgICAgICAgLy8gZm9yKFNlYXJjaEV4cHJlc3Npb25EYXRhIHNlYXJjaEV4cHJlc3Npb25EYXRhOiBleHByZXNzaW9uTGlzdCkgewogICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JpdGVyaWFbXSBjcml0ZXJpYU9yID0gbmV3IENyaXRlcmlhW2NyaXRlcmlhQW5kU2l6ZV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjcml0ZXJpYU9yW2pdID0gY3JlYXRlQ3JpdGVyaWEoc2VhcmNoRXhwcmVzc2lvbiwgcGFyYW1BbmRMaXN0LmdldChqKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -372,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb250ZW50VHlwZVw+</last-search>
+      <last-search encoding="base64">XDxjcml0ZXJpYUFuZFRva2VuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZW50VHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcml0ZXJpYUFuZFRva2VuXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
