@@ -9,7 +9,6 @@
         <entry encoding="base64">XDxjcmVhdGVDaGFydFw+</entry>
         <entry encoding="base64">XDxjaGFydFBhbmVsXD4=</entry>
         <entry>setAuto</entry>
-        <entry>epoch</entry>
         <entry>Crite</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsUmF3UGFyYW1zXD4=</entry>
         <entry>gender</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwcmVQcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxsYWJlbHNcPg==</entry>
         <entry>fit</entry>
+        <entry>epoch</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -165,12 +165,12 @@
         <mark key="^" line="40" column="125" />
         <mark key="." line="40" column="124" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621200850659">
-        <mark key="'" line="393" column="22" />
-        <mark key="[" line="149" column="43" />
-        <mark key="]" line="149" column="47" />
-        <mark key="." line="149" column="46" />
-        <mark key="^" line="149" column="47" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621203024069">
+        <mark key="'" line="148" column="28" />
+        <mark key="[" line="162" column="48" />
+        <mark key="]" line="162" column="45" />
+        <mark key="." line="162" column="44" />
+        <mark key="^" line="162" column="45" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1620917582115">
         <mark key="'" line="24" column="0" />
@@ -180,8 +180,11 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/shape/Shape.java" timestamp="1621200962735" />
-      <file name="/fragment.java" timestamp="1621201147551">
+      <file name="/fragment.java" timestamp="1621202592789">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" timestamp="1620909369530">
         <mark key="'" line="81" column="37" />
@@ -192,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="22" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="274" column="27" filename="C:/Projekty/tmp/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="212" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="68" column="43" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -292,6 +294,7 @@
       <jump line="241" column="56" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/datasets/iterator/AbstractDataSetIterator.java" />
       <jump line="134" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="384" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="148" column="28" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,49 +303,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new int[]{d, 0}</text>
+        <text>DATA_TEST_SIZE</text>
       </register>
       <register name="+" type="4">
         <text>rnnClearPreviousState</text>
       </register>
       <register name="-" type="4">
-        <text>new int[]{d, 0}</text>
+        <text>DATA_TEST_SIZE</text>
       </register>
       <register name="/" type="4">
-        <text>fit</text>
+        <text>epoch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGQgPSAwOwo=</text>
+      <register name="0" type="4">
+        <text>DATA_TEST_SIZE</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG1vZGVsLmZpdCh0cmFpbkRhdGEuZ2V0Um93KGopLCB0cmFpbkxhYmVsLmdldFJvdyhqKSk7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluRGF0YUJhdGNoLnB1dFNjYWxhcihqLCAwLCAwLCBtb2RlbFF1b3RlLmdldEJvZHkoKSk7CiAgICAgICAgICAgICAgICB0cmFpbkxhYmVsc0JhdGNoLnB1dFNjYWxhcihqLCAwLCAwLCBtb2RlbFF1b3RlTGFiZWwuZ2V0Qm9keSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZCA9IDA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJTkRBcnJheSB0cmFpbkRhdGEgPSBOZDRqLmNyZWF0ZShEQVRBX01JTklfQkFUQ0hfU0laRSwgMSk7CiAgICAgICAgSU5EQXJyYXkgdHJhaW5MYWJlbHMgPSBOZDRqLmNyZWF0ZShEQVRBX01JTklfQkFUQ0hfU0laRSwgMSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJTkRBcnJheSB0ZXN0RGF0YSA9IE5kNGouY3JlYXRlKERBVEFfVEVTVF9TSVpFLCAxKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IERBVEFfTEVBUk5fU1RBUlRfQVQ7IGkgPCBEQVRBX1RFU1RfU1RBUlRfQVQ7IGkrKykgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGQrKzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGQgPSAwOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG1vZGVsLmZpdCh0cmFpbkRhdGEuZ2V0Um93KGopLCB0cmFpbkxhYmVsLmdldFJvdyhqKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgZCA9IDA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgZCA9IDA7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gREFUQV9MRUFSTl9TVEFSVF9BVDsgaSA8IERBVEFfVEVTVF9TVEFSVF9BVDsgaSsrKSB7CiAgICAgICAgICAgIE1vZGVsUXVvdGUgbW9kZWxRdW90ZSA9IG1vZGVsUXVvdGVzLmdldChpKTsKICAgICAgICAgICAgTW9kZWxRdW90ZSBtb2RlbFF1b3RlTmV4dCA9IG1vZGVsUXVvdGVzLmdldChpICsgMSk7CgogICAgICAgICAgICB0cmFpbkRhdGEucHV0U2NhbGFyKG5ldyBpbnRbXXtkLCAwfSwgbW9kZWxRdW90ZS5nZXRCb2R5KCkpOwogICAgICAgICAgICB0cmFpbkxhYmVscy5wdXRTY2FsYXIobmV3IGludFtde2QsIDB9LCBtb2RlbFF1b3RlTmV4dC5nZXRCb2R5KCkpOwoKICAgICAgICAgICAgZCsrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBJTkRBcnJheSB0cmFpbkRhdGEgPSBOZDRqLmNyZWF0ZShEQVRBX01JTklfQkFUQ0hfU0laRSwgMSk7CiAgICAgICAgSU5EQXJyYXkgdHJhaW5MYWJlbHMgPSBOZDRqLmNyZWF0ZShEQVRBX01JTklfQkFUQ0hfU0laRSwgMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -351,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fit</last-search>
+      <last-search>epoch</last-search>
       <last-offset />
-      <last-pattern>fit</last-pattern>
+      <last-pattern>epoch</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>StringT</last-substitute>
       <last-dir>1</last-dir>
