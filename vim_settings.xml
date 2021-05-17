@@ -128,6 +128,10 @@
       <file name="vim_settings.xml" timestamp="1620974656036">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchExpression.java" timestamp="1621236172414">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="21" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1621000780650">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,17 +146,10 @@
         <mark key="[" line="554" column="15" />
         <mark key="]" line="554" column="60" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/QueryEngineServiceTest.java" timestamp="1620907644773">
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="81" column="60" />
-        <mark key="]" line="83" column="8" />
-        <mark key="." line="83" column="7" />
-        <mark key="^" line="83" column="8" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/DateParam.class" timestamp="1620979728448">
         <mark key="'" line="47" column="18" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1620974808897">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1621236679759">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="45" />
         <mark key="]" line="49" column="46" />
@@ -182,25 +179,25 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="107" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621234253161">
-        <mark key="'" line="240" column="25" />
-        <mark key="[" line="266" column="15" />
-        <mark key="]" line="266" column="23" />
-        <mark key="." line="266" column="22" />
-        <mark key="^" line="266" column="23" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621238500939">
+        <mark key="'" line="246" column="25" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="^" line="206" column="44" />
+        <mark key="." line="274" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1621234246052">
+      <file name="/fragment.java" timestamp="1621237301382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="60" />
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="59" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" timestamp="1621234618586">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" timestamp="1621238163428">
         <mark key="'" line="81" column="37" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="12" />
+        <mark key="[" line="78" column="19" />
+        <mark key="]" line="78" column="19" />
+        <mark key="." line="78" column="19" />
+        <mark key="^" line="90" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -312,49 +309,49 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuc2l6ZSgpKS5pc0VxdWFsVG8oMyk7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgwKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiZ3QyMDAiKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtbnVtYmVyIikuZ2V0KDApLmdldCgxKS5nZXRWYWx1ZUFzUXVlcnlUb2tlbihmaGlyQ29udGV4dCkpLmlzRXF1YWxUbygiMzAwIik7CiAgICAgICAgYXNzZXJ0VGhhdChzZWFyY2hQYXJhbWV0ZXJNYXAuZ2V0KCJ0ZXN0LW51bWJlciIpLmdldCgwKS5nZXQoMikuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oImx0MTAwIik7CgogICAgICAgIGFzc2VydFRoYXQoc2VhcmNoUGFyYW1ldGVyTWFwLmdldCgidGVzdC1kYXRlIikpLmlzTm90RW1wdHkoKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5zaXplKCkpLmlzRXF1YWxUbygxKTsKICAgICAgICBhc3NlcnRUaGF0KHNlYXJjaFBhcmFtZXRlck1hcC5nZXQoInRlc3QtZGF0ZSIpLmdldCgwKS5nZXQoMCkuZ2V0VmFsdWVBc1F1ZXJ5VG9rZW4oZmhpckNvbnRleHQpKS5pc0VxdWFsVG8oIjIwMjEtMDQtMDQiKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0QXJyYXkoSW50ZWdlci4uLiBpbnRlZ2VycykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpbnRlZ2Vycyk7CiAgICB9Cg==</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>, &quot;ap1000&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcml0ZXJpYUFuZFRva2VuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhLmd0KHZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCB0ZXN0QXJyYXkoSW50ZWdlci4uLiBpbnRlZ2VycykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpbnRlZ2Vycyk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3RBcnJheShJbnRlZ2VyLi4uIGludGVnZXJzKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGludGVnZXJzKTsKICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhLmx0KHZhbHVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZisrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBFTkRTX0JFRk9SRToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWFGaWVsZEFuZFtmXSA9IG5ldyBDcml0ZXJpYSgpOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBFTkRTX0JFRk9SRToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZiA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY3JpdGVyaWEuZ3QodmFsdWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBTVEFSVFNfQUZURVI6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhQW5kW2ldID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gSW1wbGVtZW50YWNqYSBTVEFSVFNfQUZURVIKICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJUT0RPIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
