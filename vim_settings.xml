@@ -133,10 +133,10 @@
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1621236679759">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="45" />
-        <mark key="]" line="49" column="46" />
-        <mark key="." line="49" column="45" />
-        <mark key="^" line="49" column="46" />
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="46" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" timestamp="1621250631290">
         <mark key="[" line="0" column="39" />
@@ -153,12 +153,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="47" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621255179722">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621255590458">
         <mark key="'" line="53" column="26" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="42" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" timestamp="1621250411778" />
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseAndListParam.class" timestamp="1621251420263" />
@@ -166,16 +166,10 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="21" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1621000780650">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2.jar!/org/bson/Document.class" timestamp="1621240571887">
         <mark key="'" line="62" column="13" />
         <mark key="[" line="241" column="11" />
         <mark key="]" line="241" column="36" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/DateParam.class" timestamp="1620979728448">
-        <mark key="'" line="47" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParamPrefixEnum.class" timestamp="1620982946878">
         <mark key="[" line="12" column="0" />
@@ -187,6 +181,10 @@
         <mark key="]" line="167" column="0" />
         <mark key="^" line="167" column="0" />
         <mark key="." line="167" column="0" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoFhirQuery.java" timestamp="1621255599619">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="116" />
       </file>
       <file name="/fragment.java" timestamp="1621255277480">
         <mark key="[" line="0" column="0" />
@@ -310,8 +308,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>MongoTemplate mongoTemplate, ResourceType resourceType, Criteria searchCriteria, Sort order</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
@@ -323,7 +321,7 @@
         <text>process</text>
       </register>
       <register name="0" type="4">
-        <text>criteria.and(expresion + &quot;.city&quot;)</text>
+        <text>MongoTemplate mongoTemplate, ResourceType resourceType, Criteria searchCriteria, Sort order</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
