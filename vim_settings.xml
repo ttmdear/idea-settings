@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hFeHBNYXBcPg==</entry>
         <entry encoding="base64">XDxDcml0ZXJpYVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0aGVuUmV0dXJuXD4=</entry>
         <entry>1</entry>
         <entry>DateP</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
@@ -153,12 +153,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="47" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621253077254">
-        <mark key="'" line="9" column="30" />
-        <mark key="[" line="198" column="40" />
-        <mark key="]" line="198" column="47" />
-        <mark key="." line="174" column="34" />
-        <mark key="^" line="174" column="35" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621255179722">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" timestamp="1621250411778" />
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseAndListParam.class" timestamp="1621251420263" />
@@ -188,25 +188,21 @@
         <mark key="^" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1621252954569">
+      <file name="/fragment.java" timestamp="1621255277480">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" timestamp="1621253158735">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="213" column="39" />
-        <mark key="]" line="213" column="46" />
-        <mark key="." line="213" column="73" />
-        <mark key="^" line="213" column="74" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" timestamp="1621255375154">
+        <mark key="'" line="74" column="20" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="1364" />
+        <mark key="." line="35" column="1363" />
+        <mark key="^" line="35" column="1364" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="68" column="43" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="58" column="32" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="98" column="24" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="225" column="21" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="242" column="81" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="37" column="16" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -303,57 +299,61 @@
       <jump line="9" column="30" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
       <jump line="64" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
       <jump line="88" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
+      <jump line="53" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
+      <jump line="36" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
+      <jump line="222" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
+      <jump line="74" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="4">
-        <text>Quantity</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>quantity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>DATE</text>
+        <text>QUANTITY</text>
       </register>
       <register name="/" type="4">
-        <text>DateP</text>
+        <text>process</text>
       </register>
       <register name="0" type="4">
-        <text>quantity</text>
+        <text>criteria.and(expresion + &quot;.city&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIERvIHNwcmF3ZHplbmlhIG1vZHlmaWthdG9yIG9mLXR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLndoZW4oc2VhcmNoUGFyYW1ldGVyUmVzb3VyY2VQcm92aWRlci5zZWFyY2hCeVJlc291cmNlKFBhdGllbnQuY2xhc3MpKQogICAgICAgICAgICAudGhlblJldHVybihuZXcgU2ltcGxlQnVuZGxlUHJvdmlkZXIoQXJyYXlzLmFzTGlzdCgKICAgICAgICAgICAgICAgIGNyZWF0ZVNlYXJjaFBhcmFtZXRlcigibmFtZS1leGFjdCIsIFNlYXJjaFBhcmFtVHlwZS5TVFJJTkcpLAogICAgICAgICAgICAgICAgY3JlYXRlU2VhcmNoUGFyYW1ldGVyKCJuYW1lLWNvbnRhaW5zIiwgU2VhcmNoUGFyYW1UeXBlLlNUUklORykKICAgICAgICAgICAgKSkpOwoKICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHNvdXJjZSA9IG5ldyBIYXNoTWFwPD4oKTsKCiAgICAgICAgc291cmNlLnB1dCgibmFtZS1leGFjdDpleGFjdCIsIEFycmF5cy5hc0xpc3QoIktvd2Fsc2tpLElrc2nxc2tpIiwgIk1hcmtvd2lhayIpKTsKICAgICAgICBzb3VyY2UucHV0KCJuYW1lLWNvbnRhaW5zOmNvbnRhaW5zIiwgQXJyYXlzLmFzTGlzdCgiS293YWxza2ksSWtzafFza2kiLCAiuSIpKTsKCiAgICAgICAgU2VhcmNoUGFyYW1ldGVyTWFwRXh0IHBhcmFtZXRlck1hcCA9IG5ldyBTZWFyY2hQYXJhbWV0ZXJNYXBFeHQoKTsKCiAgICAgICAgdHJhbnNsYXRlUmF3UGFyYW1ldGVycy50cmFuc2xhdGUoc291cmNlLCBwYXJhbWV0ZXJNYXAsIFBhdGllbnQuY2xhc3MsIHNlYXJjaFBhcmFtZXRlclJlc291cmNlUHJvdmlkZXIsCiAgICAgICAgICAgIGZoaXJDb250ZXh0KTsKCiAgICAgICAgcGFyYW1ldGVyTWFwCiAgICAgICAgICAgIC5hZGRNYXBwaW5nKCJuYW1lLWV4YWN0IiwgY3JlYXRlU2VhcmNoRXhwcmVzc2lvbigibmFtZS1leGFjdCIsIFNlYXJjaENvbnRlbnRFbnVtLlNUUklORywgInBhdGllbnQubmFtZSIpKTsKICAgICAgICBwYXJhbWV0ZXJNYXAuYWRkTWFwcGluZygibmFtZS1jb250YWlucyIsCiAgICAgICAgICAgIGNyZWF0ZVNlYXJjaEV4cHJlc3Npb24oIm5hbWUtY29udGFpbnMiLCBTZWFyY2hDb250ZW50RW51bS5TVFJJTkcsICJwYXRpZW50Lm5hbWUiKSk7CgogICAgICAgIENyaXRlcmlhIGNyaXRlcmlhID0gc3V0LmJ1aWxkKHBhcmFtZXRlck1hcCk7CgogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoY3JpdGVyaWEuZ2V0Q3JpdGVyaWFPYmplY3QoKS50b0pzb24oKSwgRVhQRUNURURfMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuYW5kKGV4cHJlc2lvbiArICIuY2l0eSIpLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAZm9ybWF0dGVyOm9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEuYW5kKGV4cHJlc2lvbiArICIuY2l0eSIpLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAZm9ybWF0dGVyOm9mZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAZm9ybWF0dGVyOm9mZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY3JpdGVyaWEuaXModG9rZW5QYXJhbS5nZXRWYWx1ZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc1N0cmluZ1BhcmFtKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -362,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DateP</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>DateP</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-replace>7</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
