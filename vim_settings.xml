@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRpdGlvbmFsUmF3UGFyYW1zXD4=</entry>
         <entry>gender</entry>
         <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxzdG9ja0RhdGFMaXN0XD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxEQVRBX0xFQVJOX1NUQVJUX0FUXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -128,6 +128,7 @@
       <file name="/Dummy.txt" timestamp="1621257715152">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/utils/PlotUtil.java" timestamp="1621460085681" />
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" timestamp="1621288601053">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="58" />
@@ -176,12 +177,12 @@
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621459601133">
         <mark key="'" line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621459367602">
-        <mark key="'" line="76" column="29" />
-        <mark key="[" line="74" column="51" />
-        <mark key="]" line="74" column="52" />
-        <mark key="." line="74" column="51" />
-        <mark key="^" line="74" column="52" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621461087173">
+        <mark key="'" line="79" column="74" />
+        <mark key="[" line="149" column="51" />
+        <mark key="]" line="149" column="50" />
+        <mark key="." line="149" column="49" />
+        <mark key="^" line="149" column="50" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/FhirQuery.java" timestamp="1621257127291">
         <mark key="[" line="23" column="17" />
@@ -227,8 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="42" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" />
-      <jump line="54" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
       <jump line="34" column="34" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseParam.class" />
       <jump line="47" column="18" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/DateParam.class" />
       <jump line="196" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
@@ -305,7 +304,6 @@
       <jump line="238" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="160" column="36" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="310" column="22" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
-      <jump line="76" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
       <jump line="102" column="24" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
       <jump line="29" column="23" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
@@ -327,6 +325,9 @@
       <jump line="82" column="8" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="129" column="39" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="179" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="147" column="34" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="76" column="29" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="79" column="74" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,49 +336,49 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>setAutoRangeIncludesZero</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>setAutoRangeIncludesZero</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0XD4=</text>
+        <text encoding="base64">XDxEQVRBX0xFQVJOX1NUQVJUX0FUXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYmF0Y2hDb3VudGVyID0gREFUQV9CQVRDSF9TSVpFOwoKICAgICAgICBJTkRBcnJheSB0cmFpbkRhdGFCYXRjaCA9IE5kNGouY3JlYXRlKERBVEFfQkFUQ0hfU0laRSwgMSwgMSk7CiAgICAgICAgSU5EQXJyYXkgdHJhaW5MYWJlbHNCYXRjaCA9IE5kNGouY3JlYXRlKERBVEFfQkFUQ0hfU0laRSwgMSwgMSk7Cg==</text>
+      <register name="0" type="4">
+        <text>DATA_LEARN_START_AT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBEQVRBX0xFQVJOX1NUQVJUX0FUID0gREFUQV9TRVJJRVNfU0laRTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdCA9IDA7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHQgPSAwOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdCA9IDA7Cg==</text>
-      </register>
-      <register name="7" type="8">
+      <register name="3" type="8">
         <text encoding="base64">SU5EQXJyYXkgCklOREFycmF5IA==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluRGF0YUJhdGNoID0gTmQ0ai5jcmVhdGUoREFUQV9CQVRDSF9TSVpFLCAxLCAxKTsKICAgICAgICAgICAgICAgIHRyYWluTGFiZWxzQmF0Y2ggPSBOZDRqLmNyZWF0ZShEQVRBX0JBVENIX1NJWkUsIDEsIDEpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgdCA9IDA7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBiYXRjaENvdW50ZXIgPSBEQVRBX0JBVENIX1NJWkU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -386,9 +387,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxEQVRBX0xFQVJOX1NUQVJUX0FUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEQVRBX0xFQVJOX1NUQVJUX0FUXD4=</last-pattern>
       <last-replace>7</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
