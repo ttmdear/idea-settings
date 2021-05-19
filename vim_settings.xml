@@ -5,28 +5,34 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
+        <entry>setAuto</entry>
+        <entry>Crite</entry>
+        <entry encoding="base64">XDxhZGRpdGlvbmFsUmF3UGFyYW1zXD4=</entry>
+        <entry>gender</entry>
+        <entry encoding="base64">XDxteVNlYXJjaFBhcmFtZXRlck1hcFw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry encoding="base64">XDxzZWFyY2hFeHBNYXBcPg==</entry>
-        <entry encoding="base64">XDxDcml0ZXJpYVw+</entry>
-        <entry encoding="base64">XDxjcml0ZXJpYVw+</entry>
-        <entry>myPre</entry>
-        <entry encoding="base64">XDxjb250ZW50VHlwZVw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVDcml0ZXJpYVw+</entry>
-        <entry encoding="base64">XDxjcml0ZXJpYUFuZFRva2VuXD4=</entry>
-        <entry encoding="base64">XDxkb2N1bWVudEFzTWFwXD4=</entry>
-        <entry>Asser</entry>
-        <entry>Nu</entry>
-        <entry encoding="base64">XDxlcXVhbHNcPg==</entry>
-        <entry encoding="base64">XDxuYW1lLWV4YWN0XD4=</entry>
-        <entry encoding="base64">XDxuYW1lLWNvbnRhaW5cPg==</entry>
-        <entry encoding="base64">XDxuYW1lLWV4XD4=</entry>
-        <entry encoding="base64">XDxuYW1lLWNvXD4=</entry>
-        <entry encoding="base64">XDx0aGVuUmV0dXJuXD4=</entry>
-        <entry>1</entry>
-        <entry>DateP</entry>
-        <entry>process</entry>
+        <entry encoding="base64">XDxzdGF0ZU1hcFw+</entry>
+        <entry encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
+        <entry encoding="base64">XDxtaW5pQmF0Y2hTaXplXD4=</entry>
+        <entry encoding="base64">XDxtYXhcPg==</entry>
+        <entry encoding="base64">XDxwcmVQcm9jZXNzb3JcPg==</entry>
+        <entry encoding="base64">XDxsYWJlbHNcPg==</entry>
+        <entry>fit</entry>
+        <entry>epoch</entry>
+        <entry encoding="base64">XDxpdGVyQ291bnRcPg==</entry>
+        <entry>init</entry>
+        <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDx0ZXN0RGF0YVw+</entry>
       </history-search>
       <history-cmd>
+        <entry>2</entry>
+        <entry>21</entry>
+        <entry>188</entry>
+        <entry encoding="base64">JzwsJz5zb3J0IHU=</entry>
+        <entry>W</entry>
+        <entry>48</entry>
         <entry>;w</entry>
         <entry>q</entry>
         <entry>96</entry>
@@ -39,12 +45,6 @@
         <entry>82</entry>
         <entry>62</entry>
         <entry>71</entry>
-        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvNC9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvNS9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvNi9n</entry>
-        <entry encoding="base64">JzwsJz5zLzEvNy9n</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
@@ -131,12 +131,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="58" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/fhire/ex/SearchParameterMapExt.java" timestamp="1621236679759">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="46" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/quotations/CandlesUtil.java" timestamp="1621286630756">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="48" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" timestamp="1621250631290">
         <mark key="[" line="0" column="39" />
@@ -144,10 +143,20 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="60" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java" timestamp="1621234107872" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseParamWithPrefix.class" timestamp="1620980732506">
-        <mark key="'" line="89" column="27" />
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1621290725541">
+        <mark key="'" line="68" column="43" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1621246062758">
+        <mark key="'" line="84" column="42" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/optimize/listeners/ScoreIterationListener.java" timestamp="1621287811148">
+        <mark key="'" line="60" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621290783366" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoSearchExpressionDaoSpringTest.java" timestamp="1621242372090">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="75" column="0" />
@@ -157,33 +166,28 @@
         <mark key="'" line="276" column="27" />
         <mark key="[" line="157" column="46" />
         <mark key="]" line="157" column="54" />
-        <mark key="." line="157" column="53" />
         <mark key="^" line="157" column="54" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" timestamp="1621250411778" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseAndListParam.class" timestamp="1621251420263" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/SearchExpression.java" timestamp="1621236172414">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="30" />
+        <mark key="." line="157" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1621257715152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2.jar!/org/bson/Document.class" timestamp="1621240571887">
-        <mark key="'" line="62" column="13" />
-        <mark key="[" line="241" column="11" />
-        <mark key="]" line="241" column="36" />
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" timestamp="1621288601053">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="58" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParamPrefixEnum.class" timestamp="1620982946878">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="20" column="23" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1621287666881">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="29" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1621246062758">
-        <mark key="'" line="84" column="42" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621291165701">
+        <mark key="'" line="453" column="37" />
+        <mark key="[" line="256" column="88" />
+        <mark key="]" line="256" column="88" />
+        <mark key="." line="256" column="88" />
+        <mark key="^" line="166" column="46" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/FhirQuery.java" timestamp="1621257127291">
         <mark key="[" line="23" column="17" />
@@ -202,6 +206,11 @@
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="35" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2.jar!/org/bson/Document.class" timestamp="1621240571887">
+        <mark key="'" line="62" column="13" />
+        <mark key="[" line="241" column="11" />
+        <mark key="]" line="241" column="36" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" timestamp="1621257173826">
         <mark key="'" line="234" column="8" />
