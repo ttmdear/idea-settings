@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGVSZXF1ZXN0RGV0YWlsc1w+</entry>
         <entry>addmap</entry>
         <entry>addMa</entry>
         <entry>activce</entry>
@@ -21,10 +20,11 @@
         <entry encoding="base64">XDxhZGRyZXNzVXNlRW51bUZhY3RvcnlcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVQYXRpZW50SW5Nb25nb1w+</entry>
         <entry>orOp</entry>
-        <entry encoding="base64">XDxjcmVhdGVQYXRpZW50XD4=</entry>
         <entry>A</entry>
         <entry encoding="base64">XDxwcm9jZXNzU3RyaW5nUGFyYW1cPg==</entry>
         <entry encoding="base64">XDxpbmNvcnJlY3RTZWFyY2hQYXJhbVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVQYXRpZW50XD4=</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUGFyYW1XaXRoUHJlZml4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -125,7 +125,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1621346368291">
+      <file name="/Dummy.txt" timestamp="1621413949439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Address.java" timestamp="1621345546465">
@@ -146,12 +146,12 @@
         <mark key="[" line="273" column="0" />
         <mark key="]" line="289" column="5" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621406985495">
-        <mark key="'" line="263" column="28" />
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="36" />
-        <mark key="^" line="74" column="36" />
-        <mark key="." line="74" column="35" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621415353802">
+        <mark key="'" line="270" column="28" />
+        <mark key="[" line="273" column="12" />
+        <mark key="]" line="274" column="28" />
+        <mark key="." line="274" column="27" />
+        <mark key="^" line="274" column="28" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/resource/ResourceBaseTest.java" timestamp="1621330565109">
         <mark key="[" line="94" column="47" />
@@ -170,12 +170,12 @@
         <mark key="." line="156" column="7" />
         <mark key="^" line="156" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621409161659">
-        <mark key="'" line="198" column="18" />
-        <mark key="[" line="155" column="50" />
-        <mark key="]" line="155" column="51" />
-        <mark key="^" line="155" column="51" />
-        <mark key="." line="155" column="50" />
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/QuantityParam.class" timestamp="1621412363524" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621415448300">
+        <mark key="'" line="193" column="27" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/MongoDBInitializer.java" timestamp="1621333911819">
         <mark key="[" line="22" column="95" />
@@ -212,17 +212,14 @@
         <mark key="[" line="26" column="11" />
         <mark key="]" line="26" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1621407063014">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1621413952691">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
-      <jump line="149" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
-      <jump line="150" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
       <jump line="34" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
       <jump line="178" column="52" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
       <jump line="109" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
@@ -283,7 +280,6 @@
       <jump line="172" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="173" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="184" column="93" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="186" column="95" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="101" column="43" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="143" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="193" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
@@ -302,9 +298,7 @@
       <jump line="124" column="4" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="161" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="40" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="165" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="116" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="170" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="201" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="239" column="58" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -320,6 +314,12 @@
       <jump line="274" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
       <jump line="218" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
       <jump line="196" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="257" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
+      <jump line="116" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="165" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="178" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="186" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="270" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,8 +327,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>POSTAL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVhbGlmaWVkLmdldAo=</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -337,46 +337,46 @@
         <text>45-234</text>
       </register>
       <register name="-" type="4">
-        <text>POSTAL</text>
+        <text>extends</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmNvcnJlY3RTZWFyY2hQYXJhbVw+</text>
+        <text encoding="base64">XDxwcm9jZXNzUGFyYW1XaXRoUHJlZml4XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge0NvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoIk9jaG90YSIpLCAxfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVhbGlmaWVkLmdldAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgcm9vdCA9ICJyb290IjsKICAgICAgICBmaW5hbCBTdHJpbmcgZXh0ZW5zaW9uID0gImV4dGVuc2lvbiI7CgogICAgICAgIGZpbmFsIFRva2VuUGFyYW0gdG9rZW5QYXJhbVdpdGhvdXRTeXN0ZW0gPSBuZXcgVG9rZW5QYXJhbSgpOwogICAgICAgIHRva2VuUGFyYW1XaXRob3V0U3lzdGVtLnNldFZhbHVlKGV4dGVuc2lvbik7CgogICAgICAgIGZpbmFsIFRva2VuUGFyYW0gdG9rZW5QYXJhbVdpdGhvdXRWYWx1ZSA9IG5ldyBUb2tlblBhcmFtKCk7CiAgICAgICAgdG9rZW5QYXJhbVdpdGhvdXRWYWx1ZS5zZXRTeXN0ZW0ocm9vdCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3Rva2VuUGFyYW1XaXRob3V0VmFsdWV9LAogICAgICAgICAgICB7bmV3IFRva2VuUGFyYW0oKX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFkZChwYXJhbWV0ZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0U2VhcmNoQnlBZGRyZXNzQ2FzZUIoKSB7CiAgICAgICAgaW5pdFNlYXJjaEJ5QWRkcmVzcygpOwoKICAgICAgICBRdWVyeVBhcmFtZXRlckFuZEJpbmRlciBiaW5kZXJTdHJpbmcgPSBuZXcgUXVlcnlQYXJhbWV0ZXJBbmRCaW5kZXIoU3RyaW5nQW5kTGlzdFBhcmFtLmNsYXNzLAogICAgICAgICAgICBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7CgogICAgICAgIFF1YWxpZmllZFBhcmFtTGlzdCBwYXJhbWV0ZXJzID0gbmV3IFF1YWxpZmllZFBhcmFtTGlzdCgpOwogICAgICAgIHBhcmFtZXRlcnMuYWRkKCJCZW1vd28iKTsKCiAgICAgICAgSVF1ZXJ5UGFyYW1ldGVyQW5kPD8+IHBhcnNlZCA9IGJpbmRlclN0cmluZy5wYXJzZShmaGlyQ29udGV4dCwgImFkZHJlc3MiLAogICAgICAgICAgICBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHBhcmFtZXRlcnMpKTsKCiAgICAgICAgU2VhcmNoUGFyYW1ldGVyTWFwRXh0IHBhcmFtZXRlck1hcCA9IG5ldyBTZWFyY2hQYXJhbWV0ZXJNYXBFeHQoKTsKICAgICAgICBwYXJhbWV0ZXJNYXAuYWRkKCJhZGRyZXNzIiwgcGFyc2VkKTsKICAgICAgICBwYXJhbWV0ZXJNYXAuYWRkTWFwcGluZygiYWRkcmVzcyIsIGNyZWF0ZVNlYXJjaEV4cHJlc3Npb24oImFkZHJlc3MiLCBTZWFyY2hDb250ZW50RW51bS5BRERSRVNTLAogICAgICAgICAgICAicmVzb3VyY2UuY29udGFjdC5hZGRyZXNzIikpOwoKICAgICAgICBMaXN0PElCYXNlUmVzb3VyY2U+IHJlc3VsdCA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApLmZldGNoUmVzb3VyY2VzKDAsIDMpOwoKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlc3VsdC5zaXplKCksIDIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBc3NlcnQuYXNzZXJ0VHJ1ZShpc01hbGUpOwogICAgICAgIC8vIEFzc2VydC5hc3NlcnRUcnVlKGlzRmVtYWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge0FycmF5cy5hc0xpc3QoIlByenltb3J6ZSIsICJPY2hvdGEiKSwgMn0sCiAgICAgICAgICAgIHtDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KCJLb3ppZW5pY2UiKSwgMX0sCiAgICAgICAgICAgIHtDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KCJCZW1vd28iKSwgMX0sCiAgICAgICAgICAgIHtDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KCJPY2hvdGEiKSwgMX0sCiAgICAgICAgICAgIHtDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KCJQb2xza2EiKSwgM30sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -385,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbmNvcnJlY3RTZWFyY2hQYXJhbVw+</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzUGFyYW1XaXRoUHJlZml4XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmNvcnJlY3RTZWFyY2hQYXJhbVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzUGFyYW1XaXRoUHJlZml4XD4=</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
