@@ -125,6 +125,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1621257715152">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" timestamp="1621288601053">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1621287666881">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="29" column="11" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/util/CriteriaSerializer.java" timestamp="1621242238452">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -156,31 +169,8 @@
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/optimize/listeners/ScoreIterationListener.java" timestamp="1621287811148">
         <mark key="'" line="60" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621290783366" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoSearchExpressionDaoSpringTest.java" timestamp="1621242372090">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="47" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621257517547">
-        <mark key="'" line="276" column="27" />
-        <mark key="[" line="157" column="46" />
-        <mark key="]" line="157" column="54" />
-        <mark key="^" line="157" column="54" />
-        <mark key="." line="157" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1621257715152">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/model/RecurrentNets.java" timestamp="1621288601053">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1621287666881">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="29" column="11" />
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621450516767">
+        <mark key="'" line="105" column="0" />
       </file>
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621291165701">
         <mark key="'" line="453" column="37" />
@@ -194,6 +184,18 @@
         <mark key="]" line="23" column="17" />
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="17" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoSearchExpressionDaoSpringTest.java" timestamp="1621242372090">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="47" />
+      </file>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" timestamp="1621257517547">
+        <mark key="'" line="276" column="27" />
+        <mark key="[" line="157" column="46" />
+        <mark key="]" line="157" column="54" />
+        <mark key="^" line="157" column="54" />
+        <mark key="." line="157" column="53" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoFhirQuery.java" timestamp="1621257121828">
         <mark key="[" line="21" column="21" />
@@ -221,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="75" column="32" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="99" column="33" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="217" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -321,6 +322,7 @@
       <jump line="275" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
       <jump line="280" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
       <jump line="234" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
