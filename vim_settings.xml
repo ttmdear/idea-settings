@@ -13,7 +13,6 @@
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZU1hcFw+</entry>
         <entry encoding="base64">XDxwcmVkaWN0TGVuZ3RoXD4=</entry>
-        <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
         <entry encoding="base64">XDxtaW5pQmF0Y2hTaXplXD4=</entry>
         <entry encoding="base64">XDxtYXhcPg==</entry>
         <entry encoding="base64">XDxwcmVQcm9jZXNzb3JcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxleGFtcGxlTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDx0ZXN0RGF0YVw+</entry>
+        <entry encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -156,8 +156,8 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1621290725541">
-        <mark key="'" line="68" column="43" />
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1621452315107">
+        <mark key="'" line="281" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1621246062758">
         <mark key="'" line="84" column="42" />
@@ -172,12 +172,12 @@
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621450516767">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621291165701">
-        <mark key="'" line="453" column="37" />
-        <mark key="[" line="256" column="88" />
-        <mark key="]" line="256" column="88" />
-        <mark key="." line="256" column="88" />
-        <mark key="^" line="166" column="46" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621451869829">
+        <mark key="'" line="455" column="37" />
+        <mark key="[" line="152" column="44" />
+        <mark key="]" line="152" column="44" />
+        <mark key="." line="152" column="43" />
+        <mark key="^" line="152" column="44" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/FhirQuery.java" timestamp="1621257127291">
         <mark key="[" line="23" column="17" />
@@ -223,15 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="32" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="99" column="33" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="217" column="15" filename="C:/Projekty/tmp/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="1928" column="20" filename="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/api/complex/BaseComplexNDArray.java" />
-      <jump line="94" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmSearchParameterResourceProvider.java" />
-      <jump line="39" column="34" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/QueryEngineServiceTest.java" />
-      <jump line="62" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/QueryEngineServiceTest.java" />
-      <jump line="13" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" />
-      <jump line="60" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" />
       <jump line="51" column="2" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/resources/http/patient.http" />
       <jump line="290" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="266" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
@@ -323,6 +314,15 @@
       <jump line="280" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineService.java" />
       <jump line="234" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineServiceTest.java" />
       <jump line="105" column="0" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" />
+      <jump line="58" column="32" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="99" column="33" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="217" column="15" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="224" column="8" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="227" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="238" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="240" column="48" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="251" column="27" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="281" column="16" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,16 +331,16 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApLmdldFNlYXJjaENyaXRlcmlhKCk7Cg==</text>
@@ -382,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>process</last-search>
+      <last-search encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</last-pattern>
       <last-replace>7</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
