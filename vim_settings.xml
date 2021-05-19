@@ -125,6 +125,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1621346368291">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Address.java" timestamp="1621345546465">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="370" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/api/QualifiedParamList.class" timestamp="1621337360305">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="30" />
+      </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1621328546067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22376" />
@@ -136,7 +147,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/util/IBundleProviderUtil.java" timestamp="1621340788061" />
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/resource/ResourceBaseTest.java" timestamp="1621330565109">
         <mark key="[" line="94" column="47" />
         <mark key="]" line="94" column="78" />
@@ -154,40 +164,12 @@
         <mark key="." line="156" column="7" />
         <mark key="^" line="156" column="8" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621346112475">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621404972678">
         <mark key="a" line="142" column="27" />
         <mark key="'" line="124" column="4" />
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="60" column="4" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="4" />
-      </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1621328437636">
-        <mark key="'" line="373" column="34" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="159" column="106" />
-        <mark key="." line="161" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/BaseAndListParam.class" timestamp="1621336513630" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" timestamp="1621342713829">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="100" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/binder/QueryParameterAndBinder.class" timestamp="1621337450392">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1621346368291">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Address.java" timestamp="1621345546465">
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="370" column="28" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/api/QualifiedParamList.class" timestamp="1621337360305">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="30" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/MongoDBInitializer.java" timestamp="1621333911819">
         <mark key="[" line="22" column="95" />
@@ -203,9 +185,24 @@
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" timestamp="1621343006694">
         <mark key="'" line="37" column="38" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1621328437636">
+        <mark key="'" line="373" column="34" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="159" column="106" />
+        <mark key="." line="161" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParameterUtil.class" timestamp="1621342713829">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="100" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoFhirQuery.java" timestamp="1621340027147">
         <mark key="[" line="59" column="11" />
         <mark key="]" line="59" column="29" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/binder/QueryParameterAndBinder.class" timestamp="1621337450392">
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1621344827723">
         <mark key="[" line="0" column="0" />
@@ -323,7 +320,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFkZHJlc3NVc2VFbnVtRmFjdG9yeSBhZGRyZXNzVXNlRW51bUZhY3RvcnkgPSBuZXcgQWRkcmVzc1VzZUVudW1GYWN0b3J5KCk7CiAgICBwcml2YXRlIHN0YXRpYyBBZGRyZXNzVHlwZUVudW1GYWN0b3J5IGFkZHJlc3NUeXBlRW51bUZhY3RvcnkgPSBuZXcgQWRkcmVzc1R5cGVFbnVtRmFjdG9yeSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWRkcmVzcyBjcmVhdGVBZGRyZXNzKEFkZHJlc3NVc2UgYWRkcmVzc1VzZSwgQWRkcmVzc1R5cGUgYWRkcmVzc1R5cGUsIFN0cmluZyB0ZXh0LCBTdHJpbmcgY2l0eSwK</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -338,40 +335,40 @@
         <text encoding="base64">XDxhZGRyZXNzVXNlRW51bUZhY3RvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocG9zdGFsQ29kZSAhPSBudWxsKSB7CiAgICAgICAgICAgIGFkZHJlc3Muc2V0UG9zdGFsQ29kZShwb3N0YWxDb2RlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWRkcmVzcyBjcmVhdGVBZGRyZXNzKEFkZHJlc3NVc2UgYWRkcmVzc1VzZSwgQWRkcmVzc1R5cGUgYWRkcmVzc1R5cGUsIFN0cmluZyB0ZXh0LCBTdHJpbmcgY2l0eSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFkZHJlc3NVc2VFbnVtRmFjdG9yeSBhZGRyZXNzVXNlRW51bUZhY3RvcnkgPSBuZXcgQWRkcmVzc1VzZUVudW1GYWN0b3J5KCk7CiAgICBwcml2YXRlIHN0YXRpYyBBZGRyZXNzVHlwZUVudW1GYWN0b3J5IGFkZHJlc3NUeXBlRW51bUZhY3RvcnkgPSBuZXcgQWRkcmVzc1R5cGVFbnVtRmFjdG9yeSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQWRkcmVzcyBjcmVhdGVBZGRyZXNzKEFkZHJlc3NVc2UgYWRkcmVzc1VzZSwgQWRkcmVzc1R5cGUgYWRkcmVzc1R5cGUsIFN0cmluZyB0ZXh0LCBTdHJpbmcgY2l0eSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRpZW50LnNldENvbnRhY3QoKQo=</text>
+        <text encoding="base64">ICAgIGprawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgRW51bWVyYXRpb248QWRkcmVzcy5BZGRyZXNzVXNlPiB1c2U7CiAgICAgICAgLy8gcHJvdGVjdGVkIEVudW1lcmF0aW9uPEFkZHJlc3MuQWRkcmVzc1R5cGU+IHR5cGU7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgdGV4dDsKICAgICAgICAvLyBwcm90ZWN0ZWQgTGlzdDxTdHJpbmdUeXBlPiBsaW5lOwogICAgICAgIC8vIHByb3RlY3RlZCBTdHJpbmdUeXBlIGNpdHk7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgZGlzdHJpY3Q7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgc3RhdGU7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgcG9zdGFsQ29kZTsKICAgICAgICAvLyBwcm90ZWN0ZWQgU3RyaW5nVHlwZSBjb3VudHJ5OwogICAgICAgIC8vIHByb3RlY3RlZCBQZXJpb2QgcGVyaW9kOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFkZHJlc3NVc2VFbnVtRmFjdG9yeSBhZGRyZXNzVXNlRW51bUZhY3RvcnkgPSBuZXcgQWRkcmVzc1VzZUVudW1GYWN0b3J5KCk7CiAgICBwcml2YXRlIHN0YXRpYyBBZGRyZXNzVHlwZUVudW1GYWN0b3J5IGFkZHJlc3NUeXBlRW51bUZhY3RvcnkgPSBuZXcgQWRkcmVzc1R5cGVFbnVtRmFjdG9yeSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRpZW50LnNldENvbnRhY3QoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm90ZWN0ZWQgRW51bWVyYXRpb248QWRkcmVzcy5BZGRyZXNzVXNlPiB1c2U7CiAgICAgICAgLy8gcHJvdGVjdGVkIEVudW1lcmF0aW9uPEFkZHJlc3MuQWRkcmVzc1R5cGU+IHR5cGU7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgdGV4dDsKICAgICAgICAvLyBwcm90ZWN0ZWQgTGlzdDxTdHJpbmdUeXBlPiBsaW5lOwogICAgICAgIC8vIHByb3RlY3RlZCBTdHJpbmdUeXBlIGNpdHk7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgZGlzdHJpY3Q7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgc3RhdGU7CiAgICAgICAgLy8gcHJvdGVjdGVkIFN0cmluZ1R5cGUgcG9zdGFsQ29kZTsKICAgICAgICAvLyBwcm90ZWN0ZWQgU3RyaW5nVHlwZSBjb3VudHJ5OwogICAgICAgIC8vIHByb3RlY3RlZCBQZXJpb2QgcGVyaW9kOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdHJpbmdUeXBlIHN0cmluZ1R5cGUgPSBuZXcgU3RyaW5nVHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
