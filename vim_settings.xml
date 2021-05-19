@@ -173,15 +173,15 @@
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/optimize/listeners/ScoreIterationListener.java" timestamp="1621287811148">
         <mark key="'" line="60" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621450516767">
+      <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621457182612">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621451869829">
-        <mark key="'" line="455" column="37" />
-        <mark key="[" line="152" column="44" />
-        <mark key="]" line="152" column="44" />
-        <mark key="." line="152" column="43" />
-        <mark key="^" line="152" column="44" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621457023798">
+        <mark key="'" line="160" column="36" />
+        <mark key="[" line="221" column="22" />
+        <mark key="]" line="221" column="23" />
+        <mark key="." line="221" column="22" />
+        <mark key="^" line="221" column="23" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/FhirQuery.java" timestamp="1621257127291">
         <mark key="[" line="23" column="17" />
@@ -207,7 +207,7 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1621453807290">
+      <file name="/fragment.java" timestamp="1621456598716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="266" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="264" column="25" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
       <jump line="304" column="41" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/resourceprovider/ZmPatientResourceProvider.java" />
@@ -327,6 +326,7 @@
       <jump line="251" column="27" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="240" column="48" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="238" column="12" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
+      <jump line="160" column="36" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,49 +335,49 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZ1BhcmFtLmlzQ29udGFpbnMoKSkgewogICAgICAgICAgICAgICAgY3JpdGVyaWEucmVnZXgoIi4qIiArIHN0cmluZ1BhcmFtLmdldFZhbHVlKCkgKyAiLioiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNyaXRlcmlhLmlzKHN0cmluZ1BhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.isaac.stock.representation.StockDataSetIterator.</text>
+        <text>DATA_BATCH_SIZE</text>
       </register>
       <register name="+" type="4">
         <text>Criteria</text>
       </register>
       <register name="-" type="4">
-        <text>com.isaac.stock.representation.StockDataSetIterator.</text>
+        <text>DATA_BATCH_SIZE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGFtcGxlU3RhcnRPZmZzZXRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApLmdldFNlYXJjaENyaXRlcmlhKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmF0Y2hDb3VudGVyID0gREFUQV9CQVRDSF9TSVpFOwoKICAgICAgICBJTkRBcnJheSB0cmFpbkRhdGFCYXRjaCA9IE5kNGouY3JlYXRlKERBVEFfQkFUQ0hfU0laRSwgMSwgMSk7CiAgICAgICAgSU5EQXJyYXkgdHJhaW5MYWJlbHNCYXRjaCA9IE5kNGouY3JlYXRlKERBVEFfQkFUQ0hfU0laRSwgMSwgMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQb2JpZXJhbXkgd3N6eXN0a2llIHJla29yZHkK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdCA9IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f&quot;lvi&quot;dVpwv</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJhc2VQYXJhbS5nZXRNaXNzaW5nKCkpIHsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ3JpdGVyaWEoIGV4cHJlc3Npb24pLmV4aXN0cyh0cnVlKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQ3JpdGVyaWEoIGV4cHJlc3Npb24pLmV4aXN0cyhmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHQgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdCA9IDA7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApOwo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">SU5EQXJyYXkgCklOREFycmF5IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHN1dC5idWlsZEZoaXJRdWVyeShwYXJhbWV0ZXJNYXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBiYXRjaENvdW50ZXIgPSBEQVRBX0JBVENIX1NJWkU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3JpdGVyaWE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
