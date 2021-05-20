@@ -128,12 +128,13 @@
       <file name="/Dummy.txt" timestamp="1621432484477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/multilayer/MultiLayerNetwork.java" timestamp="1621542573130" />
-      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/heartbeat/reports/Task.java" timestamp="1621542597986" />
       <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/math/BigDecimal.java" timestamp="1621420915011">
         <mark key="'" line="219" column="13" />
         <mark key="[" line="219" column="13" />
         <mark key="]" line="219" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/layers/BaseOutputLayer.java" timestamp="1621543271882">
+        <mark key="'" line="394" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1621421451963">
         <mark key="'" line="251" column="81" />
@@ -155,6 +156,9 @@
         <mark key="." line="126" column="98" />
         <mark key="^" line="126" column="99" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/memory/abstracts/DummyWorkspace.java" timestamp="1621542911410">
+        <mark key="'" line="84" column="36" />
+      </file>
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1621540492892">
         <mark key="'" line="179" column="12" />
         <mark key="[" line="252" column="115" />
@@ -175,7 +179,6 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/heartbeat/utils/TaskUtils.java" timestamp="1621542633637" />
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/binder/QueryParameterAndBinder.class" timestamp="1621430461148">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="17" column="72" />
@@ -183,22 +186,12 @@
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/predict/StockPricePrediction.java" timestamp="1621459601133">
         <mark key="'" line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621542153750">
-        <mark key="'" line="311" column="52" />
-        <mark key="[" line="227" column="21" />
-        <mark key="]" line="227" column="23" />
-        <mark key="^" line="227" column="23" />
-        <mark key="." line="227" column="22" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/CriteriaEngine.java" timestamp="1621417157714">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="56" />
-        <mark key="^" line="2" column="56" />
-        <mark key="." line="2" column="55" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/ProvenanceDataProviderServiceTest.java" timestamp="1621417019289">
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="48" />
+      <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" timestamp="1621543828780">
+        <mark key="'" line="202" column="19" />
+        <mark key="[" line="227" column="20" />
+        <mark key="]" line="227" column="22" />
+        <mark key="^" line="227" column="22" />
+        <mark key="." line="227" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1621541780805">
         <mark key="[" line="0" column="0" />
@@ -208,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="64" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" />
-      <jump line="37" column="38" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" />
-      <jump line="62" column="77" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="69" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="70" column="30" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="118" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -308,6 +298,9 @@
       <jump line="443" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="99" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
       <jump line="311" column="52" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="84" column="36" filename="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/memory/abstracts/DummyWorkspace.java" />
+      <jump line="394" column="32" filename="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/layers/BaseOutputLayer.java" />
+      <jump line="202" column="19" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,37 +327,37 @@
         <text encoding="base64">ICAgICAgICAgICAgaW50IHNlcmllcyA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZXBvY2ggPSAxMDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdHJhaW5EYXRhU2l6ZSA9IHRyYWluRGF0YS5zaXplKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdHJhaW5EYXRhU2l6ZSA9IHRyYWluRGF0YS5zaXplKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdGVzdERhdGFTaXplID0gdGVzdERhdGEuc2l6ZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgdGVzdERhdGFTaXplID0gdGVzdERhdGEuc2l6ZSgpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgZGVsdGEgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE1vZGVsUXVvdGUgbW9kZWxRdW90ZUxhYmVsID0gbW9kZWxRdW90ZXMuZ2V0KGkgLSBqICsgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgZGVsdGEgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gREFUQV9QUk9KRUNUSU9OX1NUQVJUX0FUOyBpIDwgREFUQV9FTkRfQVQ7IGkrKykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIE1vZGVsUXVvdGUgbW9kZWxRdW90ZUxhYmVsID0gbW9kZWxRdW90ZXMuZ2V0KGkgLSBqICsgMSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJTkRBcnJheSB0ZXN0RGF0YSA9IE5kNGouY3JlYXRlKERBVEFfU0VSSUVTX1NJWkUsIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gREFUQV9QUk9KRUNUSU9OX1NUQVJUX0FUOyBpIDwgREFUQV9FTkRfQVQ7IGkrKykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
