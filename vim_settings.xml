@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fetch</entry>
-        <entry encoding="base64">XDxwcm9jZXNzUGFyYW1XaXRoUHJlZml4XD4=</entry>
-        <entry encoding="base64">XDxFWFBFQ1RFRF8zXD4=</entry>
         <entry encoding="base64">XDxFWFBFQ1RFRF8yXD4=</entry>
         <entry encoding="base64">XDxFWFBFQ1RFRF8xXD4=</entry>
         <entry encoding="base64">XDxtb25nb0NvbnZlcnRlclw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxUb2tlblBhcmFtXD4=</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxpZGVudGlmaWVyXD4=</entry>
+        <entry>map(</entry>
+        <entry encoding="base64">XDx0ZXN0U2VhcmNoQnlDb2RlXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0U2VhcmNoQnlEYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
@@ -44,8 +44,8 @@
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL2VxL25lL2c=</entry>
         <entry>q</entry>
-        <entry>wa</entry>
         <entry>;w</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -130,14 +130,15 @@
         <mark key="[" line="219" column="13" />
         <mark key="]" line="219" column="22" />
       </file>
-      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1621513040501">
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" timestamp="1621515205842">
         <mark key="'" line="55" column="18" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621514586672">
-        <mark key="[" line="87" column="36" />
-        <mark key="]" line="88" column="12" />
-        <mark key="^" line="88" column="12" />
-        <mark key="." line="88" column="11" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621518318558">
+        <mark key="'" line="61" column="26" />
+        <mark key="[" line="258" column="50" />
+        <mark key="]" line="258" column="50" />
+        <mark key="." line="258" column="50" />
+        <mark key="^" line="258" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1621421451963">
         <mark key="'" line="251" column="81" />
@@ -146,13 +147,6 @@
         <mark key="'" line="1363" column="11" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java" timestamp="1621506164706" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621514290622">
-        <mark key="'" line="108" column="38" />
-        <mark key="[" line="114" column="12" />
-        <mark key="]" line="114" column="15" />
-        <mark key="." line="114" column="14" />
-        <mark key="^" line="114" column="15" />
-      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/CriteriaEngine.java" timestamp="1621417157714">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="56" />
@@ -168,7 +162,7 @@
         <mark key="]" line="17" column="72" />
       </file>
       <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_wyn_kon-1.0.0.ftl" timestamp="1621513018642" />
-      <file name="/Dummy.txt" timestamp="1621511838610">
+      <file name="/Dummy.txt" timestamp="1621519287828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -194,11 +188,7 @@
         <mark key="[" line="448" column="34" />
         <mark key="]" line="448" column="51" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoFhirQuery.java" timestamp="1621416720931">
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="59" column="29" />
-      </file>
-      <file name="/fragment.java" timestamp="1621511838618">
+      <file name="/fragment.java" timestamp="1621518543422">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
@@ -206,32 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="269" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="145" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
-      <jump line="274" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
-      <jump line="218" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
-      <jump line="196" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="257" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="116" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="178" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="270" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="175" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="339" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="99" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="117" column="32" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
-      <jump line="152" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="271" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="37" column="32" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
-      <jump line="166" column="4" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
-      <jump line="2515" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="2555" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="191" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="249" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="251" column="81" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="219" column="13" filename="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/math/BigDecimal.java" />
-      <jump line="27" column="39" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="119" column="82" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="124" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="131" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -263,7 +227,6 @@
       <jump line="443" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="455" column="31" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="31" column="9" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" />
-      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="61" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" />
       <jump line="480" column="7" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="488" column="42" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -289,7 +252,6 @@
       <jump line="87" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
       <jump line="88" column="45" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
       <jump line="192" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="32" column="52" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
       <jump line="277" column="21" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
       <jump line="59" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="469" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -305,16 +267,44 @@
       <jump line="487" column="25" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="118" column="38" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="1363" column="11" filename="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Patient.java" />
+      <jump line="32" column="55" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
       <jump line="55" column="18" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/main/resources/templates/ogl_o_zm_ogl_konc-1.0.0.ftl" />
+      <jump line="213" column="55" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
+      <jump line="61" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
+      <jump line="545" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="530" column="43" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="114" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="644" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="657" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="99" column="46" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="108" column="49" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="109" column="49" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="510" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="741" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="752" column="16" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="720" column="16" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="107" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="757" column="16" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="726" column="23" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="106" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="751" column="23" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="761" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="283" column="15" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="198" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="203" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="66" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="440" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="0" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
+      <jump line="823" column="16" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW5QYXJhbSB0b2tlblBhcmFtID0gKFRva2VuUGFyYW0pIGJhc2VQYXJhbTsKCiAgICAgICAgICAgIFRva2VuUGFyYW1Nb2RpZmllciBtb2RpZmllciA9IHRva2VuUGFyYW0uZ2V0TW9kaWZpZXIoKTsKCiAgICAgICAgICAgIGlmIChtb2RpZmllciA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBjcml0ZXJpYS5pcyh0b2tlblBhcmFtLmdldFZhbHVlKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgc3dpdGNoIChtb2RpZmllcikgewogICAgICAgICAgICAgICAgICAgIGNhc2UgVEVYVDoKICAgICAgICAgICAgICAgICAgICAgICAgY3JpdGVyaWEuaXModG9rZW5QYXJhbS5nZXRWYWx1ZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBOT1Q6CiAgICAgICAgICAgICAgICAgICAgICAgIGNyaXRlcmlhLm5lKHRva2VuUGFyYW0uZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgQUJPVkU6CiAgICAgICAgICAgICAgICAgICAgICAgIGNyaXRlcmlhLmd0KHRva2VuUGFyYW0uZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgQkVMT1c6CiAgICAgICAgICAgICAgICAgICAgICAgIGNyaXRlcmlhLmx0KHRva2VuUGFyYW0uZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgSU46CiAgICAgICAgICAgICAgICAgICAgICAgIGNyaXRlcmlhLmluKHRva2VuUGFyYW0uZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgTk9UX0lOOgogICAgICAgICAgICAgICAgICAgICAgICBjcml0ZXJpYS5uaW4odG9rZW5QYXJhbS5nZXRWYWx1ZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSBPRl9UWVBFOgogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJVbnN1cHBvcnRlZCB0eXBlIG9mIG1vZGlmaWVyIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wMS0wMSIpLAogICAgICAgICAgICBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTAyLTAxIiksCiAgICAgICAgICAgIGNyZWF0ZVBhdGllbnQobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjIwMDAtMDMtMDEiKSwKICAgICAgICAgICAgY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wNC0wMSIpLAogICAgICAgICAgICBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTA1LTAxIiksCiAgICAgICAgICAgIGNyZWF0ZVBhdGllbnQobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjIwMDAtMDYtMDEiKSwKICAgICAgICAgICAgY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wNy0wMSIpLAogICAgICAgICAgICBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTA4LTAxIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTAxLTAxIiksCiAgICAgICAgLy8gY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wMi0wMSIpLAogICAgICAgIC8vIGNyZWF0ZVBhdGllbnQobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjIwMDAtMDMtMDEiKSwKICAgICAgICAvLyBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTA0LTAxIiksCiAgICAgICAgLy8gY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wNS0wMSIpLAogICAgICAgIC8vIGNyZWF0ZVBhdGllbnQobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjIwMDAtMDYtMDEiKSwKICAgICAgICAvLyBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTA3LTAxIiksCiAgICAgICAgLy8gY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wOC0wMSIpCg==</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -323,46 +313,46 @@
         <text>BigDecimal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZGVudGlmaWVyXD4=</text>
+        <text encoding="base64">XDx0ZXN0U2VhcmNoQnlEYXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge1Jlc3RTZWFyY2hQYXJhbWV0ZXJUeXBlRW51bS5TVFJJTkcsIG1hcCgidGVsZWNvbTpjb250YWlucyIsIGxpc3QoIm1haWwucGwsMzQ1IikpLCA0fSwKCiAgICAgICAgICAgIHtSZXN0U2VhcmNoUGFyYW1ldGVyVHlwZUVudW0uVE9LRU4sIG1hcCgidGVsZWNvbSIsIGxpc3QoImVtYWlsIiwgImphbi1ob21lQG1haWwucGwiKSksIDF9LAogICAgICAgICAgICB7UmVzdFNlYXJjaFBhcmFtZXRlclR5cGVFbnVtLlRPS0VOLCBtYXAoInRlbGVjb20iLCBsaXN0KCJzbXMiLCAiMzQ1LTQzMy00NTQiKSksIDF9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc1BhcmFtV2l0aFByZWZpeChjcml0ZXJpYSwgKChOdW1iZXJQYXJhbSkgYmFzZVBhcmFtKS5nZXRQcmVmaXgoKSwKICAgICAgICAgICAgICAgICgoTnVtYmVyUGFyYW0pIGJhc2VQYXJhbSkuZ2V0VmFsdWUoKS5pbnRWYWx1ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB7UmVzdFNlYXJjaFBhcmFtZXRlclR5cGVFbnVtLlNUUklORywgbWFwKCJ0ZWxlY29tOmNvbnRhaW5zIiwgbGlzdCgibWFpbC5wbCwzNDUiKSksIDR9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTAxLTAxIiksCiAgICAgICAgLy8gY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wMi0wMSIpLAogICAgICAgIC8vIGNyZWF0ZVBhdGllbnQobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjIwMDAtMDMtMDEiKSwKICAgICAgICAvLyBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTA0LTAxIiksCiAgICAgICAgLy8gY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wNS0wMSIpLAogICAgICAgIC8vIGNyZWF0ZVBhdGllbnQobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCwgIjIwMDAtMDYtMDEiKSwKICAgICAgICAvLyBjcmVhdGVQYXRpZW50KG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICIyMDAwLTA3LTAxIiksCiAgICAgICAgLy8gY3JlYXRlUGF0aWVudChudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCBudWxsLCAiMjAwMC0wOC0wMSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YXRlUGFyYW0gJiYgY29udGVudFR5cGUuZXF1YWxzKFNlYXJjaENvbnRlbnRFbnVtLkRBVEUpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjcml0ZXJpYTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JpdGVyaWEub3JPcGVyYXRvcihvcik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3JpdGVyaWFbXSBvciA9IG5ldyBDcml0ZXJpYVszXTsKCiAgICAgICAgICAgIG9yWzBdID0gcHJvY2Vzc1N0cmluZ1BhcmFtKHN0cmluZ1BhcmFtLCBTZWFyY2hDb250ZW50RW51bS5TVFJJTkcsIG5ldyBDcml0ZXJpYShleHByZXNpb24gKyAiLnN5c3RlbSIpLCB0cnVlKTsKICAgICAgICAgICAgb3JbMV0gPSBwcm9jZXNzU3RyaW5nUGFyYW0oc3RyaW5nUGFyYW0sIFNlYXJjaENvbnRlbnRFbnVtLlNUUklORywgbmV3IENyaXRlcmlhKGV4cHJlc2lvbiArICIudmFsdWUiKSwgZmFsc2UpOwogICAgICAgICAgICBvclsyXSA9IHByb2Nlc3NTdHJpbmdQYXJhbShzdHJpbmdQYXJhbSwgU2VhcmNoQ29udGVudEVudW0uU1RSSU5HLCBuZXcgQ3JpdGVyaWEoZXhwcmVzaW9uICsgIi51c2UiKSwgdHJ1ZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nUGFyYW0gc3RyaW5nUGFyYW0gPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChiYXNlUGFyYW0gaW5zdGFuY2VvZiBUb2tlblBhcmFtKSB7CiAgICAgICAgICAgICAgICBwcm9jZXNzVG9rZW5QYXJhbShjcml0ZXJpYSwgKFRva2VuUGFyYW0pIGJhc2VQYXJhbSwgZXhwcmVzaW9uLCAidmFsdWUiKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJVbnN1cHBvcnRlZCB0eXBlIHBhcmFtIGZvciBjb250YWN0IHBvaW50LiIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -371,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZGVudGlmaWVyXD4=</last-search>
+      <last-search encoding="base64">XDx0ZXN0U2VhcmNoQnlEYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZGVudGlmaWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0U2VhcmNoQnlEYXRlXD4=</last-pattern>
       <last-replace>ne</last-replace>
       <last-substitute>eq</last-substitute>
       <last-dir>1</last-dir>
