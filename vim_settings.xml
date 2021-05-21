@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz5zL2VxL25lL2c=</entry>
         <entry>q</entry>
         <entry>;w</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,6 +125,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/util/CriteriaEngineTestUtil.java" timestamp="1621593563472">
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="25" />
+      </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/EncounterMongo.java" timestamp="1621578165986">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="14" />
@@ -135,9 +140,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="22" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/utils/CriteriaEngineUtil.java" timestamp="1621592492537">
-        <mark key="'" line="187" column="19" />
-        <mark key="[" line="187" column="4" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/utils/CriteriaEngineUtil.java" timestamp="1621593484196">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="21" column="27" />
         <mark key="]" line="187" column="10" />
         <mark key="." line="187" column="9" />
         <mark key="^" line="187" column="10" />
@@ -155,20 +160,16 @@
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/Patient.java" timestamp="1621579070036">
         <mark key="'" line="1716" column="33" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621592377635">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621593730146">
         <mark key="a" line="239" column="13" />
         <mark key="'" line="636" column="33" />
         <mark key="[" line="63" column="13" />
-        <mark key="]" line="63" column="13" />
-        <mark key="." line="63" column="13" />
-        <mark key="^" line="481" column="16" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="17" />
+        <mark key="^" line="63" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/org.hl7.fhir.r4/5.1.0/org.hl7.fhir.r4-5.1.0-sources.jar!/org/hl7/fhir/r4/model/DateTimeType.java" timestamp="1621577467044" />
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/binder/QueryParameterAndBinder.class" timestamp="1621430461148">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="72" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1621592539852">
+      <file name="/Dummy.txt" timestamp="1621594100269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -179,12 +180,16 @@
         <mark key="]" line="121" column="43" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-model/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/model/type/ReferenceMongo.java" timestamp="1621579466642" />
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/CriteriaEngineWithMongoTest.java" timestamp="1621592380102">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/CriteriaEngineWithMongoTest.java" timestamp="1621593726265">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="63" column="13" />
         <mark key="]" line="63" column="13" />
         <mark key="^" line="63" column="13" />
         <mark key="." line="63" column="12" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/CriteriaEngineTest.java" timestamp="1621592389887">
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/CriteriaEngineTest.java" timestamp="1621593739938">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="34" column="13" />
         <mark key="]" line="34" column="13" />
         <mark key="^" line="34" column="13" />
         <mark key="." line="34" column="12" />
@@ -198,12 +203,12 @@
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="46" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" timestamp="1621592387905">
-        <mark key="'" line="76" column="22" />
+      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" timestamp="1621593974247">
+        <mark key="'" line="77" column="22" />
         <mark key="[" line="34" column="13" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="38" column="1134" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/main/java/pl/gov/csioz/p1/sgz/zm/components/TranslateRawParameters.java" timestamp="1621492968359">
         <mark key="'" line="61" column="27" />
@@ -222,10 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="644" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="657" column="29" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="99" column="46" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="108" column="49" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="109" column="49" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="510" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="741" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -322,6 +323,10 @@
       <jump line="636" column="33" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="76" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
       <jump line="187" column="19" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/utils/CriteriaEngineUtil.java" />
+      <jump line="40" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/utils/CriteriaEngineUtil.java" />
+      <jump line="164" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/CriteriaEngineWithMongoTest.java" />
+      <jump line="58" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/CriteriaEngineTest.java" />
+      <jump line="77" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -381,7 +386,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
