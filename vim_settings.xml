@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtaW5pQmF0Y2hTaXplXD4=</entry>
-        <entry encoding="base64">XDxtYXhcPg==</entry>
-        <entry encoding="base64">XDxwcmVQcm9jZXNzb3JcPg==</entry>
         <entry encoding="base64">XDxsYWJlbHNcPg==</entry>
         <entry>fit</entry>
         <entry encoding="base64">XDxpdGVyQ291bnRcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxtaW5BcnJheVw+</entry>
         <entry encoding="base64">XDxyZWFsVmFsdWVcPg==</entry>
         <entry>epoch</entry>
+        <entry encoding="base64">XDxhbmFseXplUG9pbnRlclw+</entry>
+        <entry encoding="base64">XDxhbmFseXplUG9pbnRlckJlZ2luXD4=</entry>
+        <entry encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -128,10 +128,10 @@
       <file name="/Dummy.txt" timestamp="1621699943360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/math/BigDecimal.java" timestamp="1621420915011">
-        <mark key="'" line="219" column="13" />
-        <mark key="[" line="219" column="13" />
-        <mark key="]" line="219" column="22" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1621703231484">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1621700994060">
         <mark key="[" line="108" column="0" />
@@ -142,18 +142,11 @@
       <file name="$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.9.1/deeplearning4j-nn-0.9.1-sources.jar!/org/deeplearning4j/nn/layers/BaseOutputLayer.java" timestamp="1621543271882">
         <mark key="'" line="394" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" timestamp="1621421451963">
-        <mark key="'" line="251" column="81" />
-      </file>
       <file name="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/ModelQuotes.java" timestamp="1621546237242">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="38" />
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="38" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ca/uhn/hapi/fhir/hapi-fhir-base/5.1.0.0/hapi-fhir-base-5.1.0.0.jar!/ca/uhn/fhir/rest/param/ParamPrefixEnum.class" timestamp="1621422724546">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="20" column="23" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621431556658">
         <mark key="'" line="92" column="41" />
@@ -170,12 +163,24 @@
       <file name="$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.9.1/nd4j-api-0.9.1-sources.jar!/org/nd4j/linalg/memory/abstracts/DummyWorkspace.java" timestamp="1621542911410">
         <mark key="'" line="84" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/util/DatePeriodUtil.java" timestamp="1621703122536">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" timestamp="1621546346386">
         <mark key="'" line="276" column="114" />
         <mark key="[" line="252" column="115" />
         <mark key="]" line="253" column="31" />
         <mark key="." line="253" column="30" />
         <mark key="^" line="253" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1621704709798">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="300" column="11" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621432358393">
         <mark key="'" line="443" column="0" />
@@ -204,7 +209,13 @@
         <mark key="^" line="316" column="49" />
         <mark key="." line="316" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1621699983777">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1621702078012">
+        <mark key="'" line="77" column="8" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1621702899229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
@@ -212,34 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="145" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
-      <jump line="274" column="22" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
-      <jump line="218" column="26" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/DepersonalizationSearchParamServiceTest.java" />
-      <jump line="196" column="18" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="257" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="116" column="20" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="178" column="27" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="270" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="175" column="14" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="339" column="0" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="99" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="117" column="32" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
-      <jump line="152" column="12" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="271" column="28" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" />
-      <jump line="37" column="32" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
-      <jump line="166" column="4" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineTest.java" />
-      <jump line="2515" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="2555" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="191" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="249" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="251" column="81" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.2.11.RELEASE/spring-data-mongodb-2.2.11.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java" />
-      <jump line="219" column="13" filename="C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/math/BigDecimal.java" />
-      <jump line="27" column="39" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="119" column="82" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="124" column="8" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
-      <jump line="131" column="44" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="137" column="51" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="138" column="16" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="165" column="24" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
@@ -312,6 +295,34 @@
       <jump line="101" column="18" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="248" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
       <jump line="302" column="0" filename="$USER_HOME$/projects/202008 - LVL/lvl/src/main/java/com/lvl/ai/Model.java" />
+      <jump line="104" column="32" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="107" column="33" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="125" column="34" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="126" column="26" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="129" column="29" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="134" column="26" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="138" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="155" column="49" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="159" column="49" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="284" column="50" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="42" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="38" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="69" column="23" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="56" column="40" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="53" column="67" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="77" column="8" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="86" column="35" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="87" column="30" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="271" column="26" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="38" column="22" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="77" column="38" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="67" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="88" column="13" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="267" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="194" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
+      <jump line="103" column="52" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +331,7 @@
         <text encoding="base64">UmVzb3VyY2VUeXBlLlBhdGllbnQsIA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0IGFuYWx5emUgcG9pbnRlciB0byBnaXZlbiB2YWx1ZSBhbmQgcmVzb2x2ZSBhbmFseXplIHF1b3RlIGFuZCBhbmFseXplIGRhdGUgdG8gdmFsdWUuCiAgICAgKgogICAgICogQHRocm93cyBqYXZhLmxhbmcuSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGFuYWx5emUgcG9pbnRlciBpcyBvdXQgb2YgcmFuZ2UgYXZhaWxhYmxlIHF1b3RhdGlvbnMuCiAgICAgKi8K</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -329,46 +340,46 @@
         <text>BigDecimal</text>
       </register>
       <register name="-" type="4">
-        <text>DATA_END_AT</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>epoch</text>
+        <text encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIGNsb3NlID0gbW9kZWxRdW90ZXMuY2FsY1JlYWxWYWx1ZShwcmVkaWN0aW9uLmdldERvdWJsZShEQVRBX1NFUklFU19TSVpFIC0gMSksIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2V0IGFuYWx5emUgcG9pbnRlciB0byBnaXZlbiB2YWx1ZSBhbmQgcmVzb2x2ZSBhbmFseXplIHF1b3RlIGFuZCBhbmFseXplIGRhdGUgdG8gdmFsdWUuCiAgICAgKgogICAgICogQHRocm93cyBqYXZhLmxhbmcuSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGFuYWx5emUgcG9pbnRlciBpcyBvdXQgb2YgcmFuZ2UgYXZhaWxhYmxlIHF1b3RhdGlvbnMuCiAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN1cGVydmlzb3I+IHN1cGVydmlzb3JMaXN0ID0gbmV3IFZlY3Rvcjw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PD4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl6ZVF1b3RlID09IG51bGwpIHsKICAgICAgICAgICAgYW5hbHl6ZVRpbWUgPSBudWxsOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHNlcmllcyA9IDA7CiAgICAgICAgICAgIGZvciAoaW50IGogPSBpIC0gREFUQV9TRVJJRVNfU0laRSArIDE7IGogPD0gaTsgaisrKSB7CgoKICAgICAgICAgICAgICAgIHNlcmllcysrOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl6ZVBvaW50ZXIgPiBxdW90YXRpb25zLmdldExhc3RQb2ludGVyKCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiQW5hbHl6ZSBwb2ludGVyIGlzIG91dCBvZiByYW5nZSBvZiBxdW90YXRpb25zLiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vZGVsUXVvdGUgcXVvdGUgPSBtb2RlbFF1b3Rlcy5nZXQoaik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3REYXRhQmF0Y2gucHV0U2NhbGFyKHNlcmllcywgMCwgcXVvdGUuZ2V0Qm9keSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl6ZVBvc2l0aW9uID09IERhdGVQZXJpb2RVdGlsLklOKSB7CiAgICAgICAgICAgIGFuYWx5emVQb2ludGVyKys7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBpbnQgcG9zaXRpb24gPSByZXNvbHZlQW5hbHl6ZVBvaW50ZXJQb3NpdGlvbihhbmFseXplUG9pbnRlck5leHQpOwoKICAgICAgICBpZiAocG9zaXRpb24gPT0gLTEpIHsKICAgICAgICAgICAgc2V0QW5hbHl6ZVBvaW50ZXIoYW5hbHl6ZVBvaW50ZXJOZXh0KTsKCiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIGlmIChwb3NpdGlvbiA9PSAxKSB7CiAgICAgICAgICAgIGFuYWx5emVFbmRlZCA9IHRydWU7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Ly8gCiAgIAovLyAKLy8gCiAgIAovLyAKLy8gCi8vIAogICAKLy8gCiAgIAovLyAKLy8gCiAgIAovLyAKLy8g</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5hbHl6ZVBvaW50ZXIrKzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -377,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>epoch</last-search>
+      <last-search encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>epoch</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</last-pattern>
       <last-replace>ne</last-replace>
       <last-substitute>eq</last-substitute>
       <last-dir>1</last-dir>
