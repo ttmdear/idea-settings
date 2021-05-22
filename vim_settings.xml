@@ -45,8 +45,8 @@
         <entry>62</entry>
         <entry>71</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,12 +141,12 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1621712156357">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1621713009509">
         <mark key="'" line="91" column="19" />
-        <mark key="[" line="84" column="104" />
-        <mark key="]" line="84" column="114" />
-        <mark key="." line="84" column="113" />
-        <mark key="^" line="84" column="114" />
+        <mark key="[" line="97" column="15" />
+        <mark key="]" line="97" column="19" />
+        <mark key="." line="97" column="15" />
+        <mark key="^" line="97" column="19" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/indicators/Indicator.java" timestamp="1621706154886">
         <mark key="[" line="9" column="4" />
@@ -169,23 +169,23 @@
         <mark key="^" line="107" column="8" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1621709413521">
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="15" />
-        <mark key="^" line="46" column="15" />
-        <mark key="." line="46" column="14" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1621713307399">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="48" column="53" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="48" column="52" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1621701062999">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1621710350829">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1621713077594">
         <mark key="'" line="138" column="15" />
         <mark key="[" line="226" column="67" />
-        <mark key="]" line="226" column="68" />
-        <mark key="^" line="226" column="68" />
-        <mark key="." line="226" column="67" />
+        <mark key="]" line="226" column="67" />
+        <mark key="^" line="226" column="67" />
+        <mark key="." line="226" column="66" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/util/DatePeriodUtil.java" timestamp="1621703122536">
         <mark key="[" line="9" column="32" />
@@ -193,11 +193,11 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1621709405542">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="40" />
-        <mark key="^" line="10" column="41" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1621713188928">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" timestamp="1621705741433">
         <mark key="[" line="104" column="38" />
@@ -216,7 +216,7 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1621711532982">
+      <file name="/fragment.java" timestamp="1621713018066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="19" />
@@ -337,8 +337,8 @@
       <register name="a" type="4">
         <text encoding="base64">UmVzb3VyY2VUeXBlLlBhdGllbnQsIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DECREASING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGFuYWx5emVNYVNpZ25hbEJyYWtlTWluV2F2ZUxlbmd0aDsKCiAgICBwcml2YXRlIGRvdWJsZSBhbmFseXplTWFTaWduYWxCcmFrZU1pbldhdmVIZWlnaHQ7Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -347,37 +347,39 @@
         <text>BigDecimal</text>
       </register>
       <register name="-" type="4">
-        <text>DECREASING</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3YXZlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGFuYWx5emVNYVNpZ25hbEJyYWtlTWluV2F2ZUxlbmd0aDsKCiAgICBwcml2YXRlIGRvdWJsZSBhbmFseXplTWFTaWduYWxCcmFrZU1pbldhdmVIZWlnaHQ7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="8">
+        <text>wavePrev
+wavePrev</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl6ZUNhbmRsZS5nZXRCb2R5Qm90dG9tVmFsdWUoKSA8IGxldmVsTWFyZ2luVmFsdWUpCg==</text>
+      <register name="2" type="8">
+        <text>wavePrev
+wavePrev</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYW5hbHl6ZUNhbmRsZS5nZXRCb2R5Qm90dG9tVmFsdWUoKSA8IGxldmVsTWFyZ2luVmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFNpZ25hbHMoKS5hZGQobmV3IFNpZ25hbChTaWduYWxUeXBlLkJVWSwgYW5hbHl6ZVF1b3RlLCBTaWduYWxUcmlnZ2VyLk1BVCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -386,10 +388,10 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFNpZ25hbHMoKS5hZGQobmV3IFNpZ25hbChTaWduYWxUeXBlLlNFTEwsIGFuYWx5emVRdW90ZSwgU2lnbmFsVHJpZ2dlci5NQVQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFNpZ25hbHMoKS5hZGQobmV3IFNpZ25hbChTaWduYWxUeXBlLkJVWSwgYW5hbHl6ZVF1b3RlLCBTaWduYWxUcmlnZ2VyLk1BVCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
