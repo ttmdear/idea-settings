@@ -45,8 +45,8 @@
         <entry>62</entry>
         <entry>71</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,23 +125,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/signals/SignalTrigger.java" timestamp="1621709627326">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="7" />
-      </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1621711164484">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1621720641399">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" timestamp="1621720685993">
         <mark key="'" line="71" column="81" />
-        <mark key="[" line="92" column="23" />
-        <mark key="]" line="93" column="37" />
-        <mark key="." line="93" column="36" />
-        <mark key="^" line="93" column="37" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="12" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1621713349305">
         <mark key="'" line="91" column="19" />
@@ -163,11 +157,11 @@
         <mark key="^" line="70" column="26" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class" timestamp="1621717641936" />
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1621715605159">
-        <mark key="[" line="80" column="75" />
-        <mark key="]" line="80" column="75" />
-        <mark key="^" line="83" column="96" />
-        <mark key="." line="80" column="75" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/environments/impl/MT4Environment.java" timestamp="1621721285973">
+        <mark key="[" line="157" column="42" />
+        <mark key="]" line="157" column="51" />
+        <mark key="." line="157" column="50" />
+        <mark key="^" line="157" column="51" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1621713915248">
         <mark key="'" line="47" column="19" />
@@ -188,11 +182,11 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1621718673912">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" timestamp="1621721084244">
+        <mark key="'" line="100" column="15" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/chart/JFChart.java" timestamp="1621713077594">
         <mark key="'" line="138" column="15" />
@@ -214,12 +208,19 @@
         <mark key="." line="58" column="61" />
         <mark key="^" line="58" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" timestamp="1621720483840">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1621721303744">
+        <mark key="'" line="96" column="7" />
+        <mark key="[" line="89" column="65" />
+        <mark key="]" line="90" column="8" />
+        <mark key="." line="90" column="7" />
+        <mark key="^" line="90" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" timestamp="1621721482426">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="114" column="41" />
-        <mark key="]" line="114" column="42" />
-        <mark key="^" line="114" column="42" />
-        <mark key="." line="114" column="41" />
+        <mark key="[" line="118" column="16" />
+        <mark key="]" line="118" column="19" />
+        <mark key="^" line="118" column="19" />
+        <mark key="." line="118" column="18" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/optimization/Optimizer.java" timestamp="1621714133416">
         <mark key="[" line="54" column="92" />
@@ -241,10 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="21" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="106" column="72" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="109" column="73" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
-      <jump line="112" column="71" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="115" column="72" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="118" column="74" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
       <jump line="161" column="29" filename="$USER_HOME$/projects/202008 - LVL/StockPrediction/src/main/java/com/isaac/stock/representation/StockDataSetIterator.java" />
@@ -341,6 +338,10 @@
       <jump line="15" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
       <jump line="41" column="28" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
       <jump line="60" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
+      <jump line="145" column="27" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
+      <jump line="100" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
+      <jump line="89" column="7" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,8 +349,8 @@
       <register name="a" type="4">
         <text encoding="base64">UmVzb3VyY2VUeXBlLlBhdGllbnQsIA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3UXVvdGUubm90aQo=</text>
+      <register name="&quot;" type="4">
+        <text>lastPointer</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -358,49 +359,49 @@
         <text>ExecutorService</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXVvdGF0aW9ucyA9IA==</text>
+        <text>lastPointer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbmFseXplTWFTaWduYWxUZXN0TWluV2F2ZUhlaWdodFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIFRocmVhZFV0aWwuc2xlZXBXaXRoVHJ5KDUwMCk7CgogICAgICAgIC8vICAgICAgICAgZW52aXJvbm1lbnQucmVsb2FkUXVvdGF0aW9ucygpOwogICAgICAgIC8vICAgICAgICAgZW52aXJvbm1lbnQucmVsb2FkU3VwZXJ2aXNvcnMoKTsKICAgICAgICAvLyAgICAgICAgIGVudmlyb25tZW50LnN5bmMoKTsKCiAgICAgICAgLy8gICAgICAgICBoZWFsdGhDaGVjay51cGRhdGUoZW52aXJvbm1lbnQuZ2V0U3VwZXJ2aXNvcnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUmVsb2FkIHN1cGVydmlzb3IgW3t9XS4iLCBxdW90YXRpb25zLmdldFRpdGxlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3UXVvdGUubm90aQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmFseXNpc1Njb3Blcy5mb3JFYWNoKGFuYWx5c2lzU2NvcGUgLT4gYW5hbHlzaXNTY29wZS5nZXRTdXBlcnZpc29yKCkuKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NrTmV3UXVvdGUuCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU3RhcnQgbG9hZGluZyBxdW90YXRpb25zIFt7fV0uIiwgZGlyZWN0b3J5LmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">Ly8gICAgICAgICAKICAgICAgICAgICAKLy8gICAgICAgICAKLy8gICAgICAgICAKLy8gICAgICAgICAKICAgICAgICAgICAKLy8gICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sbGVycy5mb3JFYWNoKENvbnRyb2xsZXI6OnJlbG9hZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgZXhlY3V0b3JTZXJ2aWNlID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZWxvYWRDb250cm9sbGVyTGlzdCgpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVHJlZU1hcDw+KCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpbml0ZWQgPSBmYWxzZTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
