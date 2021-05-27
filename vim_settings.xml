@@ -187,11 +187,11 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="97" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/LevelsAnalyzer.java" timestamp="1622117239960">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="8" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/LevelsAnalyzer.java" timestamp="1622120260161">
+        <mark key="[" line="35" column="9" />
+        <mark key="]" line="34" column="91" />
+        <mark key="^" line="34" column="91" />
+        <mark key="." line="34" column="90" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1622116109675">
         <mark key="'" line="6" column="31" />
@@ -205,12 +205,12 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/Level.java" timestamp="1622116572705">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/Level.java" timestamp="1622120110547">
         <mark key="'" line="7" column="12" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="17" column="11" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="25" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621854261435">
         <mark key="'" line="611" column="86" />
@@ -252,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="40" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="53" column="67" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="77" column="8" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="86" column="35" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
@@ -352,6 +351,7 @@
       <jump line="608" column="86" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="610" column="86" filename="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" />
       <jump line="3" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/Level.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/LevelsAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -359,8 +359,8 @@
       <register name="a" type="4">
         <text encoding="base64">UmVzb3VyY2VUeXBlLlBhdGllbnQsIA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGFzdEhlaWcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Quote analyzeQuote;</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -369,46 +369,46 @@
         <text encoding="base64">ICAgICAgICBzdXQuYnVpbGRGaGlyUXVlcnkoUmVzb3VyY2VUeXBlLlBhdGllbnQsIHNlYXJjaFBhcmFtZXRlck1hcCkuZ2V0U2VhcmNoQ3JpdGVyaWEoKS5nZXRDcml0ZXJpYU9iamVjdCgpLnRvSnNvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getHight</text>
+        <text>Quote analyzeQuote;</text>
       </register>
       <register name="/" type="4">
         <text>Gender</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdExvdyA9IGFuYWx5emVRdW90ZS5nZXRMb3coKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUXVvdGUgYW5hbHl6ZVF1b3RlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGFzdEhlaWcpCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGJvb2xlYW4gaXNSZWFkeSgpIHsKICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIHByb2Nlc3MoKSB7CiAgICAgICAgYW5hbHl6ZVF1b3RlID0gZ2V0QW5hbHl6ZVF1b3RlKCk7CiAgICAgICAgCiAgICAgICAgaWYgKHN1cHBvcnQgPT0gbnVsbCkgewogICAgICAgICAgICBzdXBwb3J0ID0gbmV3IExldmVsKCkKICAgICAgICB9CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCByZXNldCgpIHsKICAgICAgICBzdXBlci5yZXNldCgpOwoKICAgICAgICBsZXZlbExpc3QuY2xlYXIoKTsKICAgIH0KfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdEhlaWdodCA9IGFuYWx5emVRdW90ZS5nZXRIaWdodCgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMZXZlbHNBbmFseXplcihRdW90YXRpb25zIHF1b3RhdGlvbnMsIFBhcmFtZXRlcnMgcGFyYW1ldGVycywgQ2hhcnQgY2hhcnQpIHsKICAgICAgICBzdXBlcihxdW90YXRpb25zLCBwYXJhbWV0ZXJzLCBjaGFydCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpbml0ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGV2ZWwgc3VwcG9ydCA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3VwcG9ydCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3VwcG9ydCA9PSBudWxsKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
