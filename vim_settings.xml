@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmFseXplUG9pbnRlckJlZ2luXD4=</entry>
-        <entry encoding="base64">XDxjaGFydFF1b3RlTGFzdFBvaW50ZXJcPg==</entry>
-        <entry encoding="base64">XDxxdW90ZXNcPg==</entry>
-        <entry encoding="base64">XDxnZXRBbmFseXplUG9pbnRlclw+</entry>
         <entry encoding="base64">XDxpbml0TWFcPg==</entry>
         <entry encoding="base64">XDxzaWduYWxUeXBlXD4=</entry>
         <entry>Font</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxwcm9jZXNzUmV2aWV3XD4=</entry>
         <entry>SearchBy</entry>
         <entry>Gender</entry>
+        <entry>ogl_o_zam</entry>
+        <entry>;</entry>
+        <entry>ull</entry>
+        <entry encoding="base64">XDxpc1ByZXNlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -125,38 +125,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1621726154731">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="8" />
-        <mark key="^" line="54" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1622116123101">
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/resources/input_ogl_o_zam.json" timestamp="1622188442660">
+        <mark key="'" line="11" column="23" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/MomentumAnalyzer.java" timestamp="1622122302980">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/User.java" timestamp="1622146243861">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/ReviewMode.java" timestamp="1621726090992">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="35" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/cglib/pom.xml" timestamp="1622146078017">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="26" />
-        <mark key="^" line="30" column="26" />
-        <mark key="." line="30" column="25" />
+        <mark key="]" line="0" column="8200" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/CandlesUtil.java" timestamp="1622122645308">
         <mark key="[" line="13" column="18" />
@@ -170,48 +143,12 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="31" column="57" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621854151619">
-        <mark key="'" line="218" column="11" />
-        <mark key="[" line="247" column="63" />
-        <mark key="]" line="247" column="77" />
-        <mark key="." line="247" column="76" />
-        <mark key="^" line="247" column="77" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/MomentumAnalyzer.java" timestamp="1622124105318">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/LevelsAnalyzer.java" timestamp="1622152011359">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/InsideAnalyzer.java" timestamp="1622122110401">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="13" />
-      </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1622116109675">
         <mark key="'" line="6" column="31" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
+        <mark key="^" line="15" column="18" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/UserService.java" timestamp="1622146291203">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/Level.java" timestamp="1622151656060">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="17" />
       </file>
       <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621854261435">
         <mark key="'" line="611" column="86" />
@@ -220,32 +157,78 @@
         <mark key="." line="121" column="80" />
         <mark key="^" line="121" column="81" />
       </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/noticegen-web/src/test/groovy/com/pentacomp/ezamowienia/mo/noticegen/parser/NoticeDataParserTest.groovy" timestamp="1622188377243">
+        <mark key="'" line="153" column="55" />
+      </file>
+      <file name="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/definitions/noticegen.yaml" timestamp="1622190559417">
+        <mark key="'" line="71" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" timestamp="1622151412882">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1622116123101">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/MomentumAnalyzer.java" timestamp="1622124105318">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/Momentum.java" timestamp="1622123097651">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="24" />
         <mark key="." line="21" column="23" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cglib/cglib/3.2.4/cglib-3.2.4.jar!/net/sf/cglib/proxy/FixedValue.class" timestamp="1622146405856" />
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" timestamp="1621726109226">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="136" column="49" />
+      <file name="$USER_HOME$/repository/java/cglib/pom.xml" timestamp="1622146078017">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/AnalyzerTemplate.java" timestamp="1622151412882">
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/InsideAnalyzer.java" timestamp="1622122110401">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/Level.java" timestamp="1622151656060">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="31" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="17" />
+      </file>
+      <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/User.java" timestamp="1622146243861">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" timestamp="1622190853132">
+        <mark key="'" line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/MomentumAnalyzer.java" timestamp="1622122302980">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/LevelsAnalyzer.java" timestamp="1622152011359">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/UserService.java" timestamp="1622146291203">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="22" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="77" column="38" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="67" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="88" column="13" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="267" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="194" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="103" column="52" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/indicators/SMA.java" />
       <jump line="32" column="41" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/indicators/SMA.java" />
       <jump line="96" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
@@ -339,6 +322,13 @@
       <jump line="75" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/MomentumAnalyzer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/MomentumAnalyzer.java" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/Level.java" />
+      <jump line="71" column="17" filename="C:/Projekty/workspace/epzp.repos/modul_ogloszen_generacja_wizualizacji_ogloszen/definitions/noticegen.yaml" />
+      <jump line="43" column="20" filename="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" />
+      <jump line="53" column="66" filename="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" />
+      <jump line="14" column="20" filename="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" />
+      <jump line="16" column="42" filename="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" />
+      <jump line="18" column="25" filename="$MAVEN_REPOSITORY$/org/openapitools/jackson-databind-nullable/0.2.1/jackson-databind-nullable-0.2.1.jar!/org/openapitools/jackson/nullable/JsonNullable.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -359,7 +349,7 @@
         <text>support.getValue()</text>
       </register>
       <register name="/" type="4">
-        <text>Gender</text>
+        <text encoding="base64">XDxpc1ByZXNlbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluY3JlYXNlSW1wb3J0YW5jZUJ5KGludCBuKSB7CiAgICAgICAgaW1wb3J0YW5jZSArPSBuOwogICAgfQo=</text>
@@ -404,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Gender</last-search>
+      <last-search encoding="base64">XDxpc1ByZXNlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>Gender</last-pattern>
+      <last-pattern encoding="base64">XDxpc1ByZXNlbnRcPg==</last-pattern>
       <last-replace>ne</last-replace>
       <last-substitute>eq</last-substitute>
       <last-dir>1</last-dir>
