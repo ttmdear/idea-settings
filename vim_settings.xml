@@ -45,8 +45,8 @@
         <entry>71</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,12 +141,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1622236563074">
-        <mark key="'" line="215" column="37" />
-        <mark key="[" line="79" column="49" />
-        <mark key="]" line="76" column="8" />
-        <mark key="." line="76" column="7" />
-        <mark key="^" line="76" column="8" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1622237501819">
+        <mark key="'" line="80" column="24" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
+        <mark key="^" line="181" column="39" />
       </file>
       <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/User.java" timestamp="1622146243861">
         <mark key="[" line="4" column="19" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" />
       <jump line="33" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
       <jump line="43" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
@@ -345,6 +344,7 @@
       <jump line="159" column="21" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="42" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="197" column="37" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="80" column="24" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +353,7 @@
         <text encoding="base64">UmVzb3VyY2VUeXBlLlBhdGllbnQsIA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -362,49 +362,49 @@
         <text encoding="base64">ICAgICAgICBzdXQuYnVpbGRGaGlyUXVlcnkoUmVzb3VyY2VUeXBlLlBhdGllbnQsIHNlYXJjaFBhcmFtZXRlck1hcCkuZ2V0U2VhcmNoQ3JpdGVyaWEoKS5nZXRDcml0ZXJpYU9iamVjdCgpLnRvSnNvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>analyzeCandle.()</text>
+        <text>isMinLength</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3YXZlUHJldlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod2F2ZS5nZXREaXJlY3Rpb24oKS5pc0luY3JlYXNpbmcoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgaXNNaW5MZW5ndGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHdhdmUuZ2V0RGlyZWN0aW9uKCkuaXNEZWNyZWFzaW5nKCkpIHsKCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc0NvcnJlY3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEaXJlY3Rpb24gZ2V0RGlyZWN0aW9uKCkgewogICAgICAgIHJldHVybiAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHZhbHVlID0gYW5hbHl6ZUNhbmRsZS5nZXRMb3coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXplUXVvdGUgPSBnZXRBbmFseXplUXVvdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2FuZGxlIGFuYWx5emVDYW5kbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpbiA9IGFuYWx5emVRdW90ZS5nZXRMb3coKSA8PSBsZXZlbFRvOwogICAgICAgICAgICBib29sZWFuIGluID0gYW5hbHl6ZVF1b3RlLmdldExvdygpIDw9IGxldmVsVG87Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
