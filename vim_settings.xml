@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0TWFcPg==</entry>
-        <entry encoding="base64">XDxzaWduYWxUeXBlXD4=</entry>
         <entry>Font</entry>
         <entry encoding="base64">XDxhbmFseXplTWFXYXZlTWluTGVuZ3RoVG9TaWduYWxcPg==</entry>
         <entry encoding="base64">XDxhbmFseXplTWFUZXN0aW5nTWluR2FwVG9TaWduYWxcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx3YXZlXD4=</entry>
         <entry>new Wave</entry>
         <entry encoding="base64">XDx3YXZlUHJldlw+</entry>
+        <entry encoding="base64">XDxtYUxldmVsTWFyZ2luSW5kaWNhdG9yXD4=</entry>
+        <entry encoding="base64">XDxtYVZhbHVlQmVnaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -45,8 +45,8 @@
         <entry>71</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,15 +125,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1622233875287">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="82" column="24" />
-        <mark key="]" line="82" column="45" />
-        <mark key="." line="82" column="44" />
-        <mark key="^" line="82" column="45" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1622324855889">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="82" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1622116123101">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/test/resources/parameters.properties" timestamp="1622324538712">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsAnalyzer/MomentumAnalyzer.java" timestamp="1622122302980">
         <mark key="[" line="12" column="0" />
@@ -141,18 +147,23 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1622237501819">
-        <mark key="'" line="80" column="24" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-        <mark key="^" line="181" column="39" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1622323859117">
+        <mark key="'" line="223" column="8" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/User.java" timestamp="1622146243861">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" timestamp="1622324582575">
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="32" />
       </file>
       <file name="$USER_HOME$/repository/java/cglib/pom.xml" timestamp="1622146078017">
         <mark key="[" line="30" column="26" />
@@ -172,18 +183,11 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="31" column="57" />
       </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/persistence-service/src/main/java/pl/gov/csioz/p1/sgz/zm/persistence/service/engine/MongoCriteriaEngine.java" timestamp="1621854151619">
-        <mark key="'" line="218" column="11" />
-        <mark key="[" line="247" column="63" />
-        <mark key="]" line="247" column="77" />
-        <mark key="." line="247" column="76" />
-        <mark key="^" line="247" column="77" />
-      </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveMetrics.java" timestamp="1622233863736">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveMetrics.java" timestamp="1622324195725">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="20" column="43" />
+        <mark key="^" line="28" column="38" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/MomentumAnalyzer.java" timestamp="1622124105318">
         <mark key="'" line="0" column="0" />
@@ -202,11 +206,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1622116109675">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" timestamp="1622324564857">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/UserService.java" timestamp="1622146291203">
         <mark key="[" line="11" column="33" />
@@ -220,13 +225,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="17" />
-      </file>
-      <file name="C:/Projekty/workspace/p1.repos/p1-sgz-zm-source/zm/webservice/src/test/java/pl/gov/csioz/p1/sgz/zm/services/MongoCriteriaEngineWithMongoTest.java" timestamp="1621854261435">
-        <mark key="'" line="611" column="86" />
-        <mark key="[" line="121" column="80" />
-        <mark key="]" line="121" column="81" />
-        <mark key="." line="121" column="80" />
-        <mark key="^" line="121" column="81" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/Momentum.java" timestamp="1622123097651">
         <mark key="[" line="21" column="18" />
@@ -245,20 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="43" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" />
-      <jump line="18" column="63" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="17" column="56" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="28" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="8" column="31" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" />
-      <jump line="19" column="63" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="44" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Parameters.java" />
-      <jump line="96" column="38" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
       <jump line="159" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" />
       <jump line="71" column="81" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/Quotations.java" />
@@ -345,6 +329,20 @@
       <jump line="42" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="197" column="37" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="80" column="24" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="215" column="71" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="30" column="26" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="221" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="224" column="8" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="108" column="27" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="55" column="57" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="60" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="61" column="51" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="72" column="28" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="153" column="54" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="159" column="28" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="3" column="11" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/resources/parameters.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -362,13 +360,13 @@
         <text encoding="base64">ICAgICAgICBzdXQuYnVpbGRGaGlyUXVlcnkoUmVzb3VyY2VUeXBlLlBhdGllbnQsIHNlYXJjaFBhcmFtZXRlck1hcCkuZ2V0U2VhcmNoQ3JpdGVyaWEoKS5nZXRDcml0ZXJpYU9iamVjdCgpLnRvSnNvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>isMinLength</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXZlUHJldlw+</text>
+        <text encoding="base64">XDxtYVZhbHVlQmVnaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgaXNNaW5MZW5ndGgK</text>
+        <text encoding="base64">YW5hbHl6ZU1hQVNpemU9MC4wMDEyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,42 +375,42 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
+        <text encoding="base64">ICAgICAgICBsZW5ndGgrKzsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc0NvcnJlY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxjdWxhdGVWYWx1ZXMoKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzCg==</text>
+        <text encoding="base64">YW5hbHl6ZU1hWm9uZUluU2l6ZT0wLjAwMTIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHZhbHVlID0gYW5hbHl6ZUNhbmRsZS5nZXRMb3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWxBID0gbWFWYWx1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV2ZWxCID0gbWFWYWx1ZSArIHBhcmFtZXRlcnMuZ2V0QW5hbHl6ZU1hWm9uZUluU2l6ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgZG91YmxlIGxldmVsTTsKCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpbiA9IGFuYWx5emVRdW90ZS5nZXRMb3coKSA8PSBsZXZlbFRvOwogICAgICAgICAgICBib29sZWFuIGluID0gYW5hbHl6ZVF1b3RlLmdldExvdygpIDw9IGxldmVsVG87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx3YXZlUHJldlw+</last-search>
+      <last-search encoding="base64">XDxtYVZhbHVlQmVnaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXZlUHJldlw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYVZhbHVlQmVnaW5cPg==</last-pattern>
       <last-replace>ne</last-replace>
       <last-substitute>eq</last-substitute>
       <last-dir>1</last-dir>
