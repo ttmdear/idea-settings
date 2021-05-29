@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbmFseXplTWFNaW5XYXZlTW9tZW50dW1cPg==</entry>
-        <entry encoding="base64">XDxhbmFseXplTWFTbWFQZXJpb2RcPg==</entry>
-        <entry encoding="base64">XDxhbmFseXplTWFTaWduYWxUZXN0TWluV2F2ZUhlaWdodFw+</entry>
         <entry encoding="base64">XDxsb2dTdGFydExvYWRpbmdRdW90ZXNQcmludGVkXD4=</entry>
         <entry>curr</entry>
         <entry encoding="base64">XDxsb2dPbWl0U3luY1ByaW50ZWRcPg==</entry>
@@ -17,14 +14,17 @@
         <entry>SearchBy</entry>
         <entry>Gender</entry>
         <entry encoding="base64">XDxab25lXD4=</entry>
-        <entry encoding="base64">XDx3YXZlXD4=</entry>
-        <entry>new Wave</entry>
         <entry encoding="base64">XDx3YXZlUHJldlw+</entry>
         <entry encoding="base64">XDxtYUxldmVsTWFyZ2luSW5kaWNhdG9yXD4=</entry>
         <entry encoding="base64">XDxtYVZhbHVlQmVnaW5cPg==</entry>
         <entry encoding="base64">XDxtYVZhbHVlXD4=</entry>
         <entry encoding="base64">XDxsZXZlbEFcPg==</entry>
         <entry encoding="base64">XDxsZXZlbE1BXD4=</entry>
+        <entry encoding="base64">XDxxdW90ZXNcPg==</entry>
+        <entry encoding="base64">XDx3YXZlXD4=</entry>
+        <entry>new wave</entry>
+        <entry>new Wave</entry>
+        <entry>new Wa</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -45,8 +45,8 @@
         <entry>71</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,10 +125,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1622325184222">
-        <mark key="'" line="29" column="19" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="30" column="4" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" timestamp="1622327184902">
+        <mark key="'" line="32" column="24" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="118" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="4" />
       </file>
@@ -144,11 +144,12 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1622323859117">
-        <mark key="'" line="223" column="8" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" timestamp="1622327352758">
+        <mark key="'" line="167" column="15" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="154" column="59" />
       </file>
       <file name="$USER_HOME$/repository/java/cglib/src/main/java/repo/cglib/User.java" timestamp="1622146243861">
         <mark key="[" line="4" column="19" />
@@ -180,11 +181,8 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="31" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveMetrics.java" timestamp="1622326603722">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveMetrics.java" timestamp="1622326966727">
+        <mark key="'" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/levelsMomentum/MomentumAnalyzer.java" timestamp="1622124105318">
         <mark key="'" line="0" column="0" />
@@ -243,21 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
-      <jump line="30" column="26" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
-      <jump line="41" column="28" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/modes/TradingMode.java" />
-      <jump line="145" column="27" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
-      <jump line="100" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/Application.java" />
-      <jump line="89" column="7" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
-      <jump line="37" column="20" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="86" column="13" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/quotations/MT4QuotesProvider.java" />
-      <jump line="73" column="24" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/Controller.java" />
       <jump line="72" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="73" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
       <jump line="76" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/core/Supervisor.java" />
@@ -308,7 +291,6 @@
       <jump line="127" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveMetrics.java" />
       <jump line="25" column="17" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="88" column="11" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
-      <jump line="135" column="23" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="87" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="133" column="17" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="38" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
@@ -316,7 +298,6 @@
       <jump line="134" column="88" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="132" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
-      <jump line="153" column="8" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="26" column="17" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="96" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
       <jump line="129" column="8" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
@@ -343,6 +324,23 @@
       <jump line="23" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="29" column="19" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
       <jump line="141" column="18" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/WaveMetrics.java" />
+      <jump line="31" column="10" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="32" column="24" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/Wave.java" />
+      <jump line="152" column="23" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="151" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="150" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="149" column="12" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="142" column="52" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="139" column="23" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="137" column="16" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="135" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="93" column="8" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="156" column="45" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
+      <jump line="167" column="15" filename="$USER_HOME$/projects/2008 - LVL/lvl/src/main/java/com/lvl/analysis/movingAverageAnalyzer/MovingAverageAnalyzer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +349,7 @@
         <text encoding="base64">UmVzb3VyY2VUeXBlLlBhdGllbnQsIA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhdmUgPSBuZXcgV2F2ZShhbmFseXplUXVvdGUsIERpcmVjdGlvbi5JTkNSRUFTSU5HLCBtYVZhbHVlLCBnZXRRdW90YXRpb25zKCksIHBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="j" type="4">
         <text>kuu</text>
@@ -360,57 +358,57 @@
         <text encoding="base64">ICAgICAgICBzdXQuYnVpbGRGaGlyUXVlcnkoUmVzb3VyY2VUeXBlLlBhdGllbnQsIHNlYXJjaFBhcmFtZXRlck1hcCkuZ2V0U2VhcmNoQ3JpdGVyaWEoKS5nZXRDcml0ZXJpYU9iamVjdCgpLnRvSnNvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgKHZhbHVlIDw9IHdhdmUuZ2V0TGV2ZWxNKCkpIHs=</text>
+        <text>DECREASING</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZXZlbE1BXD4=</text>
+        <text>new Wa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBab25lVHlwZS5COwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluaXRXYXZlKGFuYWx5emVRdW90ZSwgRGlyZWN0aW9uLkRFQ1JFQVNJTkcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhdmUgPSBuZXcgV2F2ZShhbmFseXplUXVvdGUsIERpcmVjdGlvbi5JTkNSRUFTSU5HLCBtYVZhbHVlLCBnZXRRdW90YXRpb25zKCksIHBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhdmUgPSBuZXcgV2F2ZShhbmFseXplUXVvdGUsIERpcmVjdGlvbi5ERUNSRUFTSU5HLCBtYVZhbHVlLCBnZXRRdW90YXRpb25zKCksIHBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F2ZSA9IG5ldyBXYXZlKGFuYWx5emVRdW90ZSwgZGlyZWN0aW9uLCBtYVZhbHVlLCBnZXRRdW90YXRpb25zKCksIHBhcmFtZXRlcnMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0V2F2ZSgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3RzLnJlcQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoem9uZUNoZWNrID09IG51bGwpIHsKICAgICAgICAgICAgCiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCIiKQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsZXZlbE1BXD4=</last-search>
+      <last-search>new Wa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZXZlbE1BXD4=</last-pattern>
+      <last-pattern>new Wa</last-pattern>
       <last-replace>ne</last-replace>
       <last-substitute>eq</last-substitute>
       <last-dir>1</last-dir>
